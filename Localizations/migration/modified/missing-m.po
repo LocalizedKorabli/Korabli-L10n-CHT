@@ -1,0 +1,1826 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_AMELIA_WATSON"
+msgstr " "
+
+msgid "IDS_AOGAS_RESET_PENALTY"
+msgid_plural "IDS_AOGAS_RESET_PENALTY"
+msgstr[0] "自您上次登入遊戲已超過 %(hours)s 小時。現在您可再次獲得全額銀幣與經驗。"
+
+msgid "IDS_ARC_EVENT_POINTS_COST"
+msgid_plural "IDS_ARC_EVENT_POINTS_COST"
+msgstr[0] "需要 %(points)s 點"
+
+msgid "IDS_ARC_EVENT_POINTS_LEFT"
+msgid_plural "IDS_ARC_EVENT_POINTS_LEFT"
+msgstr[0] "剩餘 %(points)s 點"
+
+msgid "IDS_AZUR_CHESHIRE"
+msgstr " "
+
+msgid "IDS_AZUR_COLORADO"
+msgstr " "
+
+msgid "IDS_AZUR_PRINZ_HEINRICH"
+msgstr " "
+
+msgid "IDS_BATTLEPASS_CREDITS_EXCHANGE_SALE"
+msgid_plural "IDS_BATTLEPASS_CREDITS_EXCHANGE_SALE"
+msgstr[0] "結束於：%(_days)s 天"
+
+msgid "IDS_BATTLES_TO_NEXT_STEP"
+msgid_plural "IDS_BATTLES_TO_NEXT_STEP"
+msgstr[0] "剩餘 %(battles)s 場戰鬥"
+
+msgid "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
+msgid_plural "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
+msgstr[0] "傷害的戰艦"
+
+msgid "IDS_BATTLE_STATS_COUNT_ENEMY_FIND"
+msgid_plural "IDS_BATTLE_STATS_COUNT_ENEMY_FIND"
+msgstr[0] "發現的敵人"
+
+msgid "IDS_BATTLE_STATS_COUNT_HELP_KILL"
+msgid_plural "IDS_BATTLE_STATS_COUNT_HELP_KILL"
+msgstr[0] "在您的協助下擊毀"
+
+msgid "IDS_BATTLE_STATS_COUNT_HL_OUTOFACTION"
+msgid_plural "IDS_BATTLE_STATS_COUNT_HL_OUTOFACTION"
+msgstr[0] "重傷的配件"
+
+msgid "IDS_BATTLE_STATS_COUNT_KILLED_SHIPS"
+msgid_plural "IDS_BATTLE_STATS_COUNT_KILLED_SHIPS"
+msgstr[0] "擊毀的戰艦"
+
+msgid "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
+msgid_plural "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
+msgstr[0] "擊落的飛機"
+
+msgid "IDS_COMPENSATION_DAYS"
+msgid_plural "IDS_COMPENSATION_DAYS"
+msgstr[0] "%(days)s 天"
+
+msgid "IDS_CP_REWARD_FOR_HOLDING"
+msgid_plural "IDS_CP_REWARD_FOR_HOLDING"
+msgstr[0] "+ %s 每 %s %s"
+
+msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
+msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
+msgstr[0] "+%(_amount)s 個技能點數</body>"
+
+msgid "IDS_CREW_SKILL_MEASURE_BOMBER"
+msgid_plural "IDS_CREW_SKILL_MEASURE_BOMBER"
+msgstr[0] " 轟炸機"
+
+msgid "IDS_CREW_SKILL_MEASURE_CHARGE"
+msgid_plural "IDS_CREW_SKILL_MEASURE_CHARGE"
+msgstr[0] " 額外裝載"
+
+msgid "IDS_CREW_SKILL_MEASURE_FIGHTER"
+msgid_plural "IDS_CREW_SKILL_MEASURE_FIGHTER"
+msgstr[0] " 對艦攻擊機"
+
+msgid "IDS_CREW_SKILL_MEASURE_SMOKE_CHARGE"
+msgid_plural "IDS_CREW_SKILL_MEASURE_SMOKE_CHARGE"
+msgstr[0] " 發煙劑"
+
+msgid "IDS_CREW_SKILL_MEASURE_TORPEDO_BOMBER"
+msgid_plural "IDS_CREW_SKILL_MEASURE_TORPEDO_BOMBER"
+msgstr[0] " 魚雷轟炸機"
+
+msgid "IDS_CREW_SKILL_POINTS"
+msgid_plural "IDS_CREW_SKILL_POINTS"
+msgstr[0] "%(count)d 個技能點數"
+
+msgid "IDS_DAVE_MUSTAINE"
+msgstr " "
+
+msgid "IDS_DESCRIPTION_DAMAGE_SHIPS"
+msgid_plural "IDS_DESCRIPTION_DAMAGE_SHIPS"
+msgstr[0] "給敵方艦艇的任何種類傷害"
+
+msgid "IDS_GAULU"
+msgstr " "
+
+msgid "IDS_HANS"
+msgstr " "
+
+msgid "IDS_HOSHINOVA_MOONA"
+msgstr " "
+
+msgid "IDS_HP_SECOND"
+msgid_plural "IDS_HP_SECOND"
+msgstr[0] " 每秒血量"
+
+msgid "IDS_MICHAL_MILOWICZ"
+msgstr " "
+
+msgid "IDS_MURAT_SEREZLI"
+msgstr " "
+
+msgid "IDS_NATU"
+msgstr " "
+
+msgid "IDS_OPENED_LOOTBOXES"
+msgid_plural "IDS_OPENED_LOOTBOXES"
+msgstr[0] "已開啟 %(count)d 個貨櫃"
+
+msgid "IDS_OWNED_LOOTBOXES"
+msgid_plural "IDS_OWNED_LOOTBOXES"
+msgstr[0] "您擁有 %(lootboxesCount)d 個貨櫃"
+
+msgid "IDS_PAES405_MEGADETH_MARBLEHEAD"
+msgstr " "
+
+msgid "IDS_PASC505"
+msgstr " "
+
+msgid "IDS_PASC505_FULL"
+msgstr " "
+
+msgid "IDS_PASC505_NUMBER"
+msgstr " "
+
+msgid "IDS_PBES409_NEPTUNE_AZUR"
+msgstr " "
+
+msgid "IDS_PBES438_CHESHIRE_AZUR"
+msgstr " "
+
+msgid "IDS_PBSC558"
+msgstr " "
+
+msgid "IDS_PBSC558_FULL"
+msgstr " "
+
+msgid "IDS_PBSC558_NUMBER"
+msgstr " "
+
+msgid "IDS_PCEC129_HOLOLIVE_CAMO"
+msgstr " "
+
+msgid "IDS_PCEE515_HOLOLIVE_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE611_BLUTO_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE612_POPEYE_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE619_COFFEE_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE624_ASUS_ROG_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE634_MEGADETH_FLAG"
+msgstr " "
+
+msgid "IDS_PCQT003_1"
+msgid_plural "IDS_PCQT003_1"
+msgstr[0] "用艦艇魚雷擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT007_1"
+msgid_plural "IDS_PCQT007_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT011_1"
+msgid_plural "IDS_PCQT011_1"
+msgstr[0] "使敵方艦艇起火 %(count)s 次。"
+
+msgid "IDS_PCQT012_1"
+msgid_plural "IDS_PCQT012_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個配件。"
+
+msgid "IDS_PCQT014_1"
+msgid_plural "IDS_PCQT014_1"
+msgstr[0] "擊毀 %(count)s 艘艦艇。"
+
+msgid "IDS_PCQT016_1"
+msgid_plural "IDS_PCQT016_1"
+msgstr[0] "使敵方艦艇進水 %(count)s 次。"
+
+msgid "IDS_PCQT033_1"
+msgid_plural "IDS_PCQT033_1"
+msgstr[0] "用副炮擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT035_1"
+msgid_plural "IDS_PCQT035_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT037_1"
+msgid_plural "IDS_PCQT037_1"
+msgstr[0] "用主炮或副炮擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT039_1"
+msgid_plural "IDS_PCQT039_1"
+msgstr[0] "癱瘓 %(count)s 座敵方艦艇所安裝的主炮組。"
+
+msgid "IDS_PCQT045_1"
+msgid_plural "IDS_PCQT045_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT048_1"
+msgid_plural "IDS_PCQT048_1"
+msgstr[0] "擊毀 %(count)s 艘敵方驅逐艦。"
+
+msgid "IDS_PCQT049_1"
+msgid_plural "IDS_PCQT049_1"
+msgstr[0] "擊毀 %(count)s 艘敵方巡洋艦。"
+
+msgid "IDS_PCQT050_1"
+msgid_plural "IDS_PCQT050_1"
+msgstr[0] "擊毀 %(count)s 艘敵方主力艦。"
+
+msgid "IDS_PCQT051_1"
+msgid_plural "IDS_PCQT051_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT053_1"
+msgid_plural "IDS_PCQT053_1"
+msgstr[0] "用任何武器擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT062_1"
+msgid_plural "IDS_PCQT062_1"
+msgstr[0] "擊毀 %(count)s 艘 V 階或以上艦艇。"
+
+msgid "IDS_PCQT064_1"
+msgid_plural "IDS_PCQT064_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT065_1"
+msgid_plural "IDS_PCQT065_1"
+msgstr[0] "用火箭、航空炸彈或航空魚雷擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT066_1"
+msgid_plural "IDS_PCQT066_1"
+msgstr[0] "獲得 %(count)s 個個人英勇成就。"
+
+msgid "IDS_PCQT067_1"
+msgid_plural "IDS_PCQT067_1"
+msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶。"
+
+msgid "IDS_PCQT068_1"
+msgid_plural "IDS_PCQT068_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT075_1"
+msgid_plural "IDS_PCQT075_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT076_1"
+msgid_plural "IDS_PCQT076_1"
+msgstr[0] "用主炮或副炮擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT078_1"
+msgid_plural "IDS_PCQT078_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT079_1"
+msgid_plural "IDS_PCQT079_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個配件。"
+
+msgid "IDS_PCQT081_1"
+msgid_plural "IDS_PCQT081_1"
+msgstr[0] "用主炮或副炮擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT084_1"
+msgid_plural "IDS_PCQT084_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT086_1"
+msgid_plural "IDS_PCQT086_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT093_1"
+msgid_plural "IDS_PCQT093_1"
+msgstr[0] "使敵方主力艦進水 %(count)s 次。"
+
+msgid "IDS_PCQT094_1"
+msgid_plural "IDS_PCQT094_1"
+msgstr[0] "用主炮或副炮擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT095_1"
+msgid_plural "IDS_PCQT095_1"
+msgstr[0] "癱瘓敵方驅逐艦或巡洋艦上的 %(count)s 個配件。"
+
+msgid "IDS_PCQT096_1"
+msgid_plural "IDS_PCQT096_1"
+msgstr[0] "使敵方主力艦或航空母艦起火 %(count)s 次。"
+
+msgid "IDS_PCQT097_1"
+msgid_plural "IDS_PCQT097_1"
+msgstr[0] "擊中敵方巡洋艦或主力艦的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT101_1"
+msgid_plural "IDS_PCQT101_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT105_1"
+msgid_plural "IDS_PCQT105_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇並存活下來。"
+
+msgid "IDS_PCQT106_1"
+msgid_plural "IDS_PCQT106_1"
+msgstr[0] "擊毀敵方艦艇上的 %(count)s 個配件。"
+
+msgid "IDS_PCQT112_1"
+msgid_plural "IDS_PCQT112_1"
+msgstr[0] "用主炮或副炮擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT113_1"
+msgid_plural "IDS_PCQT113_1"
+msgstr[0] "使敵方艦艇起火 %(count)s 次。"
+
+msgid "IDS_PCQT114_1"
+msgid_plural "IDS_PCQT114_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 座防空炮組。"
+
+msgid "IDS_PCQT115_1"
+msgid_plural "IDS_PCQT115_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT122_1"
+msgid_plural "IDS_PCQT122_1"
+msgstr[0] "獲得 %(count)s 個「戰略貢獻」或「戰術貢獻」勛帶。"
+
+msgid "IDS_PCQT123_1"
+msgid_plural "IDS_PCQT123_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT124_1"
+msgid_plural "IDS_PCQT124_1"
+msgstr[0] "贏得 %(count)s 場戰鬥並且獲得己隊前 3 名的經驗。"
+
+msgid "IDS_PCQT126_1"
+msgid_plural "IDS_PCQT126_1"
+msgstr[0] "擊毀 %(count)s 艘敵方主力艦。"
+
+msgid "IDS_PCQT127_1"
+msgid_plural "IDS_PCQT127_1"
+msgstr[0] "用任何武器擊中巡洋艦 %(count)s 次。"
+
+msgid "IDS_PCQT128_1"
+msgid_plural "IDS_PCQT128_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT129_1"
+msgid_plural "IDS_PCQT129_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT130_1"
+msgid_plural "IDS_PCQT130_1"
+msgstr[0] "用艦艇魚雷或航空魚雷擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT132_1"
+msgid_plural "IDS_PCQT132_1"
+msgstr[0] "用火箭、航空炸彈或航空魚雷擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT136_1"
+msgid_plural "IDS_PCQT136_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT137_1"
+msgid_plural "IDS_PCQT137_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT138_1"
+msgid_plural "IDS_PCQT138_1"
+msgstr[0] "用任何武器擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT139_1"
+msgid_plural "IDS_PCQT139_1"
+msgstr[0] "獲得 %(count)s 個英勇成就。"
+
+msgid "IDS_PCQT140_1"
+msgid_plural "IDS_PCQT140_1"
+msgstr[0] "獲得 %(count)s 個「戰略貢獻」勛帶。"
+
+msgid "IDS_PCQT141_1"
+msgid_plural "IDS_PCQT141_1"
+msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶。"
+
+msgid "IDS_PCQT142_1"
+msgid_plural "IDS_PCQT142_1"
+msgstr[0] "使敵方艦艇起火 %(count)s 次。"
+
+msgid "IDS_PCQT143_1"
+msgid_plural "IDS_PCQT143_1"
+msgstr[0] "使敵方艦艇進水 %(count)s 次。"
+
+msgid "IDS_PCQT144_1"
+msgid_plural "IDS_PCQT144_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個配件。"
+
+msgid "IDS_PCQT145_1"
+msgid_plural "IDS_PCQT145_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT146_1"
+msgid_plural "IDS_PCQT146_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
+msgid_plural "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
+msgstr[0] "對日本艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT152_CAMPAIGNSB_MISSION01_TASK02_1"
+msgid_plural "IDS_PCQT152_CAMPAIGNSB_MISSION01_TASK02_1"
+msgstr[0] "以主炮組砲彈擊中敵艦 %(count)s 次。"
+
+msgid "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgid_plural "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgstr[0] "癱瘓 %(count)s 座敵方艦艇所安裝的主炮組。"
+
+msgid "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1"
+msgid_plural "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1"
+msgstr[0] "獲得 %(count)s 個「勇者無懼」成就。"
+
+msgid "IDS_PCQT156_CAMPAIGNSB_MISSION01_TASK06_1"
+msgid_plural "IDS_PCQT156_CAMPAIGNSB_MISSION01_TASK06_1"
+msgstr[0] "贏得 %(count)s 場戰鬥並且獲得己隊前 7 名的經驗。"
+
+msgid "IDS_PCQT157_CAMPAIGNSB_MISSION01_TASK07_1"
+msgid_plural "IDS_PCQT157_CAMPAIGNSB_MISSION01_TASK07_1"
+msgstr[0] "擊毀 %(count)s 艘主力艦。"
+
+msgid "IDS_PCQT158_CAMPAIGNSB_MISSION01_TASK08_KEY_1"
+msgid_plural "IDS_PCQT158_CAMPAIGNSB_MISSION01_TASK08_KEY_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
+msgid_plural "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
+msgstr[0] "對美國艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
+msgid_plural "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
+msgstr[0] "獲得 %(count)s 個「戰略貢獻」勛帶。"
+
+msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個「副炮組」配件。"
+
+msgid "IDS_PCQT164_CAMPAIGNSB_MISSION02_TASK04_1"
+msgid_plural "IDS_PCQT164_CAMPAIGNSB_MISSION02_TASK04_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1"
+msgid_plural "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1"
+msgstr[0] "贏得 %(count)s 場戰鬥並且獲得己隊前 3 名的經驗。"
+
+msgid "IDS_PCQT167_CAMPAIGNSB_MISSION02_TASK07_1"
+msgid_plural "IDS_PCQT167_CAMPAIGNSB_MISSION02_TASK07_1"
+msgstr[0] "擊毀 %(count)s 艘驅逐艦。"
+
+msgid "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
+msgid_plural "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
+msgstr[0] "獲得 %(count)s 指揮官經驗。"
+
+msgid "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
+msgid_plural "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
+msgstr[0] "對蘇聯艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
+msgid_plural "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
+msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶。"
+
+msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個「引擎」配件。"
+
+msgid "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
+msgid_plural "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
+msgid_plural "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
+msgstr[0] "贏得 %(count)s 場戰鬥並且獲得己隊第一名的經驗。"
+
+msgid "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1"
+msgid_plural "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1"
+msgstr[0] "擊毀 %(count)s 艘巡洋艦。"
+
+msgid "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
+msgid_plural "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
+msgstr[0] "獲得 %(count)s 自由經驗。"
+
+msgid "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
+msgid_plural "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
+msgstr[0] "對德國艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1"
+msgid_plural "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1"
+msgstr[0] "擊落 %(count)s 架飛機。"
+
+msgid "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgid_plural "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個「操舵裝置」配件。"
+
+msgid "IDS_PCQT184_CAMPAIGNSB_MISSION04_TASK04_1"
+msgid_plural "IDS_PCQT184_CAMPAIGNSB_MISSION04_TASK04_1"
+msgstr[0] "成為第一個偵察到 %(count)s 艘敵方艦艇的人。"
+
+msgid "IDS_PCQT185_CAMPAIGNSB_MISSION04_TASK05_1"
+msgid_plural "IDS_PCQT185_CAMPAIGNSB_MISSION04_TASK05_1"
+msgstr[0] "獲得 %(count)s 個「烈焰證明」成就。"
+
+msgid "IDS_PCQT186_CAMPAIGNSB_MISSION04_TASK06_1"
+msgid_plural "IDS_PCQT186_CAMPAIGNSB_MISSION04_TASK06_1"
+msgstr[0] "贏得 %(count)s 場戰鬥並存活下來且獲得己隊第一名的經驗。"
+
+msgid "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
+msgid_plural "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
+msgid_plural "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
+msgstr[0] "獲得 %(count)s 經驗。"
+
+msgid "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
+msgid_plural "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
+msgstr[0] "對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
+msgid_plural "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
+msgstr[0] "獲得 %(count)s 經驗。"
+
+msgid "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgid_plural "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgstr[0] "癱瘓敵方艦艇上的配件 %(count)s 個。"
+
+msgid "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
+msgid_plural "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1"
+msgid_plural "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1"
+msgstr[0] "擊毀 %(count)s 艘敵方艦艇。"
+
+msgid "IDS_PCQT371_1"
+msgid_plural "IDS_PCQT371_1"
+msgstr[0] "獲得 %(count)s 次己隊第一名的經驗。"
+
+msgid "IDS_PCQT372_1"
+msgid_plural "IDS_PCQT372_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害並存活下來。"
+
+msgid "IDS_PCQT373_1"
+msgid_plural "IDS_PCQT373_1"
+msgstr[0] "擊毀 %(count)s 艘敵方驅逐艦並存活下來。"
+
+msgid "IDS_PCQT374_1"
+msgid_plural "IDS_PCQT374_1"
+msgstr[0] "癱瘓敵方艦艇上的 %(count)s 個配件。"
+
+msgid "IDS_PCQT375_1"
+msgid_plural "IDS_PCQT375_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT379_1"
+msgid_plural "IDS_PCQT379_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT381_1"
+msgid_plural "IDS_PCQT381_1"
+msgstr[0] "獲得 %(count)s 次己隊第一名的經驗。"
+
+msgid "IDS_PCQT382_1"
+msgid_plural "IDS_PCQT382_1"
+msgstr[0] "於您的偵察下協助己隊造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT383_1"
+msgid_plural "IDS_PCQT383_1"
+msgstr[0] "用航空魚雷擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT384_1"
+msgid_plural "IDS_PCQT384_1"
+msgstr[0] "獲得 %(count)s 個「優質作戰」或是「最佳助攻」成就。"
+
+msgid "IDS_PCQT385_1"
+msgid_plural "IDS_PCQT385_1"
+msgstr[0] "獲得 %(count)s 個「發現」 勛帶。"
+
+msgid "IDS_PCQT386_1"
+msgid_plural "IDS_PCQT386_1"
+msgstr[0] "獲得 %(count)s 個任何成就。"
+
+msgid "IDS_PCQT387_1"
+msgid_plural "IDS_PCQT387_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT389_1"
+msgid_plural "IDS_PCQT389_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT391_1"
+msgid_plural "IDS_PCQT391_1"
+msgstr[0] "對敵方主力艦造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT392_1"
+msgid_plural "IDS_PCQT392_1"
+msgstr[0] "於您的偵察下協助己隊造成 %(count)s 血量傷害並存活下來。"
+
+msgid "IDS_PCQT393_1"
+msgid_plural "IDS_PCQT393_1"
+msgstr[0] "用魚雷擊中敵方艦艇 %(count)s 次並存活下來。"
+
+msgid "IDS_PCQT394_1"
+msgid_plural "IDS_PCQT394_1"
+msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶。"
+
+msgid "IDS_PCQT395_1"
+msgid_plural "IDS_PCQT395_1"
+msgstr[0] "對敵方驅逐艦造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT396_1"
+msgid_plural "IDS_PCQT396_1"
+msgstr[0] "獲得 %(count)s 個「戰略貢獻」勛帶。"
+
+msgid "IDS_PCQT397_1"
+msgid_plural "IDS_PCQT397_1"
+msgstr[0] "成為第一個偵察到 %(count)s 枚魚雷的人。"
+
+msgid "IDS_PCQT399_1"
+msgid_plural "IDS_PCQT399_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT401_1"
+msgid_plural "IDS_PCQT401_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害並存活下來。"
+
+msgid "IDS_PCQT402_1"
+msgid_plural "IDS_PCQT402_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT403_1"
+msgid_plural "IDS_PCQT403_1"
+msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶並存活下來。"
+
+msgid "IDS_PCQT404_1"
+msgid_plural "IDS_PCQT404_1"
+msgstr[0] "獲得 %(count)s 個「秒殺」成就。"
+
+msgid "IDS_PCQT405_1"
+msgid_plural "IDS_PCQT405_1"
+msgstr[0] "對敵方主力艦造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT406_1"
+msgid_plural "IDS_PCQT406_1"
+msgstr[0] "獲得 %(count)s 個「勇者無懼」成就。"
+
+msgid "IDS_PCQT410_1"
+msgid_plural "IDS_PCQT410_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT415_1"
+msgid_plural "IDS_PCQT415_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT416_1"
+msgid_plural "IDS_PCQT416_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT417_1"
+msgid_plural "IDS_PCQT417_1"
+msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶。"
+
+msgid "IDS_PCQT419_1"
+msgid_plural "IDS_PCQT419_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害並存活下來。"
+
+msgid "IDS_PCQT420_1"
+msgid_plural "IDS_PCQT420_1"
+msgstr[0] "擊毀 %(count)s 艘敵方驅逐艦並存活下來。"
+
+msgid "IDS_PCQT421_1"
+msgid_plural "IDS_PCQT421_1"
+msgstr[0] "獲得 %(count)s 個任何成就。"
+
+msgid "IDS_PCQT422_1"
+msgid_plural "IDS_PCQT422_1"
+msgstr[0] "獲得 %(count)s 個「水火無情」成就。"
+
+msgid "IDS_PCQT423_1"
+msgid_plural "IDS_PCQT423_1"
+msgstr[0] "對敵方巡洋艦造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT424_1"
+msgid_plural "IDS_PCQT424_1"
+msgstr[0] "獲得任何勛帶 %(count)s 個。"
+
+msgid "IDS_PCQT425_1"
+msgid_plural "IDS_PCQT425_1"
+msgstr[0] "對主力艦造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT427_1"
+msgid_plural "IDS_PCQT427_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT504_1"
+msgid_plural "IDS_PCQT504_1"
+msgstr[0] "獲得 %(count)s 次己隊第一名的經驗。"
+
+msgid "IDS_PCQT505_1"
+msgid_plural "IDS_PCQT505_1"
+msgstr[0] "獲得己隊前 3 名的經驗 %(count)s 次。"
+
+msgid "IDS_PCQT506_1"
+msgid_plural "IDS_PCQT506_1"
+msgstr[0] "對敵方艦艇造成 %(count)s 血量傷害並贏得戰鬥。"
+
+msgid "IDS_PCQT507_1"
+msgid_plural "IDS_PCQT507_1"
+msgstr[0] "擊毀 %(count)s 艘敵方驅逐艦，贏得戰鬥並存活下來。"
+
+msgid "IDS_PCQT508_1"
+msgid_plural "IDS_PCQT508_1"
+msgstr[0] "獲得 %(count)s 次己隊第一名的經驗。"
+
+msgid "IDS_PCQT512_1"
+msgid_plural "IDS_PCQT512_1"
+msgstr[0] "獲得 %(count)s 個「戰略貢獻」勛帶。"
+
+msgid "IDS_PCQT515_1"
+msgid_plural "IDS_PCQT515_1"
+msgstr[0] "獲得 %(count)s 個「引發火災」或「造成進水」勛帶。"
+
+msgid "IDS_PCQT516_1"
+msgid_plural "IDS_PCQT516_1"
+msgstr[0] "成為己隊經驗前 3 名的玩家，贏得勝利並於您的偵察下協助己隊造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT517_1"
+msgid_plural "IDS_PCQT517_1"
+msgstr[0] "成為己隊經驗第一名的玩家，贏得勝利並獲得 %(count)s 個「引發火災」或「造成進水」勛帶。"
+
+msgid "IDS_PCQT521_1"
+msgid_plural "IDS_PCQT521_1"
+msgstr[0] "擊中敵方艦艇的裝甲區 %(count)s 次。"
+
+msgid "IDS_PCQT522_1"
+msgid_plural "IDS_PCQT522_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害並贏得戰鬥。"
+
+msgid "IDS_PCQT525_1"
+msgid_plural "IDS_PCQT525_1"
+msgstr[0] "成為己隊經驗前 3 名的玩家，贏得勝利並擊落 %(count)s 架敵機。"
+
+msgid "IDS_PCQT526_1"
+msgid_plural "IDS_PCQT526_1"
+msgstr[0] "獲得 %(count)s 次「勇者無懼」、「烈焰證明」或是「不沉者」成就。"
+
+msgid "IDS_PCQT527_1"
+msgid_plural "IDS_PCQT527_1"
+msgstr[0] "獲得 %(count)s 次「優質作戰」或是「最佳助攻」成就。"
+
+msgid "IDS_PCQT533_1"
+msgid_plural "IDS_PCQT533_1"
+msgstr[0] "對德國或日本艦艇造成 %(count)s 傷害。"
+
+msgid "IDS_PCQT534_1"
+msgid_plural "IDS_PCQT534_1"
+msgstr[0] "成為己隊經驗前 3 名的玩家，贏得勝利並獲得 %(count)s 個任何成就。"
+
+msgid "IDS_PCQT535_1"
+msgid_plural "IDS_PCQT535_1"
+msgstr[0] "成為己隊經驗前 3 名的玩家、贏得勝利，並癱瘓或摧毀 %(count)s 個敵艦配件。"
+
+msgid "IDS_PCQT536_1"
+msgid_plural "IDS_PCQT536_1"
+msgstr[0] "在勝場戰鬥中對敵方日本艦艇造成 %(count)s血量傷害。"
+
+msgid "IDS_PCQT537_1"
+msgid_plural "IDS_PCQT537_1"
+msgstr[0] "在勝場戰鬥中對敵方德國艦艇造成 %(count)s血量傷害。"
+
+msgid "IDS_PCQT541_1"
+msgid_plural "IDS_PCQT541_1"
+msgstr[0] "用火箭、航空炸彈或航空魚雷擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT542_1"
+msgid_plural "IDS_PCQT542_1"
+msgstr[0] "擊落 %(count)s 架敵方飛機。"
+
+msgid "IDS_PCQT543_1"
+msgid_plural "IDS_PCQT543_1"
+msgstr[0] "成為己隊經驗前 3 名的玩家，並獲得 %(count)s 個任何成就。"
+
+msgid "IDS_PCQT544_1"
+msgid_plural "IDS_PCQT544_1"
+msgstr[0] "獲得任何勛帶 %(count)s 個。"
+
+msgid "IDS_PCQT545_1"
+msgid_plural "IDS_PCQT545_1"
+msgstr[0] "獲得 %(count)s 個任何成就。"
+
+msgid "IDS_PCQT546_1"
+msgid_plural "IDS_PCQT546_1"
+msgstr[0] "獲得 %(count)s 個英勇成就。"
+
+msgid "IDS_PCQT644_1"
+msgid_plural "IDS_PCQT644_1"
+msgstr[0] "獲得任何勛帶 %(count)s 個。"
+
+msgid "IDS_PCQT645_1"
+msgid_plural "IDS_PCQT645_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT646_1"
+msgid_plural "IDS_PCQT646_1"
+msgstr[0] "對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT647_1"
+msgid_plural "IDS_PCQT647_1"
+msgstr[0] "用主炮對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT648_1"
+msgid_plural "IDS_PCQT648_1"
+msgstr[0] "獲得 %(count)s 個「擊毀」勛帶。"
+
+msgid "IDS_PCQT650_1"
+msgid_plural "IDS_PCQT650_1"
+msgstr[0] "獲得 %(count)s 個「擊毀」勛帶。"
+
+msgid "IDS_PCQT651_1"
+msgid_plural "IDS_PCQT651_1"
+msgstr[0] "獲得 %(count)s 個「魚雷命中」勛帶。"
+
+msgid "IDS_PCQT653_1"
+msgid_plural "IDS_PCQT653_1"
+msgstr[0] "贏得 %(count)s 場戰鬥。"
+
+msgid "IDS_PCQT654_1"
+msgid_plural "IDS_PCQT654_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT655_1"
+msgid_plural "IDS_PCQT655_1"
+msgstr[0] "獲得 %(count)s 個「擊毀」勛帶。"
+
+msgid "IDS_PCQT656_1"
+msgid_plural "IDS_PCQT656_1"
+msgstr[0] "獲得 %(count)s 個「引發火災」或「命中裝甲區」勛帶。"
+
+msgid "IDS_PCQT657_1"
+msgid_plural "IDS_PCQT657_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害。"
+
+msgid "IDS_PCQT659_1"
+msgid_plural "IDS_PCQT659_1"
+msgstr[0] "獲得 %(count)s 個「主炮命中」勛帶。"
+
+msgid "IDS_PCQT660_1"
+msgid_plural "IDS_PCQT660_1"
+msgstr[0] "獲得 %(count)s 個「戰略貢獻」勛帶。"
+
+msgid "IDS_PCQT661_1"
+msgid_plural "IDS_PCQT661_1"
+msgstr[0] "獲得 %(count)s 個「魚雷命中」勛帶。"
+
+msgid "IDS_PCQT663_1"
+msgid_plural "IDS_PCQT663_1"
+msgstr[0] "對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT665_1"
+msgid_plural "IDS_PCQT665_1"
+msgstr[0] "獲得己隊前 5 名的經驗 %(count)s 次。"
+
+msgid "IDS_PCQT666_1"
+msgid_plural "IDS_PCQT666_1"
+msgstr[0] "於您的偵察下協助己隊造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT667_1"
+msgid_plural "IDS_PCQT667_1"
+msgstr[0] "對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT668_1"
+msgid_plural "IDS_PCQT668_1"
+msgstr[0] "用主炮對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT670_1"
+msgid_plural "IDS_PCQT670_1"
+msgstr[0] "獲得 %(count)s 個「魚雷命中」或「引發火災」勛帶。"
+
+msgid "IDS_PCQT671_1"
+msgid_plural "IDS_PCQT671_1"
+msgstr[0] "用艦艇魚雷對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT672_1"
+msgid_plural "IDS_PCQT672_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT673_1"
+msgid_plural "IDS_PCQT673_1"
+msgstr[0] "對敵方艦艇造成 %(count)s 血量傷害。"
+
+msgid "IDS_PCQT674_1"
+msgid_plural "IDS_PCQT674_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT675_1"
+msgid_plural "IDS_PCQT675_1"
+msgstr[0] "獲得 %(count)s 個「擊毀」勛帶。"
+
+msgid "IDS_PCQT676_1"
+msgid_plural "IDS_PCQT676_1"
+msgstr[0] "獲得 %(count)s 個「副炮命中」勛帶。"
+
+msgid "IDS_PCQT677_1"
+msgid_plural "IDS_PCQT677_1"
+msgstr[0] "獲得 %(count)s 個「主炮命中」勛帶。"
+
+msgid "IDS_PCQT679_1"
+msgid_plural "IDS_PCQT679_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害。"
+
+msgid "IDS_PCQT680_1"
+msgid_plural "IDS_PCQT680_1"
+msgstr[0] "用主炮擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PCQT681_1"
+msgid_plural "IDS_PCQT681_1"
+msgstr[0] "獲得 %(count)s 個「魚雷命中」勛帶。"
+
+msgid "IDS_PCQT684_1"
+msgid_plural "IDS_PCQT684_1"
+msgstr[0] "獲得 %(count)s 銀幣。"
+
+msgid "IDS_PCQT685_1"
+msgid_plural "IDS_PCQT685_1"
+msgstr[0] "獲得己隊前 3 名的經驗 %(count)s 次。"
+
+msgid "IDS_PCQT686_1"
+msgid_plural "IDS_PCQT686_1"
+msgstr[0] "受到 %(count)s 血量的潛在傷害。"
+
+msgid "IDS_PCQT688_1"
+msgid_plural "IDS_PCQT688_1"
+msgstr[0] "獲得 %(count)s 個「命中裝甲區」勛帶。"
+
+msgid "IDS_PCQT689_1"
+msgid_plural "IDS_PCQT689_1"
+msgstr[0] "獲得 %(count)s 個「引發火災」勛帶。"
+
+msgid "IDS_PCQT690_1"
+msgid_plural "IDS_PCQT690_1"
+msgstr[0] "用主炮擊中敵方艦艇 %(count)s 次。"
+
+msgid "IDS_PFES439_SAINT_LOUIS_AZUR"
+msgstr "碧藍航線"
+
+msgid "IDS_PGES317_PRINZ_HEINRICH_AZUR"
+msgstr "碧藍航線"
+
+msgid "IDS_PGES429_ROON_AZUR"
+msgstr "碧藍航線"
+
+msgid "IDS_PGSB517"
+msgstr "AL P. Heinrich"
+
+msgid "IDS_PGSB517_FULL"
+msgstr "AL Prinz Heinrich"
+
+msgid "IDS_PGSB517_NUMBER"
+msgstr "1"
+
+msgid "IDS_PLURAL_FORMS"
+msgid_plural "IDS_PLURAL_FORMS"
+msgstr[0] "0"
+
+msgid "IDS_PL_ABILITY_TITLE"
+msgid_plural "IDS_PL_ABILITY_TITLE"
+msgstr[0] "%(_amount)s 個消耗品"
+
+msgid "IDS_PL_AIRCARRIER"
+msgid_plural "IDS_PL_AIRCARRIER"
+msgstr[0] "艘航空母艦"
+
+msgid "IDS_PL_AIRPLANES"
+msgid_plural "IDS_PL_AIRPLANES"
+msgstr[0] "飛機"
+
+msgid "IDS_PL_AIRPLANE_BOMBER"
+msgid_plural "IDS_PL_AIRPLANE_BOMBER"
+msgstr[0] "轟炸機"
+
+msgid "IDS_PL_AIRPLANE_FIGHTER"
+msgid_plural "IDS_PL_AIRPLANE_FIGHTER"
+msgstr[0] "對艦攻擊機"
+
+msgid "IDS_PL_AIRPLANE_SKIP"
+msgid_plural "IDS_PL_AIRPLANE_SKIP"
+msgstr[0] "彈跳轟炸機"
+
+msgid "IDS_PL_AIRPLANE_TORPEDO"
+msgid_plural "IDS_PL_AIRPLANE_TORPEDO"
+msgstr[0] "魚雷轟炸機"
+
+msgid "IDS_PL_AIR_FLIGHT"
+msgid_plural "IDS_PL_AIR_FLIGHT"
+msgstr[0] "攻擊分隊"
+
+msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
+msgstr[0] "您有 %(durationAlmanac)s 天的時間來領取獎勵"
+
+msgid "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
+msgstr[0] "在接下來的 %(extraRewardClaimDay)s 天，您可獲取額外獎勵"
+
+msgid "IDS_PL_ANY_SHIP"
+msgid_plural "IDS_PL_ANY_SHIP"
+msgstr[0] "艘艦艇"
+
+msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "到下一個獎勵：%(_pointsTillNext)s 積分"
+
+msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_POINTS_FOR_PROGRESS_ITEM"
+msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_POINTS_FOR_PROGRESS_ITEM"
+msgstr[0] "積分"
+
+msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_PROGRESS_BAR_SUM_DESCRIPTION"
+msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_PROGRESS_BAR_SUM_DESCRIPTION"
+msgstr[0] "每達到 %(_cutoffs)s 個標記"
+
+msgid "IDS_PL_BATTLES"
+msgid_plural "IDS_PL_BATTLES"
+msgstr[0] "%s 場戰鬥"
+
+msgid "IDS_PL_BATTLESHIP"
+msgid_plural "IDS_PL_BATTLESHIP"
+msgstr[0] "艘主力艦"
+
+msgid "IDS_PL_BATTLES_COUNT"
+msgid_plural "IDS_PL_BATTLES_COUNT"
+msgstr[0] "戰鬥"
+
+msgid "IDS_PL_BATTLES_TILL_NEXT_LEVEL"
+msgid_plural "IDS_PL_BATTLES_TILL_NEXT_LEVEL"
+msgstr[0] "%(pointsToNext)s 場戰鬥到下個等級"
+
+msgid "IDS_PL_CAMOUFLAGE_TITLE"
+msgid_plural "IDS_PL_CAMOUFLAGE_TITLE"
+msgstr[0] "%(_amount)s 個迷彩"
+
+msgid "IDS_PL_CASUAL_CVC_WAR_STAGE_ATTEMPTS_STATUS"
+msgid_plural "IDS_PL_CASUAL_CVC_WAR_STAGE_ATTEMPTS_STATUS"
+msgstr[0] "剩餘嘗試次數：%(_attemptsLeft)s"
+
+msgid "IDS_PL_CREDITS"
+msgid_plural "IDS_PL_CREDITS"
+msgstr[0] "銀幣"
+
+msgid "IDS_PL_CRUISER"
+msgid_plural "IDS_PL_CRUISER"
+msgstr[0] "艘巡洋艦"
+
+msgid "IDS_PL_DAYS_PARAM"
+msgid_plural "IDS_PL_DAYS_PARAM"
+msgstr[0] "%(_days)s 天"
+
+msgid "IDS_PL_DAY_FULL"
+msgid_plural "IDS_PL_DAY_FULL"
+msgstr[0] "天"
+
+msgid "IDS_PL_DAY_FULL_ACC"
+msgid_plural "IDS_PL_DAY_FULL_ACC"
+msgstr[0] "天"
+
+msgid "IDS_PL_DESTROYER"
+msgid_plural "IDS_PL_DESTROYER"
+msgstr[0] "艘驅逐艦"
+
+msgid "IDS_PL_EARN_POINTS_BY_RANK_WIN"
+msgid_plural "IDS_PL_EARN_POINTS_BY_RANK_WIN"
+msgstr[0] "%(_pointsRank)s 點如果您的隊伍勝利。"
+
+msgid "IDS_PL_EARN_POINTS_BY_SCENARIO_STARS"
+msgid_plural "IDS_PL_EARN_POINTS_BY_SCENARIO_STARS"
+msgstr[0] "%(_pointsScenario)s 點當您的隊伍勝利時獲得的每一顆星星。"
+
+msgid "IDS_PL_ENSIGNS_TITLE"
+msgid_plural "IDS_PL_ENSIGNS_TITLE"
+msgstr[0] "%(_amount)s 個信號旗"
+
+msgid "IDS_PL_EXPERIENCE"
+msgid_plural "IDS_PL_EXPERIENCE"
+msgstr[0] "經驗"
+
+msgid "IDS_PL_FLAGS_TITLE"
+msgid_plural "IDS_PL_FLAGS_TITLE"
+msgstr[0] "%(_amount)s 個旗幟"
+
+msgid "IDS_PL_FREE_EXPERIENCE"
+msgid_plural "IDS_PL_FREE_EXPERIENCE"
+msgstr[0] "自由經驗"
+
+msgid "IDS_PL_GOLD"
+msgid_plural "IDS_PL_GOLD"
+msgstr[0] "達布隆"
+
+msgid "IDS_PL_HITS_TORPEDOS"
+msgid_plural "IDS_PL_HITS_TORPEDOS"
+msgstr[0] "次以艦艇的魚雷擊中敵人"
+
+msgid "IDS_PL_HOURS_PARAM"
+msgid_plural "IDS_PL_HOURS_PARAM"
+msgstr[0] "%(_hours)s 小時"
+
+msgid "IDS_PL_HOUR_FULL"
+msgid_plural "IDS_PL_HOUR_FULL"
+msgstr[0] "小時"
+
+msgid "IDS_PL_HOUR_FULL_ACC"
+msgid_plural "IDS_PL_HOUR_FULL_ACC"
+msgstr[0] "小時"
+
+msgid "IDS_PL_KNOTS"
+msgid_plural "IDS_PL_KNOTS"
+msgstr[0] "節"
+
+msgid "IDS_PL_KNOTS_SPACE"
+msgid_plural "IDS_PL_KNOTS_SPACE"
+msgstr[0] " 節"
+
+msgid "IDS_PL_LOOTBOXES"
+msgid_plural "IDS_PL_LOOTBOXES"
+msgstr[0] "貨櫃"
+
+msgid "IDS_PL_LOOTBOX_COUNT"
+msgid_plural "IDS_PL_LOOTBOX_COUNT"
+msgstr[0] "%(_amount)s 個貨櫃"
+
+msgid "IDS_PL_LOOTBOX_EPIC_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_EPIC_TITLE"
+msgstr[0] "%(_amount)s 個超級貨櫃"
+
+msgid "IDS_PL_LOOTBOX_PCL000_UNKNOWN_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL000_UNKNOWN_TITLE"
+msgstr[0] "%(_amount)s 個隨機貨櫃"
+
+msgid "IDS_PL_LOOTBOX_PCL001_CREDITS_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL001_CREDITS_TITLE"
+msgstr[0] "%(_amount)s 個「更多經濟獎勵」貨櫃"
+
+msgid "IDS_PL_LOOTBOX_PCL002_SIGNALS_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL002_SIGNALS_TITLE"
+msgstr[0] "%(_amount)s 個「更多信號旗」貨櫃"
+
+msgid "IDS_PL_LOOTBOX_PCL004_LUCKY_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL004_LUCKY_TITLE"
+msgstr[0] "%(_amount)s 個貨櫃"
+
+msgid "IDS_PL_LOOTBOX_PCL005_EPIC_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL005_EPIC_TITLE"
+msgstr[0] "%(_amount)s 個超級貨櫃"
+
+msgid "IDS_PL_LOOTBOX_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_TITLE"
+msgstr[0] "%(_amount)s 個貨櫃"
+
+msgid "IDS_PL_MINUTES_COUNT"
+msgid_plural "IDS_PL_MINUTES_COUNT"
+msgstr[0] "分鐘。"
+
+msgid "IDS_PL_MINUTE_FULL"
+msgid_plural "IDS_PL_MINUTE_FULL"
+msgstr[0] "分鐘"
+
+msgid "IDS_PL_MINUTE_FULL_ACC"
+msgid_plural "IDS_PL_MINUTE_FULL_ACC"
+msgstr[0] "分鐘"
+
+msgid "IDS_PL_MINUTE_FULL_ROD"
+msgid_plural "IDS_PL_MINUTE_FULL_ROD"
+msgstr[0] "分鐘"
+
+msgid "IDS_PL_MODERNIZATION_TITLE"
+msgid_plural "IDS_PL_MODERNIZATION_TITLE"
+msgstr[0] "%(_amount)s 個升級品"
+
+msgid "IDS_PL_MONTH_FULL"
+msgid_plural "IDS_PL_MONTH_FULL"
+msgstr[0] "個月"
+
+msgid "IDS_PL_MONTH_FULL_ACC"
+msgid_plural "IDS_PL_MONTH_FULL_ACC"
+msgstr[0] "月"
+
+msgid "IDS_PL_MORE_BATTLES"
+msgid_plural "IDS_PL_MORE_BATTLES"
+msgstr[0] "剩餘 %(battleCount)d 場戰鬥"
+
+msgid "IDS_PL_PARAGON_XP_TITLE"
+msgid_plural "IDS_PL_PARAGON_XP_TITLE"
+msgstr[0] "研發點數"
+
+msgid "IDS_PL_PERMOFLAGE_TITLE"
+msgid_plural "IDS_PL_PERMOFLAGE_TITLE"
+msgstr[0] "%(_amount)s 個永久迷彩"
+
+msgid "IDS_PL_PLACES"
+msgid_plural "IDS_PL_PLACES"
+msgstr[0] "位置"
+
+msgid "IDS_PL_PLANES"
+msgid_plural "IDS_PL_PLANES"
+msgstr[0] "架飛機"
+
+msgid "IDS_PL_PLAYERS_COUNT"
+msgid_plural "IDS_PL_PLAYERS_COUNT"
+msgstr[0] "玩家"
+
+msgid "IDS_PL_POINTS"
+msgid_plural "IDS_PL_POINTS"
+msgstr[0] "點數"
+
+msgid "IDS_PL_RANK_REWARDS_VICTORIES_CURRENT"
+msgid_plural "IDS_PL_RANK_REWARDS_VICTORIES_CURRENT"
+msgstr[0] "獲得 %(_victoriesCount)s 場勝利的獎勵"
+
+msgid "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
+msgid_plural "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
+msgstr[0] "到下一個獎勵：%(_victoriesCount)s 場勝利"
+
+msgid "IDS_PL_RANK_STARS"
+msgid_plural "IDS_PL_RANK_STARS"
+msgstr[0] "%s 星"
+
+msgid "IDS_PL_RENT_STATUS_TIME_LEFT"
+msgid_plural "IDS_PL_RENT_STATUS_TIME_LEFT"
+msgstr[0] "租用期結束於：%(_days)d 天"
+
+msgid "IDS_PL_REWARD"
+msgid_plural "IDS_PL_REWARD"
+msgstr[0] "<body>以及再<h3>%(rewardCount)s</h3>個獎勵</body>"
+
+msgid "IDS_PL_SECONDS"
+msgid_plural "IDS_PL_SECONDS"
+msgstr[0] "秒"
+
+msgid "IDS_PL_SECOND_FULL"
+msgid_plural "IDS_PL_SECOND_FULL"
+msgstr[0] "秒"
+
+msgid "IDS_PL_SECOND_FULL_ACC"
+msgid_plural "IDS_PL_SECOND_FULL_ACC"
+msgstr[0] "秒"
+
+msgid "IDS_PL_SHIPS"
+msgid_plural "IDS_PL_SHIPS"
+msgstr[0] "艘艦艇"
+
+msgid "IDS_PL_SLOTS"
+msgid_plural "IDS_PL_SLOTS"
+msgstr[0] "欄位"
+
+msgid "IDS_PL_SQUADRONS"
+msgid_plural "IDS_PL_SQUADRONS"
+msgstr[0] "航空中隊"
+
+msgid "IDS_PL_SSE_COMPLETE_TASKS"
+msgid_plural "IDS_PL_SSE_COMPLETE_TASKS"
+msgstr[0] "完成 %(count)d 個任務"
+
+msgid "IDS_PL_TILL_REWARD"
+msgid_plural "IDS_PL_TILL_REWARD"
+msgstr[0] "將在 %(_timeLeft)s 天內開放"
+
+msgid "IDS_PL_TIME_SPENT_IN_GAME"
+msgid_plural "IDS_PL_TIME_SPENT_IN_GAME"
+msgstr[0] "您的 AOND 已有 %(hours)s 小時"
+
+msgid "IDS_PL_TIME_SPENT_IN_GAME_MORE_THAN"
+msgid_plural "IDS_PL_TIME_SPENT_IN_GAME_MORE_THAN"
+msgstr[0] "您的 AOND 已超過 %(hours)s 小時"
+
+msgid "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
+msgid_plural "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
+msgstr[0] "您有 %(_timeLeft)s 天的時間來領取所有獎勵。"
+
+msgid "IDS_PL_VICTORY"
+msgid_plural "IDS_PL_VICTORY"
+msgstr[0] "次獲勝"
+
+msgid "IDS_PL_YOU_HAVE_BEEN_DENUNCATED_MORE_THAN_BY_X_MEN"
+msgid_plural "IDS_PL_YOU_HAVE_BEEN_DENUNCATED_MORE_THAN_BY_X_MEN"
+msgstr[0] "您的業力已被減少了 %(amount)s。"
+
+msgid "IDS_PL_YOU_HAVE_BEEN_PRAISED_BY_X_MEN"
+msgid_plural "IDS_PL_YOU_HAVE_BEEN_PRAISED_BY_X_MEN"
+msgstr[0] "您的業力已被增加了 %(amount)s。"
+
+msgid "IDS_PRMP_SWITCH_BUTTON_UNREAD_COUNT"
+msgid_plural "IDS_PRMP_SWITCH_BUTTON_UNREAD_COUNT"
+msgstr[0] "還有 %(count)s 個通知"
+
+msgid "IDS_PVE_TASK_REWARDS_REASON"
+msgid_plural "IDS_PVE_TASK_REWARDS_REASON"
+msgstr[0] "完成一個次要工作的獎勵"
+
+msgid "IDS_QUEST_CLANGALEONLY_WIN"
+msgid_plural "IDS_QUEST_CLANGALEONLY_WIN"
+msgstr[0] "在Gale或更高的聯賽贏得 %(achievementCount)s 場戰鬥。"
+
+msgid "IDS_QUEST_CLANHURRICANEONLY_WIN"
+msgid_plural "IDS_QUEST_CLANHURRICANEONLY_WIN"
+msgstr[0] "在Hurricane或更高的聯賽贏得 %(achievementCount)s 場戰鬥。"
+
+msgid "IDS_QUEST_CLANSTORMONLY_WIN"
+msgid_plural "IDS_QUEST_CLANSTORMONLY_WIN"
+msgstr[0] "在Storm或更高的聯賽贏得 %(achievementCount)s 場戰鬥。"
+
+msgid "IDS_QUEST_CLANTYPHOONONLY_WIN"
+msgid_plural "IDS_QUEST_CLANTYPHOONONLY_WIN"
+msgstr[0] "在Typhoon或更高的聯賽贏得 %(achievementCount)s 場戰鬥。"
+
+msgid "IDS_QUEST_COLLECTIONER_SHIPS"
+msgid_plural "IDS_QUEST_COLLECTIONER_SHIPS"
+msgstr[0] "建立 %(countShips)s 艘艦艇的收藏。"
+
+msgid "IDS_QUEST_CONTRIBUTOR_YEAR"
+msgid_plural "IDS_QUEST_CONTRIBUTOR_YEAR"
+msgstr[0] "在貢獻者團隊 %(achievementCount)s 年的紀念標誌。"
+
+msgid "IDS_QUEST_DAMAGECOUNT"
+msgid_plural "IDS_QUEST_DAMAGECOUNT"
+msgstr[0] "達成 %(damage)s 的平均每場傷害。"
+
+msgid "IDS_QUEST_EXTRA_BATTLELIMIT"
+msgid_plural "IDS_QUEST_EXTRA_BATTLELIMIT"
+msgstr[0] "只考慮最後 %(battleCount)s 場的戰鬥結果。"
+
+msgid "IDS_QUEST_KOTSBATTLES_WIN"
+msgid_plural "IDS_QUEST_KOTSBATTLES_WIN"
+msgstr[0] "在 King of the Sea 比賽中，與隊伍贏得 %(achievementCount)s 場戰鬥。"
+
+msgid "IDS_QUEST_LIMITED_EXECUTION"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION"
+msgstr[0] "您可以完成此挑戰 %(_numberOfQuestsGeneral)s 次。"
+
+msgid "IDS_QUEST_LIMITED_EXECUTION_PER_DAY"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION_PER_DAY"
+msgstr[0] "您每天可以完成此挑戰 %(_numberOfQuestsGeneral)s 次。"
+
+msgid "IDS_QUEST_LIMITED_EXECUTION_START"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION_START"
+msgstr[0] "您已完成此挑戰 %(_numberOfQuestsGeneral)s 次可用次數中的%(_numberOfQuestsDone)s 次。"
+
+msgid "IDS_QUEST_LIMITED_EXECUTION_START_PER_DAY"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION_START_PER_DAY"
+msgstr[0] "今天您已完成了此挑戰可用次數 %(_numberOfQuestsGeneral)s 次中的 %(_numberOfQuestsDone)s 次。"
+
+msgid "IDS_QUEST_TEAMPOSITION_TOP3"
+msgid_plural "IDS_QUEST_TEAMPOSITION_TOP3"
+msgstr[0] "贏得 %(achievementCount)s 場戰鬥並且獲得己隊前 3 名的經驗。"
+
+msgid "IDS_QUEST_UNIQUE_STARS"
+msgid_plural "IDS_QUEST_UNIQUE_STARS"
+msgstr[0] "透過在排名戰取得勝利來獲得 %(uniqueStars)s 顆星星。只有在賽季中首次獲得的星星才會被計算。"
+
+msgid "IDS_RANKED_LEAGUE_REWARDS_STATUS_DEFAULT"
+msgid_plural "IDS_RANKED_LEAGUE_REWARDS_STATUS_DEFAULT"
+msgstr[0] "已獲得 %(totalCount)s 個獎勵中的 %(curCount)s 個"
+
+msgid "IDS_RANK_LEAGUE_CAROUSEL_STATUS_QUAL_LOCKED"
+msgid_plural "IDS_RANK_LEAGUE_CAROUSEL_STATUS_QUAL_LOCKED"
+msgstr[0] "通過之前的聯賽"
+
+msgid "IDS_REASON_GIFTBOX_BY_BATTLES"
+msgid_plural "IDS_REASON_GIFTBOX_BY_BATTLES"
+msgstr[0] "%(battles)s 場戰鬥"
+
+msgid "IDS_REWARDS_PL_CREDITS_TITLE"
+msgid_plural "IDS_REWARDS_PL_CREDITS_TITLE"
+msgstr[0] "%(_amount)s 銀幣"
+
+msgid "IDS_REWARDS_PL_EXP_TITLE"
+msgid_plural "IDS_REWARDS_PL_EXP_TITLE"
+msgstr[0] "%(_amount)s 經驗"
+
+msgid "IDS_REWARDS_PL_FREEXP_TITLE"
+msgid_plural "IDS_REWARDS_PL_FREEXP_TITLE"
+msgstr[0] "%(_amount)s 自由經驗"
+
+msgid "IDS_REWARDS_PL_GOLD_TITLE"
+msgid_plural "IDS_REWARDS_PL_GOLD_TITLE"
+msgstr[0] "%(_amount)s 達布隆"
+
+msgid "IDS_REWARDS_PL_SLOTS_TITLE"
+msgid_plural "IDS_REWARDS_PL_SLOTS_TITLE"
+msgstr[0] "%(_amount)s 個港口船位"
+
+msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_SHIPS_RESTRICTIONS_REMAIN"
+msgid_plural "IDS_SHIPS_RESTRICTIONS_REMAIN"
+msgstr[0] "以及另外 %(shipsRemain)s 艘艦艇"
+
+msgid "IDS_SHISHIRO_BOTAN"
+msgstr " "
+
+msgid "IDS_SHOT_MINUTE"
+msgid_plural "IDS_SHOT_MINUTE"
+msgstr[0] "發/分"
+
+msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_CHESHIRE"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_COLORADO"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_PRINZ_HEINRICH"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_MEGADETH_DAVE_MUSTAINE"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_MEGADETH_VIC_RATTLEHEAD"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_MURAT_SEREZLI"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_NATUEVENT_GAULU"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_NATUEVENT_HANS"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_NATUEVENT_NATU"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_VARIOUSCONTENTCAP_MICHAL_MILOWICZ"
+msgstr " "
+
+msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_DONE_POINTS_RECEIVED"
+msgid_plural "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_DONE_POINTS_RECEIVED"
+msgstr[0] "已獲得 %(_points)s 積分"
+
+msgid "IDS_SUBST_CREDITS"
+msgid_plural "IDS_SUBST_CREDITS"
+msgstr[0] "%(credits)s 銀幣"
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_BATTLES_TO_PLAY"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_BATTLES_TO_PLAY"
+msgstr[0] "您可在進行 %(battleCount)s 場戰鬥後免費獲得艦艇。"
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TEXT_1_TOOLTIP"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TEXT_1_TOOLTIP"
+msgstr[0] "進行 %(battleCount)s 場戰鬥以免費獲取這艘艦艇。"
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TO_GET_SHIP"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TO_GET_SHIP"
+msgstr[0] "再進行 %(battleCount)d 場戰鬥，即可免費獲得這些艦艇的其中一艘"
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_IS_NOT_AVAILABLE_TOOLTIP"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_IS_NOT_AVAILABLE_TOOLTIP"
+msgstr[0] "進行 %(battleCount)s 場戰鬥以免費獲取這艘艦艇。可使用任何艦艇在任何戰鬥類型中完成。只能免費獲得一艘艦艇。"
+
+msgid "IDS_SUBST_PL_ARC_EVENT_POSTBATTLE_TOOLTIP_POINTS_RECEIVED"
+msgid_plural "IDS_SUBST_PL_ARC_EVENT_POSTBATTLE_TOOLTIP_POINTS_RECEIVED"
+msgstr[0] "在戰鬥中獲得了 %(_points)s 積分"
+
+msgid "IDS_SUBST_PL_NEWBIE_QUESTS_TIME_LEFT_DAYS"
+msgid_plural "IDS_SUBST_PL_NEWBIE_QUESTS_TIME_LEFT_DAYS"
+msgstr[0] "此頁面將開放 %(timeLeft)s 天"
+
+msgid "IDS_SUBST_PL_OPEN_N_CONTAINERS"
+msgid_plural "IDS_SUBST_PL_OPEN_N_CONTAINERS"
+msgstr[0] "開啟 %(count)d 個貨櫃"
+
+msgid "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TOTAL_WITH_TYPES"
+msgid_plural "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TOTAL_WITH_TYPES"
+msgstr[0] "您有 %(lootboxesCount)d 個 %(lootboxesTypesCountString)s的貨櫃"
+
+msgid "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TYPES"
+msgid_plural "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TYPES"
+msgstr[0] "%(lootboxesTypesCount)s 種類型"
+
+msgid "IDS_SUBST_PL_SSE_CATEGORY_TIME_LEFT_DAYS"
+msgid_plural "IDS_SUBST_PL_SSE_CATEGORY_TIME_LEFT_DAYS"
+msgstr[0] "此頁面將開放 %(timeLeft)s 天"
+
+msgid "IDS_SUBST_PL_SSE_POSTBATTLE_TASKS_TOTAL"
+msgid_plural "IDS_SUBST_PL_SSE_POSTBATTLE_TASKS_TOTAL"
+msgstr[0] "共 %(taskCount)s 個任務"
+
+msgid "IDS_SUBST_PL_SSE_REPEAT_NUMBER"
+msgid_plural "IDS_SUBST_PL_SSE_REPEAT_NUMBER"
+msgstr[0] "可完成 %(repeatNum)s 次"
+
+msgid "IDS_SUBST_PL_SSE_TIME_LEFT_DAYS"
+msgid_plural "IDS_SUBST_PL_SSE_TIME_LEFT_DAYS"
+msgstr[0] "任務將開放 %(timeLeft)s 天"
+
+msgid "IDS_SUBST_POINTS"
+msgid_plural "IDS_SUBST_POINTS"
+msgstr[0] "%(points)s 積分"
+
+msgid "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgid_plural "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgstr[0] "需要裝飾 %(_count)s 個角落"
+
+msgid "IDS_SYS_MSG_PL_RECEIVED_REWARDS"
+msgid_plural "IDS_SYS_MSG_PL_RECEIVED_REWARDS"
+msgstr[0] "以及 %(_countRestRewards)d 項"
+
+msgid "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
+msgstr[0] "以 %(level)s 階航空母艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_AVCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AVCA_PVP"
+msgstr[0] "以 %(level)s 階航空母艦或巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_AVDD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AVDD_PVP"
+msgstr[0] "以 %(level)s 階驅逐艦或航空母艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_AV_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AV_PVP"
+msgstr[0] "以 %(level)s 階航空母艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_AV_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_AV_PVPCOOP"
+msgstr[0] "以 %(level)s 階航空母艦在隨機戰鬥及聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
+msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BBCADD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVP"
+msgstr[0] "以任何 %(level)s 階艦艇（除了航空母艦）在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
+msgstr[0] "以 %(level)s 階艦艇（除了航空母艦）在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BBCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BBCA_PVP"
+msgstr[0] "以 %(level)s 階主力艦及巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BBDD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BBDD_PVP"
+msgstr[0] "以 %(level)s 階主力艦和驅逐艦，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BB_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BB_PVP"
+msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BB_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_BB_PVPCOOP"
+msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥及聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BB_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_BB_PVPRANKED"
+msgstr[0] "以 %(level)s 階主力艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_BR_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_BR_PVPRANKED"
+msgstr[0] "以英國 %(level)s 階艦艇在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CADD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_CADD_PVP"
+msgstr[0] "以 %(level)s 階驅逐艦或巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CADD_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_CADD_PVPRANKED"
+msgstr[0] "以 %(level)s 階驅逐艦或巡洋艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_CA_PVP"
+msgstr[0] "以 %(level)s 階巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
+msgstr[0] "以 %(level)s 階巡洋艦，在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CA_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_CA_PVPRANKED"
+msgstr[0] "以 %(level)s 階巡洋艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CLANTYPE"
+msgid_plural "IDS_TASKRESTRICTION_CLANTYPE"
+msgstr[0] "以 %(level)s 階艦艇在公會戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_COOP"
+msgid_plural "IDS_TASKRESTRICTION_COOP"
+msgstr[0] "以 %(level)s 階艦艇在聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_CRUISER_PVP"
+msgid_plural "IDS_TASKRESTRICTION_CRUISER_PVP"
+msgstr[0] "以 %(level)s 階巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_DD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_DD_PVP"
+msgstr[0] "以 %(level)s 階驅逐艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_DD_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_DD_PVPRANKED"
+msgstr[0] "以 %(level)s 階驅逐艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_DESTROYER_PVP"
+msgid_plural "IDS_TASKRESTRICTION_DESTROYER_PVP"
+msgstr[0] "以 %(level)s 階驅逐艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_EUROPE_PVP"
+msgid_plural "IDS_TASKRESTRICTION_EUROPE_PVP"
+msgstr[0] "以歐洲 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_EU_PVP"
+msgid_plural "IDS_TASKRESTRICTION_EU_PVP"
+msgstr[0] "以歐洲 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
+msgstr[0] "以歐洲 %(level)s 階艦艇，在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_FRANCE_PVP"
+msgid_plural "IDS_TASKRESTRICTION_FRANCE_PVP"
+msgstr[0] "以法國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
+msgstr[0] "以法國 %(level)s階主力艦在隨機戰鬥及聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_FR_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_FR_PVPCOOP"
+msgstr[0] "以法國 %(level)s階艦艇在隨機戰鬥及聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
+msgstr[0] "以德國 %(level)s 階主力艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_GERMANY_PVP"
+msgid_plural "IDS_TASKRESTRICTION_GERMANY_PVP"
+msgstr[0] "以德國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_GE_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_GE_PVPRANKED"
+msgstr[0] "以德國 %(level)s 階艦艇在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_ITALY_PVP"
+msgid_plural "IDS_TASKRESTRICTION_ITALY_PVP"
+msgstr[0] "以義大利 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_JAPAN_PVP"
+msgid_plural "IDS_TASKRESTRICTION_JAPAN_PVP"
+msgstr[0] "以日本 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_NETHERLANDS_PVP"
+msgid_plural "IDS_TASKRESTRICTION_NETHERLANDS_PVP"
+msgstr[0] "以荷蘭 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PANAMERICA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_PANAMERICA_PVP"
+msgstr[0] "以泛美 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PANASIA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_PANASIA_PVP"
+msgstr[0] "以泛亞 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVP"
+msgid_plural "IDS_TASKRESTRICTION_PVP"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOP"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥及聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥、聯合作戰和行動中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥、聯合作戰和排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥、聯合作戰、排名戰和公會戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPONLY"
+msgid_plural "IDS_TASKRESTRICTION_PVPONLY"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPPVE"
+msgid_plural "IDS_TASKRESTRICTION_PVPPVE"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥及行動中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_PVPRANKED"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
+msgid_plural "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
+msgstr[0] "以 %(level)s 階艦艇在聯合作戰、隨機戰鬥和排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_RANKEDONLY"
+msgid_plural "IDS_TASKRESTRICTION_RANKEDONLY"
+msgstr[0] "以 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_RUSSIA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_RUSSIA_PVP"
+msgstr[0] "以蘇聯 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_SPAIN_PVP"
+msgid_plural "IDS_TASKRESTRICTION_SPAIN_PVP"
+msgstr[0] "以西班牙 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_SUBMARINE_PVP"
+msgid_plural "IDS_TASKRESTRICTION_SUBMARINE_PVP"
+msgstr[0] "以 %(level)s 階潛水艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
+msgstr[0] "以英國 %(level)s 階驅逐艦或巡洋艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
+msgstr[0] "以英國 %(level)s 階巡洋艦在隨機戰鬥及排名戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_UK_PVP"
+msgid_plural "IDS_TASKRESTRICTION_UK_PVP"
+msgstr[0] "以英國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_USAVCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USAVCA_PVP"
+msgstr[0] "以美國 %(level)s 階航空母艦和巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_USAVDD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USAVDD_PVP"
+msgstr[0] "以美國 %(level)s 階驅逐艦和航空母艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_USAV_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_USAV_PVPCOOP"
+msgstr[0] "以美國 %(level)s 階航空母艦在隨機戰鬥及聯合作戰中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_USA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USA_PVP"
+msgstr[0] "以美國 %(level)s 階艦艇，在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_USBBCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USBBCA_PVP"
+msgstr[0] "以美國 %(level)s 階主力艦和巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_USCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USCA_PVP"
+msgstr[0] "以美國 %(level)s 階巡洋艦在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASKRESTRICTION_US_PVP"
+msgid_plural "IDS_TASKRESTRICTION_US_PVP"
+msgstr[0] "以美國 %(level)s 階艦艇在隨機戰鬥中完成工作。"
+
+msgid "IDS_TASK_RECEIVE_BATTLE_POINTS"
+msgid_plural "IDS_TASK_RECEIVE_BATTLE_POINTS"
+msgstr[0] "獲得 %s 戰鬥點數"
+
+msgid "IDS_THAKANASHI_KIARA"
+msgstr " "
+
+msgid "IDS_TOOLTIP_BATTLE_BONUS_MULTIPLE_DESCRIPTION"
+msgid_plural "IDS_TOOLTIP_BATTLE_BONUS_MULTIPLE_DESCRIPTION"
+msgstr[0] "下 %(_battleAmount)s 次勝利的獎勵。"
+
+msgid "IDS_TOTAL_MISSIONS_IN_CAMPAIGN"
+msgid_plural "IDS_TOTAL_MISSIONS_IN_CAMPAIGN"
+msgstr[0] "%(count)s 個任務"
+
+msgid "IDS_TOTAL_TASKS_IN_CAMPAIGN"
+msgid_plural "IDS_TOTAL_TASKS_IN_CAMPAIGN"
+msgstr[0] "%(count)s 個工作"
+
+msgid "IDS_VIC_RATTLEHEAD"
+msgstr " "

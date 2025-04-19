@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE"
+msgstr "<p>對標記地區空投深水炸彈。</p><p class=\"p_spacing\"> </p><p>深水炸彈可對付敵方潛水艇。有機率引發火災和進水並讓配件失去作用。</p><p class=\"p_spacing\"> </p><p>讓聲納失去作用的機率較高。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_DEPTHCHARGE_AUTO"
+msgstr "<p>如果潛水艇暴露位置，將自動空投深水炸彈來轟炸潛水艇的潛在位置。</p><p class=\"p_spacing\"> </p><p>深水炸彈能命中敵方潛水艇。有機率引發火災和進水並讓配件失去作用。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_HE"
+msgstr "<p>對標記地區空投 HE 炸彈。</p><p class=\"p_spacing\"> </p><p>HE 炸彈引發火災和讓配件失去作用的機率較高。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AP"
+msgstr "<p>能有效對付重裝甲目標。會穿透裝甲並於艦艇內部爆炸，造成重大傷害。</p><p class=\"p_spacing\"> </p><p>射擊時距離目標越近，炮彈的裝甲穿透能力越高。</p><p class=\"p_spacing\"> </p><p>如果裝甲不夠厚，砲彈將過度擊穿並造成顯著較低的傷害。</p><p class=\"p_spacing\"> </p><p>如果砲彈以銳角命中裝甲，裝甲會將砲彈彈開，造成跳彈。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_DEEPWATER"
+msgstr "<p>魚雷轟炸機會用深水魚雷來攻擊目標。</p><p class=\"p_spacing\"> </p><p>只能命中吃水較深的艦艇。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO"
+msgstr "<p>魚雷轟炸機會用魚雷來攻擊目標。</p><p class=\"p_spacing\"> </p><p>魚雷會造成嚴重破壞並可能引發進水。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO_ALT"
+msgstr "<p>魚雷轟炸機會用魚雷來攻擊目標。</p><p class=\"p_spacing\"> </p><p>魚雷會造成嚴重破壞並可能引發進水。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO_DEEPWATER_ALT"
+msgstr "<p>魚雷轟炸機會用深水魚雷來攻擊目標。</p><p class=\"p_spacing\"> </p><p>只能命中吃水較深的艦艇。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_CS"
+msgstr "<p>穿透裝甲並於艦艇內部爆炸，造成重大傷害。</p><p class=\"p_spacing\"> </p><p>砲彈裝甲穿透能力優於高爆彈，不隨距離變化。發生跳彈的機率較低。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DEPTHCHARGE"
+msgstr "<p>對付敵方潛水艇。</p><p class=\"p_spacing\"> </p><p>有機率引發火災和進水並讓配件失去作用，讓聲納失去作用的機率也較高。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_AP"
+msgstr "<p>使用一連串威力強大的 AP 炸彈攻擊目標。</p><p class=\"p_spacing\"> </p><p>對付大型裝甲目標最為有效。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_AP_ALT"
+msgstr "<p>使用一連串威力強大的 AP 炸彈攻擊目標。</p><p class=\"p_spacing\"> </p><p>對付大型裝甲目標最為有效。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_HE"
+msgstr "<p>轟炸機會用一連串的 HE 炸彈來攻擊目標。</p><p class=\"p_spacing\"> </p><p>它們有很高的機率能造成目標起火。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_HE_ALT"
+msgstr "<p>轟炸機會用一連串的 HE 炸彈來攻擊目標。</p><p class=\"p_spacing\"> </p><p>它們有很高的機率能造成目標起火。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_AP"
+msgstr "<p>使用 AP 火箭攻擊目標。</p><p class=\"p_spacing\"> </p><p>AP 火箭會穿透裝甲並於艦艇內部爆炸，造成重大傷害。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_AP_ALT"
+msgstr "<p>使用 AP 火箭攻擊目標。</p><p class=\"p_spacing\"> </p><p>AP 火箭會穿透裝甲並於艦艇內部爆炸，造成重大傷害。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_HE"
+msgstr "<p>使用 HE 火箭攻擊目標。</p><p class=\"p_spacing\"> </p><p>HE 火箭引發火災和讓配件失去作用的機率較高。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_HE_ALT"
+msgstr "<p>使用 HE 火箭攻擊目標。</p><p class=\"p_spacing\"> </p><p>HE 火箭引發火災和讓配件失去作用的機率較高。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_HE"
+msgstr "<p>有高機率造成火災或讓配件失去作用。</p><p class=\"p_spacing\"> </p><p>砲彈裝甲穿透能力較差，但不隨距離變化。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER"
+msgstr "<p>以聲納音波命中目標，將高亮突顯其部位以利魚雷引導。</p><p class=\"p_spacing\"> </p><p>再次命中被高亮突顯的部位，將延長音波效果的持續時間，並提高聲導魚雷的機動性。</p><p class=\"p_spacing\"> </p><p>已發射的魚雷將導向其優先目標，即最後一個被高亮突顯的艦身部位。按下 [CMD_DEACTIVATE_PING] 以取消優先目標。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE"
+msgstr "<p>轟炸機會用一連串的 HE 炸彈來攻擊目標，這些炸彈會在水面上彈跳。</p><p class=\"p_spacing\"> </p><p>它們有很高的機率能造成目標起火。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO"
+msgstr "<p>魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE"
+msgstr "<p>魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE_SUBBURN"
+msgstr "<p>魚雷引發進水和火災的機率較高，但傷害較低。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE_SUBCRIT"
+msgstr "<p>魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_DEEPWATER"
+msgstr "<p>深水魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>只能命中吃水較深的艦艇。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBDEFAULT"
+msgstr "<p>聲導魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>導向被高亮突顯的敵艦部位，一旦開始導向，魚雷就不能變更目標。</p><p class=\"p_spacing\"> </p><p>能有效對付機動性高的輕裝甲目標。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY015_SPEEDBOOSTER_IMP_PREMIUM"
+msgstr "<p>大幅提高艦艇的最高航速，縮減加減速所需時間。</p><p class=\"p_spacing\"> </p><p>作用時間較短。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY016_SONARSEARCH_SHORT_PREMIUM"
+msgstr "<p>擴大對敵方艦艇、魚雷與水雷的絕對捕獲範圍，包括身處於煙幕內的對象。</p><p class=\"p_spacing\"> </p><p>作用時間較長，但捕獲範圍較小。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY035_CALLFIGHTERS_UPGRADE"
+msgstr "<p>巡邏一個區域並自動攻擊敵機。不會受到敵方戰鬥機傷害。</p><p class=\"p_spacing\"> </p><p>無法偵察敵方艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY004_HEALAURA"
+msgstr "<p>在您的艦艇周圍建立一個 750 公尺、可恢復我方艦艇血量的維修區。越多艦艇進入此地區，血量就會恢復得越快。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，此地區的半徑就會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY005_HEALALL"
+msgstr "<p>每秒鐘可恢復所有我方艦艇 250 血量。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，其效果就會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY007_SPEEDBOOSTER"
+msgstr "<p>可提高艦艇的最高航速，並每秒恢復 25 血量。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，血量恢復效率將會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY008_HOLYWEAPON"
+msgstr "<p>加速主炮的重新裝填時間。造成的 25% 傷害會用來恢復艦艇血量。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20和40萬血量傷害時，恢復血量的百分比就會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY025_SONARSEARCH"
+msgstr "<p>擴大對敵方艦艇、魚雷與水雷的絕對捕獲範圍，包括身處於煙幕內的對象。</p><p class=\"p_spacing\"> </p><p>作用時間較長，但捕獲範圍較小。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY104_HEALAURAPREMIUM"
+msgstr "<p>在您的艦艇周圍建立一個 750 公尺、可恢復我方艦艇血量的維修區。越多艦艇進入此地區，血量就會恢復得越快。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，此地區的半徑就會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY105_HEALALLPREMIUM"
+msgstr "<p>每秒鐘可恢復所有我方艦艇 250 血量。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，其效果就會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY107_SPEEDBOOSTERPREMIUM"
+msgstr "<p>提高最高航速。身處汙穢之地時，每秒鐘可恢復 25 血量。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，其效果就會加倍。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY108_HOLYWEAPONPREMIUM"
+msgstr "<p>加速主炮的重新裝填。造成的 25% 傷害會用來恢復艦艇血量。</p><p class=\"p_spacing\"> </p><p>當您造成 5、10、20 和 40 萬血量傷害時，恢復血量的百分比就會加倍。</p>"
+
+msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_BOMB_AP"
+msgstr "<p>AP 炸彈會穿透裝甲並於艦艇內部爆炸，對戰鬥艙室造成顯著傷害。</p><p class=\"p_spacing\"> </p><p>如果裝甲夠厚將觸發引信。如果裝甲不夠厚，炸彈將過度擊穿並造成顯著較低的傷害。</p>"
+
+msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_PROJECTILE_AP"
+msgstr "<p>會穿透裝甲並於艦艇內部爆炸，對重要艙室造成顯著傷害。</p><p class=\"p_spacing\"> </p><p>如果裝甲夠厚將觸發引信。如果裝甲不夠厚，火箭將過度擊穿並造成顯著較低的傷害。</p>"
+
+msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_TORPEDO"
+msgstr "<p>魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p>"
+
+msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_TORPEDO_DEEPWATER"
+msgstr "<p>深水魚雷會造成嚴重破壞並可能引發進水。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p><p class=\"p_spacing\"> </p><p>只能命中吃水較深的艦艇。</p>"
+
+msgid "IDS_PCQM051_DESCR"
+msgstr "<p>出生於武士家族的未來海軍指揮官。Takano Isoroku 的自律和武士精神，在承襲了 Yamamoto 姓氏後才聲名大噪，在江田島市帝國海軍兵學校的斯巴達環境下培育起來。</p><p class=\"p_spacing\"> </p><p>1905 年五月的對馬海峽海戰是一場對抗俄羅斯帝國的決定性海戰，是他成為著名軍官前的第一場戰鬥。巡洋艦 Nisshin，Isoroku 搭乘的那艘，花了數個小時對付堅硬的裝甲，而主要戰力之一的巡洋艦跟在日本主力艦旁邊，因此承受最高的損傷。主炮塔爆炸的碎片重傷到 Takano Isoroku，但他到戰鬥結束前都沒有離開崗位。這名年輕軍官的勇氣受到了聯合艦隊總指揮 Tōgō 海軍大將的注意。</p>"
+
+msgid "IDS_PCQM070_DESCR"
+msgstr "<p>William Frederick Halsey Jr. 是個天生的大海人，他出生在紐澤西小海港 Elizabeth 的海軍家庭中，他的祖先也包含了海盜以及捕鯨人的家世註定了他的海上人生。1899年，未能如願入學期望已久的安納波利斯海軍學院的 Halsey Jr. 進入了維吉尼亞大學專攻醫學，甚至願意成為一名軍醫，但僅為了一個目的：加入海軍。但在大學時期他唯一值得被提起的僅有他對美式足球的熱情。</p><p class=\"p_spacing\"> </p><p>1900年，Halsey 終於進入了海軍學院，然而他們並不知道他將會是學校中最有名的畢業生之一。然而任性又固執的「肥短」Halsey 並不是同期中最優秀的。在1904年學年度，Halsey 在62名學生中僅排名第42。在他的海軍生涯中第一艘服役的船艦是主力艦 Missouri，這艘成為簽署條約的重要象徵船艦也是四十年後的事情了。</p>"
+
+msgid "IDS_PCQM071_DESCR"
+msgstr "<p>1906年時首次晉任軍官，Halsey 登上了主力艦 Kansas 參加了由 16 艘各式美軍先進船艦從 1907 年起耗時兩年的世界巡迴，目的在於向世界展示美國的海軍實力的大白艦隊航行。艦隊造訪日本時，Halsey 登艦參觀了日本聯合艦隊旗艦 Mikasa，但這艘榮光的戰艦並未獲得 Halsey 的青睞，在航行結束後，這位年輕的軍官離開了大炮船艦，轉而服務於比較小、比較快速的驅逐艦。</p><p class=\"p_spacing\"> </p><p>第一次世界大戰期間，Halsey 被指派為 Sampson 級驅逐艦 Shaw 的指揮官。曾有一次他指揮了一個由兩艘美軍驅逐艦以及兩艘單桅帆船組成的支隊，這次的經驗讓他非常的高興及驕傲。大戰結束後，Halsey 被授予了 Navy Cross 勳章。</p>"
+
+msgid "IDS_PCQM091_SHIPS_DESCR"
+msgstr "<p>20 世紀在艦炮的隆隆轟鳴聲中到來。許多場戰爭 — 中日戰爭、美西戰爭、日俄戰爭，都在海上決出勝負。世界海軍列強從這些戰爭中汲取了經驗，為主要艦艇類型制定了新的技術規格。</p><p class=\"p_spacing\"> </p><p>在建造裝甲艦方面，出現了轉向主力艦的趨勢：裝備八至十二門 305 毫米口徑的主炮；配備新型裝甲防護系統；採用渦輪機以提高速度並提升防進水能力。許多國家都在考慮建造此類艦艇，而英國憑藉其高度發達的經濟和先進的造船技術，成為其中的佼佼者。英國皇家海軍的 HMS Dreadnought 是一艘革命性的艦艇，其同類艦艇因此被稱為無畏艦。所有在無畏艦出現之前的艦艇瞬間被淘汰，世界列強進入新一輪的海軍軍備競賽，只有經濟實力最強大的國家才能勝出。</p><p class=\"p_spacing\"> </p><p>在巡洋艦方面，戰艦的專精程度越來越高，大型的高速巡洋艦系列便是專為艦隊作戰行動而建造的。速度成為一艘戰艦的主要作戰特點之一。為了達到預期的效果並保持可接受的排水量，巡洋艦開始從往復式燃煤發動機轉向蒸汽渦輪和燃油發動機。</p><p class=\"p_spacing\"> </p><p>至於驅逐艦，其發展過程發生得更加迅速。驅逐艦必須足夠靈活和快速，以在最佳時機搶占最有利的位置發起攻擊。從過往的海戰經驗中看得出，驅逐艦所扮演的角色急劇凸顯。除了在戰鬥中活躍參與行動，她們還執行如偵察、巡邏、埋設水雷等「常規」而又重要的任務。為此，驅逐艦開始裝備 102 至 120 毫米火炮。另外，驅逐艦停用固定式水下魚雷發射管，改用置於旋轉基座上的甲板式多管魚雷發射裝置。艦上還裝備了可從上層甲板接收和埋設大量水雷的裝置。這些改變促使驅逐艦成了所有類型水面艦艇的致命威脅。</p><p class=\"p_spacing\"> </p><p>考驗這些新造船技術的機會很快就到來了 — 1914 年，第一次世界大戰爆發。</p>"
+
+msgid "IDS_PCQM094_SHIPS_DESCR"
+msgstr "<p>1930 年代前半期，英國為維護和加強限制海軍軍備的國際條約體系付出了巨大的努力。這並不是因為英國嚮往和平，而是衰弱的大英帝國再也不是海上霸主。1930 年和 1936 年於倫敦召開的兩次會議修改了《華盛頓條約》的條款，對戰艦的尺寸和武裝配備設下額外限制。除此之外，會議還通過了若干新限制，即刻適用於航空母艦、驅逐艦、潛水艇和所有巡洋艦。</p><p class=\"p_spacing\"> </p><p>之前達成的所有協議在很多方面都失去了效力。義大利拒絕簽署，日本則完全退出了海軍條約。就連自 1930 年代中期以來就致力於開放出海口岸的德國和蘇聯，也未能達成（基於華盛頓/倫敦條約體系的）雙邊協定。</p><p class=\"p_spacing\"> </p><p>然而，《倫敦海軍條約》對軍事造船業還是產生了重大影響。由於日本和義大利拒絕加入 1936 年的條約，美國、法國和英國新增一個附加條款，放寬了對允許建造之主力旗艦的排水量限制。主炮口徑限制也從 356 毫米提高到 406 毫米。不過，英國新設計和建造的 King George V 級主力艦卻遵循了之前的排水量限制並安裝 356 毫米火炮。而一貫沿襲快速主力艦概念發展的美國，在其新的 North Carolina 級和 South Dakota 級主力艦上成功裝備了 406 毫米主炮。但在此類型艦艇中，最平衡且符合條約限制的要數法國建造的 Richelieu 級艦艇。她們裝備了 380 毫米火炮，以此回應義大利新建造的 Littorio 級主力艦。最後在 1930 年代的後半段，德國憑藉其防護出色的 Bismarck 級主力艦，躍升成為少數擁有現代完整主力艦的國家之一。</p><p class=\"p_spacing\"> </p><p>巡洋艦的建造受倫敦條約的影響最大，因而產生了重型巡洋艦和輕型巡洋艦這兩種子類型艦艇。前者的建造最初受到限制，而後來則被完全禁止。這讓英國得以集中精力建造新一代擁有 152 毫米主炮的輕型巡洋艦：大英帝國需要大量此類艦艇。然而，日本造出了最強大的 Mogami 級和 Tone 級巡洋艦（其主炮為 155 毫米，但其實可輕易替換為 203 毫米主炮），促使美國海軍和英國皇家海軍提升其輕型巡洋艦的作戰能力。1930 年代最先進的重型巡洋艦或許要數法國單艘建造，獨一無二的 Algérie。而防護能力最強的是義大利的 Zara 級重型巡洋艦。在輕型巡洋艦中，法國的 La Galissonnière 級則被認為是成本和作戰效率最為平衡的艦艇。</p><p class=\"p_spacing\"> </p><p>驅逐艦方面，在 1930 年代後半期，除了強大的日本驅逐艦外，還出現了相當大型且武器精良的德國新式驅逐艦和快速的法國艦隊領艦。而美英兩國在考慮到了條約限制以及本國工業的具體情況後，其應對之策是大量製造在性能和武裝上較為遜色的輕型艦艇。</p><p class=\"p_spacing\"> </p><p>到了 1930 年代後期，條約限制已形同虛設。列強間僅靠外交禮節及和平時期的預算限制來避免公開的全面海軍軍備競賽。然而，隨著第二次世界大戰爆發，這些限制都被徹底遺棄了。</p>"
+
+msgid "IDS_PCZC011_BISMARCK_BISMARCK_DESCRIPTION"
+msgstr "<p>德國主力艦 Bismarck (1940 年首次服役) 的徽章，源自與艦艇名有關的首相 Otto von Bismarck 之家族紋章。</p><p class=\"p_spacing\"> </p><p>Bismarck 是由巡洋艦 Prinz Eugen 護衛著，而她唯一的海上行動就是強行進入大西洋來攻擊盟軍船團，但秘密行動並未沒有引起注意：艦艇被發現而後來就被英國人攔截。五月 24 日，丹麥海峽，Bismarck 的砲彈擊中了英國戰鬥巡洋艦 Hood 並造成她大爆炸。然而，Bismarck 也同樣受到了損傷且不得不放棄她的突圍任務。五月 26-27 日，有著航空團支援的皇家海軍聯合部隊使 Bismarck 失去動力並以火炮將她擊沉。</p>"
+
+msgid "IDS_PCZC012_BISMARCK_PRINZEUGEN_DESCRIPTION"
+msgstr "<p>Prinz Eugen 為 1940 年進入服役的 Admiral Hipper 級重型巡洋艦。艦艇徽章包含著用來命名該艦艇的著名 Prince Eugene of Savoy 標誌，為十七世紀晚期-十八世紀初期的奧地利指揮官。</p><p class=\"p_spacing\"> </p><p>Rhine 作戰期間 (1941 年五月)，該巡洋艦在突破進入大西洋以攔截盟軍船運期間護衛著 Bismarck。五月 24 日，Prinz Eugen 和該主力艦在丹麥海峽一起行動，隨後她和 Bismarck 分開以進行獨自一人的襲擊任務，但卻沒有獲得任何的成果。</p>"
+
+msgid "IDS_PCZC015_BISMARCK_NO1PHOTORECONUNIT_DESCRIPTION"
+msgstr "<p>Photographic Reconnaissance Unit No. 1 的徽章，是一支隸屬於皇家空軍的特殊飛行單位，其中一個主要工作就是追蹤德國海軍的戰艦動向。</p><p class=\"p_spacing\"> </p><p>1941 年五月 21 日，一架由飛官 Michael F. Suckling 所駕駛的 Spitfire PR Mk.VI 看見並拍下了位於挪威科斯峽灣中的德國主力艦 Bismarck 和巡洋艦 Prinz Eugen。這樣一來，就能證實艦艇已進入海域，而本土艦隊就能開始重新整編部隊來攔截侵入者。</p>"
+
+msgid "IDS_PCZC022_BISMARCK_MASHONA_DESCRIPTION"
+msgstr "<p>HMS Mashona 的徽章，一艘於 1939 年進入服役的 Tribal 級驅逐艦。該徽章描繪著南非馬沙納人的傳奇圖騰形象──辛巴威鳥。</p><p class=\"p_spacing\"> </p><p>1941 年五月，HMS Mashona 加入了一個大西洋船團的護衛艦隊。五月 24 日，召回艦艇來參加主力艦 Bismarck 的狩獵行動。HMS Mashona 和主力艦 Rodney 一直到五月 27 日都追在德國侵入者的後面，但因為缺乏燃料而不得不掉頭。隔天，她被派來幫助 Bismarck 的德國俯衝轟炸機給擊沉。</p>"
+
+msgid "IDS_PCZC026_BISMARCK_SHEFFIELD_DESCRIPTION"
+msgstr "<p>HMS Sheffield 是一艘於 1937 年進入服役的 Town 級輕型巡洋艦。艦艇徽章的設計是源自用來命名巡洋艦的雪菲爾市紋章。</p><p class=\"p_spacing\"> </p><p>1941 年五月 23 日，HMS Sheffield 和 H 部隊一起離開直布羅陀去參與摧毀 Bismarck 的行動。五月 26 日，在旗艦長官 Somerville 中將的命令下，將德國侵入艦艇維持在雷達的偵測範圍內，並將她的位置用無線電傳送給 Ark Royal 的飛機，從而對該主力艦造成重大的損傷。</p>"
+
+msgid "IDS_PCZC027_BISMARCK_TARTAR_DESCRIPTION"
+msgstr "<p>HMS Tartar 是一艘在 1939 年進入服役的皇家海軍 Tribal 級驅逐艦。該艦艇是以生活在俄羅斯的韃靼人來命名，這是皇家海軍自十九世紀中葉以來的傳統，而且該艦艇的徽章也呼應了她的名稱。</p><p class=\"p_spacing\"> </p><p>1941 年五月，HMS Tartar 隨同主力艦 Rodney 和驅逐艦 Somali 及 Mashona 擔任著一支大西洋船團的護衛艦隊。五月 24 日，解除了護衛工作並加入 Bismarck 的狩獵行動。HMS Tartar 追在德國侵入者的後方並一直追擊她到五月 27 日早上沉沒為止。在返回基地的航程上，驅逐艦擊退了德國俯衝轟炸機的攻擊並且把被她們擊毀的 HMS Mashona 的乘員給救上來。</p>"
+
+msgid "IDS_PCZC032_BISMARCK_PRINCEOFWALES_DESCRIPTION"
+msgstr "<p>Prince of Wales 為皇家海軍 King George V 級主力艦。於 1941 年首次服役。艦艇徽章描繪著以英格蘭守護聖人聖喬治十字為背景的 Prince of Wales 紋章元素。</p><p class=\"p_spacing\"> </p><p>1941 年五月 22 日，該艦艇作為中將 Holland 聯合部隊一份子被派往攔截德國主力艦 Bismarck。Prince of Wales 在五月 24 日於丹麥海峽發生的戰鬥中受到損害並且必須中止行動，不過也成功命中了 Bismarck，使德國主力艦必須得放棄她的突破計畫。</p>"
+
+msgid "IDS_PCZC038_DUNKIRK_DEFIANTF1_DESCRIPTION"
+msgstr "<p>配有四挺 7.7 mm Browning 機槍的雙人座戰鬥機，飛行員駕駛座後面有一個可旋轉的航空機槍手炮塔。它是根據戰前的慣例所設計，用來擊毀在無人護航下以緊密隊形移動的遠程轟炸機。機動交戰不是 Defiant 的工作。它是跟經典的 Hurricane 戰鬥機協同作戰，擁有類似的外觀和特性：起飛重量為 3,900 公斤、引擎功率為 1,030 匹馬力、最高航速為 498 公里/時。</p><p class=\"p_spacing\"> </p><p>Defiant Mk I 於 1939 年十二月開始服役。在敦克爾克戰鬥中，第 264 戰鬥機航空隊有 18 架飛機活躍於其中。它們能夠擊落轟炸機，但對上 Me 109E 卻沒有優勢，所以大部分的飛機都被擊毀了。</p>"
+
+msgid "IDS_PCZC053_YAMAMOTO_LIEUTENANT_COMMANDER_DESCRIPTION"
+msgstr "<p>1916 年，一名前途無量的年輕軍官，Takano Isoroku 中尉，被過繼到 Yamamoto 氏族並繼承了舉世知名的姓氏。這種做法在日本很常見。富有且具影響力的 Yamamoto 氏族並沒有男性子嗣，且 Takano 還有幾位年長的 Isoroku 兄弟，因此沒什麼機會成為 Takano 家族的當家。</p><p class=\"p_spacing\"> </p><p>成功地從海軍大學校畢業後，Yamamoto Isoroku 在 1916 年十二月被指派到第二艦隊總部。巡邏東南亞附近的水域和打擊進犯的德國巡洋艦是該戰隊的主要目標。</p>"
+
+msgid "IDS_PCZC073_YAMAMOTO_TAISHO_MEDAL_DESCRIPTION"
+msgstr "<p>Yoshihito 天皇於 1912 年他的父親逝世後登基。他在位期間的座右銘和年號為大正，「偉大的正義」。該登基儀式僅在 1915 年舉行。在準備他的繼承王位期間頒布了詔書，為儀式的參加者設立紀念勳章。該勳章由銀所製成。它的正面刻畫了紋章符號、交叉的柑桔和櫻花樹枝、以及一張具有祝賀銘文的布。</p><p class=\"p_spacing\"> </p><p>當新的天皇繼承王位時，當時正在海軍大學校念書的 Takano Isoroku 獲得一枚紀念勳章，並晉升為中尉指揮官。</p>"
+
+msgid "IDS_PCZC074_YAMAMOTO_SEVA_DESCRIPTION"
+msgstr "<p>1926 年十二月，Hirohito 天皇登上王位。他的座右銘和王位名稱在統治時期為昭和，「百姓昭明，協和萬邦」。諷刺的是，他在位期間日本陷入它史上最血腥的戰爭。該登基儀式於 1928 年十一月在日本的前首都──京都舉行。根據傳統要求，為典禮的參加者設立了一枚勳章。它由銀所製成，其正面刻畫了被雲彩圍繞的王位──幸運的象徵──並被櫻花和柑桔樹環繞。</p><p class=\"p_spacing\"> </p><p>1928 年十一月，從擔任了幾年海軍武官的美國返國後不久，官拜大尉階級的 Yamamoto Isoroku 被派去指揮輕型巡洋艦 Isuzu。隨著時間過去，富有才華的海軍指揮官贏得了天皇的青睞及支持，因欣賞 Yamamoto 的專業能力和對其事業強烈的責任感。</p>"
+
+msgid "IDS_PCZC077_YAMAMOTO_KITAKAMI_DESCRIPTION"
+msgstr "<p>日本在第一次世界大戰結束時開發了 Kuma 級輕型巡洋艦，以抗衡由美國建造的 Omaha 級巡洋艦。Kitakami 是該系列的第四艘艦艇。服役時，該艦艇擁有 5,500 噸的排水量，和超過 35 節的航行速度。艦艇的主要武器由七門 140 毫米火炮和四座 533 毫米雙聯魚雷發射管構成。</p><p class=\"p_spacing\"> </p><p>1921 年 8 月，以軍方武官的身分從美國回國後，指揮官 Yamamoto 被指派到最近才服役的 Kitakami 輕型巡洋艦上擔任高級軍官。這位才華洋溢的軍官職業生涯發展迅速，轉換職位的速度相當快。而因此在 1921 年 12 月，僅僅過了四個月後，Yamamoto 就被任命為他在多年之前畢業的日本海軍大學校之講師。</p>"
+
+msgid "IDS_PCZC082_YAMAMOTO_MUSASHI_DESCRIPTION"
+msgstr "<p>Yamato 的姐妹艦在 1938 年建造，並在 1942 年夏天服役。該艦排水量超過 63,000 噸，其中三分之二是它保護裝甲的重量。主力艦的主炮組包含世界上最強大的海軍火炮，亦即九座 460 毫米火炮。後來在兩艘艦艇懸掛過他的旗幟的 Yamamoto，在海軍部服役期間考慮到資源支出的不合理，反對建造非常昂貴的龐然大物 Misashi 和 Yamato。</p><p class=\"p_spacing\"> </p><p>1943 年二月，Musashi 抵達特魯克群島上主要的日本海軍基地。全新的主力艦特別配備了專門的旗艦。因此 Yamamoto 在她抵達後馬上把他的旗幟交給 Musashi。幾週之後，海軍上將開始拉包爾的命運之旅。1943 年五月，Yamamoto 殞命後的骨灰被帶到他在日本最後的旗艦上，Musashi 主力艦。</p>"
+
+msgid "IDS_PCZC118_NY2018_Z29_SHIP_DESCRIPTION"
+msgstr "<p>除了 Scharnhorst 之外，1943 年十二月曾在北極海域作戰的德國海軍部隊，還包含了由五艘艦艇組成的第四驅逐艦區艦隊。其中兩艘──Z-29 和 Z-30──為 1936A 艦級；剩下三艘──Z-33、Z-34、及 Z-38──則被歸為 1936A (Mob)。所有這些艦艇都裝備了四到五門的 149 毫米艦炮以及兩門 533 毫米四聯裝魚雷發射管。她們的最高航速可達 37 節。</p><p class=\"p_spacing\"> </p><p>1943 年十二月 26 日的早上，搜尋盟軍船團時由於暴風雨氣候和北極的夜晚條件，這些驅逐艦就在首次接觸到英國艦艇前失去了自己旗艦的蹤影。幾小時後，德國海軍部隊的指揮官海軍少將 Bey 命令她們返回基地。在接下來的戰鬥中，Scharnhorst 獨自一人並且沉沒。那些驅逐艦可能會嚴重干擾英國部隊的行動，以及為主力艦提供一個擺脫陷阱的機會，甚至不用面對敵人就能安全地返回挪威的狹灣。</p>"
+
+msgid "IDS_PCZC188_AA_127MM_MARK5_6_DESCRIPTION"
+msgstr "<p>5 英寸火炮（127 毫米）在美國海軍中非常受歡迎，127 毫米（Mark 1）火炮首次出現在 1880 年代的美國海軍巡洋艦上，到了 1901 年，一種新型的 5 英寸長炮管 Mark 5 火炮被研發出來，幾年之後，更研發出了小幅改良過的 Mark 6。儘管如此，所有的裝填都依靠手動，Mark5/6 火炮可以每分鐘射擊 6 到 8 枚重達 22 到 27 公斤的 AP 彈。</p><p class=\"p_spacing\"> </p><p>127 毫米 Mark 5/6 火炮為 Chester 級輕型巡洋艦的主要火炮，同時也是 Delaware 級主力艦的副炮，除此之外，這些火炮也裝備到更舊型的艦艇上。舉例來說，在 1904 年到 1907 年之間，巡洋艦 Albany 裝備十門 127 毫米火炮以取代英製 152 毫米和 120 毫米火炮。</p><p class=\"p_spacing\"> </p><p>在 1910 年代，Mark 5/6 被擁有高穿透力和高射速的 127 毫米 Mark 7/8 火炮取代，然而就算在第二次世界大戰期間，仍然可以看到少許輔助船艦和沿海炮艦上裝備 Mark 5/6 火炮。</p>"
+
+msgid "IDS_PCZC222_AA_STOREKEEPER_DESCRIPTION"
+msgstr "<p>補給管理員或庫存管理員（軍需品管理員）階級自1916年至2009年存在於美國海軍。軍需品管理員的職責包含儲存、發放和補充庫存在船隻中無數儲存設備的各種設備、工具和消耗品。</p><p class=\"p_spacing\"> </p><p>該階級的徽章包含兩把交叉的鑰匙。直到1916年，這個標誌都被用來代表船上的書記。軍需品管理員的袖徽被穿戴在左袖上。</p>"
+
+msgid "IDS_PCZC262_TARIGO1941_DESCRIPTION"
+msgstr "<p>對皇家海軍來說最艱困的戰區之一是地中海。戰鬥紀錄不斷報導重大失敗和令人印象深刻的勝利。在Kerkennah群島發生的如此一次勝利是擊潰前往北非的義大利—德國船團，它們帶著Rommel將軍的增援。這支船團將以Tarigo為名留名史籍，以護送船團的旗艦義大利驅逐艦為名。</p><p class=\"p_spacing\"> </p><p>1941年4月15日，英國航空偵察發現了幾艘朝南的敵軍運輸艦，伴隨三艘驅逐艦。來自馬耳他攔截輸送船隊的部隊被稱為「K」，其中包括兩艘J級和兩艘Tribal級驅逐艦。部隊由艦長(D) Philip Mack率領，將他的三角旗掛在HMS Jervis上。在4月16日凌晨，英國驅逐艦突然出現在毫無戒心的船團旁，迅速將戰鬥變成了手槍射程距離的戰鬥。來自護航隊的三艘義大利驅逐艦抵抗猛烈的攻擊，但它們面對28門120毫米英國炮顯得無用。以受到近距離的魚雷擊中失去一艘艦艇為代價，部隊K將整個船團—三艘驅逐艦和五艘運輸艦—送到海底，剝奪了對Rommel將軍來說非常有價值的1,700名士兵和幾千噸物資。</p>"
+
+msgid "IDS_PCZC353_SOVIETBBARC_COMMANDER_CRUISER_DESCRIPTION"
+msgstr "<p>1935年，Nikolay Gerasimovich Kuznetsov已經是一名經驗豐富的水手。他在1926年從學院畢業開始服役後的一年多以來，一直在指揮巡洋艦Chervona Ukraina。他是一位才華洋溢、忠誠的指揮官，全力以赴地投入精力改善艦艇的戰鬥訓練。他受到指揮官們的高度評價，並受到船員的尊重。1935年秋季，當革命後廢除的特殊階級被引進到軍事人員時，31歲的Nikolay Kuznetsov晉升為Kapitan 2 Ranga（海軍中校）。</p><p class=\"p_spacing\"> </p><p>海軍著裝指示在1934年嚴格規定軍事人員應根據情況穿著的制服和軍需品。根據這些指示，黑海艦隊指揮官可以在特休假期間沿著岸邊炫耀他的海軍大衣、白色長褲和白色鞋子。帶有一顆星星的四條金色緞帶裝飾著海軍中校的袖子。</p>"
+
+msgid "IDS_PCZC420_KOTS_WINNER_DESCRIPTION"
+msgstr "<p>吾王萬歲！</p><p class=\"p_spacing\"> </p><p>只有一支隊伍能夠加冕。那將是一支由王者們組成的隊伍。</p><p class=\"p_spacing\"> </p><p>他們目光所及盡是榮耀（當然也包括一大堆的鋼鐵）。耳邊傳來的盡是如雷的掌聲。感受到的盡是勝利的美妙滋味。</p><p class=\"p_spacing\"> </p><p>不過這一切滿足感將在下一季賽事展開時告終，他們需要再次大顯身手，在強強對決中捍衛榮銜。</p>"
+
+msgid "IDS_PCZC421_KOTS_WAITING_DESCRIPTION"
+msgstr "<p>「等一下！我吃完午餐馬上就來...」</p><p class=\"p_spacing\"> </p><p>當隊伍中一半的成員都在找他時，他正在閱讀艦艇指南，淡定地享用著他最愛的雞肉餐。</p>"
+
+msgid "IDS_PCZC423_KOTS_BUGMAN_DESCRIPTION"
+msgstr "<p>「可是我昨天測試時，一切都運作正常！我發誓！」</p><p class=\"p_spacing\"> </p><p>昨天可能還好，但今天是完全不一樣的日子。他們忘了安裝最新版本的客戶端更新；電腦在執行診斷控制程式時突然燒了起來... 哦，他們還一不小心刪除了網際網路。</p><p class=\"p_spacing\"> </p><p>總有人被技術問題困擾著。</p>"
+
+msgid "IDS_PCZC424_KOTS_ORGBOSS_DESCRIPTION"
+msgstr "<p>每天肩負著重任的幕後功臣。</p><p class=\"p_spacing\"> </p><p>每個伺服器都有一群志願玩家在規劃「King of the Sea」活動。訂日期、制定規則，並確保比賽日一切順利進行，這些都只是他們一小部分的職責。</p>"
+
+msgid "IDS_PCZC425_KOTS_REFEREE1_DESCRIPTION"
+msgstr "<p>「A 組請注意：比賽將在 5 分鐘後開始！你們最好做好準備，否則將被取消資格」</p><p class=\"p_spacing\"> </p><p>裁判員和志願者協助舉辦「King of the Sea」活動。他們確保各隊伍知道對戰的對手、地點與時間等詳情。他們也負責處理隊伍之間的一些小衝突。其中有些裁判員很享受在隊伍違規時祭出鞭子。</p><p class=\"p_spacing\"> </p><p>有了這些裁判員，您只要起心動念想要在聊天中輸入您的第一個笑話，就會受到第二次的警告！但好的一面是，比賽一定會準時開始！</p>"
+
+msgid "IDS_PCZC426_KOTS_REFEREE2_DESCRIPTION"
+msgstr "<p>「我當然很樂意為您解釋如何建立訓練房。不，還是讓我幫您建立吧！」</p><p class=\"p_spacing\"> </p><p>裁判員和志願者協助舉辦「King of the Sea」活動。他們確保各隊伍知道對戰的對手、地點與時間等詳情。他們也負責處理隊伍之間的一些小衝突。其中有些裁判員會傾力保護他們被指派協助的隊伍。</p><p class=\"p_spacing\"> </p><p>仁慈的裁判員會很樂意將開始時間推遲 10 分鐘，然後再延遲 10 分鐘，再 10 分鐘...</p>"
+
+msgid "IDS_PCZC427_KOTS_STREAMER_DESCRIPTION"
+msgstr "<p>「無數砲彈在天空中飛舞。戰況十分激烈！」</p><p class=\"p_spacing\"> </p><p>自賽事開始舉辦以來，實況主們就以他們娛樂性十足的解說，讓「King of the Sea」活動越來越受歡迎。</p><p class=\"p_spacing\"> </p><p>致那些在直播中失聲、忘了開麥克風、衝撞其他實況主後卻未能沉沒、公平支持所有隊伍（儘管對他們喜歡的隊伍更加「公平」一些）... 還有忘了切換場景，直到在聊天時才大夢初醒的實況主們。</p><p class=\"p_spacing\"> </p><p>感謝你們在遊戲中的精彩獻聲！</p>"
+
+msgid "IDS_PCZC431_KOTS_DETONATION_DESCRIPTION"
+msgstr "<p>「但我有安裝旗幟！我很確定！我應該有…」</p><p class=\"p_spacing\"> </p><p>您是否忘了開啟自動補充信號旗的選項？又或是您在艦艇上安裝了一個特定信號旗，但您的艦長卻要您選另一個？還是您在隨機戰鬥中把所有信號旗都用完了？</p><p class=\"p_spacing\"> </p><p>坦白說吧，我們都知道信號旗應該留在最後的決戰中使用，如果它們並未在訓練房中用完的話。</p>"
+
+msgid "IDS_PCZC434_KOTS_HINDEN_DESCRIPTION"
+msgstr "<p>2017 年來電話，說想要重新再來。</p><p class=\"p_spacing\"> </p><p>作為其中一艘最多功能、像坦克般的巡洋艦，Hindenburg 曾是首幾季 X 階「King of the Sea」活動和公會戰鬥中最受歡迎的艦艇。當時隊伍中常會出現三或四艘這型艦艇同時上場。</p><p class=\"p_spacing\"> </p><p>玩家們喜歡她良好的每秒平均傷害、不錯的造成起火機率、厚實的裝甲，以及德國的「水底搜索」消耗品！這也就是為什麼她總是專業玩家們的首選（且這與當時大多數玩家只擁有一艘 X 階艦艇無關）。</p><p class=\"p_spacing\"> </p><p>她的領頭羊地位後來被 Henri IV 所取代。</p>"
+
+msgid "IDS_PCZC435_KOTS_HENRI_DESCRIPTION"
+msgstr "<p>WWWW SSSS WWWW SSSS</p><p class=\"p_spacing\"> </p><p>在首幾個賽季中，Hindenburg 被認為是遊戲中最多功能的艦艇之一，深受錦標賽參加者們的喜愛。</p><p class=\"p_spacing\"> </p><p>但隨著時間過去，她的領頭羊地位被法國巡洋艦 Henri IV 所取代。</p><p class=\"p_spacing\"> </p><p>在競賽和隨機戰鬥等模式中，經常可以見到 Henri IV 勇敢地把舷側面向主力艦來航行，持續地加速或踩剎。</p><p class=\"p_spacing\"> </p><p>但是遊戲不斷演變，可沒有時間放鬆懈怠或不求進取。您覺得錦標賽的下一個寵兒會是哪艘艦艇呢？</p>"
+
+msgid "IDS_PFSD508_DESCR"
+msgstr "<p>Le Fantasque 級驅逐艦 Le Terrible，在第二次世界大戰初期負責在大西洋護衛船團和搜索德國破襲艦，後來轉移至阿爾及利亞對抗義大利艦隊。Le Terrible 在彈弓行動期間和戰鬥巡洋艦 Dunkerque 一同突圍到土倫。1942 年，此驅逐艦轉移至達卡。此艦艇參與了在義大利和法國南部的登陸行動。</p>"
+
+msgid "IDS_PGSC529_DESCR"
+msgstr "<p>在吸取了第一次世界大戰的經驗後，建造大型水面破襲艦的概念在 1920 年代末於德國出現。這些計畫考慮到英國有意在即將到來的海軍會議中，提出對主力艦武器施加 305 毫米口徑上限的建議。根據所提出的設計，標準排水量介於 17,500 噸和 25,000 噸之間，武器由四座安置八門 305 毫米火炮的炮塔組成，輔以強大的 150 毫米副炮。裝甲以主力艦而言相當輕薄，反魚雷防護也是如此。</p>"
+
+msgid "IDS_RANKED_REWARDS_TOOLTIP_DESC"
+msgstr "<p>若在衝刺回合結束時您未能晉級，那麼您將返回到聯賽的初始排名，並可再次獲取所有獎勵。</p><p class=\"p_spacing\"> </p><p>如果您在戰鬥中表現出不符合體育道德的行為，勝利將不會計入您獲得獎勵的進度。</p>"
+
+msgid "IDS_STRATEGIC_ACTIONS_CONDITION_REF_SQUAD_CAPTURE_RIBBONS_DESCRIPTION"
+msgstr "<p>在分艦隊中一同作戰時，招募員和艦友必須共獲得至少 4 個「佔領」或「協助佔領」勛帶。</p><p class=\"p_spacing\"> </p><p>在單場戰鬥中完成。</p>"
+
+msgid "IDS_TIPS_AIR_DEFENSE_DESCRIPTION"
+msgstr "<p>對空防禦和副炮會自動開火。</p><p class=\"p_spacing\"> </p><p>為防止曳光彈在煙幕中暴露您的位置，您可以用 [CMD_SWITCH_ATBA_AIRDEFENSE] 鍵關閉防空和副炮。</p>"
+
+msgid "IDS_TIPS_ARM_TORPEDO_ALTERNATIVE_DESCRIPTION"
+msgstr "<p>您可直接在戰鬥中切換不同的魚雷類型。</p><p class=\"p_spacing\"> </p><p>按下 [CMD_AMMO_SLOT_4] 可使用替代魚雷。</p><p class=\"p_spacing\"> </p><p>切換至不同的魚雷類型需要額外的時間。</p>"
+
+msgid "IDS_TIPS_ARTILLERY_BURST_FIRE_DESCRIPTION"
+msgstr "<p>「連發射擊」替代射擊模式可提高主炮射速，使您能在短時間內多次射擊。</p><p class=\"p_spacing\"> </p><p>但每次連續齊射後的裝填時間較長。</p><p class=\"p_spacing\"> </p><p>按下 [CMD_TOGGLE_FIRE_MODE] 可切換射擊模式。</p>"
+
+msgid "IDS_TIPS_MODULES_DESCRIPTION"
+msgstr "<p>艦艇配件可以被癱瘓。</p><p class=\"p_spacing\"> </p><p>使用傷害控制小組消耗品來立即恢復受損的配件。</p>"

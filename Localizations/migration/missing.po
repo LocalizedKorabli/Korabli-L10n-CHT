@@ -1,0 +1,1972 @@
+#
+msgid ""
+msgstr ""
+
+msgid "IDS_AMELIA_WATSON"
+msgstr " "
+
+msgid "IDS_AOGAS_RESET_PENALTY"
+msgid_plural "IDS_AOGAS_RESET_PENALTY"
+msgstr[0] ""
+"Вы отсутствовали в игре более %(hours)s часа. Кредиты и опыт за бой снова "
+"начисляются в полном размере."
+
+msgid "IDS_ARC_EVENT_POINTS_COST"
+msgid_plural "IDS_ARC_EVENT_POINTS_COST"
+msgstr[0] "Необходимо получить %(points)s очко"
+
+msgid "IDS_ARC_EVENT_POINTS_LEFT"
+msgid_plural "IDS_ARC_EVENT_POINTS_LEFT"
+msgstr[0] "Осталось получить %(points)s очко"
+
+msgid "IDS_AZUR_CHESHIRE"
+msgstr " "
+
+msgid "IDS_AZUR_COLORADO"
+msgstr " "
+
+msgid "IDS_AZUR_PRINZ_HEINRICH"
+msgstr " "
+
+msgid "IDS_BATTLEPASS_CREDITS_EXCHANGE_SALE"
+msgid_plural "IDS_BATTLEPASS_CREDITS_EXCHANGE_SALE"
+msgstr[0] "До завершения действия: %(_days)s день"
+
+msgid "IDS_BATTLES_TO_NEXT_STEP"
+msgid_plural "IDS_BATTLES_TO_NEXT_STEP"
+msgstr[0] "Остался %(battles)s бой"
+
+msgid "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
+msgid_plural "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
+msgstr[0] "корабль повреждён"
+
+msgid "IDS_BATTLE_STATS_COUNT_ENEMY_FIND"
+msgid_plural "IDS_BATTLE_STATS_COUNT_ENEMY_FIND"
+msgstr[0] "противник обнаружен"
+
+msgid "IDS_BATTLE_STATS_COUNT_HELP_KILL"
+msgid_plural "IDS_BATTLE_STATS_COUNT_HELP_KILL"
+msgstr[0] "уничтожен с вашей помощью"
+
+msgid "IDS_BATTLE_STATS_COUNT_HL_OUTOFACTION"
+msgid_plural "IDS_BATTLE_STATS_COUNT_HL_OUTOFACTION"
+msgstr[0] "модуль выведен из строя"
+
+msgid "IDS_BATTLE_STATS_COUNT_KILLED_SHIPS"
+msgid_plural "IDS_BATTLE_STATS_COUNT_KILLED_SHIPS"
+msgstr[0] "корабль уничтожен"
+
+msgid "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
+msgid_plural "IDS_BATTLE_STATS_COUNT_PLANE_KILLED"
+msgstr[0] "самолёт уничтожен"
+
+msgid "IDS_COMPENSATION_DAYS"
+msgid_plural "IDS_COMPENSATION_DAYS"
+msgstr[0] "%(days)s день"
+
+msgid "IDS_CP_REWARD_FOR_HOLDING"
+msgid_plural "IDS_CP_REWARD_FOR_HOLDING"
+msgstr[0] "+ %s каждую %s %s"
+
+msgid "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
+msgid_plural "IDS_CREW_HIRE_TYPE_DESCRIPTION_PAID_PL"
+msgstr[0] "+%(_amount)s очко навыков</body>"
+
+msgid "IDS_CREW_SKILL_MEASURE_BOMBER"
+msgid_plural "IDS_CREW_SKILL_MEASURE_BOMBER"
+msgstr[0] " бомбардировщик"
+
+msgid "IDS_CREW_SKILL_MEASURE_CHARGE"
+msgid_plural "IDS_CREW_SKILL_MEASURE_CHARGE"
+msgstr[0] " дополнительный заряд"
+
+msgid "IDS_CREW_SKILL_MEASURE_FIGHTER"
+msgid_plural "IDS_CREW_SKILL_MEASURE_FIGHTER"
+msgstr[0] " штурмовик"
+
+msgid "IDS_CREW_SKILL_MEASURE_SMOKE_CHARGE"
+msgid_plural "IDS_CREW_SKILL_MEASURE_SMOKE_CHARGE"
+msgstr[0] " дымовой заряд"
+
+msgid "IDS_CREW_SKILL_MEASURE_TORPEDO_BOMBER"
+msgid_plural "IDS_CREW_SKILL_MEASURE_TORPEDO_BOMBER"
+msgstr[0] " торпедоносец"
+
+msgid "IDS_CREW_SKILL_POINTS"
+msgid_plural "IDS_CREW_SKILL_POINTS"
+msgstr[0] "%(count)d очко"
+
+msgid "IDS_DAVE_MUSTAINE"
+msgstr " "
+
+msgid "IDS_DESCRIPTION_DAMAGE_SHIPS"
+msgid_plural "IDS_DESCRIPTION_DAMAGE_SHIPS"
+msgstr[0] "урона любого типа кораблям противника"
+
+msgid "IDS_GAULU"
+msgstr " "
+
+msgid "IDS_HANS"
+msgstr " "
+
+msgid "IDS_HOSHINOVA_MOONA"
+msgstr " "
+
+msgid "IDS_HP_SECOND"
+msgid_plural "IDS_HP_SECOND"
+msgstr[0] " очко боеспособности в секунду"
+
+msgid "IDS_MICHAL_MILOWICZ"
+msgstr " "
+
+msgid "IDS_MURAT_SEREZLI"
+msgstr " "
+
+msgid "IDS_NATU"
+msgstr " "
+
+msgid "IDS_OPENED_LOOTBOXES"
+msgid_plural "IDS_OPENED_LOOTBOXES"
+msgstr[0] "Открыт %(count)d контейнер"
+
+msgid "IDS_OWNED_LOOTBOXES"
+msgid_plural "IDS_OWNED_LOOTBOXES"
+msgstr[0] "У вас %(lootboxesCount)d контейнер"
+
+msgid "IDS_PAES405_MEGADETH_MARBLEHEAD"
+msgstr " "
+
+msgid "IDS_PASC505"
+msgstr " "
+
+msgid "IDS_PASC505_FULL"
+msgstr " "
+
+msgid "IDS_PASC505_NUMBER"
+msgstr " "
+
+msgid "IDS_PBES409_NEPTUNE_AZUR"
+msgstr " "
+
+msgid "IDS_PBES438_CHESHIRE_AZUR"
+msgstr " "
+
+msgid "IDS_PBSC558"
+msgstr " "
+
+msgid "IDS_PBSC558_FULL"
+msgstr " "
+
+msgid "IDS_PBSC558_NUMBER"
+msgstr " "
+
+msgid "IDS_PCEC129_HOLOLIVE_CAMO"
+msgstr " "
+
+msgid "IDS_PCEE515_HOLOLIVE_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE611_BLUTO_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE612_POPEYE_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE619_COFFEE_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE624_ASUS_ROG_FLAG"
+msgstr " "
+
+msgid "IDS_PCEE634_MEGADETH_FLAG"
+msgstr " "
+
+msgid "IDS_PCQT003_1"
+msgid_plural "IDS_PCQT003_1"
+msgstr[0] ""
+"Попадите по кораблям противника корабельными торпедами %(count)s раз."
+
+msgid "IDS_PCQT007_1"
+msgid_plural "IDS_PCQT007_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT011_1"
+msgid_plural "IDS_PCQT011_1"
+msgstr[0] "Подожгите корабли противника %(count)s раз."
+
+msgid "IDS_PCQT012_1"
+msgid_plural "IDS_PCQT012_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT014_1"
+msgid_plural "IDS_PCQT014_1"
+msgstr[0] "Уничтожьте %(count)s корабль."
+
+msgid "IDS_PCQT016_1"
+msgid_plural "IDS_PCQT016_1"
+msgstr[0] "Вызовите %(count)s затопление на корабле противника."
+
+msgid "IDS_PCQT033_1"
+msgid_plural "IDS_PCQT033_1"
+msgstr[0] ""
+"Попадите по кораблям противника %(count)s раз из орудий вспомогательного "
+"калибра."
+
+msgid "IDS_PCQT035_1"
+msgid_plural "IDS_PCQT035_1"
+msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
+
+msgid "IDS_PCQT037_1"
+msgid_plural "IDS_PCQT037_1"
+msgstr[0] ""
+"Попадите по кораблям противника %(count)s раз из орудий главного или "
+"вспомогательного калибра."
+
+msgid "IDS_PCQT039_1"
+msgid_plural "IDS_PCQT039_1"
+msgstr[0] ""
+"Повредите %(count)s установку главного калибра на корабле противника."
+
+msgid "IDS_PCQT045_1"
+msgid_plural "IDS_PCQT045_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT048_1"
+msgid_plural "IDS_PCQT048_1"
+msgstr[0] "Уничтожьте %(count)s эсминец противника."
+
+msgid "IDS_PCQT049_1"
+msgid_plural "IDS_PCQT049_1"
+msgstr[0] "Уничтожьте %(count)s крейсер противника."
+
+msgid "IDS_PCQT050_1"
+msgid_plural "IDS_PCQT050_1"
+msgstr[0] "Уничтожьте %(count)s линкор противника."
+
+msgid "IDS_PCQT051_1"
+msgid_plural "IDS_PCQT051_1"
+msgstr[0] "Сбейте %(count)s самолёт противника."
+
+msgid "IDS_PCQT053_1"
+msgid_plural "IDS_PCQT053_1"
+msgstr[0] ""
+"Попадите по кораблям противника %(count)s раз из любых видов вооружения."
+
+msgid "IDS_PCQT062_1"
+msgid_plural "IDS_PCQT062_1"
+msgstr[0] "Уничтожьте %(count)s корабль V уровня или выше."
+
+msgid "IDS_PCQT064_1"
+msgid_plural "IDS_PCQT064_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT065_1"
+msgid_plural "IDS_PCQT065_1"
+msgstr[0] ""
+"Попадите %(count)s раз ракетами, авиабомбами или авиаторпедами по кораблям "
+"противника."
+
+msgid "IDS_PCQT066_1"
+msgid_plural "IDS_PCQT066_1"
+msgstr[0] "Получите %(count)s индивидуальное героическое достижение."
+
+msgid "IDS_PCQT067_1"
+msgid_plural "IDS_PCQT067_1"
+msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+
+msgid "IDS_PCQT068_1"
+msgid_plural "IDS_PCQT068_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT075_1"
+msgid_plural "IDS_PCQT075_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT076_1"
+msgid_plural "IDS_PCQT076_1"
+msgstr[0] ""
+"Попадите по кораблям противника из орудий главного или вспомогательного "
+"калибра %(count)s раз."
+
+msgid "IDS_PCQT078_1"
+msgid_plural "IDS_PCQT078_1"
+msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
+
+msgid "IDS_PCQT079_1"
+msgid_plural "IDS_PCQT079_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT081_1"
+msgid_plural "IDS_PCQT081_1"
+msgstr[0] ""
+"Уничтожьте %(count)s корабль противника огнём орудий главного или "
+"вспомогательного калибра."
+
+msgid "IDS_PCQT084_1"
+msgid_plural "IDS_PCQT084_1"
+msgstr[0] "Сбейте %(count)s самолёт противника."
+
+msgid "IDS_PCQT086_1"
+msgid_plural "IDS_PCQT086_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT093_1"
+msgid_plural "IDS_PCQT093_1"
+msgstr[0] "Вызовите %(count)s затопление на линкорах противника."
+
+msgid "IDS_PCQT094_1"
+msgid_plural "IDS_PCQT094_1"
+msgstr[0] ""
+"Уничтожьте %(count)s корабль противника огнём орудий главного или "
+"вспомогательного калибра."
+
+msgid "IDS_PCQT095_1"
+msgid_plural "IDS_PCQT095_1"
+msgstr[0] "Повредите %(count)s модуль на эсминце или крейсере противника."
+
+msgid "IDS_PCQT096_1"
+msgid_plural "IDS_PCQT096_1"
+msgstr[0] "Подожгите линкор или авианосец противника %(count)s раз."
+
+msgid "IDS_PCQT097_1"
+msgid_plural "IDS_PCQT097_1"
+msgstr[0] "Попадите %(count)s раз в цитадель крейсера или линкора противника."
+
+msgid "IDS_PCQT101_1"
+msgid_plural "IDS_PCQT101_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT105_1"
+msgid_plural "IDS_PCQT105_1"
+msgstr[0] ""
+"Уничтожьте %(count)s корабль противника, оставаясь в живых до конца боя."
+
+msgid "IDS_PCQT106_1"
+msgid_plural "IDS_PCQT106_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT112_1"
+msgid_plural "IDS_PCQT112_1"
+msgstr[0] ""
+"Попадите %(count)s раз по кораблям противника из орудий главного или "
+"вспомогательного калибра."
+
+msgid "IDS_PCQT113_1"
+msgid_plural "IDS_PCQT113_1"
+msgstr[0] "Подожгите корабль противника %(count)s раз."
+
+msgid "IDS_PCQT114_1"
+msgid_plural "IDS_PCQT114_1"
+msgstr[0] "Повредите %(count)s установку ПВО на корабле противника."
+
+msgid "IDS_PCQT115_1"
+msgid_plural "IDS_PCQT115_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT122_1"
+msgid_plural "IDS_PCQT122_1"
+msgstr[0] ""
+"Получите %(count)s ленту «Стратегический вклад» или «Тактический вклад»."
+
+msgid "IDS_PCQT123_1"
+msgid_plural "IDS_PCQT123_1"
+msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
+
+msgid "IDS_PCQT124_1"
+msgid_plural "IDS_PCQT124_1"
+msgstr[0] ""
+"Одержите победу в %(count)s бою, при этом войдите в топ-3 своей команды "
+"по количеству заработанного опыта."
+
+msgid "IDS_PCQT126_1"
+msgid_plural "IDS_PCQT126_1"
+msgstr[0] "Уничтожьте %(count)s линкор противника."
+
+msgid "IDS_PCQT127_1"
+msgid_plural "IDS_PCQT127_1"
+msgstr[0] ""
+"Попадите по крейсерам противника %(count)s раз из любых видов вооружения."
+
+msgid "IDS_PCQT128_1"
+msgid_plural "IDS_PCQT128_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT129_1"
+msgid_plural "IDS_PCQT129_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT130_1"
+msgid_plural "IDS_PCQT130_1"
+msgstr[0] ""
+"Попадите по кораблям противника корабельными или авиаторпедами "
+"%(count)s раз."
+
+msgid "IDS_PCQT132_1"
+msgid_plural "IDS_PCQT132_1"
+msgstr[0] ""
+"Уничтожьте %(count)s корабль противника ракетами, авиабомбами или "
+"авиаторпедами."
+
+msgid "IDS_PCQT136_1"
+msgid_plural "IDS_PCQT136_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT137_1"
+msgid_plural "IDS_PCQT137_1"
+msgstr[0] "Сбейте %(count)s самолёт противника."
+
+msgid "IDS_PCQT138_1"
+msgid_plural "IDS_PCQT138_1"
+msgstr[0] ""
+"Попадите по кораблям противника %(count)s раз из любых видов вооружения."
+
+msgid "IDS_PCQT139_1"
+msgid_plural "IDS_PCQT139_1"
+msgstr[0] "Получите %(count)s героическое достижение."
+
+msgid "IDS_PCQT140_1"
+msgid_plural "IDS_PCQT140_1"
+msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+
+msgid "IDS_PCQT141_1"
+msgid_plural "IDS_PCQT141_1"
+msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+
+msgid "IDS_PCQT142_1"
+msgid_plural "IDS_PCQT142_1"
+msgstr[0] "Подожгите корабли противника %(count)s раз."
+
+msgid "IDS_PCQT143_1"
+msgid_plural "IDS_PCQT143_1"
+msgstr[0] "Вызовите %(count)s затопление на корабле противника."
+
+msgid "IDS_PCQT144_1"
+msgid_plural "IDS_PCQT144_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT145_1"
+msgid_plural "IDS_PCQT145_1"
+msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
+
+msgid "IDS_PCQT146_1"
+msgid_plural "IDS_PCQT146_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
+msgid_plural "IDS_PCQT151_CAMPAIGNSB_MISSION01_TASK01_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям Японии."
+
+msgid "IDS_PCQT152_CAMPAIGNSB_MISSION01_TASK02_1"
+msgid_plural "IDS_PCQT152_CAMPAIGNSB_MISSION01_TASK02_1"
+msgstr[0] "Попадите %(count)s раз снарядами ГК по кораблям противника."
+
+msgid "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgid_plural "IDS_PCQT153_CAMPAIGNSB_MISSION01_TASK03_1"
+msgstr[0] ""
+"Повредите %(count)s установку главного калибра на корабле противника."
+
+msgid "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1"
+msgid_plural "IDS_PCQT155_CAMPAIGNSB_MISSION01_TASK05_1"
+msgstr[0] "Получите %(count)s достижение «Дредноут»."
+
+msgid "IDS_PCQT156_CAMPAIGNSB_MISSION01_TASK06_1"
+msgid_plural "IDS_PCQT156_CAMPAIGNSB_MISSION01_TASK06_1"
+msgstr[0] ""
+"Одержите победу в %(count)s бою, при этом войдите в топ-7 своей команды "
+"по количеству заработанного опыта."
+
+msgid "IDS_PCQT157_CAMPAIGNSB_MISSION01_TASK07_1"
+msgid_plural "IDS_PCQT157_CAMPAIGNSB_MISSION01_TASK07_1"
+msgstr[0] "Уничтожьте %(count)s линкор."
+
+msgid "IDS_PCQT158_CAMPAIGNSB_MISSION01_TASK08_KEY_1"
+msgid_plural "IDS_PCQT158_CAMPAIGNSB_MISSION01_TASK08_KEY_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
+msgid_plural "IDS_PCQT161_CAMPAIGNSB_MISSION02_TASK01_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям США."
+
+msgid "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
+msgid_plural "IDS_PCQT162_CAMPAIGNSB_MISSION02_TASK02_1"
+msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+
+msgid "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgid_plural "IDS_PCQT163_CAMPAIGNSB_MISSION02_TASK03_1"
+msgstr[0] ""
+"Повредите %(count)s модуль «Вспомогательный калибр» на корабле противника."
+
+msgid "IDS_PCQT164_CAMPAIGNSB_MISSION02_TASK04_1"
+msgid_plural "IDS_PCQT164_CAMPAIGNSB_MISSION02_TASK04_1"
+msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
+
+msgid "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1"
+msgid_plural "IDS_PCQT166_CAMPAIGNSB_MISSION02_TASK06_1"
+msgstr[0] ""
+"Одержите победу в %(count)s бою, при этом войдите в топ-3 своей команды "
+"по количеству заработанного опыта."
+
+msgid "IDS_PCQT167_CAMPAIGNSB_MISSION02_TASK07_1"
+msgid_plural "IDS_PCQT167_CAMPAIGNSB_MISSION02_TASK07_1"
+msgstr[0] "Уничтожьте %(count)s эсминец."
+
+msgid "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
+msgid_plural "IDS_PCQT168_CAMPAIGNSB_MISSION02_TASK08_KEY_1"
+msgstr[0] "Заработайте %(count)s ед. опыта командира."
+
+msgid "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
+msgid_plural "IDS_PCQT171_CAMPAIGNSB_MISSION03_TASK01_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям СССР."
+
+msgid "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
+msgid_plural "IDS_PCQT172_CAMPAIGNSB_MISSION03_TASK02_1"
+msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+
+msgid "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgid_plural "IDS_PCQT173_CAMPAIGNSB_MISSION03_TASK03_1"
+msgstr[0] "Повредите %(count)s модуль «Двигатель» на корабле противника."
+
+msgid "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
+msgid_plural "IDS_PCQT175_CAMPAIGNSB_MISSION03_TASK05_1"
+msgstr[0] "Уничтожьте %(count)s самолёт противника."
+
+msgid "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
+msgid_plural "IDS_PCQT176_CAMPAIGNSB_MISSION03_TASK06_1"
+msgstr[0] ""
+"Одержите победу в %(count)s бою, при этом будьте первым в своей команде "
+"по количеству заработанного опыта."
+
+msgid "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1"
+msgid_plural "IDS_PCQT177_CAMPAIGNSB_MISSION03_TASK07_1"
+msgstr[0] "Уничтожьте %(count)s крейсер."
+
+msgid "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
+msgid_plural "IDS_PCQT178_CAMPAIGNSB_MISSION03_TASK08_KEY_1"
+msgstr[0] "Заработайте %(count)s ед. свободного опыта."
+
+msgid "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
+msgid_plural "IDS_PCQT181_CAMPAIGNSB_MISSION04_TASK01_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям Германии."
+
+msgid "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1"
+msgid_plural "IDS_PCQT182_CAMPAIGNSB_MISSION04_TASK02_1"
+msgstr[0] "Уничтожьте %(count)s самолёт."
+
+msgid "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgid_plural "IDS_PCQT183_CAMPAIGNSB_MISSION04_TASK03_1"
+msgstr[0] "Повредите %(count)s модуль «Рулевая машина» на корабле противника."
+
+msgid "IDS_PCQT184_CAMPAIGNSB_MISSION04_TASK04_1"
+msgid_plural "IDS_PCQT184_CAMPAIGNSB_MISSION04_TASK04_1"
+msgstr[0] "Первым обнаружьте %(count)s корабль противника."
+
+msgid "IDS_PCQT185_CAMPAIGNSB_MISSION04_TASK05_1"
+msgid_plural "IDS_PCQT185_CAMPAIGNSB_MISSION04_TASK05_1"
+msgstr[0] "Получите %(count)s достижение «Несгораемый»."
+
+msgid "IDS_PCQT186_CAMPAIGNSB_MISSION04_TASK06_1"
+msgid_plural "IDS_PCQT186_CAMPAIGNSB_MISSION04_TASK06_1"
+msgstr[0] ""
+"Выживите и одержите победу в %(count)s бою, при этом будьте первым в своей "
+"команде по количеству заработанного опыта."
+
+msgid "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
+msgid_plural "IDS_PCQT187_CAMPAIGNSB_MISSION04_TASK07_1"
+msgstr[0] "Уничтожьте %(count)s самолёт противника."
+
+msgid "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
+msgid_plural "IDS_PCQT188_CAMPAIGNSB_MISSION04_TASK08_KEY_1"
+msgstr[0] "Заработайте %(count)s ед. опыта."
+
+msgid "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
+msgid_plural "IDS_PCQT191_CAMPAIGNSB_MISSION05_TASK01_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
+
+msgid "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
+msgid_plural "IDS_PCQT192_CAMPAIGNSB_MISSION05_TASK02_1"
+msgstr[0] "Заработайте %(count)s ед. опыта."
+
+msgid "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgid_plural "IDS_PCQT193_CAMPAIGNSB_MISSION05_TASK03_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
+msgid_plural "IDS_PCQT194_CAMPAIGNSB_MISSION05_TASK04_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1"
+msgid_plural "IDS_PCQT197_CAMPAIGNSB_MISSION05_TASK07_1"
+msgstr[0] "Уничтожьте %(count)s корабль противника."
+
+msgid "IDS_PCQT371_1"
+msgid_plural "IDS_PCQT371_1"
+msgstr[0] ""
+"Займите первое место в своей команде по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT372_1"
+msgid_plural "IDS_PCQT372_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона и останьтесь в живых."
+
+msgid "IDS_PCQT373_1"
+msgid_plural "IDS_PCQT373_1"
+msgstr[0] "Уничтожьте %(count)s эсминец противника и останьтесь в живых."
+
+msgid "IDS_PCQT374_1"
+msgid_plural "IDS_PCQT374_1"
+msgstr[0] "Повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT375_1"
+msgid_plural "IDS_PCQT375_1"
+msgstr[0] "Попадите в цитадель корабля противника %(count)s раз."
+
+msgid "IDS_PCQT379_1"
+msgid_plural "IDS_PCQT379_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT381_1"
+msgid_plural "IDS_PCQT381_1"
+msgstr[0] ""
+"Займите первое место в своей команде по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT382_1"
+msgid_plural "IDS_PCQT382_1"
+msgstr[0] "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+
+msgid "IDS_PCQT383_1"
+msgid_plural "IDS_PCQT383_1"
+msgstr[0] "Попадите авиаторпедами по кораблям противника %(count)s раз."
+
+msgid "IDS_PCQT384_1"
+msgid_plural "IDS_PCQT384_1"
+msgstr[0] "Получите %(count)s достижение «Основной калибр» или «Поддержка»."
+
+msgid "IDS_PCQT385_1"
+msgid_plural "IDS_PCQT385_1"
+msgstr[0] "Получите %(count)s ленту «Обнаружил»."
+
+msgid "IDS_PCQT386_1"
+msgid_plural "IDS_PCQT386_1"
+msgstr[0] "Получите %(count)s любое достижение."
+
+msgid "IDS_PCQT387_1"
+msgid_plural "IDS_PCQT387_1"
+msgstr[0] "Уничтожьте %(count)s самолёт противника."
+
+msgid "IDS_PCQT389_1"
+msgid_plural "IDS_PCQT389_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT391_1"
+msgid_plural "IDS_PCQT391_1"
+msgstr[0] "Нанесите %(count)s ед. урона линкорам противника."
+
+msgid "IDS_PCQT392_1"
+msgid_plural "IDS_PCQT392_1"
+msgstr[0] ""
+"Обеспечьте нанесение %(count)s ед. урона по вашим разведданным и останьтесь "
+"в живых."
+
+msgid "IDS_PCQT393_1"
+msgid_plural "IDS_PCQT393_1"
+msgstr[0] ""
+"Попадите торпедами по кораблям противника %(count)s раз и останьтесь "
+"в живых."
+
+msgid "IDS_PCQT394_1"
+msgid_plural "IDS_PCQT394_1"
+msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+
+msgid "IDS_PCQT395_1"
+msgid_plural "IDS_PCQT395_1"
+msgstr[0] "Нанесите %(count)s ед. урона эсминцам."
+
+msgid "IDS_PCQT396_1"
+msgid_plural "IDS_PCQT396_1"
+msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+
+msgid "IDS_PCQT397_1"
+msgid_plural "IDS_PCQT397_1"
+msgstr[0] "Первым обнаружьте %(count)s торпеду."
+
+msgid "IDS_PCQT399_1"
+msgid_plural "IDS_PCQT399_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT401_1"
+msgid_plural "IDS_PCQT401_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона и останьтесь в живых."
+
+msgid "IDS_PCQT402_1"
+msgid_plural "IDS_PCQT402_1"
+msgstr[0] "Сбейте %(count)s самолёт противника."
+
+msgid "IDS_PCQT403_1"
+msgid_plural "IDS_PCQT403_1"
+msgstr[0] "Получите %(count)s ленту «Тактический вклад» и останьтесь в живых."
+
+msgid "IDS_PCQT404_1"
+msgid_plural "IDS_PCQT404_1"
+msgstr[0] "Получите %(count)s достижение «Сокрушительный удар»."
+
+msgid "IDS_PCQT405_1"
+msgid_plural "IDS_PCQT405_1"
+msgstr[0] "Нанесите %(count)s ед. урона линкорам противника."
+
+msgid "IDS_PCQT406_1"
+msgid_plural "IDS_PCQT406_1"
+msgstr[0] "Получите %(count)s достижение «Дредноут»."
+
+msgid "IDS_PCQT410_1"
+msgid_plural "IDS_PCQT410_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT415_1"
+msgid_plural "IDS_PCQT415_1"
+msgstr[0] "Попадите в цитадель корабля противника %(count)s раз."
+
+msgid "IDS_PCQT416_1"
+msgid_plural "IDS_PCQT416_1"
+msgstr[0] "Сбейте %(count)s самолёт противника."
+
+msgid "IDS_PCQT417_1"
+msgid_plural "IDS_PCQT417_1"
+msgstr[0] "Получите %(count)s ленту «Тактический вклад»."
+
+msgid "IDS_PCQT419_1"
+msgid_plural "IDS_PCQT419_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона и останьтесь в живых."
+
+msgid "IDS_PCQT420_1"
+msgid_plural "IDS_PCQT420_1"
+msgstr[0] "Уничтожьте %(count)s эсминец противника и останьтесь в живых."
+
+msgid "IDS_PCQT421_1"
+msgid_plural "IDS_PCQT421_1"
+msgstr[0] "Получите %(count)s любое достижение."
+
+msgid "IDS_PCQT422_1"
+msgid_plural "IDS_PCQT422_1"
+msgstr[0] "Получите %(count)s достижение «Стихийное бедствие»."
+
+msgid "IDS_PCQT423_1"
+msgid_plural "IDS_PCQT423_1"
+msgstr[0] "Нанесите %(count)s ед. урона крейсерам противника."
+
+msgid "IDS_PCQT424_1"
+msgid_plural "IDS_PCQT424_1"
+msgstr[0] "Получите %(count)s любую ленту."
+
+msgid "IDS_PCQT425_1"
+msgid_plural "IDS_PCQT425_1"
+msgstr[0] "Нанесите %(count)s ед. урона линкорам."
+
+msgid "IDS_PCQT427_1"
+msgid_plural "IDS_PCQT427_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT504_1"
+msgid_plural "IDS_PCQT504_1"
+msgstr[0] ""
+"Займите первое место в своей команде по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT505_1"
+msgid_plural "IDS_PCQT505_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT506_1"
+msgid_plural "IDS_PCQT506_1"
+msgstr[0] ""
+"Нанесите %(count)s ед. урона кораблям противника и одержите победу."
+
+msgid "IDS_PCQT507_1"
+msgid_plural "IDS_PCQT507_1"
+msgstr[0] ""
+"Уничтожьте %(count)s эсминец противника, одержите победу и останьтесь "
+"в живых."
+
+msgid "IDS_PCQT508_1"
+msgid_plural "IDS_PCQT508_1"
+msgstr[0] ""
+"Займите первое место в своей команде по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT512_1"
+msgid_plural "IDS_PCQT512_1"
+msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+
+msgid "IDS_PCQT515_1"
+msgid_plural "IDS_PCQT515_1"
+msgstr[0] "Получите %(count)s ленту «Поджёг» или «Затопил»."
+
+msgid "IDS_PCQT516_1"
+msgid_plural "IDS_PCQT516_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+
+msgid "IDS_PCQT517_1"
+msgid_plural "IDS_PCQT517_1"
+msgstr[0] ""
+"Займите первое место в своей команде по количеству заработанного опыта, "
+"одержите победу и получите %(count)s ленту «Поджёг» или «Затопил»."
+
+msgid "IDS_PCQT521_1"
+msgid_plural "IDS_PCQT521_1"
+msgstr[0] "Попадите %(count)s раз в цитадель корабля противника."
+
+msgid "IDS_PCQT522_1"
+msgid_plural "IDS_PCQT522_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона и одержите победу."
+
+msgid "IDS_PCQT525_1"
+msgid_plural "IDS_PCQT525_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и сбейте %(count)s самолёт противника."
+
+msgid "IDS_PCQT526_1"
+msgid_plural "IDS_PCQT526_1"
+msgstr[0] ""
+"Получите %(count)s достижение «Дредноут», «Несгораемый», «Непотопляемый»."
+
+msgid "IDS_PCQT527_1"
+msgid_plural "IDS_PCQT527_1"
+msgstr[0] "Получите %(count)s достижение «Основной калибр» или «Поддержка»."
+
+msgid "IDS_PCQT533_1"
+msgid_plural "IDS_PCQT533_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям Германии или Японии."
+
+msgid "IDS_PCQT534_1"
+msgid_plural "IDS_PCQT534_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и получите %(count)s любое достижение."
+
+msgid "IDS_PCQT535_1"
+msgid_plural "IDS_PCQT535_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта, одержите "
+"победу и повредите %(count)s модуль на корабле противника."
+
+msgid "IDS_PCQT536_1"
+msgid_plural "IDS_PCQT536_1"
+msgstr[0] "В победных боях нанесите %(count)s ед. урона кораблям Японии."
+
+msgid "IDS_PCQT537_1"
+msgid_plural "IDS_PCQT537_1"
+msgstr[0] "В победных боях нанесите %(count)s ед. урона кораблям Германии."
+
+msgid "IDS_PCQT541_1"
+msgid_plural "IDS_PCQT541_1"
+msgstr[0] ""
+"Попадите %(count)s раз ракетами, авиабомбами или авиаторпедами по кораблям "
+"противника."
+
+msgid "IDS_PCQT542_1"
+msgid_plural "IDS_PCQT542_1"
+msgstr[0] "Уничтожьте %(count)s самолёт противника."
+
+msgid "IDS_PCQT543_1"
+msgid_plural "IDS_PCQT543_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта и получите "
+"%(count)s любое достижение."
+
+msgid "IDS_PCQT544_1"
+msgid_plural "IDS_PCQT544_1"
+msgstr[0] "Получите %(count)s любую ленту."
+
+msgid "IDS_PCQT545_1"
+msgid_plural "IDS_PCQT545_1"
+msgstr[0] "Получите %(count)s любое достижение."
+
+msgid "IDS_PCQT546_1"
+msgid_plural "IDS_PCQT546_1"
+msgstr[0] "Получите %(count)s героическое достижение."
+
+msgid "IDS_PCQT644_1"
+msgid_plural "IDS_PCQT644_1"
+msgstr[0] "Получите %(count)s любую ленту."
+
+msgid "IDS_PCQT645_1"
+msgid_plural "IDS_PCQT645_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT646_1"
+msgid_plural "IDS_PCQT646_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
+
+msgid "IDS_PCQT647_1"
+msgid_plural "IDS_PCQT647_1"
+msgstr[0] "Нанесите %(count)s ед. урона огнём орудий главного калибра."
+
+msgid "IDS_PCQT648_1"
+msgid_plural "IDS_PCQT648_1"
+msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+
+msgid "IDS_PCQT650_1"
+msgid_plural "IDS_PCQT650_1"
+msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+
+msgid "IDS_PCQT651_1"
+msgid_plural "IDS_PCQT651_1"
+msgstr[0] "Получите %(count)s ленту «Попал торпедой»."
+
+msgid "IDS_PCQT653_1"
+msgid_plural "IDS_PCQT653_1"
+msgstr[0] "Одержите победу в %(count)s бою."
+
+msgid "IDS_PCQT654_1"
+msgid_plural "IDS_PCQT654_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT655_1"
+msgid_plural "IDS_PCQT655_1"
+msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+
+msgid "IDS_PCQT656_1"
+msgid_plural "IDS_PCQT656_1"
+msgstr[0] "Получите %(count)s ленту «Поджёг» или «Попал в цитадель»."
+
+msgid "IDS_PCQT657_1"
+msgid_plural "IDS_PCQT657_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона."
+
+msgid "IDS_PCQT659_1"
+msgid_plural "IDS_PCQT659_1"
+msgstr[0] "Получите %(count)s ленту «Попал главным калибром»."
+
+msgid "IDS_PCQT660_1"
+msgid_plural "IDS_PCQT660_1"
+msgstr[0] "Получите %(count)s ленту «Стратегический вклад»."
+
+msgid "IDS_PCQT661_1"
+msgid_plural "IDS_PCQT661_1"
+msgstr[0] "Получите %(count)s ленту «Попал торпедой»."
+
+msgid "IDS_PCQT663_1"
+msgid_plural "IDS_PCQT663_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
+
+msgid "IDS_PCQT665_1"
+msgid_plural "IDS_PCQT665_1"
+msgstr[0] ""
+"Войдите в топ-5 своей команды по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT666_1"
+msgid_plural "IDS_PCQT666_1"
+msgstr[0] "Обеспечьте нанесение %(count)s ед. урона по вашим разведданным."
+
+msgid "IDS_PCQT667_1"
+msgid_plural "IDS_PCQT667_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
+
+msgid "IDS_PCQT668_1"
+msgid_plural "IDS_PCQT668_1"
+msgstr[0] "Нанесите %(count)s ед. урона огнём орудий главного калибра."
+
+msgid "IDS_PCQT670_1"
+msgid_plural "IDS_PCQT670_1"
+msgstr[0] "Получите %(count)s ленту «Попал торпедой» или «Поджёг»."
+
+msgid "IDS_PCQT671_1"
+msgid_plural "IDS_PCQT671_1"
+msgstr[0] ""
+"Нанесите кораблям противника %(count)s ед. урона корабельными торпедами."
+
+msgid "IDS_PCQT672_1"
+msgid_plural "IDS_PCQT672_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT673_1"
+msgid_plural "IDS_PCQT673_1"
+msgstr[0] "Нанесите %(count)s ед. урона кораблям противника."
+
+msgid "IDS_PCQT674_1"
+msgid_plural "IDS_PCQT674_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT675_1"
+msgid_plural "IDS_PCQT675_1"
+msgstr[0] "Получите %(count)s ленту «Уничтожил»."
+
+msgid "IDS_PCQT676_1"
+msgid_plural "IDS_PCQT676_1"
+msgstr[0] "Получите %(count)s ленту «Попал из ПМК»."
+
+msgid "IDS_PCQT677_1"
+msgid_plural "IDS_PCQT677_1"
+msgstr[0] "Получите %(count)s ленту «Попал главным калибром»."
+
+msgid "IDS_PCQT679_1"
+msgid_plural "IDS_PCQT679_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона."
+
+msgid "IDS_PCQT680_1"
+msgid_plural "IDS_PCQT680_1"
+msgstr[0] ""
+"Попадите %(count)s раз по кораблям противника из орудий главного калибра."
+
+msgid "IDS_PCQT681_1"
+msgid_plural "IDS_PCQT681_1"
+msgstr[0] "Получите %(count)s ленту «Попал торпедой»."
+
+msgid "IDS_PCQT684_1"
+msgid_plural "IDS_PCQT684_1"
+msgstr[0] "Заработайте %(count)s кредит."
+
+msgid "IDS_PCQT685_1"
+msgid_plural "IDS_PCQT685_1"
+msgstr[0] ""
+"Войдите в топ-3 своей команды по количеству заработанного опыта "
+"%(count)s раз."
+
+msgid "IDS_PCQT686_1"
+msgid_plural "IDS_PCQT686_1"
+msgstr[0] "Получите %(count)s ед. потенциального урона."
+
+msgid "IDS_PCQT688_1"
+msgid_plural "IDS_PCQT688_1"
+msgstr[0] "Получите %(count)s ленту «Попал в цитадель»."
+
+msgid "IDS_PCQT689_1"
+msgid_plural "IDS_PCQT689_1"
+msgstr[0] "Получите %(count)s ленту «Поджёг»."
+
+msgid "IDS_PCQT690_1"
+msgid_plural "IDS_PCQT690_1"
+msgstr[0] ""
+"Попадите %(count)s раз по кораблям противника из орудий главного калибра."
+
+msgid "IDS_PFES439_SAINT_LOUIS_AZUR"
+msgstr " "
+
+msgid "IDS_PGES317_PRINZ_HEINRICH_AZUR"
+msgstr " "
+
+msgid "IDS_PGES429_ROON_AZUR"
+msgstr " "
+
+msgid "IDS_PGSB517"
+msgstr " "
+
+msgid "IDS_PGSB517_FULL"
+msgstr " "
+
+msgid "IDS_PGSB517_NUMBER"
+msgstr " "
+
+msgid "IDS_PLURAL_FORMS"
+msgid_plural "IDS_PLURAL_FORMS"
+msgstr[0] "0"
+
+msgid "IDS_PL_ABILITY_TITLE"
+msgid_plural "IDS_PL_ABILITY_TITLE"
+msgstr[0] "%(_amount)s снаряжение"
+
+msgid "IDS_PL_AIRCARRIER"
+msgid_plural "IDS_PL_AIRCARRIER"
+msgstr[0] "авианосца"
+
+msgid "IDS_PL_AIRPLANES"
+msgid_plural "IDS_PL_AIRPLANES"
+msgstr[0] "самолёт"
+
+msgid "IDS_PL_AIRPLANE_BOMBER"
+msgid_plural "IDS_PL_AIRPLANE_BOMBER"
+msgstr[0] "бомбардировщик"
+
+msgid "IDS_PL_AIRPLANE_FIGHTER"
+msgid_plural "IDS_PL_AIRPLANE_FIGHTER"
+msgstr[0] "штурмовик"
+
+msgid "IDS_PL_AIRPLANE_SKIP"
+msgid_plural "IDS_PL_AIRPLANE_SKIP"
+msgstr[0] "топмачтовый бомбардировщик"
+
+msgid "IDS_PL_AIRPLANE_TORPEDO"
+msgid_plural "IDS_PL_AIRPLANE_TORPEDO"
+msgstr[0] "торпедоносец"
+
+msgid "IDS_PL_AIR_FLIGHT"
+msgid_plural "IDS_PL_AIR_FLIGHT"
+msgstr[0] "атакующее звено"
+
+msgid "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_DEFAULT_TIME_STATUS"
+msgstr[0] "У вас есть %(durationAlmanac)s день, чтобы забрать награды"
+
+msgid "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
+msgid_plural "IDS_PL_ALMANAC_WINDOW_EXTRAREWARDS_STATUS"
+msgstr[0] ""
+"Следующий %(extraRewardClaimDay)s день вам будут доступны дополнительные "
+"награды"
+
+msgid "IDS_PL_ANY_SHIP"
+msgid_plural "IDS_PL_ANY_SHIP"
+msgstr[0] "корабля"
+
+msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_POINTS_TILL_NEXT_REWARD"
+msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_POINTS_TILL_NEXT_REWARD"
+msgstr[0] "До следующей награды: %(_pointsTillNext)s очко"
+
+msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_POINTS_FOR_PROGRESS_ITEM"
+msgid_plural "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_POINTS_FOR_PROGRESS_ITEM"
+msgstr[0] "очко"
+
+msgid "IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_PROGRESS_BAR_SUM_DESCRIPTION"
+msgid_plural ""
+"IDS_PL_ARC_EVENT_MAIN_SCREEN_TASK_TOOLTIP_PROGRESS_BAR_SUM_DESCRIPTION"
+msgstr[0] "За достижение %(_cutoffs)s отметки"
+
+msgid "IDS_PL_BATTLES"
+msgid_plural "IDS_PL_BATTLES"
+msgstr[0] "%s бой"
+
+msgid "IDS_PL_BATTLESHIP"
+msgid_plural "IDS_PL_BATTLESHIP"
+msgstr[0] "линкора"
+
+msgid "IDS_PL_BATTLES_COUNT"
+msgid_plural "IDS_PL_BATTLES_COUNT"
+msgstr[0] "бой"
+
+msgid "IDS_PL_BATTLES_TILL_NEXT_LEVEL"
+msgid_plural "IDS_PL_BATTLES_TILL_NEXT_LEVEL"
+msgstr[0] "до нового уровня %(pointsToNext)s бой"
+
+msgid "IDS_PL_CAMOUFLAGE_TITLE"
+msgid_plural "IDS_PL_CAMOUFLAGE_TITLE"
+msgstr[0] "%(_amount)s камуфляж"
+
+msgid "IDS_PL_CASUAL_CVC_WAR_STAGE_ATTEMPTS_STATUS"
+msgid_plural "IDS_PL_CASUAL_CVC_WAR_STAGE_ATTEMPTS_STATUS"
+msgstr[0] "Доступно попыток: %(_attemptsLeft)s"
+
+msgid "IDS_PL_CREDITS"
+msgid_plural "IDS_PL_CREDITS"
+msgstr[0] "кредит"
+
+msgid "IDS_PL_CRUISER"
+msgid_plural "IDS_PL_CRUISER"
+msgstr[0] "крейсера"
+
+msgid "IDS_PL_DAYS_PARAM"
+msgid_plural "IDS_PL_DAYS_PARAM"
+msgstr[0] "%(_days)s день"
+
+msgid "IDS_PL_DAY_FULL"
+msgid_plural "IDS_PL_DAY_FULL"
+msgstr[0] "день"
+
+msgid "IDS_PL_DAY_FULL_ACC"
+msgid_plural "IDS_PL_DAY_FULL_ACC"
+msgstr[0] "день"
+
+msgid "IDS_PL_DESTROYER"
+msgid_plural "IDS_PL_DESTROYER"
+msgstr[0] "эсминца"
+
+msgid "IDS_PL_EARN_POINTS_BY_RANK_WIN"
+msgid_plural "IDS_PL_EARN_POINTS_BY_RANK_WIN"
+msgstr[0] "%(_pointsRank)s очко за победу команды."
+
+msgid "IDS_PL_EARN_POINTS_BY_SCENARIO_STARS"
+msgid_plural "IDS_PL_EARN_POINTS_BY_SCENARIO_STARS"
+msgstr[0] ""
+"%(_pointsScenario)s очко за каждую полученную звезду при победе команды."
+
+msgid "IDS_PL_ENSIGNS_TITLE"
+msgid_plural "IDS_PL_ENSIGNS_TITLE"
+msgstr[0] "%(_amount)s сигнал"
+
+msgid "IDS_PL_EXPERIENCE"
+msgid_plural "IDS_PL_EXPERIENCE"
+msgstr[0] "опыта"
+
+msgid "IDS_PL_FLAGS_TITLE"
+msgid_plural "IDS_PL_FLAGS_TITLE"
+msgstr[0] "%(_amount)s флаг"
+
+msgid "IDS_PL_FREE_EXPERIENCE"
+msgid_plural "IDS_PL_FREE_EXPERIENCE"
+msgstr[0] "свободного опыта"
+
+msgid "IDS_PL_GOLD"
+msgid_plural "IDS_PL_GOLD"
+msgstr[0] "дублон"
+
+msgid "IDS_PL_HITS_TORPEDOS"
+msgid_plural "IDS_PL_HITS_TORPEDOS"
+msgstr[0] "попадание корабельными торпедами"
+
+msgid "IDS_PL_HOURS_PARAM"
+msgid_plural "IDS_PL_HOURS_PARAM"
+msgstr[0] "%(_hours)s час"
+
+msgid "IDS_PL_HOUR_FULL"
+msgid_plural "IDS_PL_HOUR_FULL"
+msgstr[0] "час"
+
+msgid "IDS_PL_HOUR_FULL_ACC"
+msgid_plural "IDS_PL_HOUR_FULL_ACC"
+msgstr[0] "час"
+
+msgid "IDS_PL_KNOTS"
+msgid_plural "IDS_PL_KNOTS"
+msgstr[0] "узел"
+
+msgid "IDS_PL_KNOTS_SPACE"
+msgid_plural "IDS_PL_KNOTS_SPACE"
+msgstr[0] " узел"
+
+msgid "IDS_PL_LOOTBOXES"
+msgid_plural "IDS_PL_LOOTBOXES"
+msgstr[0] "контейнер"
+
+msgid "IDS_PL_LOOTBOX_COUNT"
+msgid_plural "IDS_PL_LOOTBOX_COUNT"
+msgstr[0] "%(_amount)s контейнер"
+
+msgid "IDS_PL_LOOTBOX_EPIC_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_EPIC_TITLE"
+msgstr[0] "%(_amount)s Суперконтейнер"
+
+msgid "IDS_PL_LOOTBOX_PCL000_UNKNOWN_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL000_UNKNOWN_TITLE"
+msgstr[0] "%(_amount)s случайный контейнер"
+
+msgid "IDS_PL_LOOTBOX_PCL001_CREDITS_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL001_CREDITS_TITLE"
+msgstr[0] "%(_amount)s контейнер «Больше экономических наград»"
+
+msgid "IDS_PL_LOOTBOX_PCL002_SIGNALS_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL002_SIGNALS_TITLE"
+msgstr[0] "%(_amount)s контейнер «Больше сигналов»"
+
+msgid "IDS_PL_LOOTBOX_PCL004_LUCKY_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL004_LUCKY_TITLE"
+msgstr[0] "%(_amount)s контейнер"
+
+msgid "IDS_PL_LOOTBOX_PCL005_EPIC_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_PCL005_EPIC_TITLE"
+msgstr[0] "%(_amount)s Суперконтейнер"
+
+msgid "IDS_PL_LOOTBOX_TITLE"
+msgid_plural "IDS_PL_LOOTBOX_TITLE"
+msgstr[0] "%(_amount)s контейнер"
+
+msgid "IDS_PL_MINUTES_COUNT"
+msgid_plural "IDS_PL_MINUTES_COUNT"
+msgstr[0] "минуту."
+
+msgid "IDS_PL_MINUTE_FULL"
+msgid_plural "IDS_PL_MINUTE_FULL"
+msgstr[0] "минута"
+
+msgid "IDS_PL_MINUTE_FULL_ACC"
+msgid_plural "IDS_PL_MINUTE_FULL_ACC"
+msgstr[0] "минуту"
+
+msgid "IDS_PL_MINUTE_FULL_ROD"
+msgid_plural "IDS_PL_MINUTE_FULL_ROD"
+msgstr[0] "минуты"
+
+msgid "IDS_PL_MODERNIZATION_TITLE"
+msgid_plural "IDS_PL_MODERNIZATION_TITLE"
+msgstr[0] "%(_amount)s модернизация"
+
+msgid "IDS_PL_MONTH_FULL"
+msgid_plural "IDS_PL_MONTH_FULL"
+msgstr[0] "месяц"
+
+msgid "IDS_PL_MONTH_FULL_ACC"
+msgid_plural "IDS_PL_MONTH_FULL_ACC"
+msgstr[0] "месяц"
+
+msgid "IDS_PL_MORE_BATTLES"
+msgid_plural "IDS_PL_MORE_BATTLES"
+msgstr[0] "ещё %(battleCount)d бой"
+
+msgid "IDS_PL_PARAGON_XP_TITLE"
+msgid_plural "IDS_PL_PARAGON_XP_TITLE"
+msgstr[0] "очко исследования"
+
+msgid "IDS_PL_PERMOFLAGE_TITLE"
+msgid_plural "IDS_PL_PERMOFLAGE_TITLE"
+msgstr[0] "%(_amount)s постоянный камуфляж"
+
+msgid "IDS_PL_PLACES"
+msgid_plural "IDS_PL_PLACES"
+msgstr[0] "место"
+
+msgid "IDS_PL_PLANES"
+msgid_plural "IDS_PL_PLANES"
+msgstr[0] "самолёта"
+
+msgid "IDS_PL_PLAYERS_COUNT"
+msgid_plural "IDS_PL_PLAYERS_COUNT"
+msgstr[0] "игрок"
+
+msgid "IDS_PL_POINTS"
+msgid_plural "IDS_PL_POINTS"
+msgstr[0] "очко"
+
+msgid "IDS_PL_RANK_REWARDS_VICTORIES_CURRENT"
+msgid_plural "IDS_PL_RANK_REWARDS_VICTORIES_CURRENT"
+msgstr[0] "Награда за %(_victoriesCount)s победу"
+
+msgid "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
+msgid_plural "IDS_PL_RANK_REWARDS_VICTORIES_NEXT"
+msgstr[0] "До следующей награды: %(_victoriesCount)s победа"
+
+msgid "IDS_PL_RANK_STARS"
+msgid_plural "IDS_PL_RANK_STARS"
+msgstr[0] "%s звездой"
+
+msgid "IDS_PL_RENT_STATUS_TIME_LEFT"
+msgid_plural "IDS_PL_RENT_STATUS_TIME_LEFT"
+msgstr[0] "До конца аренды: %(_days)d день"
+
+msgid "IDS_PL_REWARD"
+msgid_plural "IDS_PL_REWARD"
+msgstr[0] "<body>И ещё <h3>%(rewardCount)s</h3> награда</body>"
+
+msgid "IDS_PL_SECONDS"
+msgid_plural "IDS_PL_SECONDS"
+msgstr[0] "секунду"
+
+msgid "IDS_PL_SECOND_FULL"
+msgid_plural "IDS_PL_SECOND_FULL"
+msgstr[0] "секунда"
+
+msgid "IDS_PL_SECOND_FULL_ACC"
+msgid_plural "IDS_PL_SECOND_FULL_ACC"
+msgstr[0] "секунду"
+
+msgid "IDS_PL_SHIPS"
+msgid_plural "IDS_PL_SHIPS"
+msgstr[0] "кораблю"
+
+msgid "IDS_PL_SLOTS"
+msgid_plural "IDS_PL_SLOTS"
+msgstr[0] "слот"
+
+msgid "IDS_PL_SQUADRONS"
+msgid_plural "IDS_PL_SQUADRONS"
+msgstr[0] "эскадрилья"
+
+msgid "IDS_PL_SSE_COMPLETE_TASKS"
+msgid_plural "IDS_PL_SSE_COMPLETE_TASKS"
+msgstr[0] "Выполните %(count)d задачу"
+
+msgid "IDS_PL_TILL_REWARD"
+msgid_plural "IDS_PL_TILL_REWARD"
+msgstr[0] "Будет доступна через %(_timeLeft)s день"
+
+msgid "IDS_PL_TIME_SPENT_IN_GAME"
+msgid_plural "IDS_PL_TIME_SPENT_IN_GAME"
+msgstr[0] "Вы провели в игре %(hours)s час"
+
+msgid "IDS_PL_TIME_SPENT_IN_GAME_MORE_THAN"
+msgid_plural "IDS_PL_TIME_SPENT_IN_GAME_MORE_THAN"
+msgstr[0] "Вы провели в игре более %(hours)s часа"
+
+msgid "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
+msgid_plural "IDS_PL_TOOLTIP_NEXT_MONTH_REWARD"
+msgstr[0] "У вас есть %(_timeLeft)s день, чтобы забрать все награды"
+
+msgid "IDS_PL_VICTORY"
+msgid_plural "IDS_PL_VICTORY"
+msgstr[0] "победу"
+
+msgid "IDS_PL_YOU_HAVE_BEEN_DENUNCATED_MORE_THAN_BY_X_MEN"
+msgid_plural "IDS_PL_YOU_HAVE_BEEN_DENUNCATED_MORE_THAN_BY_X_MEN"
+msgstr[0] "Ваша карма уменьшена на %(amount)s."
+
+msgid "IDS_PL_YOU_HAVE_BEEN_PRAISED_BY_X_MEN"
+msgid_plural "IDS_PL_YOU_HAVE_BEEN_PRAISED_BY_X_MEN"
+msgstr[0] "Ваша карма увеличена на %(amount)s."
+
+msgid "IDS_PRMP_SWITCH_BUTTON_UNREAD_COUNT"
+msgid_plural "IDS_PRMP_SWITCH_BUTTON_UNREAD_COUNT"
+msgstr[0] "Ещё %(count)s оповещение"
+
+msgid "IDS_PVE_TASK_REWARDS_REASON"
+msgid_plural "IDS_PVE_TASK_REWARDS_REASON"
+msgstr[0] "Награда за выполнение одной дополнительной задачи"
+
+msgid "IDS_QUEST_CLANGALEONLY_WIN"
+msgid_plural "IDS_QUEST_CLANGALEONLY_WIN"
+msgstr[0] "Одержите победу в %(achievementCount)s бою в лиге Бури или выше."
+
+msgid "IDS_QUEST_CLANHURRICANEONLY_WIN"
+msgid_plural "IDS_QUEST_CLANHURRICANEONLY_WIN"
+msgstr[0] "Одержите победу в %(achievementCount)s бою в лиге Урагана."
+
+msgid "IDS_QUEST_CLANSTORMONLY_WIN"
+msgid_plural "IDS_QUEST_CLANSTORMONLY_WIN"
+msgstr[0] "Одержите победу в %(achievementCount)s бою в лиге Шторма или выше."
+
+msgid "IDS_QUEST_CLANTYPHOONONLY_WIN"
+msgid_plural "IDS_QUEST_CLANTYPHOONONLY_WIN"
+msgstr[0] ""
+"Одержите победу в %(achievementCount)s бою в лиге Тайфуна или выше."
+
+msgid "IDS_QUEST_COLLECTIONER_SHIPS"
+msgid_plural "IDS_QUEST_COLLECTIONER_SHIPS"
+msgstr[0] "Соберите коллекцию из %(countShips)s корабля."
+
+msgid "IDS_QUEST_CONTRIBUTOR_YEAR"
+msgid_plural "IDS_QUEST_CONTRIBUTOR_YEAR"
+msgstr[0] ""
+"Памятная эмблема за %(achievementCount)s год в команде контрибьюторов."
+
+msgid "IDS_QUEST_DAMAGECOUNT"
+msgid_plural "IDS_QUEST_DAMAGECOUNT"
+msgstr[0] "Достигните значения %(damage)s ед. среднего урона за бой."
+
+msgid "IDS_QUEST_EXTRA_BATTLELIMIT"
+msgid_plural "IDS_QUEST_EXTRA_BATTLELIMIT"
+msgstr[0] "Учитывается результат последнего %(battleCount)s боя."
+
+msgid "IDS_QUEST_KOTSBATTLES_WIN"
+msgid_plural "IDS_QUEST_KOTSBATTLES_WIN"
+msgstr[0] ""
+"Одержите %(achievementCount)s победу со своей командой в состязаниях King "
+"of the Sea."
+
+msgid "IDS_QUEST_LIMITED_EXECUTION"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION"
+msgstr[0] "Вы можете пройти это испытание %(_numberOfQuestsGeneral)s раз."
+
+msgid "IDS_QUEST_LIMITED_EXECUTION_PER_DAY"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION_PER_DAY"
+msgstr[0] ""
+"Вы можете пройти это испытание %(_numberOfQuestsGeneral)s раз за день."
+
+msgid "IDS_QUEST_LIMITED_EXECUTION_START"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION_START"
+msgstr[0] ""
+"Вы прошли это испытание %(_numberOfQuestsDone)s раз из "
+"%(_numberOfQuestsGeneral)s доступных."
+
+msgid "IDS_QUEST_LIMITED_EXECUTION_START_PER_DAY"
+msgid_plural "IDS_QUEST_LIMITED_EXECUTION_START_PER_DAY"
+msgstr[0] ""
+"Сегодня вы прошли это испытание %(_numberOfQuestsDone)s раз из "
+"%(_numberOfQuestsGeneral)s доступных."
+
+msgid "IDS_QUEST_TEAMPOSITION_TOP3"
+msgid_plural "IDS_QUEST_TEAMPOSITION_TOP3"
+msgstr[0] ""
+"Одержите победу в %(achievementCount)s бою, при этом войдите в топ-3 своей "
+"команды по количеству заработанного опыта."
+
+msgid "IDS_QUEST_UNIQUE_STARS"
+msgid_plural "IDS_QUEST_UNIQUE_STARS"
+msgstr[0] ""
+"Получите %(uniqueStars)s звезду за победы в Ранговых боях. Учитывается "
+"только первое получение звезды в сезоне."
+
+msgid "IDS_RANKED_LEAGUE_REWARDS_STATUS_DEFAULT"
+msgid_plural "IDS_RANKED_LEAGUE_REWARDS_STATUS_DEFAULT"
+msgstr[0] "Получена %(curCount)s награда из %(totalCount)s"
+
+msgid "IDS_RANK_LEAGUE_CAROUSEL_STATUS_QUAL_LOCKED"
+msgid_plural "IDS_RANK_LEAGUE_CAROUSEL_STATUS_QUAL_LOCKED"
+msgstr[0] "Пройдите предыдущую лигу"
+
+msgid "IDS_REASON_GIFTBOX_BY_BATTLES"
+msgid_plural "IDS_REASON_GIFTBOX_BY_BATTLES"
+msgstr[0] "%(battles)s бой"
+
+msgid "IDS_REWARDS_PL_CREDITS_TITLE"
+msgid_plural "IDS_REWARDS_PL_CREDITS_TITLE"
+msgstr[0] "%(_amount)s кредит"
+
+msgid "IDS_REWARDS_PL_EXP_TITLE"
+msgid_plural "IDS_REWARDS_PL_EXP_TITLE"
+msgstr[0] "%(_amount)s ед. опыта"
+
+msgid "IDS_REWARDS_PL_FREEXP_TITLE"
+msgid_plural "IDS_REWARDS_PL_FREEXP_TITLE"
+msgstr[0] "%(_amount)s ед. свободного опыта"
+
+msgid "IDS_REWARDS_PL_GOLD_TITLE"
+msgid_plural "IDS_REWARDS_PL_GOLD_TITLE"
+msgstr[0] "%(_amount)s дублон"
+
+msgid "IDS_REWARDS_PL_SLOTS_TITLE"
+msgid_plural "IDS_REWARDS_PL_SLOTS_TITLE"
+msgstr[0] "%(_amount)s слот"
+
+msgid "IDS_REWARD_LOOTBOX_PCL174_NATU_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_REWARD_LOOTBOX_PCL184_ARPEGGIO_TITLE_SHORT"
+msgstr " "
+
+msgid "IDS_SHIPS_RESTRICTIONS_REMAIN"
+msgid_plural "IDS_SHIPS_RESTRICTIONS_REMAIN"
+msgstr[0] "И ещё %(shipsRemain)s корабль"
+
+msgid "IDS_SHISHIRO_BOTAN"
+msgstr " "
+
+msgid "IDS_SHOT_MINUTE"
+msgid_plural "IDS_SHOT_MINUTE"
+msgstr[0] "выстр/мин"
+
+msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_CHESHIRE"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_COLORADO"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_PRINZ_HEINRICH"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_MEGADETH_DAVE_MUSTAINE"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_MEGADETH_VIC_RATTLEHEAD"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_MURAT_SEREZLI"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_NATUEVENT_GAULU"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_NATUEVENT_HANS"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_NATUEVENT_NATU"
+msgstr " "
+
+msgid "IDS_SOUND_MOD_VARIOUSCONTENTCAP_MICHAL_MILOWICZ"
+msgstr " "
+
+msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_DONE_POINTS_RECEIVED"
+msgid_plural ""
+"IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_DONE_POINTS_RECEIVED"
+msgstr[0] "Получено %(_points)s очко"
+
+msgid "IDS_SUBST_CREDITS"
+msgid_plural "IDS_SUBST_CREDITS"
+msgstr[0] "%(credits)s кредит"
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_BATTLES_TO_PLAY"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_BATTLES_TO_PLAY"
+msgstr[0] "Корабль можно получить бесплатно через %(battleCount)s бой."
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TEXT_1_TOOLTIP"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TEXT_1_TOOLTIP"
+msgstr[0] ""
+"Проведите %(battleCount)s бой, чтобы получить этот корабль бесплатно."
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TO_GET_SHIP"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_CONDITION_TO_GET_SHIP"
+msgstr[0] ""
+"Проведите ещё %(battleCount)d бой и получите один из этих кораблей бесплатно"
+
+msgid "IDS_SUBST_NEWBIE_GIFTS_IS_NOT_AVAILABLE_TOOLTIP"
+msgid_plural "IDS_SUBST_NEWBIE_GIFTS_IS_NOT_AVAILABLE_TOOLTIP"
+msgstr[0] ""
+"Проведите %(battleCount)s бой, чтобы получить этот корабль бесплатно. "
+"Выполняется в любом типе боя на любом корабле. Получить бесплатно можно "
+"только один корабль."
+
+msgid "IDS_SUBST_PL_ARC_EVENT_POSTBATTLE_TOOLTIP_POINTS_RECEIVED"
+msgid_plural "IDS_SUBST_PL_ARC_EVENT_POSTBATTLE_TOOLTIP_POINTS_RECEIVED"
+msgstr[0] "За бой получено %(_points)s очко"
+
+msgid "IDS_SUBST_PL_NEWBIE_QUESTS_TIME_LEFT_DAYS"
+msgid_plural "IDS_SUBST_PL_NEWBIE_QUESTS_TIME_LEFT_DAYS"
+msgstr[0] "Раздел будет доступен в течение %(timeLeft)s дня"
+
+msgid "IDS_SUBST_PL_OPEN_N_CONTAINERS"
+msgid_plural "IDS_SUBST_PL_OPEN_N_CONTAINERS"
+msgstr[0] "Открыть %(count)d контейнер"
+
+msgid "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TOTAL_WITH_TYPES"
+msgid_plural "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TOTAL_WITH_TYPES"
+msgstr[0] "У вас %(lootboxesCount)d контейнер %(lootboxesTypesCountString)s"
+
+msgid "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TYPES"
+msgid_plural "IDS_SUBST_PL_OWNED_LOOTBOXES_COUNT_TYPES"
+msgstr[0] "%(lootboxesTypesCount)s типа"
+
+msgid "IDS_SUBST_PL_SSE_CATEGORY_TIME_LEFT_DAYS"
+msgid_plural "IDS_SUBST_PL_SSE_CATEGORY_TIME_LEFT_DAYS"
+msgstr[0] "Раздел будет доступен в течение %(timeLeft)s дня"
+
+msgid "IDS_SUBST_PL_SSE_POSTBATTLE_TASKS_TOTAL"
+msgid_plural "IDS_SUBST_PL_SSE_POSTBATTLE_TASKS_TOTAL"
+msgstr[0] "Всего %(taskCount)s задача"
+
+msgid "IDS_SUBST_PL_SSE_REPEAT_NUMBER"
+msgid_plural "IDS_SUBST_PL_SSE_REPEAT_NUMBER"
+msgstr[0] "Доступно %(repeatNum)s выполнение"
+
+msgid "IDS_SUBST_PL_SSE_TIME_LEFT_DAYS"
+msgid_plural "IDS_SUBST_PL_SSE_TIME_LEFT_DAYS"
+msgstr[0] "Задача будет доступна в течение %(timeLeft)s дня"
+
+msgid "IDS_SUBST_POINTS"
+msgid_plural "IDS_SUBST_POINTS"
+msgstr[0] "%(points)s очко"
+
+msgid "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgid_plural "IDS_SUBST_STRATEGIC_ACTIONS_ADDITIONAL_REWARD_STATUS_LOCKED"
+msgstr[0] "Нужно украсить %(_count)s уголок"
+
+msgid "IDS_SYS_MSG_PL_RECEIVED_REWARDS"
+msgid_plural "IDS_SYS_MSG_PL_RECEIVED_REWARDS"
+msgstr[0] "И ещё %(_countRestRewards)d"
+
+msgid "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AIRCARRIER_PVP"
+msgstr[0] "Выполняется в Случайных боях на авианосцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_AVCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AVCA_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на авианосцах или крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_AVDD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AVDD_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на эсминцах или авианосцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_AV_PVP"
+msgid_plural "IDS_TASKRESTRICTION_AV_PVP"
+msgstr[0] "Выполняется в Случайных боях на авианосцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_AV_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_AV_PVPCOOP"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях на авианосцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BATTLESHIP_PVP"
+msgstr[0] "Выполняется в Случайных боях на линкорах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BBCADD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на любых кораблях %(level)s уровня, кроме "
+"авианосцев."
+
+msgid "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_BBCADD_PVPCOOPRANKEDCLAN"
+msgstr[0] ""
+"Выполняется в Случайных, Кооперативных, Ранговых и Клановых боях на кораблях"
+" %(level)s уровня, кроме авианосцев."
+
+msgid "IDS_TASKRESTRICTION_BBCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BBCA_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на линкорах и крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BBDD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BBDD_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на линкорах и эсминцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BB_PVP"
+msgid_plural "IDS_TASKRESTRICTION_BB_PVP"
+msgstr[0] "Выполняется в Случайных боях на линкорах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BB_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_BB_PVPCOOP"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях на линкорах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BB_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_BB_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на линкорах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_BR_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_BR_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на британских кораблях "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CADD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_CADD_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на эсминцах или крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CADD_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_CADD_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на эсминцах или крейсерах "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_CA_PVP"
+msgstr[0] "Выполняется в Случайных боях на крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_CA_PVPCOOPRANKEDCLAN"
+msgstr[0] ""
+"Выполняется в Случайных, Кооперативных, Ранговых и Клановых боях "
+"на крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CA_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_CA_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CLANTYPE"
+msgid_plural "IDS_TASKRESTRICTION_CLANTYPE"
+msgstr[0] "Выполняется в Клановых боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_COOP"
+msgid_plural "IDS_TASKRESTRICTION_COOP"
+msgstr[0] "Выполняется в Кооперативных боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_CRUISER_PVP"
+msgid_plural "IDS_TASKRESTRICTION_CRUISER_PVP"
+msgstr[0] "Выполняется в Случайных боях на крейсерах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_DD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_DD_PVP"
+msgstr[0] "Выполняется в Случайных боях на эсминцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_DD_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_DD_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на эсминцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_DESTROYER_PVP"
+msgid_plural "IDS_TASKRESTRICTION_DESTROYER_PVP"
+msgstr[0] "Выполняется в Случайных боях на эсминцах %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_EUROPE_PVP"
+msgid_plural "IDS_TASKRESTRICTION_EUROPE_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях Европы %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_EU_PVP"
+msgid_plural "IDS_TASKRESTRICTION_EU_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на европейских кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_EU_PVPCOOPRANKEDCLAN"
+msgstr[0] ""
+"Выполняется в Случайных, Кооперативных, Ранговых и Клановых боях "
+"на европейских кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_FRANCE_PVP"
+msgid_plural "IDS_TASKRESTRICTION_FRANCE_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях Франции %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_FRBB_PVPCOOP"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях на французских линкорах "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_FR_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_FR_PVPCOOP"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях на французских кораблях "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_GEBB_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на немецких линкорах "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_GERMANY_PVP"
+msgid_plural "IDS_TASKRESTRICTION_GERMANY_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на кораблях Германии %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_GE_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_GE_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на немецких кораблях "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_ITALY_PVP"
+msgid_plural "IDS_TASKRESTRICTION_ITALY_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях Италии %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_JAPAN_PVP"
+msgid_plural "IDS_TASKRESTRICTION_JAPAN_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях Японии %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_NETHERLANDS_PVP"
+msgid_plural "IDS_TASKRESTRICTION_NETHERLANDS_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на кораблях Нидерландов %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PANAMERICA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_PANAMERICA_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на кораблях Пан-Америки %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PANASIA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_PANASIA_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на кораблях Пан-Азии %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVP"
+msgid_plural "IDS_TASKRESTRICTION_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOP"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOPERATIVEPVE"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях, а также в Операциях "
+"на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных, Кооперативных и Ранговых боях на кораблях "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
+msgid_plural "IDS_TASKRESTRICTION_PVPCOOPRANKEDCLAN"
+msgstr[0] ""
+"Выполняется в Случайных, Кооперативных, Ранговых и Клановых боях на кораблях"
+" %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPONLY"
+msgid_plural "IDS_TASKRESTRICTION_PVPONLY"
+msgstr[0] "Выполняется в Случайных боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPPVE"
+msgid_plural "IDS_TASKRESTRICTION_PVPPVE"
+msgstr[0] ""
+"Выполняется в Случайных боях и в Операциях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
+msgid_plural "IDS_TASKRESTRICTION_PVPRANKEDCOOP"
+msgstr[0] ""
+"Выполняется в Кооперативных, Случайных и Ранговых боях на кораблях "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_RANKEDONLY"
+msgid_plural "IDS_TASKRESTRICTION_RANKEDONLY"
+msgstr[0] "Выполняется в Ранговых боях на кораблях %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_RUSSIA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_RUSSIA_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях СССР %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_SPAIN_PVP"
+msgid_plural "IDS_TASKRESTRICTION_SPAIN_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях Испании %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_SUBMARINE_PVP"
+msgid_plural "IDS_TASKRESTRICTION_SUBMARINE_PVP"
+msgstr[0] "Выполняется в Случайных боях на подводных лодках %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_UKCADD_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на британских эсминцах или крейсерах"
+" %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
+msgid_plural "IDS_TASKRESTRICTION_UKCA_PVPRANKED"
+msgstr[0] ""
+"Выполняется в Случайных и Ранговых боях на британских крейсерах "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_UK_PVP"
+msgid_plural "IDS_TASKRESTRICTION_UK_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на кораблях Великобритании %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_USAVCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USAVCA_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на авианосцах и крейсерах США %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_USAVDD_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USAVDD_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на эсминцах и авианосцах США %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_USAV_PVPCOOP"
+msgid_plural "IDS_TASKRESTRICTION_USAV_PVPCOOP"
+msgstr[0] ""
+"Выполняется в Случайных и Кооперативных боях на авианосцах США "
+"%(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_USA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USA_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях США %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_USBBCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USBBCA_PVP"
+msgstr[0] ""
+"Выполняется в Случайных боях на линкорах и крейсерах США %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_USCA_PVP"
+msgid_plural "IDS_TASKRESTRICTION_USCA_PVP"
+msgstr[0] "Выполняется в Случайных боях на крейсерах США %(level)s уровня."
+
+msgid "IDS_TASKRESTRICTION_US_PVP"
+msgid_plural "IDS_TASKRESTRICTION_US_PVP"
+msgstr[0] "Выполняется в Случайных боях на кораблях США %(level)s уровня."
+
+msgid "IDS_TASK_RECEIVE_BATTLE_POINTS"
+msgid_plural "IDS_TASK_RECEIVE_BATTLE_POINTS"
+msgstr[0] "Заработайте %s боевое очко"
+
+msgid "IDS_THAKANASHI_KIARA"
+msgstr " "
+
+msgid "IDS_TOOLTIP_BATTLE_BONUS_MULTIPLE_DESCRIPTION"
+msgid_plural "IDS_TOOLTIP_BATTLE_BONUS_MULTIPLE_DESCRIPTION"
+msgstr[0] "Награда за следующую %(_battleAmount)s победу."
+
+msgid "IDS_TOTAL_MISSIONS_IN_CAMPAIGN"
+msgid_plural "IDS_TOTAL_MISSIONS_IN_CAMPAIGN"
+msgstr[0] "%(count)s миссия"
+
+msgid "IDS_TOTAL_TASKS_IN_CAMPAIGN"
+msgid_plural "IDS_TOTAL_TASKS_IN_CAMPAIGN"
+msgstr[0] "%(count)s задание"
+
+msgid "IDS_VIC_RATTLEHEAD"
+msgstr " "
