@@ -12,19 +12,19 @@
 
 ## 如何使用
 
-### 下载
+### 下載
 
-#### 通过 GitHub
+#### 透過 GitHub
 
 在本倉庫[Releases](https://github.com/LocalizedKorabli/Korabli-L10n-CHT/releases/latest)中，下載`Assets`下的`*.cht.mod.zip`壓縮檔案；
 
-### 安装
+### 安裝
 
 1. 在戰艦世界安裝路徑（一般是`X:/Games/Korabli`）中，找到`bin`資料夾。
 2. 對於`bin`資料夾中以數字命名的資料夾，選取其中兩個（若有）數值最大的，執行以下操作：
 3. 進入數字資料夾中的`res_mods`資料夾，將剛剛下載的`*.cht.mod.zip`壓縮檔案中的所有内容解壓到`res_mods`資料夾中。
 
-## Q&A
+## Q & A
 
 - Q：爲什麽軍械庫、船塢畫面中的俄文沒有被翻譯？
 
@@ -49,6 +49,6 @@
 | L10N-繁體中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
 | I18N-English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
-## 相关链接
+## 相關連結
 
 [Patreon](https://www.patreon.com/LocalizedKorabli)
