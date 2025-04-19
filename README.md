@@ -1,4 +1,4 @@
-<h3>澪刻•戰艦世界（Lesta服）漢化</h3>
+<h3>澪刻•戰艦世界（Lesta服）繁體中文化</h3>
 
 [![stars](https://img.shields.io/github/stars/LocalizedKorabli/Korabli-L10n-CHT.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-L10n-CHT/stargazers)
 [![release](https://img.shields.io/github/release/LocalizedKorabli/Korabli-L10n-CHT.svg?style=for-the-badge)](https://github.com/LocalizedKorabli/Korabli-L10n-CHT/releases/latest)
@@ -24,7 +24,6 @@
 2. 對於`bin`資料夾中以數字命名的資料夾，選取其中兩個（若有）數值最大的，執行以下操作：
 3. 進入數字資料夾中的`res_mods`資料夾，將剛剛下載的`*.cht.mod.zip`壓縮檔案中的所有内容解壓到`res_mods`資料夾中。
 
-
 ## Q&A
 
 - Q：爲什麽軍械庫、船塢畫面中的俄文沒有被翻譯？
@@ -34,6 +33,10 @@
 - Q：爲什麽游戲内的文本又變回俄文了？
 
   A：每次更新時，客戶端都會指定`bin`資料夾中另一個更新的數字資料夾來載入模組。重新安裝漢化包即可。
+
+## 致謝
+
+本項目對艦艇和成就等譯文參考了巴哈姆特的勇者[謝湯麵 湯意麵@@](https://home.gamer.com.tw/profile/index.php?owner=lkk9898969)提供的[中文化模組](https://forum.gamer.com.tw/C.php?bsn=21052&snA=19566)。
 
 ## 項目傳送門
 
