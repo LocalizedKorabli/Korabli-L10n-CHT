@@ -36,18 +36,18 @@
 
 ## 致謝
 
-本項目對艦艇和成就等譯文參考了巴哈姆特的勇者[謝湯麵 湯意麵@@](https://home.gamer.com.tw/profile/index.php?owner=lkk9898969)提供的[中文化模組](https://forum.gamer.com.tw/C.php?bsn=21052&snA=19566)。
+本專案對艦艇和成就等譯文參考了巴哈姆特的勇者[謝湯麵 湯意麵@@](https://home.gamer.com.tw/profile/index.php?owner=lkk9898969)提供的[中文化模組](https://forum.gamer.com.tw/C.php?bsn=21052&snA=19566)。
 
-## 項目傳送門
+## 專案傳送門
 
 澪刻正面對多個語言、伺服器類型製作在地化，
 您可以透過點擊以下表格中的連結快速訪問相應的項目倉庫。
 
 | 語言\伺服器類型 | 正式服 | PT服 |
 |:------------:|:----------:|:--------:|
-| L10N-简体中文 | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
-| L10N-繁體中文 | **本仓库** | [仓库地址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
-| I18N-English | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [仓库地址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
+| L10N-简体中文 | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N) | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-L10N-PublicTest) |
+| L10N-繁體中文 | **該專案** | [專案網址](https://github.com/LocalizedKorabli/Korabli-L10n-CHT-PublicTest) |
+| I18N-English | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N) | [專案網址](https://github.com/LocalizedKorabli/Korabli-LESTA-I18N-PublicTest) |
 
 ## 相關連結
 
