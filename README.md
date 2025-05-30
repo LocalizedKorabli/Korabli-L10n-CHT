@@ -12,13 +12,23 @@
 
 ## 如何使用
 
-### 下載
+### 方案1（離綫安裝程式）
 
-#### 透過 GitHub
+#### 下載
+
+在本倉庫[Releases](https://github.com/LocalizedKorabli/Korabli-L10n-CHT/releases/latest)中，下載`Assets`下的`*.exe`可執行檔；
+
+#### 安裝
+
+運行可執行檔，其會自動安裝漢化包至游戲路徑。
+
+### 方案2（手動安裝漢化包）
+
+#### 下載
 
 在本倉庫[Releases](https://github.com/LocalizedKorabli/Korabli-L10n-CHT/releases/latest)中，下載`Assets`下的`*.cht.mod.zip`壓縮檔案；
 
-### 安裝
+#### 安裝
 
 1. 在戰艦世界安裝路徑（一般是`X:/Games/Korabli`）中，找到`bin`資料夾。
 2. 對於`bin`資料夾中以數字命名的資料夾，選取其中兩個（若有）數值最大的，執行以下操作：
