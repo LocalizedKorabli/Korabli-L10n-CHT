@@ -344,6 +344,33 @@ msgstr "我方監控站"
 msgid "IDS_1_SPACESTATION"
 msgstr "太空站"
 
+msgid "IDS_2025WT_AUTOMATON"
+msgstr "無人艦"
+
+msgid "IDS_2025WT_AUTOMATONS"
+msgstr "無人艦"
+
+msgid "IDS_2025WT_CHAT_AI"
+msgstr "基地AI"
+
+msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY527_NO_TARGET"
+msgstr "傳送已取消！所有獵犬均未返回戰鬥！"
+
+msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY532_NO_TARGET"
+msgstr "傳送目標已被摧毀。消耗品已停用。"
+
+msgid "IDS_2025WT_ERMELINDA"
+msgstr "埃爾梅琳達˙榮格"
+
+msgid "IDS_2025WT_HOUND_LEADER"
+msgstr "獵犬領袖"
+
+msgid "IDS_2025WT_TARGET_ACCEPT"
+msgstr "正在向%s開火！"
+
+msgid "IDS_2025WT_TARGET_ACCEPT_SOLO"
+msgstr "正在向%s開火！"
+
 msgid "IDS_2AIRSHIPS_SCENARIO_HINT"
 msgstr "比敵方隊伍更快護衛飛艇至目的地，或擊毀所有敵方艦艇"
 
@@ -1630,7 +1657,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_ASYMM_BATTLE_SOLO_WIN"
 msgstr "單槍匹馬對抗機器人，並獲勝。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ATBA_CALIBER"
-msgstr "傷害並擊毀一艘敵方艦艇。最終的直接傷害必須是由副炮所造成。"
+msgstr "摧毀 1 艘敵艦。最後一次攻擊必須是由副炮造成。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ATB_AEGAEON"
 msgstr "在「元素衝突」活動的「擊沉艦艇」類別中名列前 100 名。"
@@ -1654,13 +1681,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_AT_PARTICIPANT"
 msgstr "開發人員感謝您參與預覽測試！"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVACOMMON"
-msgstr "參與「Go Navy!」競賽。"
+msgstr "參加「Go Navy!」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVAEAGLES"
-msgstr "在「Go Navy!」競賽中效忠於「Eagles」隊。"
+msgstr "在「Go Navy!」活動中加入 Eagles 隊。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AVASHARKS"
-msgstr "在「Go Navy!」競賽中效忠於「Sharks」隊。"
+msgstr "在「Go Navy!」活動中加入 Sharks 隊。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_BATTLE_HERO"
 msgstr "獲得任 %(achievementCount)s 個英勇成就。"
@@ -2085,8 +2112,14 @@ msgstr "為紀念本遊戲在 DMM Games 平台發布的獨家成就。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_PA"
 msgstr "在 10 秒內擊毀 2 艘敵方艦艇。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_ATBA_CALIBER_COOP"
+msgstr "摧毀 %(ATBAvictimsCount)s 艘敵艦。最後一次攻擊必須是由副炮造成。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_KILL"
 msgstr "擊毀 2 艘敵方艦艇。第二個目標必須在第一個目標被摧毀後的 %(timeInterval)s 秒內被摧毀。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_KILL_COOP"
+msgstr "在 %(timeInterval)s 秒內摧毀2艘敵艦。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT"
 msgstr "從 %(damagersCount)s 名或以上的敵人那受到至少為您艦艇基本血量 %(damageRatio_percent)s 的傷害並存活下來。"
@@ -2353,7 +2386,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_GENERAL_PLAY"
 msgstr "以其中一艘超級艦艇參與「巨戰」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_GLORY"
-msgstr "在「Victory」競賽中效忠於「Glory」隊。"
+msgstr "在「Victory」活動中加入 Glory 隊。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_GREATEEIGHT"
 msgstr "擊毀 %(victimsCount)s 艘或以上敵方艦艇。"
@@ -2380,7 +2413,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_HIFROMHELL_PA"
 msgstr "從野火中擊毀一艘敵方艦艇。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HONOR"
-msgstr "在「Victory」競賽中效忠於「Honor」隊。"
+msgstr "在「Victory」活動中加入 Honor 隊。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_INDEPENDENCE_DAY"
 msgstr "加入美國獨立日慶祝活動。"
@@ -2432,6 +2465,9 @@ msgstr "在戰鬥中存活超過 10 分鐘。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER"
 msgstr "傷害 %(victimsCount)s 艘或以上的敵方艦艇。造成的傷害必須至少為敵方隊伍所有艦艇總血量的 %(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER_DISTANCE_COOP"
+msgstr "使用主炮在 11 公里或更遠距離對敵艦造成傷害，傷害量不低於敵方艦艇總基本血量的 %(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER_SQUAD"
 msgstr "您的分艦隊所造成的傷害，必需至少為所有敵艦總基本血量的 %(damageRatio_percent)s。"
@@ -2660,13 +2696,13 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_RUSY_VS_LIZARDS_ASYMM_BATTLE_MEMORABLE"
 msgstr "在與蜥蜴大軍的戰鬥中立下卓越功勛。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_NEW_YEAR"
-msgstr "加入「新年之夜」活動！"
+msgstr "積極參與「新年之夜」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_NY23"
-msgstr "積極參與「頌歌對決」活動！"
+msgstr "積極參與「頌歌對決」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_PLAYER"
-msgstr "積極參與「勇氣交鋒」活動！"
+msgstr "積極參與「勇氣交鋒」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS"
 msgstr "積極參與「三國演義」活動。"
@@ -2675,7 +2711,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_THREE_KINGDOMS_2"
 msgstr "積極參與「三國爭霸：洞口之戰」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_UK_BB"
-msgstr "積極參與「工業巨頭」活動！"
+msgstr "積極參與「工業巨頭」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SATSUMA_KILL"
 msgstr "擊沉 3 艘 Satsuma 級超級主力艦。"
@@ -2751,6 +2787,9 @@ msgstr "開發人員感謝您參與超測。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT"
 msgstr "傷害 %(victimsCount)s 艘或以上的敵方艦艇。對每艘艦艇所造成的傷害必須至少為其基本血量的 %(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT_COOP"
+msgstr "對 %(victimsCount)s 艘或更多敵艦造成傷害。對每艘艦艇造成的傷害必須至少為其基本血量的 %(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT_SQUAD"
 msgstr "您的分艦隊必需對至少 %(victimsCount)s 艘敵方艦艇造成傷害。對每艘艦艇造成的傷害必須至少為其基本血量的 %(damageRatio_percent)s。"
@@ -2875,6 +2914,9 @@ msgstr "在第 8 季的公會戰鬥中達到 Hurricane 聯賽。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEAGUE_CLAN_SEASON_9"
 msgstr "在第 9 季的公會戰鬥中達到 Hurricane 聯賽。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_TRITON_COOP"
+msgstr "使用 %(weaponTypeCount)s 種方式摧毀敵艦。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_TWITCH"
 msgstr "歡迎加入遊戲！"
 
@@ -2894,13 +2936,19 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_VETERAN"
 msgstr "贏得 %(winCount)s 場隨機戰鬥。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORY"
-msgstr "在「Victory」競賽中展現出勇氣、膽量和勝利意志。"
+msgstr "在「Victory」活動中表現出勇敢、堅強和必勝的信念。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORYDAY"
 msgstr "參與「慶祝偉大衛國戰爭勝利 80 週年」活動。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WAFFENTRAGER_ISOLATION"
+msgstr "完成同盟與埃爾梅琳達˙榮格對抗的所有等級。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "擊毀 %(victimsCount)s 艘或以上的敵方艦艇。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_COOP"
+msgstr "摧毀 %(victimsCount)s 艘或更多敵艦。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR_SQUAD"
 msgstr "您的分艦隊必須擊毀至少 %(victimsCount)s 艘敵艦。"
@@ -2995,6 +3043,9 @@ msgstr "贏得第 9 季的公會戰鬥。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WITHERING"
 msgstr "透過火災和進水來對敵方艦艇造成至少 %(damage)s 血量傷害。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WITHERING_COOP"
+msgstr "透過火災和進水對敵艦造成傷害，傷害量不低於敵方艦艇總基本血量的 %(damageRatio_percent)s。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WORKAHOLIC"
 msgstr "完成 100 個每日任務。"
 
@@ -3016,8 +3067,14 @@ msgstr "「DMM Games」成就"
 msgid "IDS_ACHIEVEMENT_DOUBLEKILL_PA"
 msgstr "雙重捕獲"
 
+msgid "IDS_ACHIEVEMENT_DOUBLE_ATBA_CALIBER_COOP"
+msgstr "副炮標兵"
+
 msgid "IDS_ACHIEVEMENT_DOUBLE_KILL"
 msgstr "雙殺"
+
+msgid "IDS_ACHIEVEMENT_DOUBLE_KILL_COOP"
+msgstr "一石二鳥"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT"
 msgstr "勇者無懼"
@@ -3302,7 +3359,7 @@ msgid "IDS_ACHIEVEMENT_GROUP_BATTLE"
 msgstr "作戰成就"
 
 msgid "IDS_ACHIEVEMENT_GROUP_EXPLORING"
-msgstr "標準成就"
+msgstr "進度"
 
 msgid "IDS_ACHIEVEMENT_GROUP_MEMORABLE"
 msgstr "紀念成就"
@@ -3387,6 +3444,9 @@ msgstr "飽受摧殘"
 
 msgid "IDS_ACHIEVEMENT_MAIN_CALIBER"
 msgstr "優質作戰"
+
+msgid "IDS_ACHIEVEMENT_MAIN_CALIBER_DISTANCE_COOP"
+msgstr "旗艦"
 
 msgid "IDS_ACHIEVEMENT_MAIN_CALIBER_SQUAD"
 msgstr "打擊小隊"
@@ -3610,6 +3670,9 @@ msgstr "可在激鬥中完成。"
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_CLAN_ONEPERSEASON"
 msgstr "可在公會戰鬥中完成；每賽季頒發一次。"
 
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_COOPERATIVE"
+msgstr "可在聯合作戰中完成。"
+
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_2AIRSHIPS"
 msgstr "可在「飛艇護衛」中完成。"
 
@@ -3805,6 +3868,9 @@ msgstr "公會"
 msgid "IDS_ACHIEVEMENT_SUBGROUP_ADVANCED_RANKS"
 msgstr "排名"
 
+msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_COOPERATIVE"
+msgstr "聯合作戰"
+
 msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_OPERATIONS"
 msgstr "行動"
 
@@ -3812,7 +3878,7 @@ msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_RANDOM_OR_RANK"
 msgstr "隨機戰鬥、排名戰鬥和評級戰鬥"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_BATTLE_SQUAD"
-msgstr "團隊"
+msgstr "分艦隊作戰"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_CAMPAIGNS"
 msgstr "戰役"
@@ -3826,14 +3892,14 @@ msgstr "一般"
 msgid "IDS_ACHIEVEMENT_SUBGROUP_EXPLORING_OPERATIONS"
 msgstr "行動"
 
-msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_ACHIEVEMENTS_MARATHON"
-msgstr "成就馬拉松"
-
 msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_BATTLE_OF_ELEMENTS"
 msgstr "元素衝突"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_COMPETITIONS"
 msgstr "競賽"
+
+msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_EVENT_ACHIEVEMENTS"
+msgstr "活動"
 
 msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_EVENT_BATTLES"
 msgstr "活動"
@@ -3844,17 +3910,20 @@ msgstr "萬聖節"
 msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_SINGLE"
 msgstr "個人"
 
-msgid "IDS_ACHIEVEMENT_SUBGROUP_MEMORABLE_SPECIAL"
-msgstr "特殊"
-
 msgid "IDS_ACHIEVEMENT_SUPPORT"
 msgstr "最佳助攻"
+
+msgid "IDS_ACHIEVEMENT_SUPPORT_COOP"
+msgstr "火力壓制"
 
 msgid "IDS_ACHIEVEMENT_SUPPORT_SQUAD"
 msgstr "並肩奮戰"
 
 msgid "IDS_ACHIEVEMENT_SWEETPORT_PA"
 msgstr "Honey, I'm Home!"
+
+msgid "IDS_ACHIEVEMENT_TIMER_WAFFENTRAGER_ISOLATION"
+msgstr "距離共振還剩："
 
 msgid "IDS_ACHIEVEMENT_TM"
 msgstr "玩家錦標賽 V 入圍決賽者"
@@ -3976,6 +4045,9 @@ msgstr "Hurricane：Warrior's Path"
 msgid "IDS_ACHIEVEMENT_TOTAL_COUNT"
 msgstr "獲得次數："
 
+msgid "IDS_ACHIEVEMENT_TRITON_COOP"
+msgstr "足智多謀"
+
 msgid "IDS_ACHIEVEMENT_TWITCH"
 msgstr "歡迎來到Twitch"
 
@@ -4030,8 +4102,14 @@ msgstr "Victory"
 msgid "IDS_ACHIEVEMENT_VICTORYDAY"
 msgstr "偉大勝利 80 週年"
 
+msgid "IDS_ACHIEVEMENT_WAFFENTRAGER_ISOLATION"
+msgstr "厄瑞玻斯之戰"
+
 msgid "IDS_ACHIEVEMENT_WARRIOR"
 msgstr "海妖再世!"
+
+msgid "IDS_ACHIEVEMENT_WARRIOR_COOP"
+msgstr "海戰英豪"
 
 msgid "IDS_ACHIEVEMENT_WARRIOR_SQUAD"
 msgstr "協同攻擊"
@@ -4125,6 +4203,9 @@ msgstr "Warrior's Path"
 
 msgid "IDS_ACHIEVEMENT_WITHERING"
 msgstr "水火無情"
+
+msgid "IDS_ACHIEVEMENT_WITHERING_COOP"
+msgstr "摧枯拉朽"
 
 msgid "IDS_ACHIEVEMENT_WORKAHOLIC"
 msgstr "全副武裝"
@@ -4879,10 +4960,13 @@ msgid "IDS_AIR_SUPPORT_CALL_FIGHTER"
 msgstr "等待您的攔截機就位"
 
 msgid "IDS_AIR_SUPPORT_CALL_SCOUT"
-msgstr "等待您的偵察機就位"
+msgstr "等待您的校射偵察機就位"
 
 msgid "IDS_AIR_SUPPORT_CALL_SMOKE"
 msgstr "等待您的煙幕施放機就位"
+
+msgid "IDS_AIR_SUPPORT_CALL_SPY"
+msgstr "等待您的情報偵察機就位"
 
 msgid "IDS_AIR_SUPPORT_HE_AVAILABLE"
 msgstr "可使用 HE 炸彈空襲"
@@ -6836,6 +6920,63 @@ msgstr "預備隊："
 msgid "IDS_BARRACK_IS_FULL"
 msgstr "預備隊中沒有空位"
 
+msgid "IDS_BASE_AI_1"
+msgstr "發電機已啟動，護盾模組功率已達 100%。開始為撤離系統充能。"
+
+msgid "IDS_BASE_AI_10"
+msgstr "撤離系統充能已達 50%！"
+
+msgid "IDS_BASE_AI_11"
+msgstr "撤離系統充能已達 75%！"
+
+msgid "IDS_BASE_AI_12"
+msgstr "撤離系統充能已達 90%！"
+
+msgid "IDS_BASE_AI_13"
+msgstr "撤離系統充能已滿！洲際傳送門即將啟動！"
+
+msgid "IDS_BASE_AI_14"
+msgstr "警告！能量不足…無法啟動撤離系統。正在啟用備用協議…"
+
+msgid "IDS_BASE_AI_15"
+msgstr "宙斯炮已充能！要來個痛快嗎？"
+
+msgid "IDS_BASE_AI_16"
+msgstr "無人艦和埃爾梅琳達都受到基地護盾模組的保護！"
+
+msgid "IDS_BASE_AI_17"
+msgstr "最終兵器校準協議已啟用！對獵犬艦艇造成傷害可增加「風暴之眼」和「腐蝕力場」的半徑和作用時間，並提高武器射速！"
+
+msgid "IDS_BASE_AI_18"
+msgstr "校準完成！"
+
+msgid "IDS_BASE_AI_19"
+msgstr "將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。"
+
+msgid "IDS_BASE_AI_2"
+msgstr "發電機停機會降低護盾模組效率和系統充電速率。"
+
+msgid "IDS_BASE_AI_3"
+msgstr "使用傳送門在控制點之間快速移動"
+
+msgid "IDS_BASE_AI_4"
+msgstr "敵人位於「量子追蹤」協議作用範圍內。啟用它可將您傳送至 10 公里範圍內的隨機目標處。"
+
+msgid "IDS_BASE_AI_5"
+msgstr "艦載「量子躍遷」系統可讓您朝指定方向瞬間移動，並在一段時間內不被敵方雷達偵測。"
+
+msgid "IDS_BASE_AI_6"
+msgstr "一臺發電機已停機——撤離系統充能速率已降低。「量子進攻」系統可將您的艦艇傳送至已停機發電機的位置。"
+
+msgid "IDS_BASE_AI_7"
+msgstr "敵人位於「量子追蹤」協議作用範圍內。啟用它可將您與受控無人艦一起傳送至隨機目標。"
+
+msgid "IDS_BASE_AI_8"
+msgstr "三臺發電機中僅剩一臺還在運作。最後一臺發電機停機後，撤離系統將停止充能，並導致護盾模組完全關閉！"
+
+msgid "IDS_BASE_AI_9"
+msgstr "發電機控制權已全數丟失。撤離系統充能已停止。護盾模組已關閉。"
+
 msgid "IDS_BASE_CAPTURE_POINTS"
 msgstr "佔領的貢獻"
 
@@ -6941,7 +7082,7 @@ msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_REGENCREW"
 msgstr "維修小組"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SCOUT"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SMOKEGENERATOR"
 msgstr "發煙機"
@@ -7160,7 +7301,7 @@ msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_CREW_RETRAIN_GOLD"
 msgstr "重新訓練指揮官的金幣費用"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_EVENTUM_2"
-msgstr "您可以獲得夏季代幣"
+msgstr "您可以獲得能量單元"
 
 msgid "IDS_BATTLEPASS_PURCHASE_PAID_ENHANCED_BONUS_FIRST_WIN_XP_COEF"
 msgstr "每日勝利加成"
@@ -9343,7 +9484,7 @@ msgstr "魚雷引導時間不足"
 msgid "IDS_CANNOT_HIT_TARGET_COMMON"
 msgstr "無法命中目標"
 
-msgid "IDS_CANNOT_HIT_TARGET_CRASH_CREW_WORKING"
+msgid "IDS_CANNOT_HIT_TARGET_NOT_PINGABLE"
 msgstr "聲納音波將被消除"
 
 msgid "IDS_CANNOT_HIT_TARGET_TOO_FAR"
@@ -9495,6 +9636,9 @@ msgstr "過濾適合「朝蛋夕拾」活動的艦艇"
 
 msgid "IDS_CAROUSEL_PCVE029_FILTER"
 msgstr "過濾適合「水下前綫」的艦艇"
+
+msgid "IDS_CAROUSEL_PCVE030_FILTER"
+msgstr "篩選適合「最終兵器：隔離」的艦艇"
 
 msgid "IDS_CAROUSEL_PVEBATTLE_FILTER"
 msgstr "過濾適合用來完成所選行動的艦艇"
@@ -10186,6 +10330,9 @@ msgstr "選擇「朝蛋夕拾」活動"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE029"
 msgstr "選擇「水下前綫」"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE030"
+msgstr "選擇「最終兵器：隔離」"
 
 msgid "IDS_CHOOSE_MK_NAME"
 msgstr ""
@@ -11071,6 +11218,18 @@ msgstr "%(player)s！將火力集中在我方飛艇附近的敵方目標！"
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "將火力集中在我方飛艇附近的敵方艦艇！"
 
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "%(player)s！我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "%(player)s！我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "我需要空中支援！"
+
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_MESSAGE_ALLY_PLANE_AUXILIARY_NO_OWNER"
 msgstr "我需要空中支援！"
 
@@ -11170,6 +11329,18 @@ msgstr "支援我方飛艇！"
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "支援我方飛艇！"
 
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "我需要空中支援！"
+
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_SMALLWINDOW_ALLY_PLANE_AUXILIARY_NO_OWNER"
 msgstr "我需要空中支援！"
 
@@ -11265,6 +11436,18 @@ msgstr "支援我方飛艇！"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "支援我方飛艇！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "我需要空中支援！"
+
+msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "我需要空中支援！"
 
 msgid "IDS_CMD_QUICK_NEED_SUPPORT_WINDOW_ALLY_PLANE_AUXILIARY_NO_OWNER"
 msgstr "我需要空中支援！"
@@ -11431,6 +11614,18 @@ msgstr "護衛我方飛艇！"
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "護衛我方飛艇！"
 
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "為我方煙幕施放機提供掩護！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "為我方煙幕施放機提供掩護！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "為我方情報偵察機提供掩護！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "為我方情報偵察機提供掩護！"
+
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_AUXILIARY_NO_OWNER"
 msgstr "為我方飛機提供掩護！"
 
@@ -11465,10 +11660,10 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
 msgstr "為我方水雷轟炸機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT"
-msgstr "為我方偵察機提供掩護！"
+msgstr "為我方校射偵察機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
-msgstr "為我方偵察機提供掩護！"
+msgstr "為我方校射偵察機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_FIGHTER"
 msgstr "為我方對艦攻擊機提供掩護！"
@@ -11483,10 +11678,10 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "為我方水雷轟炸機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT"
-msgstr "為我方偵察機提供掩護！"
+msgstr "為我方校射偵察機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SCOUT_NO_OWNER"
-msgstr "為我方偵察機提供掩護！"
+msgstr "為我方校射偵察機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ALLY_PLANE_SKIPBOMBER"
 msgstr "為我方彈跳轟炸機提供掩護！"
@@ -11539,6 +11734,18 @@ msgstr "牽制敵方飛艇！"
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "牽制敵方飛艇！"
 
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "注意敵方煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "注意敵方煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SPY"
+msgstr "注意敵方情報偵察機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "注意敵方情報偵察機！"
+
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_BOMBER"
 msgstr "注意敵方轟炸機！"
 
@@ -11567,7 +11774,7 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
 msgstr "注意敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_CONSUMABLE_SCOUT"
-msgstr "注意敵方偵察機！"
+msgstr "注意敵方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_FIGHTER"
 msgstr "注意敵方對艦攻擊機！"
@@ -11582,7 +11789,7 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "注意敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_SCOUT"
-msgstr "注意敵方偵察機！"
+msgstr "注意敵方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_ENEMY_PLANE_SKIPBOMBER"
 msgstr "注意敵方彈跳轟炸機！"
@@ -11644,6 +11851,18 @@ msgstr "護衛我方飛艇！"
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "護衛我方飛艇！"
 
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "掩護我方煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "掩護我方煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr "掩護我方情報偵察機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "掩護我方情報偵察機！"
+
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_AUXILIARY_NO_OWNER"
 msgstr "我方飛機！"
 
@@ -11678,10 +11897,10 @@ msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNE
 msgstr "為我方水雷轟炸機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_FIGHTER"
 msgstr "我方對艦攻擊機！"
@@ -11696,10 +11915,10 @@ msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "我方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ALLY_PLANE_SKIPBOMBER"
 msgstr "我方彈跳轟炸機！"
@@ -11752,6 +11971,18 @@ msgstr "牽制敵方飛艇！"
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "牽制敵方飛艇！"
 
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr "注意敵方煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr "注意敵方煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY"
+msgstr "注意敵方情報偵察機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr "注意敵方情報偵察機！"
+
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_BOMBER"
 msgstr "敵方轟炸機！"
 
@@ -11780,7 +12011,7 @@ msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWN
 msgstr "注意敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
-msgstr "敵方偵察機！"
+msgstr "敵方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_FIGHTER"
 msgstr "敵方對艦攻擊機！"
@@ -11795,7 +12026,7 @@ msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_SCOUT"
-msgstr "敵方偵察機！"
+msgstr "敵方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_ENEMY_PLANE_SKIPBOMBER"
 msgstr "敵方彈跳轟炸機！"
@@ -11854,6 +12085,26 @@ msgstr "護衛我方飛艇！"
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "護衛我方飛艇！"
 
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr ""
+"掩護我方\n"
+"煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr ""
+"掩護我方\n"
+"煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY"
+msgstr ""
+"掩護我方\n"
+"情報偵察機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr ""
+"掩護我方\n"
+"情報偵察機！"
+
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_AUXILIARY_NO_OWNER"
 msgstr "我方飛機！"
 
@@ -11888,10 +12139,10 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
 msgstr "為我方水雷轟炸機提供掩護！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_CONSUMABLE_SCOUT_NO_OWNER"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_FIGHTER"
 msgstr "我方對艦攻擊機！"
@@ -11906,10 +12157,10 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "我方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SCOUT_NO_OWNER"
-msgstr "我方偵察機！"
+msgstr "我方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ALLY_PLANE_SKIPBOMBER"
 msgstr "我方彈跳轟炸機！"
@@ -11962,6 +12213,26 @@ msgstr "牽制敵方飛艇！"
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIRSHIP_NO_OWNER"
 msgstr "牽制敵方飛艇！"
 
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE"
+msgstr ""
+"注意敵方\n"
+"煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SMOKE_NO_OWNER"
+msgstr ""
+"注意敵方\n"
+"煙幕施放機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY"
+msgstr ""
+"注意敵方\n"
+"情報偵察機！"
+
+msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_AIR_SUPPORT_SPY_NO_OWNER"
+msgstr ""
+"注意敵方\n"
+"情報偵察機！"
+
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_BOMBER"
 msgstr "敵方轟炸機！"
 
@@ -11990,7 +12261,7 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_CONSUMABLE_MINEBOMBER_NO_OWNER"
 msgstr "注意敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_CONSUMABLE_SCOUT"
-msgstr "敵方偵察機！"
+msgstr "敵方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_FIGHTER"
 msgstr "敵方對艦攻擊機！"
@@ -12005,7 +12276,7 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_MINEBOMBER_NO_OWNER"
 msgstr "敵方水雷轟炸機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_SCOUT"
-msgstr "敵方偵察機！"
+msgstr "敵方校射偵察機！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_ENEMY_PLANE_SKIPBOMBER"
 msgstr "敵方彈跳轟炸機！"
@@ -12672,10 +12943,10 @@ msgid "IDS_CONSUME_FIGHTERS"
 msgstr "戰鬥機"
 
 msgid "IDS_CONSUME_SCOUT"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_CONSUME_SCOUTS"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_CONTACTS"
 msgstr "聯絡人"
@@ -12722,7 +12993,7 @@ msgid "IDS_CONTEXT_FIRE_MODE_BURST_ENABLED"
 msgstr "按下以切換至主炮的替代射擊模式"
 
 msgid "IDS_CONTEXT_HINT008_MG_AND_SCOUT"
-msgstr "啓用「偵察機」"
+msgstr "啓用「校射偵察機」"
 
 msgid "IDS_CONTEXT_HINT009_DEEPSEA_TORPEDOES"
 msgstr "深水魚雷將不會擊中驅逐艦或潛水艇！"
@@ -12854,7 +13125,7 @@ msgid "IDS_CONTEXT_TUTORIAL_REPAIR_MODULE"
 msgstr "修理配件"
 
 msgid "IDS_CONTEXT_TUTORIAL_SCOUT_CAMERA"
-msgstr "按下以切換偵察機的鏡頭模式"
+msgstr "按下以切換校射偵察機的鏡頭模式"
 
 msgid "IDS_CONTEXT_TUTORIAL_SHIP_MODIFIERS"
 msgstr "查看艦艇特質"
@@ -16202,6 +16473,9 @@ msgstr "Hugo "
 msgid "IDS_CREW_FIRSTNAME_VENEZUELA_9"
 msgstr "Eliseo "
 
+msgid "IDS_CREW_FIRSTNAME_WAFFENTRAGER_0"
+msgstr "特殊"
+
 msgid "IDS_CREW_FIRSTNAME_YUGOSLAVIA_0"
 msgstr "Aleksandar "
 
@@ -18653,6 +18927,9 @@ msgstr "Seijas Contreras"
 msgid "IDS_CREW_LASTNAME_VENEZUELA_9"
 msgstr "Lanz Navarro"
 
+msgid "IDS_CREW_LASTNAME_WAFFENTRAGER_0"
+msgstr "指揮官"
+
 msgid "IDS_CREW_LASTNAME_YUGOSLAVIA_0"
 msgstr "Aleksic"
 
@@ -20129,28 +20406,28 @@ msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
 msgstr "臨時資源。25.8 版本釋出後，代幣將被無償收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
-msgstr "夏季代幣"
+msgstr "能量單元"
 
 msgid "IDS_CURRENCY_EVENTUM_2_GET_DESCRIPTION"
-msgstr "透過在 25.8 版本結束前完成作戰任務，達到戰鬥通行證等級，以及從軍械庫的禮包中獲得。"
+msgstr "透過在 25.10 版本結束前完成活動作戰任務、推進活動進度等級、完成「守護厄瑞玻斯」門戶戰役，以及在军械库兌換禮包或透過反應堆合金兌換獲得。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_SPEND_DESCRIPTION"
-msgstr "可用於在軍械庫中兌換包含以下物品的隨機禮包：超級航空母艦烏里揚諾夫斯克、超級驅逐艦羅伯斯庇爾、IX 階主力艦貝爾納多特及其永久塗裝「去南方！」、「VIII 階加值艦艇」精英貨櫃以及其他資源；還可用於兌換 VII 階主力艦西弗吉尼亞'44，「艦隊寶庫」加值貨櫃，以及其他資源。"
+msgstr "用於在 25.10 版本結束之前於军械库活動類別中兌換獎勵，包括 X 階戰列艦雷獸、X 階巡洋艦託登肖爾、X 階驅逐艦騰躍兵，以及其他資源。"
 
 msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
-msgstr "「南下度假去！」活動的臨時資源。25.9 版本釋出後，代幣將被無償收回。"
+msgstr "「最終兵器：隔離」活動臨時資源。25.11 版本釋出後，資源將被無償收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "法國代幣"
+msgstr "義大利代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "透過在 25.7 版本結束前完成作戰任務、達到戰鬥通行證等級，以及在 25.8 版本結束前從軍械庫的禮包中獲得。"
+msgstr "透過在 25.10 版本結束前達成戰鬥通行證等級、在每日獎勵畫面領取獲得，或在 25.11 版本結束前從军械库的禮包中獲得。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "用於在 25.8 版本結束前兌換包含以下內容的連續禮包鏈：VIII 階潛水艇非洲女郎，X 階潛水艇卡薩比安卡，VI 階潛水艇黛安和非洲女郎的永久加成包，非洲女郎和卡薩比安卡的永久迷彩，以及其他資源。"
+msgstr "用於在 25.11 版本結束前兌換連續禮包鏈，其中包含：VI 階巡洋艦奧理略˙戴克裡先、VIII 階巡洋艦馬可˙奧勒留、X 階巡洋艦烏爾皮烏斯˙圖拉真，馬可˙奧勒留和 VII 階巡洋艦瓦萊裡烏斯˙君士坦丁的永久加成包，馬可˙奧勒留、烏爾皮烏斯˙圖拉真和 IX 階巡洋艦埃利烏斯˙哈德良的永久塗裝「天藍銀灰」，以及其他資源。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "「法國潛水艇」活動的臨時資源。25.9 版本釋出後，代幣將被無償收回。"
+msgstr "「義大利巡洋艦」活動的臨時資源。25.12 版本釋出後，代幣將被無償收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "大明航海代幣"
@@ -20303,7 +20580,7 @@ msgid "IDS_CURRENCY_PARAGONXP_GET_DESCRIPTION"
 msgstr "可透過重置科技樹分支和參與各種活動來獲取。"
 
 msgid "IDS_CURRENCY_PARAGONXP_SPEND_DESCRIPTION"
-msgstr "軍械庫「研發局」類別中的特殊和加值艦艇，以及其他遊戲內物品。"
+msgstr "用於獲取特殊和加值戰艦，以及其他遊戲內物品"
 
 msgid "IDS_CURRENCY_PARAGON_XP"
 msgstr "研發點數"
@@ -20312,13 +20589,13 @@ msgid "IDS_CURRENCY_PURCHASED"
 msgstr "已用現金購買："
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS"
-msgstr "社群代幣"
+msgstr "領航代幣"
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS_GET_DESCRIPTION"
 msgstr "可透過邀請好友加入遊戲和參與各種活動來獲取。"
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS_SPEND_DESCRIPTION"
-msgstr "軍械庫「海軍社群」類別中的各種物品。"
+msgstr "用於獲取军械库「徵募站」類別中的各種物品。"
 
 msgid "IDS_CURRENCY_SALTPETER"
 msgstr "探險代幣"
@@ -20382,6 +20659,42 @@ msgstr "軍械庫中的特殊和加值艦艇。"
 
 msgid "IDS_CURRENCY_SUBTYPE"
 msgstr "資源"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS"
+msgstr "啟用金鑰"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_GET_DESCRIPTION"
+msgstr "透過在 25.10 版本結束前在軍械庫活動類別中兌換反應堆合金獎勵或禮包鏈、完成活動戰鬥任務、推進活動進度等級，以及在有限時間內完成「守護厄瑞玻斯」門戶戰役來獲得。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_SPEND_DESCRIPTION"
+msgstr "用於在 25.10 版本結束前駕駛埃爾梅琳達˙榮格的艦艇（烈焰騎士、幽靈獵兵和訊號母艦）加入戰鬥。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_STATUS"
+msgstr "「最終兵器：隔離」活動的暫時性資源。25.11 版本更新後，資源將被無償收回。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS"
+msgstr "反應堆合金"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS_GET_DESCRIPTION"
+msgstr "透過在 25.10 版本結束前參與「最終兵器：隔離」戰鬥類型，以及在限定時間內完成活動戰鬥任務獲得。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS_SPEND_DESCRIPTION"
+msgstr "用於在 25.10 版本活動結束前於實驗技術局兌換加成，以及在軍械庫兌換包括啟用金鑰和能量單元的活動獎勵。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERPROGRESSPOINTS_STATUS"
+msgstr "「最終兵器：隔離」活動的暫時性資源。25.11 版本更新後，資源將被無償收回。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY"
+msgstr "反應堆合金"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY_GET_DESCRIPTION"
+msgstr "透過在 25.10 版本結束前參與「最終兵器：隔離」戰鬥類型，以及在限定時間內完成活動戰鬥任務獲得。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY_SPEND_DESCRIPTION"
+msgstr "用於在 25.10 版本活動結束前於實驗技術局兌換獎勵，以及在軍械庫兌換包括啟用金鑰和能量單元的活動獎勵。"
+
+msgid "IDS_CURRENCY_WAFFENTRAGERRELAY_STATUS"
+msgstr "「最終兵器：隔離」活動的暫時性資源。25.11 版本更新後，資源將被無償收回。"
 
 msgid "IDS_CURRENT_PROGRESS"
 msgstr "當前進度"
@@ -21005,7 +21318,7 @@ msgid "IDS_DESCRIPTION_PCZA041_BD25_PUZZLE"
 msgstr "<p>閉上眼睛數到十。您看到了什麼？或許是過去戰鬥的畫面：炮火、鋼鐵巨獸的輪廓、風暴中的浪花、忠誠戰友的面容……或者您只是堅定地望向未知的前方？</p><p class=\"p_spacing\"> </p><p>許個願吧。無論前方等待您的是什麼，過去十年的戰鬥將永遠銘刻在心——正是這寶貴的經歷讓您堅定地駛往唯一正確的航向。</p>"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "挑戰中無法使用副炮。"
+msgstr "在此戰鬥中無法使用副炮。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
 msgstr "無法使用消耗品。"
@@ -21014,10 +21327,10 @@ msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
 msgstr "您的團隊暫時無法使用消耗品。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "挑戰中無法移動。"
+msgstr "在此戰鬥中無法改變航速和航向。"
 
 msgid "IDS_DESCRIPTION_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "挑戰中無法使用任何武器。"
+msgstr "在此戰鬥中無法使用任何武器。"
 
 msgid "IDS_DESC_PCM001_MAINGUN_MOD_I"
 msgstr "提高存活性並加快主炮組的修理"
@@ -21128,7 +21441,7 @@ msgid "IDS_DESC_PCM037_SMOKEGENERATOR_MOD_I"
 msgstr "延長「發煙機」、「短發式發煙機」、「低速航行發煙機」、「全速航行發煙機」和「煙幕產生器」消耗品的作用時間。"
 
 msgid "IDS_DESC_PCM038_SPOTTER_MOD_I"
-msgstr "延長「偵察機」、「快速起飛偵察機」和「高精度偵察機」消耗品的作用時間。"
+msgstr "延長「校射偵察機」、「快速起飛校射偵察機」和「高精度校射偵察機」消耗品的作用時間。"
 
 msgid "IDS_DESC_PCM039_CRASHCREW_MOD_I"
 msgstr "延長「損害管制小組」和「快速損害管制小隊」消耗品的作用時間。"
@@ -21492,6 +21805,16 @@ msgstr "擊毀的敵方戰艦總數"
 
 msgid "IDS_DESTROYED_MODULES_HELP_SCREEN"
 msgstr "配件失去作用"
+
+msgid "IDS_DESTROYED_SHIELD_MODULES_QTY_FOR_HOUND"
+msgstr ""
+"摧毀敵方\n"
+"護盾模組數"
+
+msgid "IDS_DESTROYED_SHIELD_MODULES_QTY_FOR_WAFFENTRAGER"
+msgstr ""
+"保護我方\n"
+"護盾模組數"
 
 msgid "IDS_DESTROYER"
 msgstr "驅逐艦"
@@ -21889,10 +22212,13 @@ msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_HE"
 msgstr "<p>對標記地區空投 HE 炸彈。</p><p class=\"p_spacing\"> </p><p>HE 炸彈引發火災和讓配件失去作用的機率較高。</p>"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SCOUT_SCOUT"
-msgstr "提升區域內所有友軍的主炮射程與精準度。"
+msgstr "提升指定友軍戰艦的主炮射程與精度。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SCOUT_SMOKE"
-msgstr "在目標區域施放環形煙幕。煙幕可降低被敵人發現的可能性。"
+msgstr "在目標區域施放煙幕。煙幕可降低被敵人發現的可能性。"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SCOUT_SPY"
+msgstr "偵察所有與情報偵察機距離在自身對空被偵察範圍內的敵艦。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AIRSUPPORT_SEAMINE"
 msgstr "<p>水雷將在水面上漂浮一段時間，并在與艦艇接觸時爆炸。</p><p class=\"p_spacing\"> </p><p>能夠造成可觀的傷害，並且造成進水的機率較高。</p><p class=\"p_spacing\"> </p><p>對付重型裝甲目標和低機動性目標效果最好。</p>"
@@ -22124,10 +22450,13 @@ msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_HE"
 msgstr "HE 炸彈空襲"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SCOUT_SCOUT"
-msgstr "巡邏偵察機"
+msgstr "伴航校射偵察機"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SCOUT_SMOKE"
 msgstr "煙幕施放機"
+
+msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SCOUT_SPY"
+msgstr "情報偵察機"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_SEAMINE"
 msgstr "雷區"
@@ -22353,6 +22682,12 @@ msgstr "加值商店"
 
 msgid "IDS_DOCK_BANNER_PROFILE_ACCOUNT"
 msgstr "新功能"
+
+msgid "IDS_DOCK_BANNER_RANKS_TOOLTIP_HEADER"
+msgstr "排名戰鬥"
+
+msgid "IDS_DOCK_BANNER_RANK_BATTLES"
+msgstr "排名戰鬥"
 
 msgid "IDS_DOCK_BANNER_RATING"
 msgstr "評級戰鬥"
@@ -22983,6 +23318,105 @@ msgstr "暫時提高艦艇的最高航速，縮減加減速所需時間。"
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY510_TURNAROUND_SMF2024"
 msgstr "瞬間讓艦艇迴轉 180°。"
 
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY511_2025WT_ADDDD"
+msgstr "<p>召喚無人驅逐艦<b>秋月</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您的艦艇提供<u>武器射速+5%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY512_2025WT_ADDCR"
+msgstr "<p>召喚無人巡洋艦<b>妙高</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您的艦艇提供<u>最大血量 +2%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY513_2025WT_ADDBB"
+msgstr "<p>召喚無人主力艦<b>扶桑</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您的艦艇提供<u>每秒恢復 30 血量</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY514_2025WT_STEALTHTELEPORT"
+msgstr "讓艦艇瞬間沿視野方向移動 3 公里，並將其被偵察範圍縮小至 2 公里。將主炮開火後艦艇被偵察範圍擴大的持續時間縮短至 1 秒。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY515_2025WT_STEALTHHEAL"
+msgstr "將艦艇的被偵察範圍縮小至 2 公里並每秒恢復 2500 血量。主炮開火後，艦艇被偵察範圍立即重新縮小到2公里。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY516_2025WT_PARTICLEBARRIER"
+msgstr "在艦艇周圍生成一個護盾，阻擋並吸收所有受到的傷害。作用時間結束後，護盾爆炸，對作用區域內的每個敵人造成累積的全部傷害。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY517_2025WT_HOUNDSVAMPIRISM"
+msgstr "將造成傷害的 25% 轉化為艦艇的血量，10% 轉化為每艘友軍艦艇的血量。使艦艇上所有武器的射速提高30%。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY518_2025WT_HOUNDSRESIST"
+msgstr "為隊伍中的所有艦艇減少 70% 受到的傷害。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
+msgstr "在短時間內顯著提高艦艇航速。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY520_2025WT_HOUNDSMASSHEAL"
+msgstr "立刻為隊伍中每艘艦艇恢復 7500 血量。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
+msgstr "將隊伍中所有艦艇的航速和機動性提高 40%。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY522_2025WT_HOUNDSROTARYAC"
+msgstr "每命中同一敵方艦艇 10 次，可將主炮裝填時間縮短 10%，並增強主炮的其他屬性。命中其他目標時進度重置。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY525_2025WT_HOUNDSINVULNERABLE"
+msgstr "在一段時間內免疫所有類型的傷害。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY527_2025WT_WT3_TELEPORT"
+msgstr "將艦艇與所有已召喚的無人艦一同傳送至一個隨機獵犬的位置。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY528_2025WT_FIREANDICE"
+msgstr "<p>在艦艇周圍設立一個區域，區域內所有敵艦會受到火災和進水傷害，且無法使用「損害管制小組」消耗品。</p><p class=\"p_spacing\"> </p><p>由火災和進水造成傷害的 50% 將被轉化為您艦艇的血量。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY529_2025WT_DONORPARTS"
+msgstr "對您召喚的所有無人艦造成 5000 血量傷害，並將這些傷害轉化為您艦艇的血量。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY530_2025WT_METAL_CORROSION"
+msgstr "在艦艇周圍設立一個區域。當您的艦艇受到傷害時，對區域內的所有敵艦也造成傷害。傷害總量等同於您艦艇受到的傷害，由區域內的所有敵艦平均分擔。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY532_2025WT_QUANTUMLEAP"
+msgstr "<p>啟用 7 秒後，將艦艇傳送至 10 公里範圍內的一個隨機獵犬的位置。</p><p class=\"p_spacing\"> </p><p>若 10 公里範圍內沒有獵犬艦艇，消耗品則不會被啟用。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY533_2025WT_HOUNDSMEGAHEAL"
+msgstr "每秒恢復 1000 血量。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY534_2025WT_HOUNDSSLOWDOWN"
+msgstr "在啟用期間，以主炮炮彈命中敵艦可將後者的航速和機動性降低 50%，持續時間 20 秒。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY535_2025WT_HOUNDSSUPERDESPERATE"
+msgstr "在啟用期間，以自身受到持續傷害的代價，將所有類型武器的射速和傷害提高 25%。若艦艇被摧毀，加成將失效。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY536_2025WT_HOUNDSLOSSCOUNTER"
+msgstr "每啟用一次，都對艦艇血量、機動性和武器射速提供+5%的增益，並持續恢復艦艇血量。每失去一名隊友，該消耗品的裝載數都會增加。您的艦艇被摧毀時，將會失去所有增益和累積的消耗品裝載數。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY537_2025WT_HOUNDSLASTCHANSE"
+msgstr "在啟用期間，若艦艇血量降至 1%，則獲得對所有類型傷害的無敵狀態。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY538_2025WT_HOUNDSTORPEDOCOUNTERATTACK"
+msgstr "在啟用期間，若艦艇被敵艦主炮炮彈命中，其魚雷發射管將立即完成裝填。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY539_2025WT_HOUNDSALTMASSHEAL"
+msgstr "消耗品啟用一瞬間使您艦艇失去相當於其基本血量50%的血量，之後每秒為您隊伍中的每艘艦艇恢復400血量。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY540_2025WT_ADDDD2"
+msgstr "<p>召喚無人驅逐艦<b>哥薩克</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您所有存活的無人艦提供<u>武器射速+10%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY541_2025WT_ADDCR2"
+msgstr "<p>召喚無人巡洋艦<b>薩里</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您所有存活的無人艦提供<u>最大血量+10%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY542_2025WT_ADDBB2"
+msgstr "<p>召喚無人主力艦<b>英王喬治五世</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您所有存活的無人艦提供<u>每秒恢復 40 血量</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY543_2025WT_ADDDD3"
+msgstr "<p>召喚無人驅逐艦<b>古斯塔夫˙尤利烏斯˙梅爾克</b>。</p><p class=\"p_spacing\"> </p><p>只要無人艦存活，就會為您的艦艇及您所有存活的無人艦提供<u>武器射速 +15%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY544_2025WT_ADDCR3"
+msgstr "<p>召喚無人巡洋艦<b>約克</b>。</p><p class=\"p_spacing\"> </p><p>只要無人艦存活，就會為您的艦艇及您所有存活的無人艦提供<u>每秒恢復 50 血量</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY545_2025WT_ADDBB3"
+msgstr "<p>召喚無人主力艦<b>德夫林格</b>。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」戰鬥指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY546_2025WT_HOUNDSINVADER"
+msgstr "將艦艇傳送至一個被埃爾梅琳達˙榮格佔領的控制點。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY547_2025WT_WT3_TELEPORT2"
+msgstr "將艦艇傳送至一個被獵犬佔領但沒有獵犬在其中的控制點。您不能傳送到您當前所在的控制點。"
+
 msgid "IDS_DOCK_CONSUME_TITLE_PCY001_CRASHCREW"
 msgstr "損害管制小組"
 
@@ -22996,7 +23430,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY004_FIGHTER"
 msgstr "戰鬥機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY005_SPOTTER"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY006_SMOKEGENERATOR"
 msgstr "發煙機"
@@ -23035,13 +23469,13 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY012_FIGHTERPREMIUM"
 msgstr "戰鬥機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERACCURACY"
-msgstr "高精度偵察機"
+msgstr "高精度校射偵察機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTERPREMIUM"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY013_SPOTTER_CIRCLE_PREMIUM"
-msgstr "快速起飛偵察機"
+msgstr "快速起飛校射偵察機"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY014_SMOKEGENERATORCRAWLER_PREMIUM"
 msgstr "低速航行發煙機"
@@ -23104,7 +23538,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PCY026_FIGHTERSUPER"
 msgstr "戰鬥機 III"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY027_SPOTTERSUPER"
-msgstr "偵察機 III"
+msgstr "校射偵察機 III"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PCY028_SMOKEGENERATORSUPER"
 msgstr "發煙機 III"
@@ -23308,7 +23742,7 @@ msgid "IDS_DOCK_CONSUME_TITLE_PXY308_HEALALL_PVP"
 msgstr "回血光芒"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY309_SNIPER_PVP"
-msgstr "地獄準確度"
+msgstr "磁能制導"
 
 msgid "IDS_DOCK_CONSUME_TITLE_PXY310_HEALZONE_PVP"
 msgstr "維修區"
@@ -23478,6 +23912,105 @@ msgstr "衝刺"
 msgid "IDS_DOCK_CONSUME_TITLE_PXY510_TURNAROUND_SMF2024"
 msgstr "U 形迴轉"
 
+msgid "IDS_DOCK_CONSUME_TITLE_PXY511_2025WT_ADDDD"
+msgstr "訊號：驅逐艦 I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY512_2025WT_ADDCR"
+msgstr "訊號：巡洋艦 I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY513_2025WT_ADDBB"
+msgstr "訊號：主力艦 I"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY514_2025WT_STEALTHTELEPORT"
+msgstr "量子躍遷"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY515_2025WT_STEALTHHEAL"
+msgstr "隱形模組"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY516_2025WT_PARTICLEBARRIER"
+msgstr "粒子屏障"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY517_2025WT_HOUNDSVAMPIRISM"
+msgstr "裝甲汲取"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY518_2025WT_HOUNDSRESIST"
+msgstr "團隊護盾"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY519_2025WT_HOUNDSBATTLEFORSAGE"
+msgstr "氮氣加速"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY520_2025WT_HOUNDSMASSHEAL"
+msgstr "團隊再生"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY521_2025WT_HOUNDSSPEEDBOOSTER"
+msgstr "團隊引擎增壓"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY522_2025WT_HOUNDSROTARYAC"
+msgstr "迴轉連射"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY525_2025WT_HOUNDSINVULNERABLE"
+msgstr "能量護盾"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY527_2025WT_WT3_TELEPORT"
+msgstr "量子追蹤"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY528_2025WT_FIREANDICE"
+msgstr "風暴之眼"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY529_2025WT_DONORPARTS"
+msgstr "舍卒保車"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY530_2025WT_METAL_CORROSION"
+msgstr "腐蝕力場"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY532_2025WT_QUANTUMLEAP"
+msgstr "量子追蹤"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY533_2025WT_HOUNDSMEGAHEAL"
+msgstr "機械再生"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY534_2025WT_HOUNDSSLOWDOWN"
+msgstr "致緩炮彈"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY535_2025WT_HOUNDSSUPERDESPERATE"
+msgstr "病毒炮彈"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY536_2025WT_HOUNDSLOSSCOUNTER"
+msgstr "逝者能量"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY537_2025WT_HOUNDSLASTCHANSE"
+msgstr "緊急修復"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY538_2025WT_HOUNDSTORPEDOCOUNTERATTACK"
+msgstr "魚雷反擊"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY539_2025WT_HOUNDSALTMASSHEAL"
+msgstr "捨己為公"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY540_2025WT_ADDDD2"
+msgstr "訊號：驅逐艦 II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY541_2025WT_ADDCR2"
+msgstr "訊號：巡洋艦 II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY542_2025WT_ADDBB2"
+msgstr "訊號：主力艦 II"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY543_2025WT_ADDDD3"
+msgstr "訊號：驅逐艦"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY544_2025WT_ADDCR3"
+msgstr "訊號：巡洋艦"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY545_2025WT_ADDBB3"
+msgstr "訊號：主力艦"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY546_2025WT_HOUNDSINVADER"
+msgstr "量子入侵"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY547_2025WT_WT3_TELEPORT2"
+msgstr "量子進攻"
+
 msgid "IDS_DOCK_CONSUME_TITLE_REGENERATIONHPSPEED_WORKTIME_YAMAMOTO"
 msgstr "血量恢復"
 
@@ -23502,6 +24035,9 @@ msgstr "直接指揮副炮手"
 msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_HITS"
 msgstr "即時維修艦艇"
 
+msgid "IDS_DOCK_RAGE_MODE_TITLE_BOTOMANCER"
+msgstr "訊號發生器"
+
 msgid "IDS_DOCK_RAGE_MODE_TITLE_CLOSE_COMBAT_BOOST"
 msgstr "即時裝填主炮"
 
@@ -23522,6 +24058,9 @@ msgstr "即時準備中隊"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE_SHINANO"
 msgstr "即時維修艦艇"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_SHIP_FRAG"
+msgstr "O.S.D.「宙斯炮」"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_SURVIVABILITY"
 msgstr "即時解除威脅"
@@ -23971,7 +24510,7 @@ msgid "IDS_DOGTAG_PCNA051_NAME"
 msgstr "黑色星期五：西班牙盾形"
 
 msgid "IDS_DOGTAG_PCNA052_NAME"
-msgstr "在Steam上發佈 5 週年"
+msgstr "在 Steam 上發行1週年"
 
 msgid "IDS_DOGTAG_PCNA999_DESCRIPTION"
 msgstr "此背景的設計正在進行中。"
@@ -26369,10 +26908,10 @@ msgid "IDS_DOGTAG_PCNB375_NAME"
 msgstr "軍事載具世界"
 
 msgid "IDS_DOGTAG_PCNB376_DESCRIPTION"
-msgstr "慶祝遊戲在 Steam 上發行五週年。"
+msgstr "慶祝遊戲在 Steam 上發行一週年。"
 
 msgid "IDS_DOGTAG_PCNB376_NAME"
-msgstr "Steam 五週年"
+msgstr "在 Steam 上發行1週年"
 
 msgid "IDS_DOGTAG_PCNB377_DESCRIPTION"
 msgstr "14 世紀初，當拿坡里王國處於安茹王朝的統治時期，金色與紅色的組合便是拿坡里城的象徵。1866 年，拿坡里紋章上的盾牌加上了城垛狀頭冠，象徵「城市獨立」。"
@@ -26877,6 +27416,12 @@ msgstr "俄羅斯傳奇電子遊戲節目《Ot vinta!》首播於1995年。該�
 
 msgid "IDS_DOGTAG_PCNB465_NAME"
 msgstr "Ot vinta!"
+
+msgid "IDS_DOGTAG_PCNB466_DESCRIPTION"
+msgstr "同盟是一個旨在控制強大軍事技術的秘密組織。根據組織的任務，獵犬分艦隊被派往南極基地「厄瑞玻斯要塞」，以對抗埃爾梅琳達˙榮格及其麾下獨特的艦艇。"
+
+msgid "IDS_DOGTAG_PCNB466_NAME"
+msgstr "止步——危險！"
 
 msgid "IDS_DOGTAG_PCNB467_DESCRIPTION"
 msgstr "1945 年 8 月 17 日，蘇聯登陸艦從堪察加彼得羅巴甫洛夫斯克出發前往舒姆舒島。由於舊日本帝國大本營的投降令尚未傳達到所有部隊，日軍繼續抵抗。舒姆舒島戰役持續五天，成為千島群島戰役的決定性事件。"
@@ -28635,6 +29180,27 @@ msgstr ":Goltz:"
 msgid "IDS_EQUIPMENT"
 msgstr "裝備"
 
+msgid "IDS_ERMELINDA_1"
+msgstr "好耶！等到傳送門充完電，咱就一溜煙跑個沒影啦~"
+
+msgid "IDS_ERMELINDA_2"
+msgstr "摧毀越多，充能越快！利用好這點！"
+
+msgid "IDS_ERMELINDA_3"
+msgstr "什麼！快把發電機搶回來呀！"
+
+msgid "IDS_ERMELINDA_4"
+msgstr "誒嘿嘿！再見啦，小狗狗們！你們科學家的研究成果都歸咱啦~"
+
+msgid "IDS_ERMELINDA_5"
+msgstr "開火！撕碎這些獵犬！"
+
+msgid "IDS_ERMELINDA_6"
+msgstr "還沒完呢！船員們，快撤到其他艦艇上去！"
+
+msgid "IDS_ERMELINDA_JUNG"
+msgstr "埃爾梅琳達˙榮格"
+
 msgid "IDS_ERROR_ACCOUNT_BANNED"
 msgstr "您的帳號被封鎖到 %s。原因：%s。"
 
@@ -29018,7 +29584,7 @@ msgid "IDS_EVENTBATTLE_PW_CHARGING_POINTS_LOST"
 msgstr "敵方隊伍：–20"
 
 msgid "IDS_EVENTS"
-msgstr "朝蛋夕拾"
+msgstr "最終兵器：隔離"
 
 msgid "IDS_EVENTS_NATION_GEN"
 msgstr "兔子，等著瞧！"
@@ -29878,7 +30444,7 @@ msgid "IDS_FEAT_CENTRAL_ARMOR_GOOD"
 msgstr "艦艇中央的裝甲防護經過改良"
 
 msgid "IDS_FEAT_CONSUMABLE_SPOTTERACCURACY"
-msgstr "可使用「高精度偵察機」消耗品"
+msgstr "可使用「高精度校射偵察機」消耗品"
 
 msgid "IDS_FEAT_CRASHCREW_LONG_DESC"
 msgstr "「損害管制小組」消耗品的作用時間較長。"
@@ -31284,6 +31850,9 @@ msgstr "編制：5v12"
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE023"
 msgstr "隊伍人數：5 v 12"
 
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE030"
+msgstr "團隊規模：6v1"
+
 msgid "IDS_FORM_DIVISION"
 msgstr "建立分艦隊"
 
@@ -31570,7 +32139,7 @@ msgid "IDS_FREE_CURSOR_PREF_TOOLTIP_DESCRIPTION"
 msgstr "按住按鍵以控制滑鼠游標。"
 
 msgid "IDS_FREE_CURSOR_SCOUT"
-msgstr "用自由滑鼠游標來控制偵察機"
+msgstr "用自由滑鼠游標來控制校射偵察機"
 
 msgid "IDS_FREE_EXP_CONVERSION"
 msgstr "轉換經驗"
@@ -31612,7 +32181,7 @@ msgid "IDS_FREE_SKILLPOINTS_LEFT_TOOLTIP_TEXT"
 msgstr "剩餘技能點數：%(skillPoints)s"
 
 msgid "IDS_FREE_SLOTS"
-msgstr "空船位："
+msgstr "空位:"
 
 msgid "IDS_FREE_XP_DESC"
 msgstr "獲得數量相等於每場戰鬥中獲得之艦艇經驗（套用加成前）的 10%。"
@@ -31724,6 +32293,12 @@ msgstr "太空進擊"
 
 msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION"
 msgstr "透過佔領關鍵地區與擊毀對方艦艇來先敵方隊伍一步達成 %(score_count)s %(score_plural)s。"
+
+msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION_0"
+msgstr "在撤離系統啟動前摧毀埃爾梅琳達的艦艇"
+
+msgid "IDS_GAMEMODE_AWESOME_DESCRIPTION_1"
+msgstr "為撤離系統充能，不要被獵犬摧毀"
 
 msgid "IDS_GAMEMODE_AWESOME_TITLE"
 msgstr "制海權"
@@ -32145,6 +32720,9 @@ msgstr "前往上一步"
 
 msgid "IDS_GO_TO_PROFILE_MOUSE_INSTRUCTION"
 msgstr "前往「個人資料」畫面"
+
+msgid "IDS_GO_TO_PROFILE_RANKS"
+msgstr "前往排位畫面"
 
 msgid "IDS_GO_TO_PROFILE_RATING"
 msgstr "前往評級畫面"
@@ -33046,11 +33624,47 @@ msgstr "前往活動畫面以檢視新內容。"
 msgid "IDS_GUIDING_TIP_346_HEADER"
 msgstr "新內容"
 
+msgid "IDS_GUIDING_TIP_347_DESC"
+msgstr "艦艇在所選的戰鬥類型中具有不同的戰鬥屬性和外觀。"
+
+msgid "IDS_GUIDING_TIP_347_HEADER"
+msgstr "艦艇效能已變動"
+
+msgid "IDS_GUIDING_TIP_348_DESC"
+msgstr "檢視「裝備」分頁以瞭解詳情。"
+
+msgid "IDS_GUIDING_TIP_348_HEADER"
+msgstr "艦艇效能已變動"
+
+msgid "IDS_GUIDING_TIP_349_DESC"
+msgstr "艦艇在所選的戰鬥類型中具有不同的戰鬥屬性和外觀。"
+
+msgid "IDS_GUIDING_TIP_349_HEADER"
+msgstr "加成"
+
 msgid "IDS_GUIDING_TIP_34_DESC"
 msgstr "開啟貨櫃以獲取新的遊戲內物品。"
 
 msgid "IDS_GUIDING_TIP_34_HEADER"
 msgstr "您有一個貨櫃！"
+
+msgid "IDS_GUIDING_TIP_350_DESC"
+msgstr "艦艇在所選的戰鬥類型中具有不同的戰鬥屬性和外觀。"
+
+msgid "IDS_GUIDING_TIP_350_HEADER"
+msgstr "屬性變動"
+
+msgid "IDS_GUIDING_TIP_351_DESC"
+msgstr "在選定的戰鬥類型中，艦艇擁有特殊消耗品。"
+
+msgid "IDS_GUIDING_TIP_351_HEADER"
+msgstr "消耗品已變動"
+
+msgid "IDS_GUIDING_TIP_352_DESC"
+msgstr "檢視「活動」分頁以瞭解詳情。"
+
+msgid "IDS_GUIDING_TIP_352_HEADER"
+msgstr "新活動"
 
 msgid "IDS_GUIDING_TIP_36_DESC"
 msgstr "指揮官等級越高，可學習的技能就越多。"
@@ -33914,7 +34528,7 @@ msgid "IDS_HELP_SONAR_SHADOW"
 msgstr "粗略位置已暴露"
 
 msgid "IDS_HELP_SPOTTER"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_HELP_STATES"
 msgstr "艦艇狀態"
@@ -34858,6 +35472,73 @@ msgstr "快捷鍵已保留"
 msgid "IDS_HOT_ROD"
 msgstr "羅德"
 
+msgid "IDS_HOUNDS_ALIVE_AT_THE_END_FOR_HOUND"
+msgstr ""
+"戰鬥結束時\n"
+"存活的獵犬"
+
+msgid "IDS_HOUNDS_ALIVE_AT_THE_END_FOR_WAFFENTRAGER"
+msgstr ""
+"戰鬥結束時\n"
+"存活的獵犬"
+
+msgid "IDS_HOUNDS_LEADER_1"
+msgstr "獵犬聽令！敵人已開始為撤離系統充能！必須在充能完成前摧毀敵艦！"
+
+msgid "IDS_HOUNDS_LEADER_10"
+msgstr "獵犬注意！敵人在自身周圍激活了某種力場！保持距離！"
+
+msgid "IDS_HOUNDS_LEADER_11"
+msgstr "獵犬注意！巡洋艦的消耗品可對團隊全員生效，請利用這一點互相幫助！"
+
+msgid "IDS_HOUNDS_LEADER_12"
+msgstr "獵犬準備！自組裝系統已啟用，艦艇將很快返回戰鬥！"
+
+msgid "IDS_HOUNDS_LEADER_13"
+msgstr "獵犬注意！埃爾梅琳達正在召喚無人艦支援！"
+
+msgid "IDS_HOUNDS_LEADER_14"
+msgstr "埃爾梅琳達和她的無人艦都受到基地護盾模組的保護！"
+
+msgid "IDS_HOUNDS_LEADER_15"
+msgstr "撤離系統充能已達 50%！"
+
+msgid "IDS_HOUNDS_LEADER_16"
+msgstr "撤離系統充能已達 75%！"
+
+msgid "IDS_HOUNDS_LEADER_17"
+msgstr "撤離系統充能已達 90%！獵犬們，抓緊時間！再拖下去就把埃爾梅琳達放跑了！"
+
+msgid "IDS_HOUNDS_LEADER_18"
+msgstr "洲際傳送門正在啟動！"
+
+msgid "IDS_HOUNDS_LEADER_2"
+msgstr "這些發電機會為撤離系統和埃爾梅琳達的護盾供能。在交戰前先關閉它們！"
+
+msgid "IDS_HOUNDS_LEADER_3"
+msgstr "透過自組裝系統可以重返戰鬥，但會加速撤離系統的充能。省著點用！"
+
+msgid "IDS_HOUNDS_LEADER_4"
+msgstr "前方發現傳送門！使用它來快速移動到控制點。"
+
+msgid "IDS_HOUNDS_LEADER_5"
+msgstr "發電機已關閉！敵方護盾模組被削弱，撤離系統充能速率已降低！"
+
+msgid "IDS_HOUNDS_LEADER_6"
+msgstr "所有發電機都已被我們控制！撤離系統充能已停止。敵方護盾模組已關閉。向埃爾梅琳達集中火力！"
+
+msgid "IDS_HOUNDS_LEADER_7"
+msgstr "埃爾梅琳達又溜走了！獵犬們，返回基地！"
+
+msgid "IDS_HOUNDS_LEADER_8"
+msgstr "獵犬注意！「宙斯炮」已啟動。使用護盾消耗品來保護自己和其他獵犬！"
+
+msgid "IDS_HOUNDS_LEADER_9"
+msgstr "埃爾梅琳達的艦艇被摧毀了！幹得漂亮，獵犬們！"
+
+msgid "IDS_HOUNDS_WON"
+msgstr "獵犬獲勝"
+
 msgid "IDS_HOUR"
 msgstr "小時"
 
@@ -34972,6 +35653,72 @@ msgstr "無法執行重播。重播檔案與您的遊戲客戶端版本不相容
 msgid "IDS_INCOMPLETE_DIVISION"
 msgstr "以缺員狀態進入戰鬥"
 
+msgid "IDS_INFINITY_BOT_01"
+msgstr "Senshi"
+
+msgid "IDS_INFINITY_BOT_02"
+msgstr "Daitan"
+
+msgid "IDS_INFINITY_BOT_03"
+msgstr "Herzog"
+
+msgid "IDS_INFINITY_BOT_04"
+msgstr "Landgraf"
+
+msgid "IDS_INFINITY_BOT_05"
+msgstr "Krieger"
+
+msgid "IDS_INFINITY_BOT_06"
+msgstr "Masurao"
+
+msgid "IDS_INFINITY_BOT_07"
+msgstr "Kaijin"
+
+msgid "IDS_INFINITY_BOT_08"
+msgstr "Kanzler"
+
+msgid "IDS_INFINITY_BOT_09"
+msgstr "Romulus"
+
+msgid "IDS_INFINITY_BOT_10"
+msgstr "Kousotsu"
+
+msgid "IDS_INFINITY_BOT_11"
+msgstr "Reiter"
+
+msgid "IDS_INFINITY_BOT_12"
+msgstr "Tovarish"
+
+msgid "IDS_INFINITY_BOT_13"
+msgstr "Uporniy"
+
+msgid "IDS_INFINITY_BOT_14"
+msgstr "Bravo"
+
+msgid "IDS_INFINITY_BOT_15"
+msgstr "Provorniy"
+
+msgid "IDS_INFINITY_BOT_16"
+msgstr "Partiyets"
+
+msgid "IDS_INFINITY_BOT_17"
+msgstr "Delta"
+
+msgid "IDS_INFINITY_BOT_18"
+msgstr "Echo"
+
+msgid "IDS_INFINITY_BOT_19"
+msgstr "Foxtrot"
+
+msgid "IDS_INFINITY_BOT_20"
+msgstr "Cuirassier"
+
+msgid "IDS_INFINITY_BOT_21"
+msgstr "Kommuna"
+
+msgid "IDS_INFINITY_BOT_22"
+msgstr "Romero"
+
 msgid "IDS_INFORMER_TIME_LEFT"
 msgstr "剩餘：%(_timeLeft)s"
 
@@ -34992,6 +35739,9 @@ msgstr "此武器不能在水下使用"
 
 msgid "IDS_INFO_AIR_SUPPORT_ARE_RELOADING"
 msgstr "武器裝填中"
+
+msgid "IDS_INFO_AIR_SUPPORT_CANT_AIM"
+msgstr "未選中友軍艦艇"
 
 msgid "IDS_INFO_ARE_AIMING"
 msgstr "火炮瞄準中"
@@ -35558,6 +36308,9 @@ msgstr "於「朝蛋夕拾」比賽"
 msgid "IDS_IN_PCVE029"
 msgstr "於「水下前線」"
 
+msgid "IDS_IN_PCVE030"
+msgstr "在「最終兵器：隔離」中"
+
 msgid "IDS_IN_PVEBATTLE"
 msgstr "於行動"
 
@@ -35659,6 +36412,9 @@ msgstr "菲利克斯 馮 帕爾"
 
 msgid "IDS_JAKEEYHERMANN"
 msgstr "傑基 赫爾曼"
+
+msgid "IDS_JAMES_CONRAD"
+msgstr "詹姆斯˙康拉德"
 
 msgid "IDS_JAMES_DGREASE_H18"
 msgstr "James D. Breese"
@@ -36008,6 +36764,16 @@ msgstr "亞歷山大˙哈里託諾夫"
 msgid "IDS_KILLED_BY_YOURSELF"
 msgstr "被您擊毀"
 
+msgid "IDS_KILLED_HOUNDS_QTY_FOR_HOUND"
+msgstr ""
+"損失的\n"
+"獵犬"
+
+msgid "IDS_KILLED_HOUNDS_QTY_FOR_WAFFENTRAGER"
+msgstr ""
+"摧毀的\n"
+"獵犬"
+
 msgid "IDS_KILL_BAD_GUYS_AND_STAY_ALIVE_TASK_END_S"
 msgstr "驅逐艦 Megaera、Alecto 和 Tisiphone 已被擊沉！"
 
@@ -36338,7 +37104,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL10_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL10_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -36428,7 +37194,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL11_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL11_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -36518,7 +37284,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL12_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL12_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -36608,7 +37374,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL13_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL13_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -36698,7 +37464,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL14_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL14_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -36788,7 +37554,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL15_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL15_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -37082,7 +37848,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL3_32"
 msgstr "按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 來關閉防空炮。關閉防空炮能幫助您保持長時間不被敵方飛機發現。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_33"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_34"
 msgstr "發射出去的魚雷不會辨別隊友與敵人。"
@@ -37235,7 +38001,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_30"
 msgstr "按下 [CMD_SWITCH_ATBA_AIRDEFENSE] 來關閉防空炮。關閉防空炮能幫助您保持長時間不被敵方飛機發現。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_31"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_32"
 msgstr "千萬記得要去保護我方的航空母艦。"
@@ -37244,7 +38010,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL4_33"
 msgstr "自動駕駛：您可以按住 [KEY_SHIFT] 來在戰術地圖上設置最多五個路徑點。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_34"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_35"
 msgstr "要組成陣型來作戰，一艘落單的艦艇是個完美的目標。"
@@ -37352,7 +38118,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL5_2"
 msgstr "可按住 [CMD_HELP] 以隨時在戰鬥期間查看遊戲幫助。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_20"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_21"
 msgstr "千萬記得要去保護我方的航空母艦。"
@@ -37361,7 +38127,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL5_22"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_23"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_24"
 msgstr "善用島嶼來保持隱蔽並接近敵方艦艇。"
@@ -37475,7 +38241,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL6_21"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_22"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_23"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -37571,7 +38337,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL7_21"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_22"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_23"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -37661,7 +38427,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL8_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL8_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -37751,7 +38517,7 @@ msgid "IDS_LOADING_TOOLTIP_LEVEL9_20"
 msgstr "發射魚雷時，一定要先確認沒有隊友在魚雷火線上。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_21"
-msgstr "偵察機能延伸主炮組的射程。"
+msgstr "校射偵察機能延伸主炮組的射程。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL9_22"
 msgstr "確認您的艦艇已遠離新的威脅，才能有效地使用損害管制小組。"
@@ -38135,7 +38901,7 @@ msgid "IDS_LOOTBOXES_TOOLTIP_TEXT"
 msgstr "前往軍械庫"
 
 msgid "IDS_LOOTBOX_ANIMATION_GOES"
-msgstr "請稍等，現在無法完成該行動。"
+msgstr "請稍後，現在無法完成該操作。"
 
 msgid "IDS_LOOTBOX_AVAILABLE"
 msgstr "有一個新貨櫃可供開啟"
@@ -38303,7 +39069,7 @@ msgid "IDS_MAIN_CONSUMABLE_SONARSEARCH_GOOD"
 msgstr "強化的「水底搜索」消耗品"
 
 msgid "IDS_MAIN_CONSUMABLE_SPOTTERACCURACY"
-msgstr "可使用「高精度偵察機」消耗品"
+msgstr "可使用「高精度校射偵察機」消耗品"
 
 msgid "IDS_MAIN_CONS_LIMITED_CHOICE"
 msgstr "消耗品種類較少"
@@ -39836,7 +40602,7 @@ msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_1"
 msgstr "如果您重置了特定艦艇分支，然後再次研發、購買並駕駛分支中的艦艇參加戰鬥，就可以獲得研發點數。"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_1_TEXT_2"
-msgstr "研發點數可以在軍械庫的「研發局」中兌換特殊和加值艦艇、精英升級品和特殊信號旗。"
+msgstr "研究點可以在军械库兌換特殊和加值戰艦、精英升級品和特殊信號旗。"
 
 msgid "IDS_MODAL_WINDOW_PARAGONS_RULES_PARAGRAPH_2_HEADER"
 msgstr "分支中的艦艇會有哪些變化"
@@ -40322,6 +41088,39 @@ msgstr "深水炸彈會在較淺深度停留一段時間。在這段時間內，
 
 msgid "IDS_MODAL_WINDOW_PCVE029_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "除對水下的潛水艇造成傷害外，深水炸彈還能摧毀魚雷，並對水面上的水面艦艇和潛水艇造成少量傷害。"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_BATTLE_RULES_HEADER"
+msgstr "戰鬥特點"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_HEADER"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_HEADER"
+msgstr "戰鬥特點"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "您可以選擇為強大艦艇的指揮官埃爾梅琳達˙榮格而戰，或是為同盟的爪牙——獵犬而戰。每一方都有各自的戰術、目標和秘密。"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "戰鬥開始時，所有控制點都在埃爾梅琳達的控制下。地圖上分佈著傳送門，可用於傳送到戰場的另一端。"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_HEADER"
+msgstr "埃爾梅琳達：復仇協議"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "埃爾梅琳達的目標是透過利用佔領控制點和摧毀獵犬來充能的撤離系統逃離獵犬。每個被佔領的控制點也為埃爾梅琳達艦艇的護盾模組供能。"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "埃爾梅琳達擁有 3 艘艦艇，每艘都擁有獨特的武器裝備，扮演著不同的戰術角色。"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_HEADER"
+msgstr "獵犬：同盟爪牙"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "同盟擁有再生技術：所有被摧毀的獵犬都可以重返戰鬥。"
+
+msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "獵犬需要佔領控制點來削弱並破壞埃爾梅琳達的護盾模組，並在撤離系統啟動前摧毀她的艦艇。"
 
 msgid "IDS_MODAL_WINDOW_PCVO031_RULES_HEADER"
 msgstr "Transylvania 的最終航行"
@@ -42062,6 +42861,12 @@ msgstr "中華民國海軍（1912-1949）"
 msgid "IDS_NAVAL_FLAG_TAIWAN_DESCRIPTION"
 msgstr "中華民國海軍（1912-1949）的旗幟式以紅色為底，左上角則是藍色的底，並刻上十二道太陽的光芒"
 
+msgid "IDS_NAVAL_FLAG_THE_ALLIANCE_FLAG"
+msgstr "同盟"
+
+msgid "IDS_NAVAL_FLAG_THE_ALLIANCE_FLAG_DESCRIPTION"
+msgstr "在超級大國的陰影下，運作著一個強大的組織——同盟，它成立於二戰後，旨在防止全球衝突。然而，該組織的行事作風遠非人道主義。同盟意在奪回被克里格家族竊取的技術。"
+
 msgid "IDS_NAVAL_FLAG_TURKEY"
 msgstr "土耳其海軍"
 
@@ -42079,6 +42884,12 @@ msgstr "越南海軍"
 
 msgid "IDS_NAVAL_FLAG_VIETNAM_DESCRIPTION"
 msgstr "越南民主共和國（1945–1976）是國際公認的越南北部國家。1975 年，越南民主共和國的武裝力量和越南南方民族解放陣線擊敗了 17 度線以南的越南共和國軍隊。一個統一的國家 — 越南社會主義共和國正式成立。旗幟上的星星象徵著越南共產黨領導，紅色代表革命的成功。"
+
+msgid "IDS_NAVAL_FLAG_WAFFENTRAGER_FLAG"
+msgstr "最終兵器"
+
+msgid "IDS_NAVAL_FLAG_WAFFENTRAGER_FLAG_DESCRIPTION"
+msgstr "埃爾梅琳達˙榮格是開發了革命性軍事技術的傳奇工程師馬克斯˙馮˙克里格之女。克里格神秘失蹤後，埃爾梅琳達繼承了他的事業，但同盟擋在了她的路上。"
 
 msgid "IDS_NAVAL_FLAG_YUGOSLAVIA"
 msgstr "南斯拉夫海軍"
@@ -42127,6 +42938,1086 @@ msgstr "荷蘭潛水艇"
 
 msgid "IDS_NETH_WWII_SA"
 msgstr "安東尼 雅各布斯 布塞梅克"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH101_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH102_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH103_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH104_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH105_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH201_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH202_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH203_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH204_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH205_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH301_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH302_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH303_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH304_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH305_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH401_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH402_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH403_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH404_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH405_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH501_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH502_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH503_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH504_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH505_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH601_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH602_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH603_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH604_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPH605_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW101_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW102_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW103_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW104_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW105_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW201_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW202_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW203_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW204_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW205_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW301_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW302_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW303_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW304_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW305_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW401_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW402_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW403_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW404_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW405_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW501_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW502_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW503_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW504_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW505_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW601_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW602_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW603_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW604_WT6"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT1"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT2"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT3"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT4"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT5"
+msgstr "Kettenhund"
+
+msgid "IDS_NEUTRAL_GROUPW605_WT6"
+msgstr "Kettenhund"
 
 msgid "IDS_NEWBIE_GIFTS_BATTLES_COUNTER_COLON"
 msgstr "進行過的戰鬥數："
@@ -43286,7 +45177,7 @@ msgid "IDS_OPTION_RADAR_OR_HYDRO_GOOD"
 msgstr "可選擇消耗品：「監視雷達」或「水底搜索」"
 
 msgid "IDS_OPTION_RADAR_OR_SPOTTER_GOOD"
-msgstr "可選擇消耗品：「監視雷達」或「偵察機」"
+msgstr "可選擇消耗品：「監視雷達」或「校射偵察機」"
 
 msgid "IDS_OPTION_REGENCREW_OR_SMOKE_GOOD"
 msgstr "可選擇消耗品：「維修小組」或「發煙機」"
@@ -45725,6 +47616,15 @@ msgstr "柯蒂斯 SB2C 地獄俯衝者"
 msgid "IDS_PAAB210_MIDWAY_TOP"
 msgstr "道格拉斯 BTD 毀滅者"
 
+msgid "IDS_PAAB211_FRANKLIN_STOCK"
+msgstr "Grumman F7F-2 Tigercat"
+
+msgid "IDS_PAAB212_MONTEREY_STOCK"
+msgstr "Consolidated TBY Sea Wolf"
+
+msgid "IDS_PAAB213_YORKTOWN_STOCK"
+msgstr "Grumman TBM Avenger"
+
 msgid "IDS_PAAB218_YORKTOWN_TOP"
 msgstr "柯蒂斯 SB2C 地獄俯衝者"
 
@@ -46040,6 +47940,15 @@ msgstr "沃特 F4U-1D 海盜"
 msgid "IDS_PAAF210_MIDWAY_TOP"
 msgstr "格魯曼 F8F 熊貓"
 
+msgid "IDS_PAAF211_FRANKLIN_STOCK"
+msgstr "Ryan FR Fireball"
+
+msgid "IDS_PAAF215_MONTEREY_STOCK"
+msgstr "Curtiss XF14C"
+
+msgid "IDS_PAAF217_YORKTOWN_STOCK"
+msgstr "Grumman F5F Skyrocket"
+
 msgid "IDS_PAAF218_YORKTOWN_TOP"
 msgstr "沃特 F4U-1D 海盜"
 
@@ -46136,11 +48045,41 @@ msgstr "沃特 OS2U-3"
 msgid "IDS_PAAS017_C8_CURTISS_SC1"
 msgstr "柯蒂斯 SC-1 海鷹"
 
+msgid "IDS_PAAS210_FRANKLIN_SMOKE"
+msgstr "Grumman F7F-2 Tigercat"
+
+msgid "IDS_PAAS211_FRANKLIN_SCOUT"
+msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS212_MONTEREY_SMOKE"
+msgstr "Consolidated TBY Sea Wolf"
+
+msgid "IDS_PAAS213_MONTEREY_SCOUT"
+msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS214_YORKTOWN_SMOKE"
+msgstr "Grumman TBM Avenger"
+
+msgid "IDS_PAAS215_YORKTOWN_SCOUT"
+msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS216_FRANKLIN_SPY"
+msgstr "Vought OS2U Kingfisher"
+
+msgid "IDS_PAAS217_MONTEREY_SPY"
+msgstr "Vought OS2U Kingfisher"
+
+msgid "IDS_PAAS218_YORKTOWN_SPY"
+msgstr "Vought OS2U Kingfisher"
+
 msgid "IDS_PAAS990_CV_TEST_SMOKE"
 msgstr "Curtiss SC-1"
 
 msgid "IDS_PAAS991_CV_TEST_SCOUT"
 msgstr "Curtiss SC-1"
+
+msgid "IDS_PAAS992_CV_TEST_SPY"
+msgstr "Vought OS2U Kingfisher"
 
 msgid "IDS_PAEE001_USA1908_DESC"
 msgstr "「星條旗」上的 50 顆星代表著美國的 50 個州，而 13 條間紋則象徵著最初的 13 個殖民地。它自 1777 年起成為美國海軍旗。"
@@ -46624,6 +48563,9 @@ msgstr "20 mm Oerlikon（Mk.24 炮座）"
 
 msgid "IDS_PAGA225_20MM_OERLICON_QUADRUPLE"
 msgstr "20 mm Oerlikon（Mk.15 炮座）"
+
+msgid "IDS_PAGA238_20MM_OERLIKON_MK4"
+msgstr "20 mm Oerlikon（Mk.4炮座）"
 
 msgid "IDS_PAGA499_20MM_OERLIKON_MK4_SIMS"
 msgstr "20 mm Oerlikon（Mk.4 炮座）"
@@ -47918,6 +49860,15 @@ msgstr "127 mm HVAR"
 msgid "IDS_PAPR210_MIDWAY_TOP"
 msgstr "127 mm HVAR"
 
+msgid "IDS_PAPR211_FRANKLIN_STOCK"
+msgstr "Tiny Tim"
+
+msgid "IDS_PAPR212_MONTEREY_STOCK"
+msgstr "5-inch FFAR"
+
+msgid "IDS_PAPR213_YORKTOWN_STOCK"
+msgstr "Tiny Tim"
+
 msgid "IDS_PAPR218_YORKTOWN_TOP"
 msgstr "127 mm HVAR"
 
@@ -48176,6 +50127,15 @@ msgstr "Torpedo Mk.13-2"
 msgid "IDS_PAPT210_MIDWAY_TOP"
 msgstr "Torpedo Mk.7 mod. 1"
 
+msgid "IDS_PAPT211_FRANKLIN_STOCK"
+msgstr "Torpedo Mk.13-2"
+
+msgid "IDS_PAPT212_MONTEREY_STOCK"
+msgstr "Torpedo Mk.13-2"
+
+msgid "IDS_PAPT213_YORKTOWN_STOCK"
+msgstr "Torpedo Mk.13-2"
+
 msgid "IDS_PAPT218_YORKTOWN_TOP"
 msgstr "Torpedo Mk.13-2"
 
@@ -48279,7 +50239,7 @@ msgid "IDS_PARAGON_BONUS_FOOTER_NO_MULTIPLIER_INFO"
 msgstr "重置艦艇分支以獲取研發點數。"
 
 msgid "IDS_PARAGON_BONUS_FOOTER_SPECIAL_STORAGE_INFO"
-msgstr "可以在軍械庫中的研發局以研發點數兌換特殊和加值艦艇、精英升級品和特殊信號旗。"
+msgstr "研究點可以在军械库兌換特殊和加值戰艦、精英升級品和特殊信號旗。"
 
 msgid "IDS_PARAGON_BONUS_SEASON_UPDATE"
 msgstr "距離下一個賽季開始還有：%(timeUntilMultiplier)s"
@@ -48725,6 +50685,9 @@ msgstr "指揮官經驗"
 msgid "IDS_PARAMS_MODIFIER_CRITPROBCOEFFICIENT"
 msgstr "配件失去作用的風險"
 
+msgid "IDS_PARAMS_MODIFIER_CUSTOMVISIBILITYTIME"
+msgstr "主炮開火後艦艇被偵察範圍擴大的持續時間"
+
 msgid "IDS_PARAMS_MODIFIER_DAMAGEABSORBCHANCE"
 msgstr "完全吸收傷害的機率"
 
@@ -48833,6 +50796,9 @@ msgstr "轟炸機準備時間"
 msgid "IDS_PARAMS_MODIFIER_DURATION_RAGEMODETIMER"
 msgstr "間隔"
 
+msgid "IDS_PARAMS_MODIFIER_ENGINEBACKWARDFORSAGEPOWER"
+msgstr "低速後退時的加速度"
+
 msgid "IDS_PARAMS_MODIFIER_ENGINEBOOSTCOEF"
 msgstr "引擎功率"
 
@@ -48841,6 +50807,9 @@ msgstr "引擎失效的機率"
 
 msgid "IDS_PARAMS_MODIFIER_ENGINEFORSAGECOEF"
 msgstr "引擎功率"
+
+msgid "IDS_PARAMS_MODIFIER_ENGINEFORWARDFORSAGEPOWER"
+msgstr "低速前進時的加速度"
 
 msgid "IDS_PARAMS_MODIFIER_ENGINEFORWARDUPTIME"
 msgstr "加速時達到引擎全功率的所需時間"
@@ -48928,9 +50897,6 @@ msgstr "飛行時間"
 
 msgid "IDS_PARAMS_MODIFIER_FIRERATEMULTIPLIER"
 msgstr "由長程對空防禦齊射產生的爆炸數量"
-
-msgid "IDS_PARAMS_MODIFIER_FIRSTSECTORTIMECOEFF"
-msgstr "音波效果在一次高亮突顯之部位的持續時間"
 
 msgid "IDS_PARAMS_MODIFIER_FLOODCHANCECOMMONBONUS"
 msgstr "造成進水的機率"
@@ -49310,6 +51276,9 @@ msgstr "聲納的冷卻時間"
 msgid "IDS_PARAMS_MODIFIER_PINGERREPAIRTIME"
 msgstr "聲納維修時間"
 
+msgid "IDS_PARAMS_MODIFIER_PINGERSECTORTIMECOEFF"
+msgstr "聲納音波命中某區域1次時高亮效果的持續時間"
+
 msgid "IDS_PARAMS_MODIFIER_PINGERWAVESPEEDCOEFF"
 msgstr "聲納音波速度"
 
@@ -49442,6 +51411,9 @@ msgstr "承受足量潛在傷害推進的進度"
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_RAGEMODE"
 msgstr "每次主炮砲彈命中的進度"
 
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_SHIP_FRAG"
+msgstr "每次摧毀敵艦推進的進度"
+
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_STAY_INVISIBLE"
 msgstr "每次間隔的進度"
 
@@ -49554,19 +51526,16 @@ msgid "IDS_PARAMS_MODIFIER_ROCKETPENETRATIONCOEFFHE"
 msgstr "HE 火箭彈的裝甲穿透能力"
 
 msgid "IDS_PARAMS_MODIFIER_SCOUTADDITIONALCONSUMABLES"
-msgstr "「偵察機」消耗品裝載數"
+msgstr "「校射偵察機」消耗品裝載數"
 
 msgid "IDS_PARAMS_MODIFIER_SCOUTRELOADCOEFF"
-msgstr "「偵察機」消耗品的冷卻時間"
+msgstr "「校射偵察機」消耗品的冷卻時間"
 
 msgid "IDS_PARAMS_MODIFIER_SCOUTRELOADCOEFF_SKILL"
-msgstr "「偵察機」消耗品冷卻時間"
+msgstr "「校射偵察機」消耗品冷卻時間"
 
 msgid "IDS_PARAMS_MODIFIER_SCOUTWORKTIMECOEFF"
-msgstr "「偵察機」消耗品作用時間"
-
-msgid "IDS_PARAMS_MODIFIER_SECONDSECTORTIMECOEFF"
-msgstr "音波效果在兩次高亮突顯之部位的持續時間"
+msgstr "「校射偵察機」消耗品作用時間"
 
 msgid "IDS_PARAMS_MODIFIER_SECTORSWITCHDELAYCOEFFICIENT"
 msgstr "防空分區強化時間"
@@ -49897,6 +51866,9 @@ msgstr "所受的魚雷傷害"
 msgid "IDS_PARAMS_MODIFIER_VULNERABILITYWAVE"
 msgstr "來自震波的傷害"
 
+msgid "IDS_PARAMS_MODIFIER_WAFFENTRAGERRELAYFACTOR"
+msgstr "反應堆合金"
+
 msgid "IDS_PARAMS_MODIFIER_WAVESPEEDMULTIPLIER"
 msgstr "震波速度"
 
@@ -50225,11 +52197,26 @@ msgstr "1"
 msgid "IDS_PASA111_YEAR"
 msgstr "1952"
 
+msgid "IDS_PASA206"
+msgstr "獨立"
+
+msgid "IDS_PASA206_DESCR"
+msgstr "<p>在 1941 年 12 月日本偷襲美國後，美國海軍高層意識到了航空母艦的重要性。考慮到本國的埃塞克斯級航空母艦建造計劃得到 1944 年才能複議，於是決定將利用部分克利夫蘭級巡洋艦的船體改造成為新的航空母艦。</p><p class=\"p_spacing\"> </p><p>這些艦艇改裝後配備了一個可容納約 30 架飛機的機庫和一個飛行甲板，並在艦體兩側加裝了突出部以平衡重心。雖然相比於普通護航航空母艦，這些艦艇由於其巡洋艦船體而先天缺乏適航性，但其在航速上卻更有優勢。</p><p class=\"p_spacing\"> </p><p>USS <b>獨立</b>最初作為 USS 阿姆斯特丹號在紐約建造。在二戰期間，該艦參與了對拉包爾和塔拉瓦的突襲、之後則在菲律賓和日本執行襲擊任務。1944 年 10 月，她參加了萊特灣海戰的蘇里高海峽戰役。戰後，<b>獨立</b>負責運送美國士兵回國。</p>"
+
+msgid "IDS_PASA206_FULL"
+msgstr "獨立"
+
+msgid "IDS_PASA206_NUMBER"
+msgstr "9"
+
+msgid "IDS_PASA206_YEAR"
+msgstr "1943"
+
 msgid "IDS_PASA208"
 msgstr "約克鎮"
 
 msgid "IDS_PASA208_DESCR"
-msgstr "美國海軍第一批特殊結構的航空母艦。雖然體積有限，但它們在當時卻具有高打擊力、高速度和良好的防空性能。"
+msgstr "<p><b>約克鎮</b>級航空母艦相較於前代艦突擊者，在設計上有明顯的提升——更大規模的航空中隊，裝甲和魚雷保護也更為完善。該級首艦 USS <b>約克鎮</b>在紐波特紐斯造船廠建造。</p><p class=\"p_spacing\"> </p><p>1942 年上旬，<b>約克鎮</b>參加了圖拉吉島登陸戰和新幾內亞戰役。在同年5月的珊瑚海海戰中，她的艦載機擊沉了日軍輕型航空母艦祥鳳號，並重創了翔鶴號。然而，約克鎮號自身也在戰鬥中受到了嚴重損傷。之後，她又參加了中途島海戰。</p><p class=\"p_spacing\"> </p><p>1942 年 6 月的中途島海戰中，<b>約克鎮</b>被兩枚由日軍轟炸機投下的魚雷命中後失去動力並向左舷傾斜。艦長雖然下令棄艦，但該艦仍未沉沒，隨後美國嘗試將其拖回。然而，日本潛艇 I-168 發動的二次魚雷攻擊對約克鎮號造成了致命損傷。最終，對該艦的搶救工作失敗，6 月 7 日，<b>約克鎮</b>沉沒。</p>"
 
 msgid "IDS_PASA208_FULL"
 msgstr "約克鎮"
@@ -50239,6 +52226,21 @@ msgstr "3"
 
 msgid "IDS_PASA208_YEAR"
 msgstr "1937"
+
+msgid "IDS_PASA210"
+msgstr "埃塞克斯"
+
+msgid "IDS_PASA210_DESCR"
+msgstr "<p>在日本和義大利退出了海軍限制條約後，美國海軍開始著手為各種艦艇類型研發新的主力艦艇。20 世紀 30 年代末，一項具備龐大艦載機群、更強裝甲防護以及密集防空火力的大型航母方案應運而生。</p><p class=\"p_spacing\"> </p><p>USS<b>埃塞克斯</b>在紐波特紐斯造船廠建造。1943年春，她經過加速測試後便被遣往太平洋戰區。第二次世界大戰期間，該艦參與了對威克島、拉包爾、吉爾伯特群島和誇賈林環礁的空襲行動，併為塔拉瓦與馬紹爾群島的登陸行動提供了空中掩護。1944 年，<b>埃塞克斯</b>作為快速航空母艦艦隊的一員，對塞班島、天寧島和關島實施了空襲。同年經過維修後，她又參加了對帛琉、棉蘭老島的空襲，又在之後對沖繩、臺灣發動攻擊，隨後參加了萊特灣海戰。</p><p class=\"p_spacing\"> </p><p>1963 年，<b>埃塞克斯</b>參與了對古巴的海上封鎖。20 世紀 60 年代，該艦還在阿波羅計劃中擔任太空艙救援艦。在整個服役生涯中，埃塞克斯號共獲得了 21 枚戰鬥之星。</p>"
+
+msgid "IDS_PASA210_FULL"
+msgstr "埃塞克斯"
+
+msgid "IDS_PASA210_NUMBER"
+msgstr "24"
+
+msgid "IDS_PASA210_YEAR"
+msgstr "1942"
 
 msgid "IDS_PASA507"
 msgstr "塞班島-old"
@@ -52951,6 +54953,9 @@ msgstr "馬丁 T4M"
 msgid "IDS_PAUB504_CV6_TB_TOP"
 msgstr "道格拉斯 TBD 蹂躪者"
 
+msgid "IDS_PAUB505_CV6_TB_STOCK"
+msgstr "Consolidated TBY Sea Wolf"
+
 msgid "IDS_PAUB509_DOUGLAS_AD1_SAIPAN"
 msgstr "道格拉斯 BTD 毀滅者"
 
@@ -52999,6 +55004,9 @@ msgstr "道格拉斯 BTD 毀滅者"
 msgid "IDS_PAUB712_TB_CONCORD_BRIDGE"
 msgstr "格魯曼 TBF 復仇者"
 
+msgid "IDS_PAUB713_CV8_TB_STOCK"
+msgstr "Grumman TBM Avenger"
+
 msgid "IDS_PAUB801_CV9_TB_STOCK"
 msgstr "格魯曼 TBM-3 復仇者"
 
@@ -53028,6 +55036,9 @@ msgstr "道格拉斯 TB2D 空中海盜"
 
 msgid "IDS_PAUB908_TB_CV_TEST"
 msgstr "BTD Destroyer"
+
+msgid "IDS_PAUB909_CV10_TB_STOCK"
+msgstr "Grumman TBM Avenger"
 
 msgid "IDS_PAUB974_TB1_MIDWAY"
 msgstr "道格拉斯 AD-1 天襲者"
@@ -53371,6 +55382,9 @@ msgstr "推進系統：42,800 匹馬力"
 msgid "IDS_PAUE512_S6_ENG_STOCK"
 msgstr "推進系統：3,070 匹馬力"
 
+msgid "IDS_PAUE513_CV6_ENG_STOCK"
+msgstr "推進系統：100,800 匹馬力"
+
 msgid "IDS_PAUE521_ENGINE_55000"
 msgstr "推進系統：55,000 匹馬力"
 
@@ -53526,6 +55540,9 @@ msgstr "推進系統：52,000 匹馬力"
 
 msgid "IDS_PAUE727_ENG_CONSTITUTION"
 msgstr "推進系統：125,000 匹馬力"
+
+msgid "IDS_PAUE728_CV8_ENG_STOCK"
+msgstr "推進系統：120,000 匹馬力"
 
 msgid "IDS_PAUE731_ENGINE_75000"
 msgstr "推進系統：75,000 匹馬力"
@@ -53722,6 +55739,9 @@ msgstr "推進系統：221,000 匹馬力"
 msgid "IDS_PAUE933_ENG_PRESIDENT"
 msgstr "推進系統：210,000 匹馬力"
 
+msgid "IDS_PAUE934_CV10_ENG_STOCK"
+msgstr "推進系統：150,000 匹馬力"
+
 msgid "IDS_PAUE971_ENG_ALASKA"
 msgstr "推進系統：180,000 匹馬力"
 
@@ -53788,6 +55808,9 @@ msgstr "Mk6 mod. 2"
 msgid "IDS_PAUF503_FLIGHTCONTROL_3"
 msgstr "Mk6 mod. 3"
 
+msgid "IDS_PAUF504_CV6_FC_STOCK"
+msgstr "Mk8"
+
 msgid "IDS_PAUF511_FLIGHTCONTROL_1"
 msgstr "Mk6 mod. 1"
 
@@ -53850,6 +55873,9 @@ msgstr "Mk8 mod. 1"
 
 msgid "IDS_PAUF708_FC_CONCORD_BRIDGE"
 msgstr "Mk8 mod. 1"
+
+msgid "IDS_PAUF709_CV8_FC_STOCK"
+msgstr "Mk8"
 
 msgid "IDS_PAUF711_FLIGHTCONTROL_1"
 msgstr "Mk8 mod. 1"
@@ -53922,6 +55948,9 @@ msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUF905_FC_CV_TEST"
 msgstr "Mk10 mod. 1"
+
+msgid "IDS_PAUF906_CV10_FC_STOCK"
+msgstr "Mk8"
 
 msgid "IDS_PAUF911_FLIGHTCONTROL_1"
 msgstr "Mk10 mod. 1"
@@ -54141,6 +56170,9 @@ msgstr "Cachalot (B)"
 
 msgid "IDS_PAUH512_SAIPAN_1946"
 msgstr "Saipan"
+
+msgid "IDS_PAUH513_CV6_HULL_STOCK"
+msgstr "獨立"
 
 msgid "IDS_PAUH521_FARRAGUT_1934"
 msgstr "Farragut (A)"
@@ -54372,6 +56404,9 @@ msgstr "霍格"
 msgid "IDS_PAUH739_CONSTITUTION"
 msgstr "憲法"
 
+msgid "IDS_PAUH740_CV8_HULL_STOCK"
+msgstr "約克鎮"
+
 msgid "IDS_PAUH741_ATLANTA_1942"
 msgstr "Atlanta"
 
@@ -54570,6 +56605,9 @@ msgstr "中途島Test"
 msgid "IDS_PAUH928_HULL_PRESIDENT"
 msgstr "總統"
 
+msgid "IDS_PAUH929_CV10_HULL_STOCK"
+msgstr "埃塞克斯"
+
 msgid "IDS_PAUH931_MONTANA_1945"
 msgstr "Montana"
 
@@ -54702,6 +56740,9 @@ msgstr "布魯斯特 F2A 水牛"
 msgid "IDS_PAUI505_CV6_F_TOP"
 msgstr "格魯曼 F4F 野貓"
 
+msgid "IDS_PAUI506_CV6_F_STOCK"
+msgstr "Curtiss XF14C"
+
 msgid "IDS_PAUI512_VOUGHT_F4U_SAIPAN"
 msgstr "格魯曼 F8F 熊貓"
 
@@ -54760,6 +56801,9 @@ msgstr ""
 "沃特 F4U-1D 海盜\n"
 "Tiny Tim"
 
+msgid "IDS_PAUI714_CV8_F_STOCK"
+msgstr "Grumman F5F Skyrocket"
+
 msgid "IDS_PAUI800_F_BLACK_KEARSARGE"
 msgstr "格魯曼 F8F 熊貓"
 
@@ -54809,6 +56853,9 @@ msgid "IDS_PAUI910_F_CV_TEST"
 msgstr ""
 "F8F Bearcat\n"
 "Tiny Tim"
+
+msgid "IDS_PAUI911_CV10_F_STOCK"
+msgstr "Ryan FR Fireball"
 
 msgid "IDS_PAUI974_F1_MIDWAY"
 msgstr "沃特 F4U 海盜"
@@ -61543,6 +63590,18 @@ msgstr " "
 msgid "IDS_PCEC154_CAMO_BRONEKORABLI_ENEMY_BUFFOFFSET"
 msgstr " "
 
+msgid "IDS_PCEC155_CAMO_WAFFLEBOTS_BLUE"
+msgstr "無人艦：藍色"
+
+msgid "IDS_PCEC156_CAMO_WAFFLEBOTS_VIOLET"
+msgstr "無人艦：紫羅蘭色"
+
+msgid "IDS_PCEC157_CAMO_WAFFLEBOTS_WHITE"
+msgstr "無人艦：白色"
+
+msgid "IDS_PCEC158_CAMO_WAFFLEHOUNDS"
+msgstr "同盟爪牙"
+
 msgid "IDS_PCEC990_TRIALS_BUDENY"
 msgstr "目標"
 
@@ -63174,7 +65233,7 @@ msgid "IDS_PCEE254_MONTPELIER_FLAG"
 msgstr "碧藍航線 ─ Montpelier"
 
 msgid "IDS_PCEE254_MONTPELIER_FLAG_DESCRIPTION"
-msgstr "您知道嗎？我們 Cleveland 級是大戰期間白鷹之下最強的輕型巡洋艦，所以您要對大姊頭更尊敬點才行。至於我嘛：拉納爾島、奧古斯塔皇后灣，還有一些其他的行動，我想我算參加過不少行動了吧。"
+msgstr "你知道嗎？我們克利夫蘭級是大戰中白鷹最出色的輕巡，所以你要對大姐頭更加尊敬一點才行。至於我，倫內爾，皇后灣，還有些其他作戰，也算是參加過一些戰鬥吧。"
 
 msgid "IDS_PCEE254_MONTPELIER_FLAG_EXTRA_DESCRIPTION"
 msgstr "來自《碧藍航線》遊戲。"
@@ -63183,7 +65242,7 @@ msgid "IDS_PCEE255_YUKIKAZE_FLAG"
 msgstr "碧藍航線 ─ Yukikaze"
 
 msgid "IDS_PCEE255_YUKIKAZE_FLAG_DESCRIPTION"
-msgstr "聽好了！呃...我乃是高貴的、幸運的、無敵的 Yukikaze，是第 8 艘 Kagerō 級艦，是 Gene...這什麼啊，這麼難念！啊，總之您能得到我是您夠好運，您就儘管依靠我的運氣吧！哈哈哈！"
+msgstr "聽好了，我乃高貴的，幸運的，無敵的，雪風˙Eight˙陽炎The.Geni……（咬舌）什麼啊，這個詞好難唸啊！（低聲）咳咳，總而言之，能得到我是你的幸運，你就儘管依靠本大人的運氣吧，HO,HO,HO！"
 
 msgid "IDS_PCEE255_YUKIKAZE_FLAG_EXTRA_DESCRIPTION"
 msgstr "來自《碧藍航線》遊戲。"
@@ -65380,7 +67439,7 @@ msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG"
 msgstr " "
 
 msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_DESCRIPTION"
-msgstr " "
+msgstr "自我介紹嗎？唔，我的名字「海因裡希親王」和型號「P級裝甲艦」，除此之外好像也沒什麼好說的了呢，嗯~~小鐵呢？你有什麼想和指揮官說的嗎~？"
 
 msgid "IDS_PCEE620_AZUR_PRINZ_HEINRICH_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
@@ -65389,7 +67448,7 @@ msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG"
 msgstr " "
 
 msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG_DESCRIPTION"
-msgstr " "
+msgstr "我是皇家所屬的重巡洋艦，柴郡號！不過，直到見到親愛的以前，我一直都是隻存在於想象之中的戰艦呢。"
 
 msgid "IDS_PCEE621_AZUR_CHESHIRE_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
@@ -66201,6 +68260,15 @@ msgstr "錦標賽旗幟"
 msgid "IDS_PCEE749_BATTLE_TOURNAMENT_FLAG_DESCRIPTION"
 msgstr "在錦標賽戰鬥中，每位玩家都能檢驗實力、探知極限。歷經激烈對抗的熔鍊，業餘玩家蛻變為職業高手，並肩作戰的戰友崛起為冠軍之師，時刻準備再攀高峰！"
 
+msgid "IDS_PCEE750_TM_FLAG"
+msgstr "紀律與膽識"
+
+msgid "IDS_PCEE750_TM_FLAG_DESCRIPTION"
+msgstr "凱拉是北海學院最優秀的學生。她像鋒利的佩劍一樣快速精準地攻擊，並清除前進道路上的任何敵人。"
+
+msgid "IDS_PCEE750_TM_FLAG_EXTRA_DESCRIPTION"
+msgstr "為紀念海洋之王錦標賽。"
+
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG"
 msgstr "法國潛水艇"
 
@@ -66258,6 +68326,27 @@ msgstr "但澤"
 msgid "IDS_PCEE759_DANZIG_FLAG_DESCRIPTION"
 msgstr "但澤在 18 至 19 世紀使用的歷史旗幟。歷史上，該市旗幟圖案曾多次變更，但幾乎所有版本都包含兩個白色十字架和一頂金色王冠的元素。"
 
+msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG"
+msgstr "義大利巡洋艦"
+
+msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_DESCRIPTION"
+msgstr "古羅馬軍團有自己的軍旗——Vexillum。它們是方形的旗幟，上面有軍團的名稱、綽號和象徵，以及皇帝的名字。最常見的象徵之一是公牛，羅馬人將其與戰爭之神瑪爾斯聯絡在一起。"
+
+msgid "IDS_PCEE760_ITALIAN_CL_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "為慶祝新義大利巡洋艦在 25.10 版本開放搶先體驗。"
+
+msgid "IDS_PCEE761_THE_ALLIANCE_FLAG"
+msgstr "同盟"
+
+msgid "IDS_PCEE761_THE_ALLIANCE_FLAG_DESCRIPTION"
+msgstr "在超級大國的陰影下，運作著一個強大的組織——同盟，它成立於二戰後，旨在防止全球衝突。然而，該組織的行事作風遠非人道主義。同盟意在奪回被克里格家族竊取的技術。"
+
+msgid "IDS_PCEE762_WAFFENTRAGER_FLAG"
+msgstr "最終兵器"
+
+msgid "IDS_PCEE762_WAFFENTRAGER_FLAG_DESCRIPTION"
+msgstr "埃爾梅琳達˙榮格是開發了革命性軍事技術的傳奇工程師馬克斯˙馮˙克里格之女。克里格神秘失蹤後，埃爾梅琳達繼承了他的事業，但同盟擋在了她的路上。"
+
 msgid "IDS_PCEE763_SHUMSHU_FLAG"
 msgstr "舒姆舒島戰役 80 週年"
 
@@ -66305,6 +68394,18 @@ msgstr "RN 皮埃蒙特"
 
 msgid "IDS_PCEE777_PIEMONTE_FLAG_DESCRIPTION"
 msgstr "義大利王儲旗，部分王儲同時擁有皮埃蒙特親王頭銜。1946 年，最後一任義大利國王為皮埃蒙特親王翁貝託。"
+
+msgid "IDS_PCEE778_OGNENNY_FLAG"
+msgstr "熾熱"
+
+msgid "IDS_PCEE778_OGNENNY_FLAG_DESCRIPTION"
+msgstr "驅逐艦熾熱是蘇聯海軍首批無線電技術偵察艦之一。蘇聯海軍無線電技術勤務專家的袖章上繪有交叉的閃電和無線電波。"
+
+msgid "IDS_PCEE779_TUNTOU_FLAG"
+msgstr "屯頭"
+
+msgid "IDS_PCEE779_TUNTOU_FLAG_DESCRIPTION"
+msgstr "漢字「福」代表好運和幸福，是慶祝中國新年不可或缺的屬性。「福」字經常被顛倒貼在新年燈籠、門窗上，意為「福來到」（漢字「到」與「倒」同音）。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "2016 年聖誕老人召集令"
@@ -67610,6 +69711,57 @@ msgstr "在此模式中，您可以體驗到潛水艇以及與之戰鬥的手段
 
 msgid "IDS_PCVE029_MATCHMAKER_DESCRIPTION"
 msgstr "在此模式中，您可以體驗到潛水艇以及與之戰鬥的手段的變化。"
+
+msgid "IDS_PCVE030"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_PCVE030_DESCRIPTION"
+msgstr "埃爾梅琳達˙榮格與獵犬分艦隊之間的非對稱作戰。選擇其中一方並找到您的戰術！"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "重返戰場"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "同盟擁有再生技術：所有被摧毀的獵犬都可以重返戰鬥。"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "傳送門"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "使用傳送門移動到地圖的另一端。"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "控制點"
+
+msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "佔領控制點以削弱埃爾梅琳達的防禦並降低撤離系統的充能速率。當撤離系統完全充能時，埃爾梅琳達將獲勝！"
+
+msgid "IDS_PCVE030_MATCHMAKER_DESCRIPTION"
+msgstr "格里姆斯比群島"
+
+msgid "IDS_PCVE030_START_TASK_HOUND"
+msgstr "在撤離系統啟動前摧毀埃爾梅琳達的艦艇"
+
+msgid "IDS_PCVE030_START_TASK_WAFFENTRAGER"
+msgstr "為撤離系統充能，不要被獵犬摧毀"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_HEADER"
+msgstr "返回戰鬥"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "同盟擁有再生技術：所有被摧毀的獵犬都可以重返戰鬥。"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_HEADER"
+msgstr "傳送門"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "使用傳送門移動到地圖的另一端。"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_HEADER"
+msgstr "撤離系統"
+
+msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "守住控制點並摧毀獵犬以為撤離系統充能。已佔領的控制點也會為您的護盾提供增益。"
 
 msgid "IDS_PCVO001_OP_01_01_37_RIDGE_DESCRIPTION"
 msgstr "我方海軍分艦隊遭到攻擊。部分艦艇已被摧毀，而被俘虜的運輸艦正在被護送到敵方基地的途中。攔截敵方船團並奪回我方艦艇。"
@@ -71323,369 +73475,217 @@ msgid "IDS_PCZC300_AZURLANE_HAMMANN"
 msgstr "Hammann"
 
 msgid "IDS_PCZC300_AZURLANE_HAMMANN_DESCRIPTION"
-msgstr ""
-"您在看什麼？Hammann 就是 Hammann 啦！中途島？Hammann 從沒後悔去救 Yorktown 姊姊，也不用您安慰，哼！\n"
-"\n"
-"............不過......謝、謝謝您......"
+msgstr "<p>看什麼看，哈曼就是哈曼啦！</p><p class=\"p_spacing\"> </p><p>中途島？哈曼可從沒有後悔過去救約克鎮姐姐，也不用你安慰！哼！</p><p class=\"p_spacing\"> </p><p>…………不過……謝，謝謝……</p>"
 
 msgid "IDS_PCZC301_AZURLANE_SANDIEGO"
 msgstr "San Diego"
 
 msgid "IDS_PCZC301_AZURLANE_SANDIEGO_DESCRIPTION"
-msgstr ""
-"我是 San Diego！他們說我是僅次於 Enterprise 獲得戰鬥之星最多的，雖然我不太知道星星是什麼，但聽起來很棒！\n"
-"\n"
-"您說的 「ameinikan」 是什麼意思呀指揮官？這是什麼暗號嗎？"
+msgstr "我是聖地亞哥！聽說我是戰爭中獲得星星僅次於企業大姐頭的船，雖然不太明白星星是什麼但是好像很厲害！指揮官，你在說什麼，阿妹你看？這是什麼暗號嗎？"
 
 msgid "IDS_PCZC302_AZURLANE_MONTPELIER"
 msgstr "Montpelier"
 
 msgid "IDS_PCZC302_AZURLANE_MONTPELIER_DESCRIPTION"
-msgstr "您知道嗎？我們 Cleveland 級是大戰期間白鷹之下最強的輕型巡洋艦，所以您要對大姊頭更尊敬點才行。至於我嘛：拉納爾島、奧古斯塔皇后灣，還有一些其他的行動，我想我算參加過不少行動了吧。"
+msgstr "你知道嗎？我們克利夫蘭級是大戰中白鷹最出色的輕巡，所以你要對大姐頭更加尊敬一點才行。至於我，倫內爾，皇后灣，還有些其他作戰，也算是參加過一些戰鬥吧。"
 
 msgid "IDS_PCZC303_AZURLANE_MASSACHUSETTS"
 msgstr "Massachusetts"
 
 msgid "IDS_PCZC303_AZURLANE_MASSACHUSETTS_DESCRIPTION"
-msgstr ""
-"在同級裡，我的強度只能算是普通等級而已。我只有拿到 11 顆戰鬥之星，和大姊 South Dakota 相比還差一點。沒受過傷？那可能是因為沒遇到什麼夠格的對手吧...。\n"
-"\n"
-"嗚，我也想像大姊頭那樣，使盡全力地大戰一場。"
+msgstr "<p>在同級裡，我算是普通強的那檔吧。戰鬥星章只拿到過 11 枚，比起南達科他大姐還差一些。沒受過什麼傷？那只是因為、沒遇到過什麼像樣的對手吧……</p><p class=\"p_spacing\"> </p><p>唔，我也想像大姐頭那樣、不遺餘力地打一場啊。</p>"
 
 msgid "IDS_PCZC304_AZURLANE_SARATOGA"
 msgstr "Saratoga"
 
 msgid "IDS_PCZC304_AZURLANE_SARATOGA_DESCRIPTION"
-msgstr ""
-"我是航空母艦 Lexington 的妹妹 Saratoga。\n"
-"\n"
-"嗯...\n"
-"\n"
-"我喜歡惡作劇！啊不過指揮官應該已經知道了，對吧？\n"
-"\n"
-"真正的航空戰術先驅嘛...要是姊姊沒有這麼早走，那肯定會是姊姊的稱號。"
+msgstr "<p>我是航空母艦，列星敦！的妹妹薩拉託加。</p><p class=\"p_spacing\"> </p><p>嗯……</p><p class=\"p_spacing\"> </p><p>喜歡的事情是惡作劇！啊不過指揮官已經知道了吧。</p><p class=\"p_spacing\"> </p><p>真正的航空戰術先驅嗎……要是姐姐沒有走的那麼早，那一定是姐姐的稱號吧……</p>"
 
 msgid "IDS_PCZC305_AZURLANE_SOUTHDAKOTA"
 msgstr "South Dakota"
 
 msgid "IDS_PCZC305_AZURLANE_SOUTHDAKOTA_DESCRIPTION"
-msgstr ""
-"我是來自白鷹的主力艦 South Dakota。在戰場上請不要離開我的身邊，我會保護指揮官的！\n"
-"\n"
-"「最強之盾」？\n"
-"\n"
-"虛名沒有任何價值，能真的提供幫助才有意義。"
+msgstr "<p>我是來自白鷹的戰列艦，南達科他號。在戰場上請不要離開我的身邊，我會保護指揮官的——</p><p class=\"p_spacing\"> </p><p>「最強的盾」？</p><p class=\"p_spacing\"> </p><p>虛名並沒有價值，能提供幫助才有意義。</p>"
 
 msgid "IDS_PCZC306_AZURLANE_WARSPITE"
 msgstr "Warspite"
 
 msgid "IDS_PCZC306_AZURLANE_WARSPITE_DESCRIPTION"
-msgstr "Elizabeth 級高速主力艦 Warspite，我是炮擊命中移動目標最遠的紀錄保持者。在之前的出征裡，好幾次都以為要撐不住了，結果最後都奇蹟式的被救回來—這一定是我的命運。"
+msgstr "伊麗莎白級高速戰列艦厭戰，我是最遠炮擊命中移動目標的記錄保持者。之前出征，好幾次以為要撐不住了卻都奇蹟般的被救了回來——這一定是我的命運。"
 
 msgid "IDS_PCZC307_AZURLANE_PRINCEOFWALES"
 msgstr "Prince of Wales"
 
 msgid "IDS_PCZC307_AZURLANE_PRINCEOFWALES_DESCRIPTION"
-msgstr ""
-"我是 King George V 級二號艦— Prince of Wales，曾經護送首相去簽訂《大西洋憲章》，打開武器史的新頁。\n"
-"\n"
-"哼，還需要您說啊。"
+msgstr "<p>我是英王喬治五世級二號艦威爾士親王號，曾經護送首相完成了《大西洋憲章》的簽訂——翻開了武器史的新一頁？</p><p class=\"p_spacing\"> </p><p>哼，真敢在我面前說啊。</p>"
 
 msgid "IDS_PCZC308_AZURLANE_ILLUSTRIOUS"
 msgstr "Illustrious"
 
 msgid "IDS_PCZC308_AZURLANE_ILLUSTRIOUS_DESCRIPTION"
-msgstr ""
-"指揮官您好，我是裝甲航空母艦 Illustrious。\n"
-"\n"
-"別看我這麼優雅，我也是有點脾氣的：上次夜襲塔蘭托時，我就順便欺負了一下義大利艦隊呢。"
+msgstr "<p>我是裝甲航母——光輝，指揮官貴安。</p><p class=\"p_spacing\"> </p><p>別看我這樣，其實我也是有些小脾氣的~上次夜襲了塔蘭託，就順便欺負了下撒丁帝國艦隊呢~</p>"
 
 msgid "IDS_PCZC309_AZURLANE_LONDON"
 msgstr "London"
 
 msgid "IDS_PCZC309_AZURLANE_LONDON_DESCRIPTION"
-msgstr ""
-"我是 London 級重型巡洋艦一號艦—London，服役於第一巡洋艦隊，在北大西洋與太平洋都有積極作戰。\n"
-"\n"
-"\n"
-"請放心將任務的重任交給我吧，閣下！"
+msgstr "<p>我是倫敦級重巡洋艦首艦——倫敦，服役於第1巡洋艦隊，在北大西洋、太平洋都有積極參與作戰。</p><p class=\"p_spacing\"> </p><p>閣下，請放心把任務交給我吧！</p>"
 
 msgid "IDS_PCZC310_AZURLANE_QUEENELIZABETH"
 msgstr "Queen Elizabeth"
 
 msgid "IDS_PCZC310_AZURLANE_QUEENELIZABETH_DESCRIPTION"
-msgstr ""
-"我是皇家的超無畏艦，最好牢牢記住我的名字。\n"
-"\n"
-"我的戰功？那些東西讓我的僕從去處理，我只要看著他們達成就好了！"
+msgstr "<p>皇家海軍超級無畏艦旗艦，給我把這個名號刻在骨髓上牢記吧！</p><p class=\"p_spacing\"> </p><p>戰功？那種東西讓臣子們去拿，本王只要看著她們就好了！</p>"
 
 msgid "IDS_PCZC311_AZURLANE_UNICORN"
 msgstr "Unicorn"
 
 msgid "IDS_PCZC311_AZURLANE_UNICORN_DESCRIPTION"
-msgstr ""
-"皇家...支援航空母艦...Unicorn。原先是為了支援 Illustrious 姊姊而誕生的，但後來也和其他姊姊一起行動，大家都對我很好。Unicorn 在各方面都很努力，所以能派上用場就太好了......\n"
-"\n"
-"嘻嘻，我會更努力的，哥哥..."
+msgstr "<p>皇家海軍…支援空母…獨角獸…原本是為了支援光輝姐姐而誕生的…後來也和許多其他姐姐們一起行動過…大家對我都很好呢…獨角獸在很多地方都努力過…能派上用場就好了呢……</p><p class=\"p_spacing\"> </p><p>嘻嘻，我會更加努力的，哥哥…</p>"
 
 msgid "IDS_PCZC312_AZURLANE_PRINZEUGEN"
 msgstr "Prinz Eugen"
 
 msgid "IDS_PCZC312_AZURLANE_PRINZEUGEN_DESCRIPTION"
-msgstr ""
-"我是鐵血第三帝國的奇蹟，Admiral Hipper 級的三號艦—Prinz Eugen。\n"
-"\n"
-"我能在各種戰鬥中存活下來......\n"
-"\n"
-"我帶來了好運？\n"
-"\n"
-"這句話虧您還敢說呢......"
+msgstr "<p>我是鐵血第三帝國的奇蹟，希佩爾海軍上將三號艦——歐根親王。</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p>無論是怎樣的戰鬥都能夠存活下來……</p><p class=\"p_spacing\"> </p><p>祥瑞？虧你敢說呢……</p>"
 
 msgid "IDS_PCZC313_AZURLANE_TIRPITZ"
 msgstr "Tirpitz"
 
 msgid "IDS_PCZC313_AZURLANE_TIRPITZ_DESCRIPTION"
-msgstr ""
-"這裡有點熱啊......喔，抱歉，我是 Tirpitz，一直一個人待在北方無所事事，所以有很多人叫我「北方的孤獨女王」—如果您認為這是個好聽的稱號，那您也許沒有真正理解到......\n"
-"\n"
-"這幾個字的背後...空存虛無..."
+msgstr "<p>稍微有點熱……啊，抱歉，我是提爾比茨，一直一個人待在北方無所事事，所以有許多人叫我「北方的孤獨女王」——如果你認為這是一個好聽的綽號，那你也許沒有聽得仔細……</p><p class=\"p_spacing\"> </p><p>這幾個字中，唯有虛無。</p>"
 
 msgid "IDS_PCZC314_AZURLANE_GRAFZEPPELIN"
 msgstr "Graf Zeppelin"
 
 msgid "IDS_PCZC314_AZURLANE_GRAFZEPPELIN_DESCRIPTION"
-msgstr ""
-"我是 Zeppelin...如果您想的話可以忽略這個名字，但為了方便您稱呼，還是這麼叫我吧。\n"
-"\n"
-"...我的願望？嗯，毀滅世界...但我會聽您的召喚，因為您已經是我軍的一部分了。"
+msgstr "<p>我是齊柏林……雖然這個名字不要也罷，為了方便稱呼還是這麼叫我吧。</p><p class=\"p_spacing\"> </p><p>——我的願望？毀滅世界吧……不會請求你的幫助的哦？因為……你早就是其中一部分了。</p>"
 
 msgid "IDS_PCZC315_AZURLANE_Z46"
-msgstr "Z46"
+msgstr "Z-46"
 
 msgid "IDS_PCZC315_AZURLANE_Z46_DESCRIPTION"
-msgstr ""
-"我是 Z46，鐵血海軍 Z 級驅逐艦 1936 年 C 型。雖然和四個同型艦一同列入建造計畫中，但只有Z47跟我動工。\n"
-"\n"
-"難過的是，一直到戰爭結束都沒有完工，而我沒有完工的身體就被解體了。\n"
-"\n"
-"有一天，我希望能有個真正的名字，而不是被叫做 Z46。"
+msgstr "<p>鐵血海軍 Z 級驅逐艦 1936 年 C 型。和四個妹妹一同列入建造計劃，但最終只有我和 Z-47 開工。</p><p class=\"p_spacing\"> </p><p>由於進度緩慢，直到終戰也沒有完工…尚未出生便遭解體的艦娘，那就是我……</p><p class=\"p_spacing\"> </p><p>期待著您不再稱呼我為 Z-46 的那天來臨。</p>"
 
 msgid "IDS_PCZC316_AZURLANE_ADMIRALHIPPER"
 msgstr "Admiral Hipper"
 
 msgid "IDS_PCZC316_AZURLANE_ADMIRALHIPPER_DESCRIPTION"
-msgstr ""
-"我是 Admiral Hipper，自科學之國度前來的重型巡洋艦。我的名字源於「不敗的名將」Franz von Hipper。\n"
-"\n"
-"我參與過各式各樣的戰鬥，並在其中貢獻了我所有的力量！\n"
-"\n"
-"嗯？巴倫支海？會發生那種事是因為海軍上將 Kummetz 比您還蠢！"
+msgstr "<p>我是鐵血第三帝國帝國希佩爾海軍上將號重巡洋艦，名字源於「不敗的名將」弗蘭茨˙馮˙希佩爾。</p><p class=\"p_spacing\"> </p><p>參與過各種各樣的戰鬥並在每場戰鬥中都盡了最大的努力！</p><p class=\"p_spacing\"> </p><p>哈？巴倫支海？那是因為庫默茲比你還愚蠢！</p>"
 
 msgid "IDS_PCZC317_AZURLANE_DEUTSCHLAND"
 msgstr "Deutschland"
 
 msgid "IDS_PCZC317_AZURLANE_DEUTSCHLAND_DESCRIPTION"
-msgstr ""
-"我是 Deutschland，是 Deutschland 級的 A 號艦！如此尊貴的我可不能隨隨便便出戰呢，所以沒有太多行動也是理所當然的。\n"
-"\n"
-"這叫做精神領袖！\n"
-"\n"
-"明白嗎？什麼？誰...誰是「Lützow」？\n"
-"\n"
-"閉嘴...\n"
-"\n"
-"那種事我幹嘛要知道！？"
+msgstr "<p>哼，我就是德意志級 A 號艦——德意志號！如此尊貴的我怎麼能隨隨便便出戰呢，所以沒有什麼戰績也是理所應當的啦，精神領袖你明白麼？哼！</p><p class=\"p_spacing\"> </p><p>什麼？呂……呂佐夫號是誰？可、可惡，吵死了！這種事情我怎麼會知道？</p>"
 
 msgid "IDS_PCZC318_AZURLANE_YUUDACHI"
 msgstr "Yūdachi"
 
 msgid "IDS_PCZC318_AZURLANE_YUUDACHI_DESCRIPTION"
-msgstr ""
-"我是 Yūdachi！別人都稱我為「索羅門的瘋狗」！\n"
-"\n"
-"哼哼！聽起來很強吧？打群架的話我是不會輸的！\n"
-"\n"
-"嗯？點心時間到了吧？點心在哪裡！？"
+msgstr "<p>我是夕立！人稱「所羅門的瘋狗」！哼哼，聽起來很強吧，打群架我是不會輸的！</p><p class=\"p_spacing\"> </p><p>咦，到點心時間了嗎？指揮官，吃的呢！</p>"
 
 msgid "IDS_PCZC319_AZURLANE_NAGATO"
 msgstr "Nagato"
 
 msgid "IDS_PCZC319_AZURLANE_NAGATO_DESCRIPTION"
-msgstr ""
-"代表著重櫻的軍魂、榮耀與輝煌...\n"
-"\n"
-"我是那個時代的象徵，好好看著我吧，我乃「七大戰艦」之一。看夠了嗎？那我要休息了，因為我累了。"
+msgstr "<p>吾代表著重櫻的軍魂，重櫻的榮光以及重櫻的輝煌。</p><p class=\"p_spacing\"> </p><p>吾是BIG 7之一，吾之存在即是那個時代，睜大汝的雙眼，頂禮膜拜吧——看夠了嗎，吾站膩了，要休息一下…</p>"
 
 msgid "IDS_PCZC320_AZURLANE_KAGA"
 msgstr "Kaga"
 
 msgid "IDS_PCZC320_AZURLANE_KAGA_DESCRIPTION"
-msgstr ""
-"我是 Kaga，第一航空戰隊的航空母艦。\n"
-"\n"
-"雖然最初我是以主力艦來設計，但重生為一艘航空母艦肯定是我的命運吧。\n"
-"\n"
-"敵人？我會毫不留情的摧毀他們，這可不是為了樂趣，而是我的責任，懂嗎？"
+msgstr "<p>我是第一航空戰隊的重型空母，加賀。</p><p class=\"p_spacing\"> </p><p>雖然一開始是按照戰列艦的規格進行建造，但現在成為正航可謂是命運的安排吧。</p><p class=\"p_spacing\"> </p><p>——對待敵人？當然只有虐殺一途，那不是我的興趣，而是我的義務，明白嗎？</p>"
 
 msgid "IDS_PCZC321_AZURLANE_MIKASA"
 msgstr "Mikasa"
 
 msgid "IDS_PCZC321_AZURLANE_MIKASA_DESCRIPTION"
-msgstr ""
-"我是 Mikasa，是 Shikishima 級主力艦，也是六六艦隊計畫中最後的一級主力艦。\n"
-"\n"
-"作為聯合艦隊的旗艦，我曾贏得偉大的勝利，將我的祖國的名聲傳到了地球的彼端。"
+msgstr "<p>我乃敷島級戰艦，六六艦隊計劃中最後的一級戰艦，三笠。</p><p class=\"p_spacing\"> </p><p>作為聯合艦隊總旗艦，我在令祖國聲名遠揚的那場大戰中，為祖國帶來了勝利。</p>"
 
 msgid "IDS_PCZC322_AZURLANE_KONGO"
 msgstr "Kongō"
 
 msgid "IDS_PCZC322_AZURLANE_KONGO_DESCRIPTION"
-msgstr "重櫻高速主力艦首艦、第七代聯合艦隊旗艦、同時也是舊重櫻帝國最後一艘向海外訂購的主力艦，那就是我，Kongō！"
+msgstr "金剛級高速戰列艦首艦、第七代聯合艦隊旗艦、同時也是重櫻最後一艘自海外訂購的主力艦，享有如此多榮銜的——那就是我，金剛！"
 
 msgid "IDS_PCZC323_AZURLANE_AYANAMI"
 msgstr "Ayanami"
 
 msgid "IDS_PCZC323_AZURLANE_AYANAMI_DESCRIPTION"
-msgstr "我是 Ayanami...是 Fubuki 級驅逐艦的改良艦。我不怕戰鬥，雖然我「只是」一艘驅逐艦，但是無論敵人是誰，我都能與之一戰..."
+msgstr "吹雪級驅逐艦的改良艦綾波……的說，對我來說，戰鬥沒什麼好害怕的，所以雖然只是驅逐艦，但是無論什麼敵人我都敢一戰……"
 
 msgid "IDS_PCZC324_AZURLANE_ANSHAN"
 msgstr "Anshan"
 
 msgid "IDS_PCZC324_AZURLANE_ANSHAN_DESCRIPTION"
-msgstr ""
-"我是 An Shan，是東煌 Anshan 級驅逐艦，也是東煌「四大金剛」之首。\n"
-"\n"
-"作為我眾多姊妹的旗艦，我在包括演習、巡邏以及威嚇目標的任務中獲得了成功。\n"
-"\n"
-"雖然我沒有什麼實戰經驗，但我對自己的航海經驗充滿了信心。"
+msgstr "<p>東煌鞍山級驅逐艦首艦「鞍山」號，東煌第一代「四大金剛」之首。</p><p class=\"p_spacing\"> </p><p>作為長姐（旗艦），參加過諸多演習、監視和對峙，並都取得了足以自豪的成績。</p><p class=\"p_spacing\"> </p><p>雖然沒有經歷過實戰，但我可是世界上行駛里程最遠的驅逐艦之一哦~</p>"
 
 msgid "IDS_PCZC325_AZURLANE_FUSHUN"
 msgstr "Fushun"
 
 msgid "IDS_PCZC325_AZURLANE_FUSHUN_DESCRIPTION"
-msgstr ""
-"我是 Fu Shun，東煌 Anshan 級驅逐艦，也是東煌「四大金剛」老二。\n"
-"\n"
-"小時候我被稱做 「Rezkiy」。雖然執行過很多任務，但沒有實戰經驗讓我感到遺憾。\n"
-"\n"
-"儘管如此，我在戰場上任會盡全力為您帶來成功的！"
+msgstr "<p>東煌鞍山級驅逐艦二號艦「撫順」號，東煌第一代「四大金剛」之一。</p><p class=\"p_spacing\"> </p><p>「Резкий」？那是我的乳名。雖然執行過很多工，但未曾經歷過實戰實在令人遺憾，明明和鞍山姐那一次差一點就開火了！</p><p class=\"p_spacing\"> </p><p>總之，請讓我在戰場上盡情活躍吧！</p>"
 
 msgid "IDS_PCZC326_AZURLANE_CHANGCHUN"
 msgstr "Chang Chun"
 
 msgid "IDS_PCZC326_AZURLANE_CHANGCHUN_DESCRIPTION"
-msgstr ""
-"我是 Chang Chun，東煌的 Anshan 級驅逐艦，也是「四大金剛」的第三位。\n"
-"\n"
-"作為東煌海軍的骨幹，我參與訓練船員並累積經驗。\n"
-"\n"
-"呃？\n"
-"\n"
-"Fu Shun 姊姊又闖禍了？\n"
-"\n"
-"An Shan 姊姊又要傷腦筋了啊..."
+msgstr "<p>東煌鞍山級驅逐艦三號艦「長春」號，東煌第一代「四大金剛」之一。</p><p class=\"p_spacing\"> </p><p>作為東煌海軍的柱石，在人員訓練與經驗積累方面發揮了巨大的作用。</p><p class=\"p_spacing\"> </p><p>誒，撫順姐又惹禍了？</p><p class=\"p_spacing\"> </p><p>鞍山姐大概又要費心了呢…</p>"
 
 msgid "IDS_PCZC327_AZURLANE_YATSEN"
 msgstr "Yat Sen"
 
 msgid "IDS_PCZC327_AZURLANE_YATSEN_DESCRIPTION"
-msgstr ""
-"東煌海軍第一艦隊，Yat Sen。\n"
-"\n"
-"聽說我的姊妹也在這裡，這次 Yat Sen 絕對不會再離開指揮官身邊了。"
+msgstr "<p>東煌海軍第一艦隊，逸仙號。</p><p class=\"p_spacing\"> </p><p>聽說姐妹們也都在這裡，這一次，逸仙絕對不會再離開指揮官的身邊了！</p>"
 
 msgid "IDS_PCZC328_AZURLANE_PINGHAI"
 msgstr "Ping Hai"
 
 msgid "IDS_PCZC328_AZURLANE_PINGHAI_DESCRIPTION"
-msgstr ""
-"我是 Ning Hai，Ning Hai 級艦艇的一號艦。我的姊姊說自我介紹要這樣說。\n"
-"\n"
-"嗯？我是 Ping Hai？對耶...\n"
-"\n"
-"那我是 Ping Hai—Ning Hai 級一號艦。我還是說錯了嗎？好麻煩啊..."
+msgstr "<p>我是寧海級的一號艦寧海，姐姐說自我介紹要這麼做，欸，我是平海？</p><p class=\"p_spacing\"> </p><p>對哦……那我是寧海級的一號艦平海。還是錯了？好麻煩……</p>"
 
 msgid "IDS_PCZC329_AZURLANE_AVRORA"
 msgstr "Avrora"
 
 msgid "IDS_PCZC329_AZURLANE_AVRORA_DESCRIPTION"
-msgstr ""
-"我是蘇聯巡洋艦 Avrora。如您所知我曾經參與過先前那場革命，並且擔任矛頭的角色。\n"
-"\n"
-"不過我不知道後來世界變成什麼樣了。\n"
-"\n"
-"總之，在您的艦隊中我也只是普通的士兵，請儘管的使用我吧。\n"
-"\n"
-"我會為艦隊帶來勝利的！"
+msgstr "<p>我是巡洋艦阿芙樂爾，如您所知道的，我曾經為那一場著名的革命打響了第一炮，不過在那之後的世界變得我也有些看不懂了……</p><p class=\"p_spacing\"> </p><p>總之，在艦隊中我也只是普通計程車兵，請盡情使用我吧，我會為艦隊帶來勝利的！</p>"
 
 msgid "IDS_PCZC330_AZURLANE_SAINTLOUIS"
 msgstr "Saint Louis"
 
 msgid "IDS_PCZC330_AZURLANE_SAINTLOUIS_DESCRIPTION"
-msgstr ""
-"我只是個幻想的化身。因為我的祖國陷入戰火，這個幻想從未實現...\n"
-"\n"
-"但是艦長，如果您就是那指引方向的牧羊人，那我會為您掃除一切阻礙。"
+msgstr "<p>因為故土突逢苦難，我的誕生被迫取消。</p><p class=\"p_spacing\"> </p><p>而神說，你的使命留待來日。所以我出現在了這裡。指揮官，您將為我指引方向，而我，則為您掃平前路。</p>"
 
 msgid "IDS_PCZC331_AZURLANE_LETRIOMPHANT"
 msgstr "Le Triomphant"
 
 msgid "IDS_PCZC331_AZURLANE_LETRIOMPHANT_DESCRIPTION"
-msgstr ""
-"我是 Le Triomphant ，是自由鳶尾的 Le Fantasque 級驅逐艦，您好！\n"
-"\n"
-"我曾隸屬佩斯特第八大驅逐艦分隊。\n"
-"\n"
-"我與姊姊們一同前往了斯卡格拉克海峽，然後我們就此走向了不同的命運…"
+msgstr "<p>自由鳶尾、空想級驅逐艦凱旋號，向您問安。</p><p class=\"p_spacing\"> </p><p>曾經作為佈雷斯特的第八分隊一員，與姐姐們一同突入了斯卡格拉克海峽，然而之後卻和姐姐們走向了不同的道路…</p>"
 
 msgid "IDS_PCZC332_AZURLANE_DUNKERQUE"
 msgstr "Dunkerque"
 
 msgid "IDS_PCZC332_AZURLANE_DUNKERQUE_DESCRIPTION"
-msgstr ""
-"我是 Dunkerque，隸屬於維希教廷第一線總隊。\n"
-"\n"
-"如您所知，我的服役紀錄毫無亮眼之處...\n"
-"\n"
-"然而這是無可否認的事實，我不打算隱瞞它。\n"
-"\n"
-"不管如何，如果您還願意差遣我，那麼我不會讓您失望的。"
+msgstr "<p>我是隸屬於維希教廷第一線總隊的敦刻爾克號。如你所知道的，我的艦歷毫無光彩之處，我不會遮掩，因為這是事實。</p><p class=\"p_spacing\"> </p><p>但如果您仍然願意用我，我想，我不會讓您失望。</p>"
 
 msgid "IDS_PCZC333_AZURLANE_JEANBART"
 msgstr "Jean Bart"
 
 msgid "IDS_PCZC333_AZURLANE_JEANBART_DESCRIPTION"
-msgstr ""
-"我是 Jean Bart，是一艘主力艦。\n"
-"\n"
-"我的名字源自於那位受人尊敬的私掠船艦長。\n"
-"\n"
-"\n"
-"...嗯？\n"
-"\n"
-"「私掠船是什麼？」\n"
-"\n"
-"私掠船就是有著正當理由、合法掠奪他人的海盜呀。"
+msgstr "<p>我是戰列艦讓˙巴爾，這名字源於「受人敬仰」的某位私掠船船長……</p><p class=\"p_spacing\"> </p><p>嗯？你問私掠船是什麼？哼，就是打著國家大義名號，公然搶劫的海盜船啊。</p>"
 
 msgid "IDS_PCZC334_AZURLANE_LEMARS"
 msgstr "Le Mars"
 
 msgid "IDS_PCZC334_AZURLANE_LEMARS_DESCRIPTION"
-msgstr ""
-"我是 Le Mars，是 L'Adroit 級驅逐艦，也是維希教廷的見習騎士。\n"
-"\n"
-"我一直為維希教廷服務，最後在與鐵血的對抗中，被白鷹在港口裡擊沉。"
+msgstr "<p>我是機敏級的驅逐艦，同時也是維希教廷的見習騎士，勒馬爾。</p><p class=\"p_spacing\"> </p><p>一直在為維希教廷服務，最後為了不讓鐵血得逞而被白鷹在港口擊沉…</p>"
 
 msgid "IDS_PCZC335_AZURLANE_FORBIN"
 msgstr "Forbin"
 
 msgid "IDS_PCZC335_AZURLANE_FORBIN_DESCRIPTION"
-msgstr ""
-"我是 Forbin，是 L'Adroit 級驅逐艦，也是自由鳶尾的見習騎士。\n"
-"\n"
-"雖然因為某些原因在港口裡白白待了兩年，不過重新服役之後也參與了不少任務。\n"
-"\n"
-"我在戰場上的活躍也多少彌補了過去的落差了。"
+msgstr "<p>我是機敏級驅逐之一，同時也是自由鳶尾的見習騎士的福爾班，雖然因為某個原因而在港區白白待了兩年，不過迴歸之後參與了不少任務，也算是用戰場上的活躍彌補了之前的空白了</p>"
 
 msgid "IDS_PCZC336_SOVIETBBARC_COMMISSAR_FLAG"
 msgstr "蘇聯人民委員的海軍旗幟（1938–1946年）"
@@ -76188,6 +78188,15 @@ msgstr "在戰鬥與港口中顯示「hololive production」的迷彩與指揮�
 msgid "IDS_PECULARITY_FILTER_HOLOLIVE_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "在戰鬥與港口中，替換「hololive production」迷彩與指揮官的視覺外觀"
 
+msgid "IDS_PECULARITY_FILTER_HOUND"
+msgstr "獵犬"
+
+msgid "IDS_PECULARITY_FILTER_HOUND_SET_SKIN_TOOLTIP"
+msgstr "在港口和戰鬥中顯示「獵犬」艦艇和指揮官"
+
+msgid "IDS_PECULARITY_FILTER_HOUND_TAKE_OFF_SKIN_TOOLTIP"
+msgstr "在港口和戰鬥中隱藏「獵犬」艦艇和指揮官的視覺外觀"
+
 msgid "IDS_PECULARITY_FILTER_KOBAYASHI"
 msgstr "Makoto Kobayashi 特色系列"
 
@@ -76268,6 +78277,15 @@ msgstr "在戰鬥中和港口顯示「以進步之名！」的迷彩與指揮官
 
 msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE_TAKE_OFF_SKIN_TOOLTIP"
 msgstr "在戰鬥與港口中，替換「以進步之名！」迷彩與指揮官的視覺外觀"
+
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_SET_SKIN_TOOLTIP"
+msgstr "在港口和戰鬥中顯示「最終兵器：隔離」艦艇和指揮官"
+
+msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_TAKE_OFF_SKIN_TOOLTIP"
+msgstr "在港口和戰鬥中隱藏「最終兵器：隔離」艦艇和指揮官的視覺外觀"
 
 msgid "IDS_PECULARITY_FILTER_WARHAMMER"
 msgstr "Warhammer 40,000"
@@ -76569,6 +78587,9 @@ msgstr "下水儀式"
 msgid "IDS_PFES442_FORBIN_CEREMONIAL"
 msgstr "下水儀式"
 
+msgid "IDS_PFES500_VOLTIGEUR_HOUND"
+msgstr "獵犬"
+
 msgid "IDS_PFES508_FANTASQUE_PIRATE"
 msgstr "冒險家"
 
@@ -76664,6 +78685,9 @@ msgstr "57 mm/60 Mle 1951（ACAD Mle 1948炮座）"
 
 msgid "IDS_PFGA163_BOFORS_40MM70_SP48"
 msgstr "40 mm/70 SAK-40/L70-350（SAK-40/L70-350炮座）"
+
+msgid "IDS_PFGA172_57MM_60_BOFORS_M50_SW"
+msgstr "57 mm/60 SAK Model 1950（1950式炮座）"
 
 msgid "IDS_PFGM001_330_52_MLE_1931"
 msgstr "330 mm/50 Mle 1931（St.Chamond Mle 1932 炮座）"
@@ -76815,6 +78839,9 @@ msgstr "305 mm/56 SK C/39（炮塔）"
 msgid "IDS_PFGM169_88MM45_SK_35"
 msgstr "88 mm/45 SK C/35（Ubts LC/35炮座）"
 
+msgid "IDS_PFGM174_120MM_50_BOFORS_M50"
+msgstr "120 mm/50 Model 1950（炮塔）"
+
 msgid "IDS_PFGS002_130_45_MLE_1932_QUAD"
 msgstr "130 mm/45 Mle 1932（Mle 1932 炮座）"
 
@@ -76955,6 +78982,9 @@ msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PFGT171_INVISIBLE_TA_RIGHT"
 msgstr "550 mm tube lance-torpilles"
+
+msgid "IDS_PFGT175_533MM_5TUBE_SW"
+msgstr "533 mm 五聯"
 
 msgid "IDS_PFPA001_330MM_AP_D"
 msgstr "330 mm AP OPfK Mle 1935"
@@ -77289,10 +79319,10 @@ msgstr "88 mm CS"
 msgid "IDS_PFPA111_100MM_45_1892_SMOKE"
 msgstr "100 mm SAP OEA Mle 1910"
 
-msgid "IDS_PFPA112_120_HE_HALLAND_HOUND"
+msgid "IDS_PFPA112_120_HE_VOLTIGEUR"
 msgstr "120 mm HE M1950"
 
-msgid "IDS_PFPA113_120_AP_HALLAND_HOUND"
+msgid "IDS_PFPA113_120_AP_VOLTIGEUR"
 msgstr "120 mm AP M1950"
 
 msgid "IDS_PFPA114_406MM_HE_AQUITAINE"
@@ -77430,7 +79460,7 @@ msgstr "400 mm M26V / 550 mm 23DT"
 msgid "IDS_PFPT032_FORBIN_ALT"
 msgstr "550 mm 24V Mle 2"
 
-msgid "IDS_PFPT033_HALLAND_HOUND"
+msgid "IDS_PFPT033_VOLTIGEUR"
 msgstr "Torped M1947 mod 3"
 
 msgid "IDS_PFSA506"
@@ -78365,6 +80395,21 @@ msgstr "5"
 msgid "IDS_PFSD509_YEAR"
 msgstr "1957"
 
+msgid "IDS_PFSD510"
+msgstr "騰躍兵"
+
+msgid "IDS_PFSD510_DESCR"
+msgstr "<p>實驗型驅逐艦<b>騰躍兵</b>由聖納澤爾造船廠承建，旨在用於加強同盟國對大西洋航路的掌控。其主要任務是護送船隊、監視敵艦隊動向，以及攔截敵方的無線電訊號。</p><p class=\"p_spacing\"> </p><p>該艦的名稱強調了她在艦隊中的定位——在進攻的第一梯隊執行前線偵察任務。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
+
+msgid "IDS_PFSD510_FULL"
+msgstr "騰躍兵"
+
+msgid "IDS_PFSD510_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSD510_YEAR"
+msgstr "1954"
+
 msgid "IDS_PFSD519"
 msgstr "福爾班"
 
@@ -78441,19 +80486,19 @@ msgid "IDS_PFSD810_YEAR"
 msgstr "1940"
 
 msgid "IDS_PFSD910"
-msgstr "哈蘭Test"
+msgstr "HND騰躍兵"
 
 msgid "IDS_PFSD910_DESCR"
-msgstr "測試艦艇。"
+msgstr "<p>實驗型驅逐艦<b>騰躍兵</b>由聖納澤爾造船廠承建，旨在用於加強同盟國對大西洋航路的掌控。其主要任務是護送船隊、監視敵艦隊動向，以及攔截敵方的無線電訊號。</p><p class=\"p_spacing\"> </p><p>該艦的名稱強調了她在艦隊中的定位——在進攻的第一梯隊執行前線偵察任務。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
 
 msgid "IDS_PFSD910_FULL"
-msgstr "哈蘭Test"
+msgstr "HND騰躍兵"
 
 msgid "IDS_PFSD910_NUMBER"
 msgstr "1"
 
 msgid "IDS_PFSD910_YEAR"
-msgstr "3005"
+msgstr "1954"
 
 msgid "IDS_PFSS106"
 msgstr "黛安"
@@ -78734,6 +80779,9 @@ msgstr "120 mm/50 Model 1950（炮塔）"
 msgid "IDS_PFUA915_ART_AQUITAINE"
 msgstr "406 mm/50 Mle 1938（炮塔）"
 
+msgid "IDS_PFUA916_ART_VOLTIGEUR"
+msgstr "120 mm/50 Model 1950（炮塔）"
+
 msgid "IDS_PFUA930_C11_ART_STOCK"
 msgstr "240 mm/50 Mle 1930（炮塔）"
 
@@ -78973,6 +81021,9 @@ msgstr "推進系統：58 000 匹馬力"
 
 msgid "IDS_PFUE914_ENG_AQUITAINE"
 msgstr "推進系統：192,000 匹馬力"
+
+msgid "IDS_PFUE915_ENG_VOLTIGEUR"
+msgstr "推進系統：58,000 匹馬力"
 
 msgid "IDS_PFUE930_C11_ENG_STOCK"
 msgstr "推進系統：220,000 匹馬力"
@@ -79263,10 +81314,13 @@ msgid "IDS_PFUH912_CHAMPAGNE"
 msgstr "Bourgogne"
 
 msgid "IDS_PFUH913_HULL_HALLAND_H_EVENT"
-msgstr "哈蘭Test"
+msgstr "騰躍兵"
 
 msgid "IDS_PFUH914_HULL_AQUITAINE"
 msgstr "亞奎丹"
+
+msgid "IDS_PFUH915_HULL_VOLTIGEUR"
+msgstr "騰躍兵"
 
 msgid "IDS_PFUH930_C11_HULL_STOCK"
 msgstr "Condé"
@@ -79539,7 +81593,7 @@ msgid "IDS_PFUS909_SUO_CLR_CONDE"
 msgstr "PCA n°11"
 
 msgid "IDS_PFUS910_SUO_HALLAND_H_EVENT"
-msgstr "GFCS Mk 10"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS911_B10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
@@ -79549,6 +81603,9 @@ msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS913_SUO_AQUITAINE"
 msgstr "PCA n°11"
+
+msgid "IDS_PFUS914_SUO_VOLTIGEUR"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PFUS930_C11_SUO_STOCK"
 msgstr "PCA n°11"
@@ -79677,6 +81734,9 @@ msgid "IDS_PFUT908_TORP_CLR_CONDE"
 msgstr "550 mm 23DT"
 
 msgid "IDS_PFUT909_TORP_HALLAND_H_EVENT"
+msgstr "Torped M1947 mod 1"
+
+msgid "IDS_PFUT910_TORP_VOLTIGEUR"
 msgstr "Torped M1947 mod 1"
 
 msgid "IDS_PFUT930_C11_TORP_STOCK"
@@ -86392,79 +88452,79 @@ msgid "IDS_PHUH904_HULL_CALLENBURGH"
 msgstr "卡倫堡"
 
 msgid "IDS_PHUS001_C1_SUO_STOCK"
-msgstr "Vuurleiding Mk 1 Mod. 1"
+msgstr "SUO Mk 1 Mod. 1"
 
 msgid "IDS_PHUS101_C2_SUO_STOCK"
-msgstr "Vuurleiding Mk 2 Mod. 1"
+msgstr "SUO Mk 2 Mod. 1"
 
 msgid "IDS_PHUS102_C2_SUO_TOP"
-msgstr "Vuurleiding Mk 2 Mod. 2"
+msgstr "SUO Mk 2 Mod. 2"
 
 msgid "IDS_PHUS201_C3_SUO_STOCK"
-msgstr "Vuurleiding Mk 3 Mod. 1"
+msgstr "SUO Mk 3 Mod. 1"
 
 msgid "IDS_PHUS202_C3_SUO_TOP"
-msgstr "Vuurleiding Mk 3 Mod. 2"
+msgstr "SUO Mk 3 Mod. 2"
 
 msgid "IDS_PHUS301_C4_SUO_STOCK"
-msgstr "Vuurleiding Mk 4 Mod. 1"
+msgstr "SUO Mk 4 Mod. 1"
 
 msgid "IDS_PHUS302_C4_SUO_TOP"
-msgstr "Vuurleiding Mk 4 Mod. 2"
+msgstr "SUO Mk 4 Mod. 2"
 
 msgid "IDS_PHUS401_C5_SUO_STOCK"
-msgstr "Vuurleiding Mk 5 Mod. 1"
+msgstr "SUO Mk 5 Mod. 1"
 
 msgid "IDS_PHUS402_C5_SUO_TOP"
-msgstr "Vuurleiding Mk 5 Mod. 2"
+msgstr "SUO Mk 5 Mod. 2"
 
 msgid "IDS_PHUS501_C6_SUO_STOCK"
-msgstr "Vuurleiding Mk 6 Mod. 1"
+msgstr "SUO Mk 6 Mod. 1"
 
 msgid "IDS_PHUS502_C6_SUO_TOP"
-msgstr "Vuurleiding Mk 6 Mod. 2"
+msgstr "SUO Mk 6 Mod. 2"
 
 msgid "IDS_PHUS503_SUO_KORTENAER"
 msgstr "SUO Mk 6 Mod. 1"
 
 msgid "IDS_PHUS601_C7_SUO_STOCK"
-msgstr "Vuurleiding Mk 7 Mod. 1"
+msgstr "SUO Mk 7 Mod. 1"
 
 msgid "IDS_PHUS602_C7_SUO_TOP"
-msgstr "Vuurleiding Mk 7 Mod. 2"
+msgstr "SUO Mk 7 Mod. 2"
 
 msgid "IDS_PHUS701_C8_SUO_STOCK"
-msgstr "Vuurleiding Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod. 1"
 
 msgid "IDS_PHUS702_C8_SUO_TOP"
-msgstr "Vuurleiding Mk 8 Mod. 2"
+msgstr "SUO Mk 8 Mod. 2"
 
 msgid "IDS_PHUS703_SUO_DE_ZEVEN_PRO"
-msgstr "Vuurleiding Mk 8 Mod. 1"
+msgstr "SUO Mk 8 Mod. 1"
 
 msgid "IDS_PHUS801_C9_SUO_STOCK"
-msgstr "Vuurleiding Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod. 1"
 
 msgid "IDS_PHUS802_C9_SUO_TOP"
-msgstr "Vuurleiding Mk 9 Mod. 2"
+msgstr "SUO Mk 9 Mod. 2"
 
 msgid "IDS_PHUS803_SUO_GRONINGEN"
 msgstr "Vuurleiding Mk 9 Mod. 1"
 
 msgid "IDS_PHUS804_SUO_SPEIJK"
-msgstr "Vuurleiding Mk 9 Mod. 1"
+msgstr "SUO Mk 9 Mod. 1"
 
 msgid "IDS_PHUS901_C10_SUO_STOCK"
-msgstr "Vuurleiding Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUS902_SUO_TROMP"
-msgstr "Vuurleiding Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUS903_C10_SUO_STOCK"
-msgstr "Vuurleiding Mk 10 Mod. 1"
+msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUS904_SUO_CALLENBURGH"
-msgstr "SUO Mk 10 Mod.1"
+msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PHUT501_TORP_KORTENAER"
 msgstr "533 mm Mk VII"
@@ -86613,6 +88673,15 @@ msgstr "普魯克成色"
 msgid "IDS_PIES330_IMPERO_CEREMONIAL"
 msgstr "下水儀式"
 
+msgid "IDS_PIES401_MARCO_AURELIO_ITALY"
+msgstr "天藍銀灰"
+
+msgid "IDS_PIES402_ELIO_ADRIANO_ITALY"
+msgstr "天藍銀灰"
+
+msgid "IDS_PIES403_ULPIO_TRAIANO_ITALY"
+msgstr "天藍銀灰"
+
 msgid "IDS_PIES410_BLACK_NAPOLI"
 msgstr "特別"
 
@@ -86732,6 +88801,9 @@ msgstr "20 mm Oerlikon（Mk.24炮座）"
 
 msgid "IDS_PIGA122_57MM_OTO_1950"
 msgstr "57 mm/60 Mle 1951"
+
+msgid "IDS_PIGA124_76MM_62_MMI"
+msgstr "76 mm/62 M.M.I."
 
 msgid "IDS_PIGM001_152MM53_F"
 msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
@@ -86867,6 +88939,9 @@ msgstr "406 mm/50 Model 1940（炮塔）\""
 
 msgid "IDS_PIGM121_120MM_50_OTO_MK10"
 msgstr "120 mm/50 OTO Model 1950（Mk.10炮座）"
+
+msgid "IDS_PIGM123_203MM_55_ANSALDO_QUADRUPLE"
+msgstr "203 mm/55 Model 1934（四聯裝炮座）"
 
 msgid "IDS_PIGS003_100MM_50_MOD_OTO"
 msgstr "100 mm/47 Model 1924/27/28（Eugenio Minisini 炮座）"
@@ -87285,6 +89360,12 @@ msgstr "120 mm HE M1950"
 msgid "IDS_PIPA100_120_CS_50_LAZIO"
 msgstr "120 mm CS M1950"
 
+msgid "IDS_PIPA101_203MM_CS_T11"
+msgstr "203 mm proiettili CS 1924 mod.3"
+
+msgid "IDS_PIPA102_203MM_AP_T11"
+msgstr "203 mm proiettili AP 1924 mod.2"
+
 msgid "IDS_PIPA301_305MM_46_1909_AP_SAND"
 msgstr "305 mm proiettili AP 1909 mod.1"
 
@@ -87416,6 +89497,12 @@ msgstr "450 mm F200"
 
 msgid "IDS_PIPT027_533_SI270_S"
 msgstr "533 mm Si 270 S"
+
+msgid "IDS_PIPT028_533MM_T11"
+msgstr "533 mm Si 270 N"
+
+msgid "IDS_PIPT029_533_SI270_IT_CL_9_10"
+msgstr "533 mm Si 270"
 
 msgid "IDS_PISA508"
 msgstr "天鷹"
@@ -87961,6 +90048,21 @@ msgstr "1"
 msgid "IDS_PISC210_YEAR"
 msgstr "1950"
 
+msgid "IDS_PISC211"
+msgstr "利古里亞"
+
+msgid "IDS_PISC211_DESCR"
+msgstr "<p>20 世紀 30 年代，在蘇聯與義大利的海軍合作框架下，安薩爾多公司為蘇聯準備了一系列設計圖紙。這一套提案中包括了兩種排水量分別為 42,000 噸與 28,000 噸的主力艦設計、兩種戰列巡洋艦設計，以及一種裝甲領艦設計。</p><p class=\"p_spacing\"> </p><p>這些由義大利所遞交的一系列設計中，其中之一是一型標準排水量為 22,000 噸的戰列巡洋艦。根據義大利設計師的設想，該艦會配備九門 10 英寸火炮，採用四軸佈局，每軸功率達 60,000 匹馬力，使其能夠到達相對較高的航速。若該設計在義大利進一步細化並建造，那麼她也有可能配備義大利巡洋艦中標準的武器配置——四聯裝 203 毫米炮塔。</p>"
+
+msgid "IDS_PISC211_FULL"
+msgstr "利古里亞"
+
+msgid "IDS_PISC211_NUMBER"
+msgstr "1"
+
+msgid "IDS_PISC211_YEAR"
+msgstr "1935"
+
 msgid "IDS_PISC505"
 msgstr "熱那亞"
 
@@ -88462,6 +90564,9 @@ msgstr "120 mm/50 OTO Model 1950（Mk.10炮座）"
 msgid "IDS_PIUA911_ART_LAZIO"
 msgstr "120 mm/50 OTO Model 1950（Mk.10炮座）"
 
+msgid "IDS_PIUA912_C11_ART_STOCK"
+msgstr "203 mm/55 Model 1934（四聯裝炮座）"
+
 msgid "IDS_PIUB700_TB_AQUILA"
 msgstr "雷賈那 Re.2001"
 
@@ -88644,6 +90749,9 @@ msgstr "推進系統：210,000 匹馬力"
 
 msgid "IDS_PIUE911_C10_ENG_STOCK"
 msgstr "推進系統：150 000 匹馬力"
+
+msgid "IDS_PIUE912_C11_ENG_STOCK"
+msgstr "推進系統：240,000 匹馬力"
 
 msgid "IDS_PIUF700_FC_AQUILA"
 msgstr "Mk8 mod. 1"
@@ -88891,6 +90999,9 @@ msgstr "伽利略"
 msgid "IDS_PIUH911_C10_HULL_STOCK"
 msgstr "烏爾皮烏斯˙圖拉真"
 
+msgid "IDS_PIUH912_C11_HULL_STOCK"
+msgstr "利古里亞"
+
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "雷賈那 Re.2001"
 
@@ -89134,8 +91245,8 @@ msgstr "SDT 11"
 msgid "IDS_PIUS910_C10_SUO_STOCK"
 msgstr "SDT 10"
 
-msgid "IDS_PIUS911_SUO_LAZIO"
-msgstr "SDT 10"
+msgid "IDS_PIUS911_C11_SUO_STOCK"
+msgstr "SDT 11"
 
 msgid "IDS_PIUT100_DD2_TORP_STOCK"
 msgstr "450 mm W 200"
@@ -89252,6 +91363,9 @@ msgid "IDS_PIUT905_DD10_TORP_STOCK"
 msgstr "533 mm Si 270 N2"
 
 msgid "IDS_PIUT906_C10_TORP_STOCK"
+msgstr "533 mm Si 270"
+
+msgid "IDS_PIUT907_C11_TORP_STOCK"
 msgstr "533 mm Si 270"
 
 msgid "IDS_PJAB001_B5N2"
@@ -89743,6 +91857,9 @@ msgstr "騰龍"
 msgid "IDS_PJES202_TAIHO_AMATERASU"
 msgstr "天照大神"
 
+msgid "IDS_PJES300_RAIJU_HOUND"
+msgstr "獵犬"
+
 msgid "IDS_PJES306_HYUGA_GOLDEN"
 msgstr "日式金漆"
 
@@ -90076,6 +92193,12 @@ msgstr "20 mm Oerlikon（Mk.4炮座）"
 msgid "IDS_PJGA227_BROWNING_M2_MOD2"
 msgstr "12.7 mm Browning（單裝槍座）"
 
+msgid "IDS_PJGA244_37MM_67_V11"
+msgstr "37 mm V-11炮座"
+
+msgid "IDS_PJGA246_37MM_46K"
+msgstr "37 mm 46-K炮座"
+
 msgid "IDS_PJGA597_25MM_TYPE96_SINGLE_SPACE"
 msgstr "20 MW SoftSingularity 38"
 
@@ -90361,6 +92484,9 @@ msgstr "152 mm/40 EOC Pattern Z（炮廓式）"
 msgid "IDS_PJGM239_100MM65_TYPE_98"
 msgstr "100 mm/65 Type 98（Model A2炮座）"
 
+msgid "IDS_PJGM243_406MM_52_MK_5_16_QUADRUPLE"
+msgstr "406 mm/52（MK-5-16炮座）"
+
 msgid "IDS_PJGM538_5IN54_MK16"
 msgstr "127 mm/54 Mk.16（Mk.39 炮座）"
 
@@ -90552,6 +92678,12 @@ msgstr "152 mm/40 EOC Pattern Z（炮廓式）"
 
 msgid "IDS_PJGS241_152MM40"
 msgstr "152 mm/40 EOC Pattern Z（單裝炮座）"
+
+msgid "IDS_PJGS245_130MM_60_BL_101_B"
+msgstr "130 mm/60（BL-101炮座）"
+
+msgid "IDS_PJGS247_152MM_50"
+msgstr "152 mm/50 Model 1908（Obukhov Plant炮座）"
 
 msgid "IDS_PJGS508_150MM50_TYPE_41_TGS"
 msgstr "152 mm/50 41st Year Type（炮廓式）"
@@ -91195,10 +93327,10 @@ msgstr "100 mm HE Type98"
 msgid "IDS_PJPA179_100MM_AP_CHIKUGO"
 msgstr "100 mm AP Type98"
 
-msgid "IDS_PJPA180_406MM_HE_LAZAREV_HOUND"
+msgid "IDS_PJPA180_406MM_HE_RAIJU"
 msgstr "406 mm HE Model 1928"
 
-msgid "IDS_PJPA181_406MM_AP_LAZAREV_HOUND"
+msgid "IDS_PJPA181_406MM_AP_RAIJU"
 msgstr "406 mm AP Model 1928"
 
 msgid "IDS_PJPA301_SHELL_305MM_AP_850LBS_SAND"
@@ -92425,6 +94557,21 @@ msgstr "1"
 msgid "IDS_PJSB519_YEAR"
 msgstr "1935"
 
+msgid "IDS_PJSB520"
+msgstr "雷獸"
+
+msgid "IDS_PJSB520_DESCR"
+msgstr "<p>實驗型主力艦<b>雷獸</b>在吳市造船廠以絕密條件建造，是同盟建立新一代通用戰鬥平臺計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦的名稱源自日本民間傳說中與閃電和風暴有關的神話生物。這一形象體現在艦艇的設計概念中：<b>雷獸</b>被設想為一艘突擊型艦艇，能夠以駭人的威力對敵艦進行毀滅打擊，對威脅做出閃電般的反應，憑藉增強的魚雷防護承受潛艇的魚雷攻擊。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
+
+msgid "IDS_PJSB520_FULL"
+msgstr "雷獸"
+
+msgid "IDS_PJSB520_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB520_YEAR"
+msgstr "1956"
+
 msgid "IDS_PJSB526"
 msgstr "伊勢"
 
@@ -92679,19 +94826,19 @@ msgid "IDS_PJSB906_YEAR"
 msgstr "1917"
 
 msgid "IDS_PJSB910"
-msgstr "拉扎列夫Test"
+msgstr "HND雷獸"
 
 msgid "IDS_PJSB910_DESCR"
-msgstr "測試艦艇。"
+msgstr "<p>實驗型戰列艦<b>雷獸</b>在吳市造船廠以絕密條件建造，是同盟建立新一代通用戰鬥平臺計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦的名稱源自日本民間傳說中與閃電和風暴有關的神話生物。這一形象體現在戰艦的設計概念中：<b>雷獸</b>被設想為一艘突擊型戰艦，能夠以駭人的威力對敵艦進行毀滅打擊，對威脅做出閃電般的反應，憑藉增強的魚雷防護承受潛艇的魚雷攻擊。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
 
 msgid "IDS_PJSB910_FULL"
-msgstr "拉扎列夫Test"
+msgstr "HND雷獸"
 
 msgid "IDS_PJSB910_NUMBER"
 msgstr "1"
 
 msgid "IDS_PJSB910_YEAR"
-msgstr "3005"
+msgstr "1956"
 
 msgid "IDS_PJSB916"
 msgstr "伊勢3"
@@ -94691,6 +96838,9 @@ msgstr "100 mm/65 Type 98（Model A / A2炮座）"
 msgid "IDS_PJUA916_ART_LAZAREV_H_EVENT"
 msgstr "406 mm/52（MK-5-16炮座）"
 
+msgid "IDS_PJUA917_ART_RAIJU"
+msgstr "406 mm/52（MK-5-16炮座）"
+
 msgid "IDS_PJUA921_C10_ART_STOCK"
 msgstr "203 mm/50 3rd Year Type No.2（三聯裝炮塔）"
 
@@ -95518,6 +97668,9 @@ msgstr "推進系統：240,000 匹馬力"
 
 msgid "IDS_PJUE922_CV10_ENG_STOCK"
 msgstr "推進系統：240,000 匹馬力"
+
+msgid "IDS_PJUE923_ENG_RAIJU"
+msgstr "推進系統：200,000 匹馬力"
 
 msgid "IDS_PJUE930_D11_ENG_STOCK"
 msgstr "推進系統：79,240 匹馬力"
@@ -96377,7 +98530,10 @@ msgid "IDS_PJUH921_TENGU_1944"
 msgstr "Zaō"
 
 msgid "IDS_PJUH922_HULL_LAZAREV_H_EVENT"
-msgstr "拉扎列夫Test"
+msgstr "雷獸"
+
+msgid "IDS_PJUH923_HULL_RAIJU"
+msgstr "雷獸"
 
 msgid "IDS_PJUH930_D11_HULL_STOCK"
 msgstr "Yamagiri"
@@ -96692,7 +98848,7 @@ msgid "IDS_PJUS332_SUO_CS"
 msgstr "Type4 mod. 1"
 
 msgid "IDS_PJUS332_SUO_TEST"
-msgstr "測試 GFCS"
+msgstr "Test SUO"
 
 msgid "IDS_PJUS341_SUO_ISHIZUCHI"
 msgstr "Type4 mod. 1"
@@ -97121,6 +99277,9 @@ msgid "IDS_PJUS918_SUO_CHIKUGO"
 msgstr "Type10"
 
 msgid "IDS_PJUS919_SUO_LAZAREV_H_EVENT"
+msgstr "Type10"
+
+msgid "IDS_PJUS920_SUO_RAIJU"
 msgstr "Type10"
 
 msgid "IDS_PJUS921_SUO"
@@ -97869,6 +100028,27 @@ msgstr "傳送門已關閉"
 msgid "IDS_PORTAL_CLOSING_COUNTDOWN_PROGRESS"
 msgstr "傳送門關閉於："
 
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_1_F"
+msgstr "同盟的無人艦艇向康拉德的艦隊開火。"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_2_F"
+msgstr "同盟艦艇上的某人建立了通訊，並報出了一個耳熟的姓氏。"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_3_F"
+msgstr "將軍正在向康拉德講述克里格家族的事。「隔離」的走向變得愈發令人恐懼。"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_4_F"
+msgstr "埃爾梅琳達摘下面具，講述了自己的計劃。"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_5_F"
+msgstr "恭喜，您已完成門戶戰役！"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_FINAL"
+msgstr "門戶戰役已結束。"
+
+msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_INTRO"
+msgstr "詹姆斯˙康拉德接到同盟的任務：他將領導獵犬分艦隊。"
+
 msgid "IDS_PORTAL_HARD"
 msgstr "暮光狩獵"
 
@@ -97889,6 +100069,39 @@ msgstr "帶離"
 
 msgid "IDS_PORTAL_SSE_COMMON_TITLE"
 msgstr "海軍霸者"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_1_F"
+msgstr ""
+"守護厄瑞玻斯\n"
+"第 2 章"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_2_F"
+msgstr ""
+"守護厄瑞玻斯\n"
+"第 3 章"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_3_F"
+msgstr ""
+"守護厄瑞玻斯\n"
+"第 4 章"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_4_F"
+msgstr ""
+"守護厄瑞玻斯\n"
+"第 5 章"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_5_F"
+msgstr ""
+"守護厄瑞玻斯\n"
+"終章"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_FINAL"
+msgstr "守護厄瑞玻斯"
+
+msgid "IDS_PORTAL_TITLE_WTEVENT_2510_INTRO"
+msgstr ""
+"守護厄瑞玻斯\n"
+"第 1 章"
 
 msgid "IDS_PORTAL_ULTRAHARD"
 msgstr "暮光狩獵"
@@ -98132,6 +100345,12 @@ msgstr "海參崴"
 
 msgid "IDS_PORT_VLADIVOSTOK_TOOLTIP"
 msgstr "海參崴港"
+
+msgid "IDS_PORT_WAFFENTRAGER"
+msgstr "厄瑞玻斯要塞"
+
+msgid "IDS_PORT_WAFFENTRAGER_TOOLTIP"
+msgstr "厄瑞玻斯要塞港"
 
 msgid "IDS_POSTPROGRESS_REWARD_TOOLTIP_DESCRIPTION"
 msgstr "這個獎勵每天都可以領取一次。"
@@ -98868,6 +101087,9 @@ msgstr "Bagration 親王"
 msgid "IDS_PREP507_SCHORSBD6"
 msgstr "遊戲六週年"
 
+msgid "IDS_PREP518_OGNEVOY_FORMAL"
+msgstr "黑海"
+
 msgid "IDS_PREPARE_BATTLE"
 msgstr "戰鬥將開始於："
 
@@ -99251,6 +101473,9 @@ msgstr "40 mm/56 Bofors（Mk.2炮座）"
 
 msgid "IDS_PRGA238_12_DSHK"
 msgstr "12.7 mm DShk"
+
+msgid "IDS_PRGA250_57MM_81_ZIF_71"
+msgstr "57 mm ZIF-71 炮座"
 
 msgid "IDS_PRGA3002_45MM_SM_20_ZIF"
 msgstr "45 mm（SM-20-ZIF炮座）"
@@ -100113,10 +102338,10 @@ msgid "IDS_PRPA002_SHELL_152MM_HE_HE_109LBS"
 msgstr "152 mm HE 109 lb"
 
 msgid "IDS_PRPA003_130MM_AP_PB_46"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA004_130MM_HE_OF_46"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA005_75MM_HE"
 msgstr "75 mm HE"
@@ -100134,10 +102359,10 @@ msgid "IDS_PRPA009_102MM_AP_1915"
 msgstr "102 mm AP Model 1915"
 
 msgid "IDS_PRPA010_130MM_HE_OF_46_B2U"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA011_130MM_AP_PB_46_B2U"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA012_85MM_HE_O_365_M"
 msgstr "85 mm HE O-365M"
@@ -100152,25 +102377,25 @@ msgid "IDS_PRPA016_130_HE_1911"
 msgstr "130 mm HE Model 1911"
 
 msgid "IDS_PRPA017_130MM_AP_PB_46_ORLAN"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA018_130MM_HE_OF_46_ORLAN"
-msgstr "HE-46US"
+msgstr "OF-46US"
 
 msgid "IDS_PRPA019_130MM_AP_NEPREM"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA020_130MM_HE_NEPREM"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA021_152MM_B35_KUTUZOV"
-msgstr "AP-35"
+msgstr "B-35"
 
 msgid "IDS_PRPA022_152MM_OF35_KUTUZOV"
-msgstr "HE-35"
+msgstr "OF-35"
 
 msgid "IDS_PRPA023_100MM_OF55"
-msgstr "HE-55"
+msgstr "OF-55"
 
 msgid "IDS_PRPA024_152MM_OFU35_KUTUZOV"
 msgstr "OFU-35"
@@ -100185,40 +102410,40 @@ msgid "IDS_PRPA027_120MM_HE_P_1907"
 msgstr "120 mm HE Model 1907"
 
 msgid "IDS_PRPA028_130MM_HE_OF_42"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA029_130MM_HE_OF_54"
-msgstr "HE-54"
+msgstr "OF-54"
 
 msgid "IDS_PRPA030_130_HE_1911_MG"
 msgstr "130 mm HE Model 1911"
 
 msgid "IDS_PRPA031_180_HE_OF_42_S"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA032_180_HE_OF_42_F"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA033_220_HE_OF_23"
-msgstr "HE-23"
+msgstr "OF-23"
 
 msgid "IDS_PRPA034_152MM_OFU35"
 msgstr "OFU-35"
 
 msgid "IDS_PRPA035_152MM_B35"
-msgstr "AP-35"
+msgstr "B-35"
 
 msgid "IDS_PRPA036_220_AP_B_23"
-msgstr "AP-23"
+msgstr "B-23"
 
 msgid "IDS_PRPA037_180_AP_B_32_S"
-msgstr "AP-32"
+msgstr "B-32"
 
 msgid "IDS_PRPA038_180_AP_B_32_F"
-msgstr "AP-32"
+msgstr "B-32"
 
 msgid "IDS_PRPA039_130_AP_P_1928"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA040_130_AP_P_1911"
 msgstr "130 mm AP Model 1911"
@@ -100233,22 +102458,22 @@ msgid "IDS_PRPA043_152_HE_C"
 msgstr "152 mm HE 109 lb"
 
 msgid "IDS_PRPA044_130_HE_KK"
-msgstr "HE-54"
+msgstr "OF-54"
 
 msgid "IDS_PRPA044_130_HE_PROFINTERN"
-msgstr "HE-54"
+msgstr "OF-54"
 
 msgid "IDS_PRPA045_130_AP_KK"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA045_130_AP_PROFINTERN"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA046_180_HE_MOLOTOV"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA047_180_AP_MOLOTOV"
-msgstr "AP-32"
+msgstr "B-32"
 
 msgid "IDS_PRPA048_130_AP_P_1917"
 msgstr "130 mm AP Model 1917"
@@ -100257,10 +102482,10 @@ msgid "IDS_PRPA049_130_HE_P_1917"
 msgstr "130 mm HE Model 1917"
 
 msgid "IDS_PRPA050_AP_LGD"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA051_HE_LGD"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA052_AP_OLEG"
 msgstr "152 mm AP 91 lb"
@@ -100269,19 +102494,19 @@ msgid "IDS_PRPA053_HE_OLEG"
 msgstr "152 mm HE 109 lb"
 
 msgid "IDS_PRPA054_130MM_HE_OHOTNIK"
-msgstr "HE-54"
+msgstr "OF-54"
 
 msgid "IDS_PRPA055_130MM_AP_OHOTNIK"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA056_130MM_HE_OF_42_SM21"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA057_130MM_AP_PB_42_SM21"
-msgstr "SAP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA058_130MM_AP_PB_46_B13_M"
-msgstr "SAP-46A"
+msgstr "PB-46А"
 
 msgid "IDS_PRPA059_130MM_HE_OF_46_B13_M"
 msgstr "HE-46"
@@ -100290,19 +102515,19 @@ msgid "IDS_PRPA060_130MM_HE_OF_46_B2U_M"
 msgstr "HE-46"
 
 msgid "IDS_PRPA061_130MM_AP_PB_46_B2U_M"
-msgstr "SAP-46A"
+msgstr "PB-46А"
 
 msgid "IDS_PRPA062_130MM_HE_OF54_OLD_GUNS"
-msgstr "HE-54"
+msgstr "OF-54"
 
 msgid "IDS_PRPA063_130MM_AP_PB46_OLD_GUNS"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA064_130MM_HE_KHABAROVSK"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA065_130MM_AP_KHABAROVSK"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA066_88MM_HE_SPR_GR"
 msgstr "88 mm Spr.Gr."
@@ -100368,16 +102593,16 @@ msgid "IDS_PRPA088_305MM_HE_STALINGRAD"
 msgstr "305 mm HE Model 1928"
 
 msgid "IDS_PRPA089_152MM_AP_LAZO"
-msgstr "AP-35"
+msgstr "B-35"
 
 msgid "IDS_PRPA090_152MM_HE_LAZO"
 msgstr "OFU-35"
 
 msgid "IDS_PRPA091_130MM_HE_NEUSTR"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA092_130MM_AP_NEUSTR"
-msgstr "SAP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA093_406MM_HE_LENIN"
 msgstr "406 mm HE Model 1914 bis"
@@ -100389,10 +102614,10 @@ msgid "IDS_PRPA095_152MM_OFU35_SG"
 msgstr "OFU-35"
 
 msgid "IDS_PRPA096_406MM_HE_B37"
-msgstr "406 mm HE B-37"
+msgstr "406 mm OF B-37"
 
 msgid "IDS_PRPA097_406MM_AP_B37"
-msgstr "406 mm AP B-37"
+msgstr "406 mm BB B-37"
 
 msgid "IDS_PRPA098_406MM_AP_MOD1914BIS"
 msgstr "406 mm AP Model 1928"
@@ -100401,13 +102626,13 @@ msgid "IDS_PRPA099_406MM_HE_MOD1914BIS"
 msgstr "406 mm HE Model 1928"
 
 msgid "IDS_PRPA100_130MM_HE_OF_46_B2U_SG"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA101_130MM_HE_SMOLENSK"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA102_130MM_AP_SMOLENSK"
-msgstr "SAP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA103_356MM_HE_1938_POLTAVA"
 msgstr "356 mm HE Model 1938"
@@ -100422,7 +102647,7 @@ msgid "IDS_PRPA106_406MM_AP_BORODINO"
 msgstr "406 mm AP Model 1937"
 
 msgid "IDS_PRPA107_180MM_HE_BORODINO"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA108_220MM_HE_B43"
 msgstr "220 mm HE Model 1943"
@@ -100431,40 +102656,40 @@ msgid "IDS_PRPA109_220MM_AP_B43"
 msgstr "220 mm AP Model 1943"
 
 msgid "IDS_PRPA110_152MM_HE_MK2"
-msgstr "152 mm HE B-30 Model 1931"
+msgstr "152 mm OF B-30 Model 1931"
 
 msgid "IDS_PRPA111_152MM_AP_MK2"
-msgstr "152 mm AP B-30 Model 1931"
+msgstr "152 mm BB B-30 Model 1931"
 
 msgid "IDS_PRPA112_180MM_HE_CM_48"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA113_180MM_AP_CM_48"
-msgstr "AP-32"
+msgstr "BB-32"
 
 msgid "IDS_PRPA114_152MM_OFU35_OCHAKOV"
 msgstr "OFU-35"
 
 msgid "IDS_PRPA115_152MM_B35_OCHAKOV"
-msgstr "AP-35"
+msgstr "B-35"
 
 msgid "IDS_PRPA116_180_HE_OF_42_S_MIKOYAN"
-msgstr "HE-33"
+msgstr "OF-33"
 
 msgid "IDS_PRPA117_180_AP_B_32_S_MIKOYAN"
-msgstr "AP-33"
+msgstr "B-33"
 
 msgid "IDS_PRPA118_180_HE_BAGRATION"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA119_180_AP_BAGRATION"
-msgstr "AP-32"
+msgstr "B-32"
 
 msgid "IDS_PRPA120_180_HE_KIROV"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA121_180_AP_KIROV"
-msgstr "AP-32"
+msgstr "B-32"
 
 msgid "IDS_PRPA122_220MM_HE_B44"
 msgstr "220 mm HE Model 1944"
@@ -100473,10 +102698,10 @@ msgid "IDS_PRPA123_220MM_AP_B44"
 msgstr "220 mm AP Model 1944"
 
 msgid "IDS_PRPA124_180_AP_B_33_F"
-msgstr "AP-33"
+msgstr "B-33"
 
 msgid "IDS_PRPA125_180_HE_OF_43_F"
-msgstr "HE-33"
+msgstr "OF-33"
 
 msgid "IDS_PRPA126_406MM_HE_KIM"
 msgstr "406 mm HE Model 1937"
@@ -100491,13 +102716,13 @@ msgid "IDS_PRPA129_406MM_HE_V_I_LENIN"
 msgstr "406 mm HE Model 1914 bis"
 
 msgid "IDS_PRPA130_180_HE_P_BAGRATION"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA131_180_AP_P_BAGRATION"
-msgstr "AP-32"
+msgstr "B-32"
 
 msgid "IDS_PRPA132_130MM_HE_OF_42_SM21"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA133_102MM_HE_B_2"
 msgstr "102 mm HE Model 1915"
@@ -100506,7 +102731,7 @@ msgid "IDS_PRPA134_130MM_HE_1911"
 msgstr "130 mm HE Model 1911"
 
 msgid "IDS_PRPA135_130MM_HE_B_13"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA136_320MM_HE_NOVOROS"
 msgstr "320 mm HE Model 1934"
@@ -100518,10 +102743,10 @@ msgid "IDS_PRPA138_120MM_HE_ANSALDO1926"
 msgstr "120 mm HE"
 
 msgid "IDS_PRPA139_130MM_HE_OF_42_SM21_T11"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA140_130MM_AP_PB_42_SM21_T11"
-msgstr "SAP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA141_380MM_HE_SEVASTOPOL"
 msgstr "380 mm HE Model 1939"
@@ -100536,10 +102761,10 @@ msgid "IDS_PRPA144_457MM_AP_USHAKOV"
 msgstr "457 mm AP Model 1946"
 
 msgid "IDS_PRPA145_130MM_HE_OF46_TASH39"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA146_130MM_AP_PB46_TASH39"
-msgstr "SAP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA147_152MM_OFU35_SG"
 msgstr "152 mm OFU-35"
@@ -100569,22 +102794,22 @@ msgid "IDS_PRPA155_305MM_AP_FRUNZE"
 msgstr "305 mm AP Model 1930"
 
 msgid "IDS_PRPA156_180MM_HE_Y_DOLGORUKIY"
-msgstr "HE-32"
+msgstr "OF-32"
 
 msgid "IDS_PRPA157_180MM_AP_Y_DOLGORUKIY"
-msgstr "AP-32"
+msgstr "BB-32"
 
 msgid "IDS_PRPA158_130MM_58_HE"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA159_130MM_58_AP"
-msgstr "AP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA160_100MM_HE_SOVREMENNY"
-msgstr "HE-52"
+msgstr "OF-52"
 
 msgid "IDS_PRPA161_100MM_AP_SOVREMENNY"
-msgstr "AP-52"
+msgstr "BB-52"
 
 msgid "IDS_PRPA188_305MM_AP_STALINGRAD_2"
 msgstr "305 mm AP Model 1928"
@@ -100593,22 +102818,22 @@ msgid "IDS_PRPA189_152MM_OFU35"
 msgstr "OFU-35M"
 
 msgid "IDS_PRPA190_130MM_AP_PB_42_R10"
-msgstr "SAP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA191_130MM_HE_OF_42_R10"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA192_130MM_HE_BL132_SG"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA193_130MM_HE_OF_42"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA194_130MM_AP_PB_42"
-msgstr "SAP-42"
+msgstr "PB-42"
 
 msgid "IDS_PRPA195_130MM_HE_CM_62"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA196_457MM_HE_KR_ZNAMYA"
 msgstr "457 mm HE Model. 1946"
@@ -100641,7 +102866,7 @@ msgid "IDS_PRPA206_240MM_AP_KOMISSAR"
 msgstr "240 mm AP Model 1944"
 
 msgid "IDS_PRPA207_130MM_HE_NAVARIN_ATBA"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA208_406MM_HE_SEVEROMORSK"
 msgstr "406 mm HE Model 1928"
@@ -100688,6 +102913,12 @@ msgstr "240 mm SAP Model. 1944"
 msgid "IDS_PRPA222_240MM_AP_SVERDLOVSK"
 msgstr "240 mm AP Model. 1944"
 
+msgid "IDS_PRPA223_130MM_HE_OGNENNY"
+msgstr "OF-46"
+
+msgid "IDS_PRPA224_130MM_AP_OGNENNY"
+msgstr "PB-46"
+
 msgid "IDS_PRPA227_152MM_BORODINO"
 msgstr "152 mm SAP Model 1892"
 
@@ -100722,10 +102953,10 @@ msgid "IDS_PRPA238_305MM_AP_P_KOMMUNA"
 msgstr "305 mm AP Model 1911"
 
 msgid "IDS_PRPA239_130MM_HE_OGNEVOY"
-msgstr "HE-46"
+msgstr "OF-46"
 
 msgid "IDS_PRPA240_130MM_AP_OGNEVOY"
-msgstr "AP-46"
+msgstr "PB-46"
 
 msgid "IDS_PRPA241_152MM_OFU35_SG_T8_11"
 msgstr "OFU-35"
@@ -100806,7 +103037,7 @@ msgid "IDS_PRPA901_220MM_AP_PETROZ"
 msgstr "220 mm AP Model 1944"
 
 msgid "IDS_PRPA910_130MM_HE_SG_KREMLIN"
-msgstr "HE-42"
+msgstr "OF-42"
 
 msgid "IDS_PRPA911_457MM_KREMLIN"
 msgstr "457 mm AP Model. 1946"
@@ -101203,6 +103434,9 @@ msgstr "53-39 mod. 3"
 
 msgid "IDS_PRPT090_BOYKIY_TOP"
 msgstr "Torpedo Model 1895 mod. 2"
+
+msgid "IDS_PRPT091_OGNENNY"
+msgstr "53-39 mod.1"
 
 msgid "IDS_PRPT916_DESTROYER_CHALLENGE"
 msgstr "533 mm Mk VII"
@@ -103205,6 +105439,21 @@ msgstr "1"
 msgid "IDS_PRSD517_YEAR"
 msgstr "1939"
 
+msgid "IDS_PRSD519"
+msgstr "熾熱"
+
+msgid "IDS_PRSD519_DESCR"
+msgstr "<p>1955 至 1956 年間，蘇聯批准了將 30bis 型驅逐艦改造為無線電技術偵察驅逐艦的設計方案。該級艦艇的任務是為艦隊執行無線電和雷達偵察任務、並對敵方進行電子干擾。改造方案包括了安裝帶有雷達制導的 ZIF-71 防空炮、兩座 RBU-2500 反潛火箭，以及配套的電子偵察和雷達裝置。1958 至 1960 年間，共有八艘 30bis 型驅逐艦完成了這樣的現代化改造。</p><p class=\"p_spacing\"> </p><p><b>熾熱</b>最初作為一艘 30bis 型驅逐艦在莫洛托夫斯克第 402 號造船廠建造，1950 年到 1963 年服役於北方艦隊。在 1958 至 1960 年間，她按照專案 31 的設計完成了現代化改造，成為一艘無線電技術偵察艦。1963 到 1964 年，她被調往了黑海艦隊，並在 1968 年起編入了波羅的海艦隊。1971 年，<b>熾熱</b>還執行了支援埃及海軍的戰鬥任務。</p>"
+
+msgid "IDS_PRSD519_FULL"
+msgstr "熾熱"
+
+msgid "IDS_PRSD519_NUMBER"
+msgstr "8"
+
+msgid "IDS_PRSD519_YEAR"
+msgstr "1950"
+
 msgid "IDS_PRSD709"
 msgstr "不懼"
 
@@ -103715,6 +105964,9 @@ msgstr "100 mm/70（SM-51炮座）"
 msgid "IDS_PRUA825_ART_S_GRUZIA"
 msgstr "457 mm/48 Mk.1（炮塔）"
 
+msgid "IDS_PRUA826_ART_OGNENNY"
+msgstr "130 mm/50 Model 1936（B-2LM炮座）"
+
 msgid "IDS_PRUA830_BB8_ART_BORODINO"
 msgstr "406 mm/50 B-37（MK-1 炮座）"
 
@@ -104179,6 +106431,9 @@ msgstr "推進系統：90,000 匹馬力"
 
 msgid "IDS_PRUE822_ENG_S_GRUZIA"
 msgstr "推進系統：230,000 匹馬力"
+
+msgid "IDS_PRUE823_ENG_OGNENNY"
+msgstr "推進系統：60,700 匹馬力"
 
 msgid "IDS_PRUE830_BB8_ENG_BORODINO"
 msgstr "推進系統：210,000 匹馬力"
@@ -104777,6 +107032,9 @@ msgstr "Borodino"
 msgid "IDS_PRUH831_HULL_S_GRUZIA"
 msgstr "喬治亞"
 
+msgid "IDS_PRUH832_HULL_OGNENNY"
+msgstr "熾熱"
+
 msgid "IDS_PRUH900_C10_HULL_STOCK"
 msgstr "Petrozavodsk"
 
@@ -105365,6 +107623,9 @@ msgstr "GFCS IX"
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
 msgstr "GFCS VIII mod. 1"
 
+msgid "IDS_PRUS831_SUO_OGNENNY"
+msgstr "GFCS IX"
+
 msgid "IDS_PRUS900_C10_SUO_STOCK"
 msgstr "GFCS X mod. 1"
 
@@ -105703,6 +107964,9 @@ msgstr "53-51"
 
 msgid "IDS_PRUT815_D9_TORP_STOCK"
 msgstr "53-51"
+
+msgid "IDS_PRUT816_TORP_OGNENNY"
+msgstr "53-30"
 
 msgid "IDS_PRUT900_TORP_VLADIMIR_MONOMAKH"
 msgstr "53-51"
@@ -108235,6 +110499,9 @@ msgstr "冬季"
 msgid "IDS_PWES300_BD9_KARL_IOHAN"
 msgstr "紅色黎明"
 
+msgid "IDS_PWES400_TORDENSKJOLD_HOUND"
+msgstr "獵犬"
+
 msgid "IDS_PWES500_HALLAND_NY23"
 msgstr "銀白漩渦"
 
@@ -108376,6 +110643,12 @@ msgstr "37 mm 70-K炮座"
 msgid "IDS_PWGA113_37MM_67_V11"
 msgstr "37 mm V-11炮座"
 
+msgid "IDS_PWGA117_65MM_64_ANSALDO_DUAL"
+msgstr "65 mm/64 Model 1939（雙聯裝炮座）"
+
+msgid "IDS_PWGA119_37MM_BREDA_BARRELS_4"
+msgstr "37 mm/54 Breda Model 1939（四聯裝炮座）"
+
 msgid "IDS_PWGM003_120MM_BOFORS_WZ34_36_TWIN"
 msgstr "120 mm/50 wz.36 Bofors（護盾式炮座）"
 
@@ -108463,6 +110736,9 @@ msgstr "120 mm/45 Mk.IX（CPXIX炮座）"
 msgid "IDS_PWGM110_100MM_B_34_MK_XIX"
 msgstr "100 mm/56 Model. 1940（Mk.XIX炮座）"
 
+msgid "IDS_PWGM116_203MM55_BARRELS_3"
+msgstr "203 mm/55 Model 1934（炮塔）"
+
 msgid "IDS_PWGS007_150_50_K10_SKODA"
 msgstr "150 mm/50 Skoda K10（炮廓式）"
 
@@ -108474,6 +110750,9 @@ msgstr "150 mm/45 SK C/09（炮廓式）"
 
 msgid "IDS_PWGS103_120_50_BOFORS_M42_SW"
 msgstr "120 mm/50 Model 1942（炮塔）"
+
+msgid "IDS_PWGS118_90MM50_BARRELS_2_M1939"
+msgstr "90 mm/50 Model 1939（雙聯裝炮座）"
 
 msgid "IDS_PWGT005_21IN_MKX_TORPEDO_TUBE"
 msgstr "533 mm potrójna"
@@ -108697,10 +110976,10 @@ msgstr "HE-56"
 msgid "IDS_PWPA054_100MM_AP_BLYSKAWICA_1963"
 msgstr "AP-56"
 
-msgid "IDS_PWPA055_203MM_55_HE_VENEZIA_HOUND"
+msgid "IDS_PWPA055_203MM_55_HE_TORDENSKJOLD"
 msgstr "203 mm proiettili HE 1924"
 
-msgid "IDS_PWPA056_203MM_55_AP_VENEZIA_HOUND"
+msgid "IDS_PWPA056_203MM_55_AP_TORDENSKJOLD"
 msgstr "203 mm proiettili AP 1924 mod.2"
 
 msgid "IDS_PWPA8001_120_HE_1916"
@@ -108790,7 +111069,7 @@ msgstr "Torped M1947 mod 2"
 msgid "IDS_PWPT027_TORPED_M1927_MOD1_ALT_T11"
 msgstr "Torped M1927 mod 1"
 
-msgid "IDS_PWPT028_VENEZIA_HOUND"
+msgid "IDS_PWPT028_TORDENSKJOLD"
 msgstr "Torped M1947 mod 1"
 
 msgid "IDS_PWPT8001_550_MARK_100_1915"
@@ -108859,20 +111138,35 @@ msgstr "2"
 msgid "IDS_PWSC506_YEAR"
 msgstr "1936"
 
+msgid "IDS_PWSC510"
+msgstr "託登肖爾"
+
+msgid "IDS_PWSC510_DESCR"
+msgstr "<p>實驗型重巡洋艦<b>託登肖爾</b>的艦名來源於著名的丹麥-挪威海軍中將彼得˙韋塞爾˙<b>託登肖爾</b>，是同盟加強在極地/亞極地地區海上存在計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦結合了重巡洋艦的火力、用於快速撤退的閃電般航速以及增強的冰區防護船體，使其能夠在最惡劣的氣候條件下行動——從巴倫支海到地球南端。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
+
+msgid "IDS_PWSC510_FULL"
+msgstr "託登肖爾"
+
+msgid "IDS_PWSC510_NUMBER"
+msgstr "2"
+
+msgid "IDS_PWSC510_YEAR"
+msgstr "1953"
+
 msgid "IDS_PWSC910"
-msgstr "威尼斯Test"
+msgstr "HND託登肖爾"
 
 msgid "IDS_PWSC910_DESCR"
-msgstr "測試艦艇。"
+msgstr "<p>實驗型重巡洋艦<b>託登肖爾</b>的艦名來源於著名的丹麥-挪威海軍中將彼得˙韋塞爾˙<b>託登肖爾</b>，是同盟加強在極地/亞極地地區海上存在計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦結合了重巡洋艦的火力、用於快速撤退的閃電般航速以及增強的冰區防護船體，使其能夠在最惡劣的氣候條件下行動——從巴倫支海到地球南端。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
 
 msgid "IDS_PWSC910_FULL"
-msgstr "威尼斯Test"
+msgstr "HND託登肖爾"
 
 msgid "IDS_PWSC910_NUMBER"
 msgstr "1"
 
 msgid "IDS_PWSC910_YEAR"
-msgstr "3005"
+msgstr "1953"
 
 msgid "IDS_PWSD102"
 msgstr "塔特拉"
@@ -109393,6 +111687,9 @@ msgstr "139 mm/50 Mle 1934/1929（Mle 1935/1929 炮座）"
 msgid "IDS_PWUA907_ART_VENEZIA_H_EVENT"
 msgstr "203 mm/55 Model 1934（炮塔）"
 
+msgid "IDS_PWUA908_ART_TORDENSKJOLD"
+msgstr "203 mm/55 Model 1934（炮塔）"
+
 msgid "IDS_PWUA941_DD11_ART_STOCK"
 msgstr "120 mm/50 Model 1950（炮塔）"
 
@@ -109491,6 +111788,9 @@ msgstr "推進系統：92,000 匹馬力"
 
 msgid "IDS_PWUE907_ENG_VENEZIA_H_EVENT"
 msgstr "推進系統：240 000 匹馬力"
+
+msgid "IDS_PWUE908_ENG_TORDENSKJOLD"
+msgstr "推進系統：240,000 匹馬力"
 
 msgid "IDS_PWUE941_DD11_ENG_STOCK"
 msgstr "推進系統：63,400 匹馬力"
@@ -109628,7 +111928,10 @@ msgid "IDS_PWUH906_D10_HULL_STOCK"
 msgstr "Gdańsk"
 
 msgid "IDS_PWUH907_HULL_VENEZIA_H_EVENT"
-msgstr "威尼斯Test"
+msgstr "託登肖爾"
+
+msgid "IDS_PWUH908_HULL_TORDENSKJOLD"
+msgstr "託登肖爾"
 
 msgid "IDS_PWUH941_DD11_HULL_STOCK"
 msgstr "Dalarna"
@@ -109766,7 +112069,10 @@ msgid "IDS_PWUS907_D10_SUO_STOCK"
 msgstr "SUO Mk 10 Mod. 1"
 
 msgid "IDS_PWUS908_SUO_VENEZIA_H_EVENT"
-msgstr "GFCS Mk 10"
+msgstr "SUO Mk 10"
+
+msgid "IDS_PWUS909_SUO_TORDENSKJOLD"
+msgstr "SUO Mk 10"
 
 msgid "IDS_PWUS941_DD11_SUO_STOCK"
 msgstr "SUO Mk 11 Mod. 1"
@@ -109870,6 +112176,9 @@ msgstr "Torped M1947 mod 1"
 msgid "IDS_PWUT905_TORP_VENEZIA_H_EVENT"
 msgstr "533 mm Si 270 N"
 
+msgid "IDS_PWUT906_TORP_TORDENSKJOLD"
+msgstr "533 mm Si 270 N"
+
 msgid "IDS_PWUT941_DD11_TORP_STOCK"
 msgstr "Torped M1947 mod 1"
 
@@ -109935,6 +112244,15 @@ msgstr "Varg"
 
 msgid "IDS_PXES330_YAMATO_HW19"
 msgstr "Scorpioid"
+
+msgid "IDS_PXES400_WAFFLE_SIGNALTRAGER"
+msgstr "馮˙克里格遺產"
+
+msgid "IDS_PXES401_WAFFLE_FLAMMENREITER"
+msgstr "馮˙克里格遺產"
+
+msgid "IDS_PXES402_WAFFLE_GEISTERJAGER"
+msgstr "馮˙克里格遺產"
 
 msgid "IDS_PXES408_CHARLES_MARTEL_H2017"
 msgstr "Scarab"
@@ -110253,6 +112571,9 @@ msgstr " "
 
 msgid "IDS_PXGM058_TESLA_MAIN_GUN_2"
 msgstr " "
+
+msgid "IDS_PXGM118_305MM_61_SM31_WAFFEN"
+msgstr "305 mm/61 SM-33（SM-31炮座）"
 
 msgid "IDS_PXGM129_BERSERK_HEAD"
 msgstr "唾酸巨口"
@@ -110847,6 +113168,9 @@ msgstr "SCR-HW19"
 
 msgid "IDS_PXPA091_YAMATO_H2019_AP"
 msgstr "SCR-II"
+
+msgid "IDS_PXPA092_130MM_HE_SG_DICTATOR"
+msgstr "HE-42"
 
 msgid "IDS_PXPA101_MG_AP_HINDENBURG_H2020"
 msgstr "主炮"
@@ -111644,6 +113968,51 @@ msgstr "1"
 
 msgid "IDS_PXSC016_YEAR"
 msgstr "2020"
+
+msgid "IDS_PXSC017"
+msgstr "烈焰騎士"
+
+msgid "IDS_PXSC017_DESCR"
+msgstr "<p>由埃爾梅琳達˙榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計，基於同盟艦隊重巡洋艦的船體和技術成果。</p><p class=\"p_spacing\"> </p><p>此專案反映了她將武器威力、技術精巧與激進的近戰戰術相結合的追求。此艦艇的主要戰鬥特性是能夠在區域內的敵方艦艇上造成火災和進水。</p><p class=\"p_spacing\"> </p><p>此外，此艦艇憑藉內建的量子模組能夠進行瞬間移動，實現短距離躍遷並進行迅猛打擊。</p>"
+
+msgid "IDS_PXSC017_FULL"
+msgstr "烈焰騎士"
+
+msgid "IDS_PXSC017_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC017_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC018"
+msgstr "幽靈獵兵"
+
+msgid "IDS_PXSC018_DESCR"
+msgstr "<p>由埃爾梅琳達˙榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計，基於同盟艦隊重巡洋艦的船體和技術成果。</p><p class=\"p_spacing\"> </p><p>該艦的主要特點是擁有良好的隱蔽性，能夠從敵人視野中消失。此巡洋艦還配備能量護盾，其能夠在一段時間內抵消大多數攻擊並將傷害最小化。</p><p class=\"p_spacing\"> </p><p>結合瞬間傳送至目標位置的能力，這些特點讓此艦艇能夠以極高的精度進行強力打擊，成為了一位難以捉摸的危險殺手。</p>"
+
+msgid "IDS_PXSC018_FULL"
+msgstr "幽靈獵兵"
+
+msgid "IDS_PXSC018_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC018_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC019"
+msgstr "訊號母艦"
+
+msgid "IDS_PXSC019_DESCR"
+msgstr "<p>由埃爾梅琳達˙榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計。</p><p class=\"p_spacing\"> </p><p>埃爾梅琳達在重巡洋艦的艦體上集成了一套獨特的系統，可在戰場上召喚無人艦來保護主艦。該系統還能將召喚的無人艦傳送至敵人身邊，透過這樣的奇襲將火力分佈到整個戰區。</p><p class=\"p_spacing\"> </p><p>這一切使得<b>訊號母艦</b>在正確的戰術運用下幾乎無懈可擊。</p>"
+
+msgid "IDS_PXSC019_FULL"
+msgstr "訊號母艦"
+
+msgid "IDS_PXSC019_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC019_YEAR"
+msgstr "1959"
 
 msgid "IDS_PXSC101"
 msgstr "女武神"
@@ -112514,6 +114883,15 @@ msgstr "130 mm/Rain"
 msgid "IDS_PXUA907_KHABAROVSK_H19_ART"
 msgstr "130 mm/Rain"
 
+msgid "IDS_PXUA908_ART_DICTATOR"
+msgstr "305 mm/61 SM-33（SM-31炮座）"
+
+msgid "IDS_PXUA909_ART_PREDATOR"
+msgstr "305 mm/61 SM-33（SM-31炮座）"
+
+msgid "IDS_PXUA910_ART_BOTOMANCER"
+msgstr "305 mm/61 SM-33（SM-31炮座）"
+
 msgid "IDS_PXUA911_ALLDESTROYER_STOCK"
 msgstr "406 MW/52 Entropia"
 
@@ -112730,8 +115108,17 @@ msgstr "推進系統：220,000 匹馬力"
 msgid "IDS_PXUE923_YAMATO_H19_ENG"
 msgstr "推進系統：150,000 匹馬力"
 
+msgid "IDS_PXUE924_ENG_DICTATOR"
+msgstr "推進系統：280,000 匹馬力"
+
 msgid "IDS_PXUE925_NORMA_ENG"
 msgstr "PowerCube"
+
+msgid "IDS_PXUE926_ENG_PREDATOR"
+msgstr "推進系統：280,000 匹馬力"
+
+msgid "IDS_PXUE927_ENG_BOTOMANCER"
+msgstr "推進系統：280,000 匹馬力"
 
 msgid "IDS_PXUE931_ALLDESTROYER_ENG"
 msgstr "PowerCube"
@@ -113086,8 +115473,17 @@ msgstr "République (A)"
 msgid "IDS_PXUH923_YAMATO_H19_HULL"
 msgstr "Yamato (A)"
 
+msgid "IDS_PXUH924_HULL_DICTATOR"
+msgstr "烈焰騎士"
+
 msgid "IDS_PXUH925_NORMA"
 msgstr "NORMA"
+
+msgid "IDS_PXUH926_HULL_PREDATOR"
+msgstr "幽靈獵兵"
+
+msgid "IDS_PXUH927_HULL_BOTOMANCER"
+msgstr "訊號母艦"
 
 msgid "IDS_PXUH931_ALLDESTROYER"
 msgstr "ALLDESTROYER"
@@ -113882,6 +116278,15 @@ msgstr "Athena I"
 
 msgid "IDS_PXUS926_KHABAROVSK_H19_SUO"
 msgstr "Eye"
+
+msgid "IDS_PXUS927_SUO_DICTATOR"
+msgstr "GFCS X"
+
+msgid "IDS_PXUS928_SUO_PREDATOR"
+msgstr "GFCS X"
+
+msgid "IDS_PXUS929_SUO_BOTOMANCER"
+msgstr "GFCS X"
 
 msgid "IDS_PXUS931_PARIS_SUO"
 msgstr "Atlas I"
@@ -114894,6 +117299,12 @@ msgstr "305 mm AP Model 1928"
 msgid "IDS_PZPA096_130MM_HE_OF_46_B2U_SG"
 msgstr "HE-46"
 
+msgid "IDS_PZPA097_127MM_HE_TUNTOU"
+msgstr "127 mm HE Mk32"
+
+msgid "IDS_PZPA098_127MM_AP_TUNTOU"
+msgstr "127 mm AP/SC Mk38"
+
 msgid "IDS_PZPA312_152MM_DUCK_AP_BIG"
 msgstr "穿甲泡泡"
 
@@ -115055,6 +117466,9 @@ msgstr "53-51"
 
 msgid "IDS_PZPT058_DOU_JIAN"
 msgstr "533 mm Mk IXM"
+
+msgid "IDS_PZPT059_TUNTOU"
+msgstr "Mark 17"
 
 msgid "IDS_PZPT518_XIAN_DENG_STOCK"
 msgstr "LT F5b"
@@ -115758,6 +118172,21 @@ msgstr "24"
 msgid "IDS_PZSD598_YEAR"
 msgstr "1940"
 
+msgid "IDS_PZSD610"
+msgstr "屯頭"
+
+msgid "IDS_PZSD610_DESCR"
+msgstr "測試艦艇。"
+
+msgid "IDS_PZSD610_FULL"
+msgstr "屯頭"
+
+msgid "IDS_PZSD610_NUMBER"
+msgstr "1"
+
+msgid "IDS_PZSD610_YEAR"
+msgstr "1945"
+
 msgid "IDS_PZSD718"
 msgstr "衝撞跳跳"
 
@@ -115926,6 +118355,9 @@ msgstr "130 mm/58 Model 1957（SM-62炮座）"
 msgid "IDS_PZUA906_B10_ART_STOCK"
 msgstr "305 mm/62 Model 1948（SM-42炮座）"
 
+msgid "IDS_PZUA907_ART_TUNTOU"
+msgstr "127 mm/38 Mk.12（Mk.38炮座）"
+
 msgid "IDS_PZUB701_TB_SANZANG"
 msgstr "道格拉斯 BTD 毀滅者"
 
@@ -116081,6 +118513,9 @@ msgstr "推進系統：111,000 匹馬力"
 
 msgid "IDS_PZUE906_B10_ENG_STOCK"
 msgstr "推進系統：201,000 匹馬力"
+
+msgid "IDS_PZUE907_ENG_TUNTOU"
+msgstr "推進系統：60,000 匹馬力"
 
 msgid "IDS_PZUF701_FC_SANZANG"
 msgstr "Mk8 mod. 1"
@@ -116271,6 +118706,9 @@ msgstr "西安"
 msgid "IDS_PZUH906_B10_HULL_STOCK"
 msgstr "天宮"
 
+msgid "IDS_PZUH907_HULL_TUNTOU"
+msgstr "屯頭"
+
 msgid "IDS_PZUI701_F_SANZANG"
 msgstr "格魯曼 F8F 熊貓"
 
@@ -116454,6 +118892,9 @@ msgstr "SUO XI"
 msgid "IDS_PZUS906_B10_SUO_STOCK"
 msgstr "SUO X"
 
+msgid "IDS_PZUS907_SUO_TUNTOU"
+msgstr "Mk10 mod. 1"
+
 msgid "IDS_PZUT101_D2_TORP_STOCK"
 msgstr "G/6 D"
 
@@ -116591,6 +119032,9 @@ msgstr "53-51"
 
 msgid "IDS_PZUT905_C11_TORP_STOCK"
 msgstr "53-51"
+
+msgid "IDS_PZUT906_TORP_TUNTOU"
+msgstr "Mark 17"
 
 msgid "IDS_QUALIFICATION_STAR_EARNED"
 msgstr "晉級賽：已獲得星星"
@@ -116793,6 +119237,12 @@ msgstr "<p>使用副炮砲彈命中敵艦，每 8 次命中推進一次完成進
 msgid "IDS_RAGE_MODE_DESCRIPTION_ATBA_HITS_OVERRIDE_FOR_WEB"
 msgstr "<p>使用副炮砲彈命中敵艦，每 8 次命中推進一次完成進度。</p><p class=\"p_spacing\"> </p><p>若您不活躍，即一段時間內取得的命中不足 8 次，進度將開始倒退。進度達到 100% 後，則不會倒退。</p>"
 
+msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER"
+msgstr "<p>摧毀敵艦，每次摧毀推進一次完成進度。</p><p class=\"p_spacing\"> </p><p>進度不會倒退。當您的進度達到 100% 時，戰鬥指令將自動啟用。</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER_AUTO"
+msgstr "每摧毀一艘獵犬艦艇，您都將獲得 1 個「訊號」類型消耗品的裝載數。您最多同時召喚 5 艘無人艦。"
+
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEADER"
 msgstr "啟用條件"
 
@@ -116834,6 +119284,12 @@ msgstr "持續承受潛在傷害，以推進完成進度。若您不活躍，即
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_POTENTIAL_DAMAGE_OVERRIDE_FOR_WEB"
 msgstr "<p>持續承受潛在傷害，以推進完成進度。</p><p class=\"p_spacing\"> </p><p>若您不活躍，即一段時間內未能承受足量潛在傷害，進度將開始倒退。進度達到 100% 後，則不會倒退。</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_PREDATOR"
+msgstr "<p>在戰鬥指令啟用期間充能，之後對所有敵艦造成相當於其基本血量 70% 的傷害。</p><p class=\"p_spacing\"> </p><p>透過摧毀敵艦來達成啟用條件。</p><p class=\"p_spacing\"> </p><p>要啟用戰鬥指令，請按 [CMD_ACTIVATE_RAGE_MODE]。</p>"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_SHIP_FRAG"
+msgstr "<p>摧毀敵艦，每次摧毀推進一次完成進度。</p><p class=\"p_spacing\"> </p><p>進度不會倒退。要啟用戰鬥指令，請按 [CMD_ACTIVATE_RAGE_MODE]。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_STAY_INVISIBLE"
 msgstr "<p>保持隱蔽，每過一段時間間隔推進一次完成進度。</p><p class=\"p_spacing\"> </p><p>若您不活躍，即一段時間內未能保持隱蔽，進度將開始倒退。進度達到 100% 後，則不會倒退。要啟用戰鬥指令，請按 [CMD_ACTIVATE_RAGE_MODE]。</p>"
@@ -118545,10 +121001,10 @@ msgid "IDS_REWARD_EVENTUM_1_TITLE"
 msgstr "海軍代幣"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
-msgstr "夏季代幣"
+msgstr "能量單元"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "法國代幣"
+msgstr "義大利代幣"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "大明航海代幣"
@@ -123741,7 +126197,7 @@ msgid "IDS_REWARD_REASON"
 msgstr "獎勵"
 
 msgid "IDS_REWARD_RECRUITMENT_POINTS_TITLE"
-msgstr "社群代幣"
+msgstr "領航代幣"
 
 msgid "IDS_REWARD_SALTPETER_TITLE"
 msgstr "網站籌碼"
@@ -124078,6 +126534,15 @@ msgstr "主炮曳光彈變為選擇的顏色"
 
 msgid "IDS_REWARD_VANITY_FOR_CREW"
 msgstr "指揮官個性化"
+
+msgid "IDS_REWARD_WAFFENTRAGERACTIVATIONKEYS_TITLE"
+msgstr "啟用金鑰"
+
+msgid "IDS_REWARD_WAFFENTRAGERPROGRESSPOINTS_TITLE"
+msgstr "反應堆合金"
+
+msgid "IDS_REWARD_WAFFENTRAGERRELAY_TITLE"
+msgstr "反應堆合金"
 
 msgid "IDS_REWARD_WARNING"
 msgstr "將開放給較高的服役紀錄等級"
@@ -125134,6 +127599,9 @@ msgstr "稜堡"
 msgid "IDS_SCENARIO_FORTS04"
 msgstr "稜堡"
 
+msgid "IDS_SCENARIO_INFINITY_SCENARIO"
+msgstr "無盡戰爭"
+
 msgid "IDS_SCENARIO_MULT_FILM"
 msgstr "朝蛋夕拾"
 
@@ -125340,6 +127808,9 @@ msgstr "試煉"
 
 msgid "IDS_SCENARIO_TWO_AIRSHIPS"
 msgstr "飛艇護衛"
+
+msgid "IDS_SCENARIO_WT_MAINSCENARIO"
+msgstr "最終兵器：隔離"
 
 msgid "IDS_SCHEDULLE"
 msgstr "時間表"
@@ -125619,6 +128090,9 @@ msgstr "戰鬥任務"
 
 msgid "IDS_SECONDARY_TAB_BUTTON_UPGRADES"
 msgstr "升級"
+
+msgid "IDS_SECONDARY_TAB_BUTTON_WAFFENTRAGER"
+msgstr "最終兵器"
 
 msgid "IDS_SECOND_AMERICAN_ARCSUBCOLLECTION_NAME"
 msgstr "巡洋艦，1940年代"
@@ -126043,6 +128517,9 @@ msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_CONSUMABLES"
 msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」來變更已安裝的消耗品。"
+
+msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_WT_TASK"
+msgstr "已選擇「準備好分艦隊作戰」狀態，點選「未準備」後才能更換任務。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_FREE_CREW_SKILLPOINTS"
 msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以重新分配技能點數。"
@@ -126860,7 +129337,7 @@ msgid "IDS_SHIP_FEAT_MC_IMPROVED_FAST_RELOAD_GOOD"
 msgstr "強化的「主炮裝填助推器」消耗品"
 
 msgid "IDS_SHIP_FEAT_MC_IMPROVED_SPOTTER_GOOD"
-msgstr "強化的「偵察機」消耗品"
+msgstr "強化的「校射偵察機」消耗品"
 
 msgid "IDS_SHIP_FEAT_MC_IMPROVED_SPOTTER_GOOD_DESC"
 msgstr "主炮射程的加成較高。"
@@ -127182,7 +129659,7 @@ msgid "IDS_SHIP_MAIN_MC_DPM_GOOD"
 msgstr "主炮每分鐘傷害較高"
 
 msgid "IDS_SHIP_MAIN_MC_FAST_RECHARGE_SPOTTER_GOOD"
-msgstr "可使用「快速起飛偵察機」消耗品"
+msgstr "可使用「快速起飛校射偵察機」消耗品"
 
 msgid "IDS_SHIP_MAIN_MC_FIRERATE_BAD"
 msgstr "主炮射速較低"
@@ -127566,7 +130043,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_VISIBILITY_BY_PLANE_AND_SHIP"
 msgstr "在選定的戰鬥模式中，該參數具有固定值，無法透過配件、升級品、信號旗或指揮官技能進行更改。"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_DESCRIPTION_WEAPON_DAMAGE_H2023"
-msgstr "降低受到的傷害，提高對敵方造成的傷害。每有一艘友方艦艇被摧毀，該效果都會增強。"
+msgstr " "
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_AAA_MAX_DISTANCE"
 msgstr "防空炮射程"
@@ -127919,8 +130396,26 @@ msgstr "血量恢復"
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM190_REGENERATION_DE2025_APPLIED"
 msgstr " "
 
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM196_ENGINE_WT"
+msgstr "團隊引擎增壓"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM217_HOUNDSRESIST_WT"
+msgstr "團隊護盾"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM218_HOUNDSVAMPIRISM_WT"
+msgstr "裝甲汲取"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM233_SLOWDOWN_WT"
+msgstr "致緩炮彈"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_PXOM251_HOUNDS_REGENERATION_WT"
+msgstr "再生機制"
+
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_RUSY_VS_LIZARDS"
 msgstr "英雄氣概"
+
+msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VAMPIRISM"
+msgstr "技術汲取"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE"
 msgstr "對空被偵測範圍"
@@ -127929,7 +130424,7 @@ msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_VISIBILITY_BY_PLANE_AND_SHIP"
 msgstr "對空和對海被偵測範圍"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_HEADER_WEAPON_DAMAGE_H2023"
-msgstr "逝者意志"
+msgstr "已沉沒隊友的能量"
 
 msgid "IDS_SHIP_MODIFIER_PARAM_LEVEL"
 msgstr " %(level)s / %(maxLevel)s"
@@ -128218,6 +130713,57 @@ msgstr "火炮傷害提升"
 
 msgid "IDS_SHIP_MODIFIER_PXOM190_REGENERATION_DE2025_APPLIED"
 msgstr "血量恢復"
+
+msgid "IDS_SHIP_MODIFIER_PXOM196_ENGINE_WT_APPLIED"
+msgstr "已啟用團隊引擎增壓"
+
+msgid "IDS_SHIP_MODIFIER_PXOM217_HOUNDSRESIST_WT_APPLIED"
+msgstr "已啟用團隊護盾"
+
+msgid "IDS_SHIP_MODIFIER_PXOM218_HOUNDSVAMPIRISM_WT_APPLIED"
+msgstr "已啟用裝甲汲取"
+
+msgid "IDS_SHIP_MODIFIER_PXOM239_2025WT_BMANCER_SHOTDELAY"
+msgstr "訊號 1：未知類型"
+
+msgid "IDS_SHIP_MODIFIER_PXOM239_2025WT_BMANCER_SHOTDELAY_APPLIED"
+msgstr "訊號 1：射速"
+
+msgid "IDS_SHIP_MODIFIER_PXOM240_2025WT_BMANCER_HULLHEALTH"
+msgstr "訊號 2：未知類型"
+
+msgid "IDS_SHIP_MODIFIER_PXOM240_2025WT_BMANCER_HULLHEALTH_APPLIED"
+msgstr "訊號 2：血量"
+
+msgid "IDS_SHIP_MODIFIER_PXOM241_2025WT_BMANCER_REGEN"
+msgstr "訊號 3：未知類型"
+
+msgid "IDS_SHIP_MODIFIER_PXOM241_2025WT_BMANCER_REGEN_APPLIED"
+msgstr "訊號 3：血量恢復"
+
+msgid "IDS_SHIP_MODIFIER_PXOM242_2025WT_BM_BOTS_SHOTDELAY"
+msgstr "訊號 4：未知類型"
+
+msgid "IDS_SHIP_MODIFIER_PXOM242_2025WT_BM_BOTS_SHOTDELAY_APPLIED"
+msgstr "訊號 4：射速"
+
+msgid "IDS_SHIP_MODIFIER_PXOM243_2025WT_BM_BOTS_HULLHEALTH"
+msgstr "訊號 5：未知類型"
+
+msgid "IDS_SHIP_MODIFIER_PXOM243_2025WT_BM_BOTS_HULLHEALTH_APPLIED"
+msgstr "訊號 5：血量"
+
+msgid "IDS_SHIP_MODIFIER_PXOM244_2025WT_BM_BOTS_REGEN"
+msgstr "訊號 6：未知類型"
+
+msgid "IDS_SHIP_MODIFIER_PXOM244_2025WT_BM_BOTS_REGEN_APPLIED"
+msgstr "訊號 6：血量恢復"
+
+msgid "IDS_SHIP_MODIFIER_PXOM251_HOUNDS_REGENERATION_WT_APPLIED"
+msgstr "再生機制已生效"
+
+msgid "IDS_SHIP_MODIFIER_PXY534_PXOM233_SLOWDOWN_WT_APPLIED"
+msgstr "已裝載致緩炮彈"
 
 msgid "IDS_SHIP_MODIFIER_SOURCE_ALLY"
 msgstr "我方艦艇拾得一個增益效果"
@@ -128559,13 +131105,16 @@ msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_HE"
 msgstr "HE 炸彈空襲"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SCOUT"
-msgstr "巡邏偵察機"
+msgstr "伴航校射偵察機"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SEAMINE"
 msgstr "雷區"
 
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SMOKE"
 msgstr "煙幕施放機"
+
+msgid "IDS_SHIP_PARAM_AIR_SUPPORT_SQUADRONS_SPY"
+msgstr "情報偵察機"
 
 msgid "IDS_SHIP_PARAM_ALPHA_PIERCING_CS"
 msgstr "SAP 彈的裝甲穿透能力"
@@ -129101,9 +131650,6 @@ msgstr "每個航空中隊飛機數量"
 msgid "IDS_SHIP_PARAM_PINGER"
 msgstr "聲納"
 
-msgid "IDS_SHIP_PARAM_PINGER_MAX_TARGETS"
-msgstr "可同時追蹤的目標數"
-
 msgid "IDS_SHIP_PARAM_PLANE_NAME_BOMBER"
 msgstr "魚雷轟炸機"
 
@@ -129132,7 +131678,7 @@ msgid "IDS_SHIP_PARAM_PLANE_RELOAD_TIME_TOOLTIP_DESCRIPTION"
 msgstr "攻擊分隊進行攻擊後，航空中隊的重新編隊時間。"
 
 msgid "IDS_SHIP_PARAM_PLANE_SCOUT"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_SHIP_PARAM_PLANE_SQUAD"
 msgstr "航空中隊"
@@ -129646,12 +132192,6 @@ msgstr "震波"
 
 msgid "IDS_SHIP_PARAM_WAVE_DURATION"
 msgstr "音波效果持續時間"
-
-msgid "IDS_SHIP_PARAM_WAVE_DURATION_FIRST"
-msgstr "音波效果持續時間"
-
-msgid "IDS_SHIP_PARAM_WAVE_DURATION_SECOND"
-msgstr "音波效果在兩次高亮突顯之部位的持續時間"
 
 msgid "IDS_SHIP_PARAM_WAVE_GUN"
 msgstr "鑄波器"
@@ -130836,7 +133376,7 @@ msgid "IDS_SKILL_TRIGGER_PINGER_RELOAD_BUFF"
 msgstr "強化聲納"
 
 msgid "IDS_SKILL_TRIGGER_PINGER_RELOAD_BUFF_TRIGGER_DESC"
-msgstr "若您的艦艇被敵人發現，將縮短聲納的冷卻時間。"
+msgstr "當潛艇被敵方發現時，縮短聲吶裝填時間。"
 
 msgid "IDS_SKILL_TRIGGER_PINGER_SPEED_BUFF"
 msgstr "強化脈衝產生器"
@@ -130930,6 +133470,9 @@ msgstr "狼'21"
 
 msgid "IDS_SMF_WOLF"
 msgstr "狼"
+
+msgid "IDS_SMOKERS"
+msgstr "煙幕施放機"
 
 msgid "IDS_SMOKE_COMMAND"
 msgstr "啟動發煙機"
@@ -131617,6 +134160,12 @@ msgstr "尼可斯 塔拉西諾斯"
 msgid "IDS_SOUND_MOD_VIKING_TM"
 msgstr "Björn Konungr"
 
+msgid "IDS_SOUND_MOD_WAFFENTRAGER_ERMELINDA_JUNG"
+msgstr "埃爾梅琳達˙榮格"
+
+msgid "IDS_SOUND_MOD_WAFFENTRAGER_JAMES_CONRAD"
+msgstr "詹姆斯˙康拉德"
+
 msgid "IDS_SOUND_MOD_WARHAMMER_WARHAMMERCHAOS"
 msgstr "Arthas Roqthar the Cold"
 
@@ -132086,6 +134635,12 @@ msgstr "試煉基地"
 msgid "IDS_SPACES/E13_TRIALS_MAPPRIME_DESCR"
 msgstr "試煉基地"
 
+msgid "IDS_SPACES/E15_2025_WAFFENTRAGER"
+msgstr "格里姆斯比群島"
+
+msgid "IDS_SPACES/E15_2025_WAFFENTRAGER_DESCR"
+msgstr "格里姆斯比群島"
+
 msgid "IDS_SPACES/I01_TUTORIAL"
 msgstr "First Encounter"
 
@@ -132356,6 +134911,9 @@ msgstr "已花費"
 msgid "IDS_SPENT_PER_BATTLE_HINT"
 msgstr "在此戰鬥中花費的金幣與銀幣"
 
+msgid "IDS_SPIES"
+msgstr "情報偵察機"
+
 msgid "IDS_SPIRIDOV"
 msgstr "格里戈里 斯皮里多夫"
 
@@ -132553,6 +135111,15 @@ msgstr "獲得勛帶"
 
 msgid "IDS_SSE_CONDITIONS_GO_INTO_BATTLE_SHORT"
 msgstr "加入戰鬥"
+
+msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_ANY"
+msgstr "（與其他玩家組成分艦隊戰鬥）"
+
+msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_RECRUIT"
+msgstr "（與您招募站中的海軍戰友組成分艦隊戰鬥）"
+
+msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_VETERAN"
+msgstr "（與您招募站中的徵募人組成分艦隊戰鬥）"
 
 msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_BOMBER"
 msgstr "用轟炸機"
@@ -133449,19 +136016,19 @@ msgid "IDS_ST_TRANS"
 msgstr "尾端橫向圍板"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_ATBA"
-msgstr "挑戰規則"
+msgstr "戰鬥規則"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES"
-msgstr "挑戰規則"
+msgstr "戰鬥規則"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_CONSUMABLES_FILTH"
 msgstr "敵方消耗品影響"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_MOVEMENT"
-msgstr "挑戰規則"
+msgstr "戰鬥規則"
 
 msgid "IDS_SUBHEADER_SHIP_PARAMS_CHANGE_BY_BLOCKER_WEAPONS"
-msgstr "挑戰規則"
+msgstr "戰鬥規則"
 
 msgid "IDS_SUBMARINE"
 msgstr "潛水艇"
@@ -133727,6 +136294,18 @@ msgstr "促銷活動結束與：%(_timeLeft)s"
 msgid "IDS_SUBS_IMPROVE_EVENT"
 msgstr "水下前線"
 
+msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_LOSE"
+msgstr "敵人成功逃脫"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_WON"
+msgstr "同盟萬歲"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_LOSE"
+msgstr "馮˙克里格的遺產將被遺忘"
+
+msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_WON"
+msgstr "馮˙克里格的遺產永垂不朽"
+
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "已完成頁面"
 
@@ -133871,7 +136450,7 @@ msgstr "變更位置"
 msgid "IDS_SWITCH_CAMERA_PREF_TOOLTIP_DESCRIPTION"
 msgstr ""
 "在艦艏和艦艉火炮之間切換鏡頭。\n"
-"使用「偵察機」消耗品時，此按鍵會切換鏡頭模式。"
+"使用「校射偵察機」消耗品時，此按鍵會切換鏡頭模式。"
 
 msgid "IDS_SWITCH_CAMERA_SPECTATE"
 msgstr "變更鏡頭模式"
@@ -134123,10 +136702,10 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "已購買海洋代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
-msgstr "已購買夏季代幣"
+msgstr "已購買能量單元"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "已購買法國代幣"
+msgstr "已購買義大利代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "已購買大明航海代幣"
@@ -134192,7 +136771,7 @@ msgid "IDS_SYS_MSG_BOUGHT_PREMIUM_ACCOUNT"
 msgstr "已購買加值帳號"
 
 msgid "IDS_SYS_MSG_BOUGHT_RECRUITMENT_POINTS"
-msgstr "已購買社群代幣"
+msgstr "已購買領航代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_SALTPETER"
 msgstr "已購買網站籌碼"
@@ -134220,6 +136799,15 @@ msgstr "已購買鋼鐵"
 
 msgid "IDS_SYS_MSG_BOUGHT_UC"
 msgstr "已購買配件"
+
+msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_ACTIVATION_KEY"
+msgstr "已購買啟用金鑰"
+
+msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "已購買反應堆合金"
+
+msgid "IDS_SYS_MSG_BOUGHT_WAFFENTRAGER_RELAY"
+msgstr "已購買反應堆合金"
 
 msgid "IDS_SYS_MSG_BOUGHT_WOWS_PREMIUM_ACCOUNT"
 msgstr "已購買戰艦加值帳號"
@@ -134639,10 +137227,10 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "已獲得海洋代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
-msgstr "已獲得夏季代幣"
+msgstr "已獲得能量單元"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "已獲得法國代幣"
+msgstr "已獲得義大利代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "已獲得大明航海代幣"
@@ -134711,7 +137299,7 @@ msgid "IDS_SYS_MSG_RECEIVED_PREMIUM_ACCOUNT"
 msgstr "已獲得加值帳號"
 
 msgid "IDS_SYS_MSG_RECEIVED_RECRUITMENT_POINTS"
-msgstr "已獲得社群代幣"
+msgstr "已獲得領航代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_SALTPETER"
 msgstr "已獲得探險代幣"
@@ -134754,6 +137342,15 @@ msgstr "已獲得配件"
 
 msgid "IDS_SYS_MSG_RECEIVED_UNLOCK"
 msgstr "新功能已解鎖"
+
+msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_ACTIVATION_KEY"
+msgstr "已獲得啟用金鑰"
+
+msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "已獲得反應堆合金"
+
+msgid "IDS_SYS_MSG_RECEIVED_WAFFENTRAGER_RELAY"
+msgstr "已獲得反應堆合金"
 
 msgid "IDS_SYS_MSG_RECEIVED_WOWS_PREMIUM_ACCOUNT"
 msgstr "已獲得戰艦加值帳號"
@@ -134979,6 +137576,21 @@ msgstr "已研發配件"
 msgid "IDS_SYS_MSG_USER_COMPONENT_SELL"
 msgstr "已出售配件"
 
+msgid "IDS_SYS_MSG_WAFFENTRAGER_BOOSTER_BOUGHT"
+msgstr "已購買實驗技術局加成"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_BOOSTER_UPGRADED"
+msgstr "已升級實驗技術局加成"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_TASK_REROLLED"
+msgstr "戰鬥任務已更換"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_THRESHOLD_PASSED"
+msgstr "「最終兵器：隔離」活動等級已提升"
+
+msgid "IDS_SYS_MSG_WAFFENTRAGER_THRESHOLD_REWARDS"
+msgstr "「最終兵器：隔離」活動獎勵"
+
 msgid "IDS_SYS_MSG_WRITTEN_OFF"
 msgstr "庫存已移除"
 
@@ -135043,10 +137655,10 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "海洋代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
-msgstr "夏季代幣已移除"
+msgstr "能量單元已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "法國代幣已移除"
+msgstr "義大利代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "大明航海代幣已移除"
@@ -135112,7 +137724,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_PREMIUM_ACCOUNT"
 msgstr "加值帳號已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_RECRUITMENT_POINTS"
-msgstr "社群代幣已移除"
+msgstr "領航代幣已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_SALTPETER"
 msgstr "網站籌碼已移除"
@@ -135143,6 +137755,15 @@ msgstr "鋼鐵已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_UC"
 msgstr "配件已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_ACTIVATION_KEY"
+msgstr "啟用金鑰已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_PROGRESS_POINTS"
+msgstr "反應堆合金已移除"
+
+msgid "IDS_SYS_MSG_WRITTEN_OFF_WAFFENTRAGER_RELAY"
+msgstr "反應堆合金已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_WOWS_PREMIUM_ACCOUNT"
 msgstr "戰艦加值帳號已移除"
@@ -136811,7 +139432,7 @@ msgstr ""
 "可使用損害管制小組消耗品 [CMD_CONSUMABLE_0] 來加快火災與進水的恢復。"
 
 msgid "IDS_TIPS_FIRE_CORRECTIONER"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_TIPS_FIRE_CORRECTIONER_DESCRIPTION"
 msgstr "延伸主炮的射程。提供額外的空中偵察。"
@@ -137055,10 +139676,7 @@ msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE"
 msgstr "深水炸彈"
 
 msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION"
-msgstr "<p>敵艦配有深水炸彈來對抗潛水艇。</p><p class=\"p_spacing\"> </p><p>深水炸彈可對潛水艇造成傷害並拆毀魚雷。</p>"
-
-msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE_DESCRIPTION_IMPROVE_SUBMARINE"
-msgstr "<p>敵艦擁有對潛武器 — 深水炸彈。</p><p class=\"p_spacing\"> </p><p>當潛水艇處於水面或最大深度時，受到的深水炸彈傷害將有所降低。</p>"
+msgstr "<p>敵艦擁有對潛武器——深水炸彈。</p><p class=\"p_spacing\"> </p><p>當潛艇位於水面或最大深度時，受到的深水炸彈傷害將有所降低。</p>"
 
 msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_ENERGY_FREEZE"
 msgstr "儲備電池單位"
@@ -137264,7 +139882,7 @@ msgid "IDS_TITLE_PCM037_SMOKEGENERATOR_MOD_I"
 msgstr "發煙機修改型 1"
 
 msgid "IDS_TITLE_PCM038_SPOTTER_MOD_I"
-msgstr "偵察機修改型 1"
+msgstr "校射偵察機修改型 1"
 
 msgid "IDS_TITLE_PCM039_CRASHCREW_MOD_I"
 msgstr "損害管制小組修改型 1"
@@ -137602,6 +140220,9 @@ msgstr "研發"
 msgid "IDS_TOKEN_TARGET_TYPE_SSE"
 msgstr "SSE"
 
+msgid "IDS_TOKEN_TARGET_TYPE_WAFFENTRAGER_PORTAL_CAMPAIGN"
+msgstr "門戶戰役「守護厄瑞玻斯」"
+
 msgid "IDS_TONN"
 msgstr "噸"
 
@@ -137651,6 +140272,9 @@ msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SEAMINE"
 msgstr "中隊"
 
 msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SMOKE"
+msgstr "支援中隊"
+
+msgid "IDS_TOOLTIP_AIR_SUPPORT_SQUADRONS_SPY"
 msgstr "支援中隊"
 
 msgid "IDS_TOOLTIP_AMMUNITION_AND_CONSUMABLES"
@@ -138025,11 +140649,8 @@ msgstr "暫停"
 msgid "IDS_TOOLTIP_PINGER"
 msgstr " "
 
-msgid "IDS_TOOLTIP_PINGER_MAX_TARGETS"
-msgstr "可同時以聲納音波效果標記之艦艇的最高數量。"
-
 msgid "IDS_TOOLTIP_PLANE_SCOUT"
-msgstr "偵察機"
+msgstr "校射偵察機"
 
 msgid "IDS_TOOLTIP_PLAYERS_COUNT_SERVER"
 msgstr "您所在伺服器當前的玩家數"
@@ -138265,11 +140886,8 @@ msgstr "此潛水艇會被水下敵方潛水艇偵測到的距離。"
 msgid "IDS_TOOLTIP_WAIT_FOR_STARTTIME"
 msgstr "此工作將開放於 %(timeDate)s"
 
-msgid "IDS_TOOLTIP_WAVE_DURATION_FIRST_HIT"
+msgid "IDS_TOOLTIP_WAVE_DURATION"
 msgstr "聲納音波命中敵艦後，會將其標記為魚雷制導目標。"
-
-msgid "IDS_TOOLTIP_WAVE_DURATION_SECOND_HIT"
-msgstr "<p>聲納音波命中敵艦後，會將其標記為魚雷制導目標。</p><p class=\"p_spacing\"> </p><p>再次命中高亮區域會延長效果時間並提高導向魚雷的機動性。</p>"
 
 msgid "IDS_TOOLTIP_WAVE_GUN"
 msgstr "震波式武裝"
@@ -139556,6 +142174,9 @@ msgstr "不對分艦隊開放"
 msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER"
 msgstr "匹配期間無法更改"
 
+msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER_CHANGE_WT_TASK"
+msgstr "匹配期間無法更改"
+
 msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER_EVENT_BATTLES"
 msgstr "匹配期間無法更改"
 
@@ -139715,11 +142336,11 @@ msgstr "努力完成戰役任務來得到終極獎勵。"
 msgid "IDS_UNLOCKS_23"
 msgstr "出售任何不需要的庫存物品。"
 
+msgid "IDS_UNLOCKS_24"
+msgstr "與其他玩家一起對抗電腦玩家，並完成劇情任務。"
+
 msgid "IDS_UNLOCKS_2827"
 msgstr "加入公會，團結一致。"
-
-msgid "IDS_UNLOCKS_292101"
-msgstr "與其他玩家合作對戰機器人。"
 
 msgid "IDS_UNLOCKS_3"
 msgstr "與真實的玩家戰鬥。"
@@ -139727,8 +142348,8 @@ msgstr "與真實的玩家戰鬥。"
 msgid "IDS_UNLOCKS_301600"
 msgstr "與其他玩家一決高下，在聯賽中晉級並獲得珍貴獎勵！"
 
-msgid "IDS_UNLOCKS_3124"
-msgstr "與其他玩家一起對抗機器人，並完成劇情任務。"
+msgid "IDS_UNLOCKS_31292101"
+msgstr "與其他玩家合作對戰電腦玩家。"
 
 msgid "IDS_UNLOCKS_5"
 msgstr "現在研發艦艇變得更加簡單了。使用自由經驗點數可以研發任意艦艇或配件。"
@@ -139769,11 +142390,11 @@ msgstr "<p>完成戰役中的任務以獲得最終獎勵。</p><p class=\"p_spac
 msgid "IDS_UNLOCKS_DESCRIPTION_23"
 msgstr "<p>出售不使用的配件、升級品和其他物品來獲取銀幣。</p><p class=\"p_spacing\"> </p><p>倉庫介面可透過螢幕右上角的玩家選單進入。</p>"
 
+msgid "IDS_UNLOCKS_DESCRIPTION_24"
+msgstr "<p>在「行動」中，您的團隊必須在與電腦玩家戰鬥的同時完成各種任務。每個行動都有獨特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要目標即可獲得勝利。完成次要目標將獲得更多資源。</p><p class=\"p_spacing\"> </p><p>行動的難度取決於隊伍中艦艇的類型和階級。</p><p class=\"p_spacing\"> </p><p>可見於戰鬥類型選擇畫面。</p>"
+
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
 msgstr "<p>加入軍團，以參加軍團戰。</p><p class=\"p_spacing\"> </p><p>軍團戰僅在軍團戰賽季期間開放。</p><p class=\"p_spacing\"> </p><p>在軍團戰中取得勝利，獲取評級點數以晉升更高階的聯賽。</p><p class=\"p_spacing\"> </p><p>獲取石油並擴建海軍基地中的建築，可提供永久經濟加成。</p><p class=\"p_spacing\"> </p><p>建立訓練房間參與戰鬥訓練，可磨練隊伍配合能力。</p><p class=\"p_spacing\"> </p><p>軍團戰和戰鬥訓練可透過戰鬥類型選擇畫面進入。</p>"
-
-msgid "IDS_UNLOCKS_DESCRIPTION_292101"
-msgstr "<p>與其他玩家合作對戰機器人。</p><p class=\"p_spacing\"> </p><p>戰鬥類型選項位於「加入戰鬥」按鈕的旁邊。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>與真人玩家對戰。匹配系統將隨機建立隊伍。</p><p class=\"p_spacing\"> </p><p>戰鬥類型選項位於「加入戰鬥」按鈕的旁邊。</p>"
@@ -139781,8 +142402,8 @@ msgstr "<p>與真人玩家對戰。匹配系統將隨機建立隊伍。</p><p cl
 msgid "IDS_UNLOCKS_DESCRIPTION_301600"
 msgstr "<p>以下戰鬥類型僅在對應賽季期間開放。每個賽季都是一場競技，每場戰鬥的結果都會影響您的排名進度。達到的排名越高，獎勵越豐厚！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">排名戰鬥</p><p class=\"p_spacing\"> </p><p>在排名戰鬥中，您需要與其他玩家爭奪排名。想要提升排名，您需要在一定數量的戰鬥中取得勝利，而失敗則可能導致降級！</p><p class=\"p_spacing\"> </p><p class=\"p_spacing\"> </p><p class=\"p_heading\">評級戰鬥</p><p class=\"p_spacing\"> </p><p>評級戰鬥中，敵我雙方會根據戰鬥效率評級匹配。戰鬥結束後，您的評級將根據戰鬥結果與獲得的基本經驗值進行調整。</p>"
 
-msgid "IDS_UNLOCKS_DESCRIPTION_3124"
-msgstr "<p>在「行動」中，您的隊伍必須在與機器人戰鬥的同時完成各種任務。每個行動都有獨特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要工作即可獲得勝利。完成次要工作將獲得更多資源。</p><p class=\"p_spacing\"> </p><p>行動的難度取決於隊伍中艦艇的類型和等級。</p><p class=\"p_spacing\"> </p><p>可見於戰鬥類型選擇畫面。</p>"
+msgid "IDS_UNLOCKS_DESCRIPTION_31292101"
+msgstr "<p>與其他玩家合作對戰電腦玩家。</p><p class=\"p_spacing\"> </p><p>戰鬥類型選項位於「加入戰鬥」按鈕的旁邊。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_5"
 msgstr "<p>若您沒有足夠的艦艇經驗去研發艦艇或配件，可以使用自由經驗。</p><p class=\"p_spacing\"> </p><p>每場戰鬥您會額外獲得相當於每場經驗10%的自由經驗（應用加成前）。</p><p class=\"p_spacing\"> </p><p>您可以將精英艦艇和加值艦艇獲得的經驗轉換為自由經驗。</p><p class=\"p_spacing\"> </p><p>自由經驗顯示在螢幕右上角。</p>"
@@ -139841,15 +142462,15 @@ msgstr ""
 "<body>您現已可進行\n"
 "<h3>庫存管理</h3></body>"
 
+msgid "IDS_UNLOCKS_LEVEL_UP_24"
+msgstr ""
+"<body>您現在可以加入\n"
+"<h3>行動</h3></body>"
+
 msgid "IDS_UNLOCKS_LEVEL_UP_2827"
 msgstr ""
 "<body>您現已可進行\n"
 "<h3>公會戰鬥</h3></body>"
-
-msgid "IDS_UNLOCKS_LEVEL_UP_292101"
-msgstr ""
-"您現在可以加入\n"
-"<h3>聯合作戰</h3>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_3"
 msgstr ""
@@ -139861,10 +142482,10 @@ msgstr ""
 "<body>您現在可以加入\n"
 "<h3>排名戰鬥和評級戰鬥</h3></body>"
 
-msgid "IDS_UNLOCKS_LEVEL_UP_3124"
+msgid "IDS_UNLOCKS_LEVEL_UP_31292101"
 msgstr ""
-"<body>您現在可以加入\n"
-"<h3>行動</h3></body>"
+"您現在可以加入\n"
+"<h3>聯合作戰</h3>"
 
 msgid "IDS_UNLOCKS_LEVEL_UP_5"
 msgstr ""
@@ -139913,11 +142534,11 @@ msgstr "戰役"
 msgid "IDS_UNLOCKS_TITLE_23"
 msgstr "庫存管理"
 
+msgid "IDS_UNLOCKS_TITLE_24"
+msgstr "行動"
+
 msgid "IDS_UNLOCKS_TITLE_2827"
 msgstr "公會戰鬥"
-
-msgid "IDS_UNLOCKS_TITLE_292101"
-msgstr "聯合作戰"
 
 msgid "IDS_UNLOCKS_TITLE_3"
 msgstr "隨機戰鬥"
@@ -139925,8 +142546,8 @@ msgstr "隨機戰鬥"
 msgid "IDS_UNLOCKS_TITLE_301600"
 msgstr "排名戰鬥和評級戰鬥"
 
-msgid "IDS_UNLOCKS_TITLE_3124"
-msgstr "行動"
+msgid "IDS_UNLOCKS_TITLE_31292101"
+msgstr "聯合作戰"
 
 msgid "IDS_UNLOCKS_TITLE_5"
 msgstr "自由經驗"
@@ -140405,6 +143026,96 @@ msgstr "Carl Barth"
 msgid "IDS_W03_SHP03"
 msgstr "Cecil Bean"
 
+msgid "IDS_WAFFENTRAGERACTIVATIONKEYS_COLUMN"
+msgstr "啟用金鑰："
+
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_NOT_ENOUGH_ACTIVATION_KEYS"
+msgstr "您沒有出戰所需的啟用金鑰，可以透過完成獵犬的戰鬥任務來獲得啟用金鑰。"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WAFFENTRAGER_IN_DIVISION"
+msgstr "分艦隊中不能有埃爾梅琳達˙榮格的艦艇"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WRONG_SHIP"
+msgstr "所選艦艇不能參加「最終兵器：隔離」戰鬥類型"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_DURATION"
+msgstr ""
+"戰鬥\n"
+"持續時間"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_EVENT_INFO_MODAL_WINDOW"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_RESULTS_NEXT_BUTTON"
+msgstr "下一個"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_0"
+msgstr "埃爾梅琳達˙榮格"
+
+msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_1"
+msgstr "撤離系統"
+
+msgid "IDS_WAFFENTRAGER_BOOSTER_POST_BATTLE"
+msgstr "實驗技術局"
+
+msgid "IDS_WAFFENTRAGER_CREDITS_BOOSTER_HINT"
+msgstr "實驗技術局加成提供的額外銀幣數"
+
+msgid "IDS_WAFFENTRAGER_CREWXP_BOOSTER_HINT"
+msgstr "實驗技術局加成提供的額外指揮官經驗量"
+
+msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_0"
+msgstr "敵方傷害抗性"
+
+msgid "IDS_WAFFENTRAGER_DAMAGE_DISPERSION_1"
+msgstr "傷害抗性"
+
+msgid "IDS_WAFFENTRAGER_DESCRIPTION_0"
+msgstr "在撤離系統啟動前摧毀埃爾梅琳達的艦艇。"
+
+msgid "IDS_WAFFENTRAGER_DESCRIPTION_1"
+msgstr "為撤離系統充能，不要被獵犬摧毀。"
+
+msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
+msgstr "簡介"
+
+msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_TEXT"
+msgstr "六名獵犬出發追捕強大艦艇的指揮官埃爾梅琳達˙榮格。每一方都有各自的戰術、目標和秘密。"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_BATTLESHIP_FRAG_BOOST"
+msgstr "摧毀主力艦"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED"
+msgstr "佔領控制點"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_CHARGE_SPEED_VALUE"
+msgstr "+ 2 / 3秒"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_CRUISER_FRAG_BOOST"
+msgstr "摧毀巡洋艦"
+
+msgid "IDS_WAFFENTRAGER_NULL_FIELD_DESTROYER_FRAG_BOOST"
+msgstr "摧毀驅逐艦"
+
+msgid "IDS_WAFFENTRAGER_SHIELD_MODULE"
+msgstr "護盾模組"
+
+msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_0"
+msgstr ""
+"在撤離系統啟動前\n"
+"摧毀埃爾梅琳達的艦艇"
+
+msgid "IDS_WAFFENTRAGER_TASK_DESCRIPTION_1"
+msgstr ""
+"為撤離系統充能，\n"
+"不要被獵犬摧毀"
+
+msgid "IDS_WAFFENTRAGER_TITLE"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_WAFFENTRAGER_WON"
+msgstr "埃爾梅琳達˙榮格獲勝"
+
 msgid "IDS_WAITING_FOR_PLAYERS"
 msgstr "等待玩家"
 
@@ -140648,7 +143359,7 @@ msgid "IDS_WITH_CONSUME_FIGHTER"
 msgstr "用戰鬥機"
 
 msgid "IDS_WITH_CONSUME_SCOUT"
-msgstr "用偵察機"
+msgstr "用校射偵察機"
 
 msgid "IDS_WITH_CYCLONE"
 msgstr "有氣旋"
@@ -140835,6 +143546,596 @@ msgstr "密碼不正確。請再試一次。"
 
 msgid "IDS_WRONG_TITLE"
 msgstr "用此名稱的頻道已經存在"
+
+msgid "IDS_WT_ABOUT_EVENT_DESCRIPTION"
+msgstr "瞭解關於活動的一切：戰鬥特點、任務和獎勵。"
+
+msgid "IDS_WT_ABOUT_EVENT_TITLE"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_WT_ABOUT_EVENT_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "前往「活動規則和特點」畫面"
+
+msgid "IDS_WT_ABOUT_EVENT_TOOLTIP_TEXT"
+msgstr "瞭解關於活動的一切：戰鬥特點、任務和獎勵。"
+
+msgid "IDS_WT_BATTLE_TASKS_TOOLTIP_TEXT"
+msgstr "<p>您每天可以完成不限數量的任務並獲得獎勵。</p><p class=\"p_spacing\"> </p><p>埃爾梅琳達的任務可在她麾下的三艘艦艇中的任意一艘上完成：<b>幽靈獵兵</b>、<b>烈焰騎士</b>或<b>訊號母艦</b>。</p><p class=\"p_spacing\"> </p><p>獵犬的任務可在X級主力艦、巡洋艦或驅逐艦上完成。</p>"
+
+msgid "IDS_WT_BB1_NAME_01"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_02"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_03"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_04"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_05"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_06"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_07"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_08"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_09"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB1_NAME_10"
+msgstr "Notfallhelfer"
+
+msgid "IDS_WT_BB2_NAME_01"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_02"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_03"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_04"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_05"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_06"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_07"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_08"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_09"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB2_NAME_10"
+msgstr "Mechaniker"
+
+msgid "IDS_WT_BB3_NAME_01"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_02"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_03"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_04"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_05"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_06"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_07"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_08"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_09"
+msgstr "Retter"
+
+msgid "IDS_WT_BB3_NAME_10"
+msgstr "Retter"
+
+msgid "IDS_WT_BUREAU_ACTIVE_TECH_TEXT"
+msgstr "<p>已啟用的實驗技術局加成會與艦艇上安裝的經濟加成疊加，但僅在「最終兵器：隔離」戰鬥類型中生效。實驗技術局加成不會在戰鬥中消耗。</p><p class=\"p_spacing\"> </p><p>一些實驗技術局加成會降低特定資源收益，但其最終收益不會低於0。</p>"
+
+msgid "IDS_WT_BUREAU_ACTIVE_TECH_TITLE"
+msgstr "已啟用的加成"
+
+msgid "IDS_WT_BUREAU_BUTTON_ONBOARDING"
+msgstr "關於實驗技術局"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_ACTIVATE"
+msgstr "啟用"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_ACTIVATE_TOOLTIP"
+msgstr "資源不足"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_DEACTIVATE_TOOLTIP"
+msgstr "停用加成"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE"
+msgstr "購買"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE_CONFIRM_QUESTION"
+msgstr "購買？確認花費"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_PURCHASE_TOOLTIP"
+msgstr "資源不足"
+
+msgid "IDS_WT_BUREAU_CARD_BUTTON_UPGRADE"
+msgstr "升級"
+
+msgid "IDS_WT_BUREAU_CREDITSFACTOR_0"
+msgstr "簡化維護協議"
+
+msgid "IDS_WT_BUREAU_CREDITSFACTOR_1"
+msgstr "自動化控制系統"
+
+msgid "IDS_WT_BUREAU_CREDITSFACTOR_2"
+msgstr "加速自組裝"
+
+msgid "IDS_WT_BUREAU_CREWEXPFACTOR_0"
+msgstr "電磁導航系統"
+
+msgid "IDS_WT_BUREAU_CREWEXPFACTOR_1"
+msgstr "波形訊號解碼器"
+
+msgid "IDS_WT_BUREAU_CREWEXPFACTOR_2"
+msgstr "共振定位儀"
+
+msgid "IDS_WT_BUREAU_DESCRIPTION"
+msgstr "在戰鬥中獲得更多收益！實驗技術局加成會與艦艇上安裝的經濟加成疊加，但僅在「最終兵器：隔離」戰鬥類型中生效。"
+
+msgid "IDS_WT_BUREAU_FREEEXPFACTOR_0"
+msgstr "全息投影儀"
+
+msgid "IDS_WT_BUREAU_FREEEXPFACTOR_1"
+msgstr "射頻干擾儀"
+
+msgid "IDS_WT_BUREAU_FREEEXPFACTOR_2"
+msgstr "電磁火控系統"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_0"
+msgstr "<p>您可以花費[PR] <span class=\"currency\">反應堆合金</span>來購買實驗技術局加成，以便在駕駛獵犬艦艇戰鬥時獲得更多收益。</p><p class=\"p_spacing\"> </p><p>實驗技術局加成對埃爾梅琳達˙榮格的艦艇無效。</p>"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_1"
+msgstr "<p>注意！某些加成會顯著提高一種資源的收益，但同時會降低另一種資源的收益。</p><p class=\"p_spacing\"> </p><p>每種加成都可以升級，以進一步提高收益！</p>"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_2"
+msgstr "<p>加成分為 4 個類別：銀幣、精英指揮官經驗、自由經驗和反應堆合金。</p><p class=\"p_spacing\"> </p><p>對於同一個加成類別，只能啟用其中一個加成。</p>"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_0"
+msgstr "實驗技術局"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_1"
+msgstr "加成配置"
+
+msgid "IDS_WT_BUREAU_ONBOARDING_TITLE_2"
+msgstr "加成類別"
+
+msgid "IDS_WT_BUREAU_PURCHASE_BOOSTER_CONFIRMATION_WARNING"
+msgstr ""
+"此類別中已啟用的加成將被新加成替換。\n"
+"您可以隨時免費更換已啟用的加成。"
+
+msgid "IDS_WT_BUREAU_SUMMARY_BOOSTERS_TEXT"
+msgstr "<p>實驗技術局加成影響「最終兵器：隔離」戰鬥類型中的資源收益。</p><p class=\"p_spacing\"> </p><p>已啟用的實驗技術局加成會與艦艇上安裝的經濟加成疊加，但僅在「最終兵器：隔離」戰鬥類型中生效。實驗技術局加成不會在戰鬥中消耗。</p><p class=\"p_spacing\"> </p><p>對於同一個加成類別，只能啟用其中一個加成。</p>"
+
+msgid "IDS_WT_BUREAU_SUMMARY_BOOSTERS_TITLE"
+msgstr "加成"
+
+msgid "IDS_WT_BUREAU_SUMMARY_WT_TEXT"
+msgstr "<p>實驗技術局加成由同盟開發，對埃爾梅琳達˙榮格的艦艇無效。</p>"
+
+msgid "IDS_WT_BUREAU_SUMMARY_WT_TITLE"
+msgstr "埃爾梅琳達的艦艇"
+
+msgid "IDS_WT_BUREAU_TECH_LEVEL"
+msgstr "%(_level)s 階"
+
+msgid "IDS_WT_BUREAU_TITLE"
+msgstr "實驗技術局"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "前往「實驗技術局」畫面"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_INACTIVE"
+msgstr "您尚未啟用任何加成。"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_WARNING"
+msgstr "實驗技術局加成對埃爾梅琳達˙榮格的艦艇無效。"
+
+msgid "IDS_WT_BUREAU_TOOLTIP_TITLE"
+msgstr "已啟用的實驗技術局加成"
+
+msgid "IDS_WT_BUREAU_WAFFENTRAGERRELAYFACTOR_0"
+msgstr "擴充套件反應堆合金儲存"
+
+msgid "IDS_WT_BUREAU_WARNING"
+msgstr "實驗技術局加成對埃爾梅琳達˙榮格的艦艇無效。"
+
+msgid "IDS_WT_CR1_NAME_01"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_02"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_03"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_04"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_05"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_06"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_07"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_08"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_09"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR1_NAME_10"
+msgstr "Handwerker"
+
+msgid "IDS_WT_CR2_NAME_01"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_02"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_03"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_04"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_05"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_06"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_07"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_08"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_09"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR2_NAME_10"
+msgstr "Ingenieur"
+
+msgid "IDS_WT_CR3_NAME_01"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_02"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_03"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_04"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_05"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_06"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_07"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_08"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_09"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_CR3_NAME_10"
+msgstr "Konstruktor"
+
+msgid "IDS_WT_DD1_NAME_01"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_02"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_03"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_04"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_05"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_06"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_07"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_08"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_09"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD1_NAME_10"
+msgstr "Artillerist"
+
+msgid "IDS_WT_DD2_NAME_01"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_02"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_03"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_04"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_05"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_06"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_07"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_08"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_09"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD2_NAME_10"
+msgstr "Kanonier"
+
+msgid "IDS_WT_DD3_NAME_01"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_02"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_03"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_04"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_05"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_06"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_07"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_08"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_09"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_DD3_NAME_10"
+msgstr "Büchsenmacher"
+
+msgid "IDS_WT_FRACTION_HOUND"
+msgstr "獵犬"
+
+msgid "IDS_WT_FRACTION_TASKS_HOUND"
+msgstr "獵犬戰鬥任務"
+
+msgid "IDS_WT_FRACTION_TASKS_WAFFENTRAGER"
+msgstr "埃爾梅琳達戰鬥任務"
+
+msgid "IDS_WT_FRACTION_WAFFENTRAGER"
+msgstr "埃爾梅琳達"
+
+msgid "IDS_WT_MAINSCENARIO"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_WT_MW_PROGRESS_BUTTON_ONBOARDING"
+msgstr "關於任務與進度"
+
+msgid "IDS_WT_MW_PROGRESS_TITLE"
+msgstr "最終兵器：隔離"
+
+msgid "IDS_WT_PORTAL_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "前往「門戶戰役」畫面"
+
+msgid "IDS_WT_PORTAL_TOOLTIP_TEXT"
+msgstr "同盟與埃爾梅琳達鬥爭的背景故事，後者在厄瑞玻斯基地竊取了前者的機密檔案。"
+
+msgid "IDS_WT_PORTAL_TOOLTIP_TITLE"
+msgstr "守護厄瑞玻斯"
+
+msgid "IDS_WT_POST_PROGRESS_TOOLTIP_TEXT"
+msgstr "在共振前完成所有進度等級，您將獲得一個紀念成就！"
+
+msgid "IDS_WT_PROGRESS_BTN_GO_TO_METASHOP"
+msgstr "花費"
+
+msgid "IDS_WT_PROGRESS_CHANGE_TASK"
+msgstr "更換此任務"
+
+msgid "IDS_WT_PROGRESS_CHANGE_TASK_COST"
+msgstr "更換戰鬥任務？確認花費"
+
+msgid "IDS_WT_PROGRESS_CHANGE_TASK_WARNING"
+msgstr "完成任務獲得的獎勵也將被替換"
+
+msgid "IDS_WT_PROGRESS_CHOOSE_REWARD"
+msgstr "請選擇以下獎勵之一："
+
+msgid "IDS_WT_PROGRESS_CHOOSE_REWARD_INFO"
+msgstr "如果在共振前完成了所有進度等級，您將能夠獲得所有之前未選擇的獎勵"
+
+msgid "IDS_WT_PROGRESS_DESCRIPTION"
+msgstr "瞭解關於傳奇對抗的歷史"
+
+msgid "IDS_WT_PROGRESS_EVENT_FINISHED_TEXT"
+msgstr "<p>雙方勢均力敵——同盟和埃爾梅琳達˙榮格都被迫撤退，也均未達成目標。</p><p class=\"p_spacing\"> </p><p>世界尚不知曉發生了什麼，但幕後新的博弈已經開始。同盟擁有力量和影響力，而埃爾梅琳達擁有機密檔案和技術。</p><p class=\"p_spacing\"> </p><p>同盟無法再隱匿於陰影之中。一個日後將被稱作「共振」的時期開始了。</p>"
+
+msgid "IDS_WT_PROGRESS_FINISH_STATUS_EARLY_DONE"
+msgstr "您已完成所有進度等級並獲得了紀念成就！"
+
+msgid "IDS_WT_PROGRESS_FINISH_STATUS_NOT_PARTICIPATED"
+msgstr "您未完成任何進度等級。"
+
+msgid "IDS_WT_PROGRESS_LEVEL_COLON"
+msgstr "等級："
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_0"
+msgstr "<p>透過為每個陣營而戰——無論是幫助埃爾梅琳達˙榮格還是獵犬——您都能夠完成不同的戰鬥任務。</p><p class=\"p_spacing\"> </p><p>透過完成戰鬥任務，您將能夠獲得活動資源：[AK] <span class=\"currency\">啟用金鑰</span>，[PC] <span class=\"currency\">能量單元</span>和[PR] <span class=\"currency\">反應堆合金</span>。</p>"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_1"
+msgstr "<p>[AK] <span class=\"currency\">啟用金鑰</span>用於駕駛埃爾梅琳達的艦艇出戰。</p><p class=\"p_spacing\"> </p><p>[PR] <span class=\"currency\">反應堆合金</span>可用於購買實驗技術局加成。</p><p class=\"p_spacing\"> </p><p>[PC] <span class=\"currency\">能量單元</span>和[PR] <span class=\"currency\">反應堆合金</span>可用於在軍械庫兌換各種獎勵。</p>"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_2"
+msgstr "<p>在某些進度等級中，您將有機會從兩種獎勵中選擇一種。</p><p class=\"p_spacing\"> </p><p>如果在共振到來之前完成了所有進度等級，您將能夠獲得所有之前未選擇的獎勵。</p>"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_0"
+msgstr "戰鬥任務"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_1"
+msgstr "資源與進度"
+
+msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_2"
+msgstr "選擇獎勵"
+
+msgid "IDS_WT_PROGRESS_REWARD"
+msgstr "選擇獎勵"
+
+msgid "IDS_WT_PROGRESS_REWARD_FOR_FINISHING_TASK"
+msgstr "完成獎勵："
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_ACTIVE_TASKS_COMPLETED"
+msgstr "恭喜，您已完成所有進度等級！戰鬥任務仍然可供完成。"
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_MAX"
+msgstr "活動即將結束！您已完成所有進度等級。"
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_SKIP"
+msgstr "活動即將結束！"
+
+msgid "IDS_WT_PROGRESS_STEPS_TEXT"
+msgstr "活動進度"
+
+msgid "IDS_WT_PROGRESS_STEPS_TOOLTIP_TEXT"
+msgstr "<p>每獲得 200 個反應堆合金，您的獎勵進度等級會提升 1 級。反應堆合金本身不會被消耗。</p><p class=\"p_spacing\"> </p><p>大多數進度等級的獎勵會自動發放。</p><p class=\"p_spacing\"> </p><p>在某些進度等級中，您將有機會從兩種獎勵中選擇一種。</p>"
+
+msgid "IDS_WT_PROGRESS_TAKE_ALL_REWARDS_BUTTON"
+msgstr "領取所有獎勵"
+
+msgid "IDS_WT_PROGRESS_TASKS_COUNT"
+msgstr "<p>完成任務：<span class=\"bold\">%(_count)s</span></p>"
+
+msgid "IDS_WT_PROGRESS_TASKS_COUNT_HOUND"
+msgstr "<p>獵犬任務完成數：<span class=\"bold\">%(_count)s</span></p>"
+
+msgid "IDS_WT_PROGRESS_TASKS_COUNT_WAFFENTRAGER"
+msgstr "<p>埃爾梅琳達任務完成數：<span class=\"bold\">%(_count)s</span></p>"
+
+msgid "IDS_WT_PROGRESS_TILL_FINISH"
+msgstr "距離最終獎勵："
+
+msgid "IDS_WT_PROGRESS_TILL_NEXT_LEVEL"
+msgstr "距離下一等級："
+
+msgid "IDS_WT_PROGRESS_TIMER"
+msgstr "距離共振還剩："
+
+msgid "IDS_WT_PROGRESS_TIMER_TOOLTIP_TEXT"
+msgstr "<p>如果您在共振前完成了所有進度等級，您將能夠獲得所有之前未選擇的獎勵，並獲得一個紀念成就。</p><p class=\"p_spacing\"> </p><p>共振之後，您將還有少量時間可在軍械庫花費剩餘的反應堆合金和能量單元。</p>"
+
+msgid "IDS_WT_PROGRESS_TIMER_TOOLTIP_TITLE"
+msgstr "共振"
+
+msgid "IDS_WT_PROGRESS_TIME_LEFT"
+msgstr "距離共振還剩：%(_timeLeft)s"
+
+msgid "IDS_WT_PROGRESS_TITLE"
+msgstr "戰鬥任務與進度"
+
+msgid "IDS_WT_PROGRESS_TOOLTIP_MOUSE_INSTRUCTION"
+msgstr "前往「戰鬥任務與進度」畫面"
+
+msgid "IDS_WT_PROGRESS_TOOLTIP_STATUS_WARNING"
+msgstr "出戰所需的啟用金鑰不足"
+
+msgid "IDS_WT_REWARDS_CONTAINER_TOOLTIP_STATUS_CLAIM_REWARDS"
+msgstr "點選「領取獎勵」以獲得獎勵"
+
+msgid "IDS_WT_REWARDS_CONTAINER_TOOLTIP_STATUS_NOT_CLAIMED"
+msgstr "您將有機會從兩種獎勵中選擇一種"
+
+msgid "IDS_WT_REWARDS_CONTAINER_TOOLTIP_TITLE"
+msgstr "選擇獎勵"
+
+msgid "IDS_WT_TAGS_BOTOMANCER_CAN_SUMMON_AUTOMATONS"
+msgstr "可召喚無人艦，其將協助戰鬥併為艦艇提供增益"
+
+msgid "IDS_WT_TAGS_BOTOMANCER_CONSUMABLES_CHOICE_AVAILABLE"
+msgstr "可選消耗品"
+
+msgid "IDS_WT_TAGS_DICTATOR_BEST_MANEUVERABILITY"
+msgstr "在埃爾梅琳達˙榮格的艦艇中機動性最好"
+
+msgid "IDS_WT_TAGS_DICTATOR_CLOSE_QUARTERS"
+msgstr "近戰效率最高"
+
+msgid "IDS_WT_TAGS_DICTATOR_CONSUMABLES_AFFECT_AREA"
+msgstr "配備可對敵艦造成範圍性傷害的消耗品"
+
+msgid "IDS_WT_TAGS_DICTATOR_FIRE_ADJUSTMENT"
+msgstr "造成傷害時增強消耗品效能並提高主炮和副炮的射速"
+
+msgid "IDS_WT_TAGS_DICTATOR_SECONDARIES"
+msgstr "副炮打擊效率較高"
+
+msgid "IDS_WT_TAGS_PREDATOR_BEST_MAIN_GUNS"
+msgstr "在埃爾梅琳達˙榮格的艦艇中主炮打擊效率最高"
+
+msgid "IDS_WT_TAGS_PREDATOR_CONCEALMENT"
+msgstr "隱蔽性較好"
+
+msgid "IDS_WT_TAGS_PREDATOR_DAMAGE_PER_SALVO"
+msgstr "單輪齊射傷害較高"
+
+msgid "IDS_WT_TAGS_PREDATOR_RAGEMODE_OF_MASS_DESTRUCTION"
+msgstr "戰鬥指令可對全體敵軍造成傷害"
 
 msgid "IDS_WUJING"
 msgstr "沙悟淨"
@@ -143114,3 +146415,19 @@ msgstr[0] "對敵艦造成 %(_targetScores)s 點傷害"
 msgid "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
 msgid_plural "IDS_TRIAL_FRAGS_FULL_DESCRIPTION"
 msgstr[0] "擊沉 %(_targetScores)s 艘敵艦"
+
+msgid "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT"
+msgid_plural "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT"
+msgstr[0] "可花費能量單元和反應堆合金的時間還剩：%(_timeLeft)s"
+
+msgid "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT_MINUTES"
+msgid_plural "IDS_WT_PROGRESS_EVENT_FINISH_TIME_LEFT_MINUTES"
+msgstr[0] "可花費能量單元和反應堆合金的時間還剩：%(_timeLeft)s"
+
+msgid "IDS_WT_PROGRESS_FINISH_STATUS_SEVERAL_STEPS_COMPLETED"
+msgid_plural "IDS_WT_PROGRESS_FINISH_STATUS_SEVERAL_STEPS_COMPLETED"
+msgstr[0] "您完成了 %(_count)s 個進度等級！"
+
+msgid "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_PARTICIPATED"
+msgid_plural "IDS_WT_PROGRESS_STATUS_EVENT_FINISH_PARTICIPATED"
+msgstr[0] "活動即將結束！您完成了 %(_progress)s 個進度等級。"
