@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Korabli-L10n-CHT\n"
+"Project-Id-Version: Mir Korabley Localization CHT\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: 北斗余晖 <mikhailtapio13468@outlook.com>\n"
@@ -3092,7 +3092,7 @@ msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_HEADBUTT"
 msgstr "鐵頭功"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_INSTANT_KILL"
-msgstr "秒殺"
+msgstr "毀滅打擊"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT_EVENT_IRONCLAD"
 msgstr "勇者無懼"
@@ -3395,7 +3395,7 @@ msgid "IDS_ACHIEVEMENT_INDEPENDENCE_DAY"
 msgstr "美國獨立日"
 
 msgid "IDS_ACHIEVEMENT_INSTANT_KILL"
-msgstr "秒殺"
+msgstr "毀滅打擊"
 
 msgid "IDS_ACHIEVEMENT_IT_DD_COLL_COMPLETED"
 msgstr "義大利驅逐艦"
@@ -23367,7 +23367,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY529_2025WT_DONORPARTS"
 msgstr "對您召喚的所有無人艦造成 5000 血量傷害，並將這些傷害轉化為您艦艇的血量。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY530_2025WT_METAL_CORROSION"
-msgstr "在艦艇周圍設立一個區域。當您的艦艇受到傷害時，對區域內的所有敵艦也造成傷害。傷害總量等同於您艦艇受到的傷害，由區域內的所有敵艦平均分擔。"
+msgstr "在艦艇周圍設立一個「腐蝕力場」區域。當您的艦艇受到傷害時，對區域內的所有敵艦也造成傷害。傷害總量等同於您艦艇受到的傷害，由區域內的所有敵艦平均分擔。此外，身處「腐蝕力場」區域中的敵艦每秒都會受到相當於其基礎血量 5% 的傷害。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY532_2025WT_QUANTUMLEAP"
 msgstr "<p>啟用 7 秒後，將艦艇傳送至 10 公里範圍內的一個隨機獵犬的位置。</p><p class=\"p_spacing\"> </p><p>若 10 公里範圍內沒有獵犬艦艇，消耗品則不會被啟用。</p>"
@@ -53758,7 +53758,7 @@ msgid "IDS_PASC710_YEAR"
 msgstr "1949"
 
 msgid "IDS_PASC718"
-msgstr "碧航-蒙彼利埃"
+msgstr "AL蒙彼利埃"
 
 msgid "IDS_PASC718_DESCR"
 msgstr ""
@@ -53766,7 +53766,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PASC718_FULL"
-msgstr "碧航-蒙彼利埃"
+msgstr "AL蒙彼利埃"
 
 msgid "IDS_PASC718_NUMBER"
 msgstr "28"
@@ -60783,13 +60783,13 @@ msgid "IDS_PBSC810_YEAR"
 msgstr "1940"
 
 msgid "IDS_PBSC888"
-msgstr "外星-愛丁堡"
+msgstr "STAR愛丁堡"
 
 msgid "IDS_PBSC888_DESCR"
 msgstr "一艘被太空水晶捕獲的艦艇。此天體使用它的人形化身 Triangulum 來與人交流。隨著時間的推移，水晶的行為變得更加不可預測，她的化身逐漸意識到自己的個性並試圖斷開與它的聯繫。"
 
 msgid "IDS_PBSC888_FULL"
-msgstr "外星-愛丁堡"
+msgstr "STAR愛丁堡"
 
 msgid "IDS_PBSC888_NUMBER"
 msgstr "2"
@@ -74461,7 +74461,7 @@ msgid "IDS_PCZC434_TM_HINDEN"
 msgstr "德國戰車"
 
 msgid "IDS_PCZC434_TM_HINDEN_DESCRIPTION"
-msgstr "<p>2017 年來電話，說想要重新再來。</p><p class=\"p_spacing\"> </p><p>作為其中一艘最多功能、像坦克般的巡洋艦，Hindenburg 曾是首幾季 X 階「King of the Sea」活動和公會戰鬥中最受歡迎的艦艇。當時隊伍中常會出現三或四艘這型艦艇同時上場。</p><p class=\"p_spacing\"> </p><p>玩家們喜歡她良好的每秒平均傷害、不錯的造成起火機率、厚實的裝甲，以及德國的「水底搜索」消耗品！這也就是為什麼她總是專業玩家們的首選（且這與當時大多數玩家只擁有一艘 X 階艦艇無關）。</p><p class=\"p_spacing\"> </p><p>她的領頭羊地位後來被 Henri IV 所取代。</p>"
+msgstr "<p>2017 年來電話，說想要重新再來。</p><p class=\"p_spacing\"> </p><p>作為其中一艘最多功能、像坦克般的巡洋艦，Hindenburg 曾是首幾季 X 階「玩家錦標賽」活動和公會戰鬥中最受歡迎的艦艇。當時隊伍中常會出現三或四艘這型艦艇同時上場。</p><p class=\"p_spacing\"> </p><p>玩家們喜歡她良好的每秒平均傷害、不錯的造成起火機率、厚實的裝甲，以及德國的「水底搜索」消耗品！這也就是為什麼她總是專業玩家們的首選（且這與當時大多數玩家只擁有一艘 X 階艦艇無關）。</p><p class=\"p_spacing\"> </p><p>她的領頭羊地位後來被 Henri IV 所取代。</p>"
 
 msgid "IDS_PCZC435_TM_HENRI"
 msgstr "法式風情"
@@ -75267,7 +75267,7 @@ msgid "IDS_PCZC511_BD098_TRENTO"
 msgstr "Trento"
 
 msgid "IDS_PCZC511_BD098_TRENTO_DESCRIPTION"
-msgstr "<p>1922 年華盛頓海軍會議對巡洋艦的發展產生了決定性的影響。會議將排水量的最高參數定在 10,000 噸，火炮口徑定在 203 毫米，為全世界巡洋艦的建造設下限制。</p><p class=\\\"p_spacing\\\"> </p><p>在義大利皇家海軍中，按照這些「標準」所建造的第一批巡洋艦為 1928 至 1929 年投入服役的 Trento 和 Trieste。透過一些建造竅門、犧牲和妥協，義大利建造出了具有驚人武裝配備的高速艦艇。然而，這些艦艇的裝甲相對較弱，這是華盛頓條約型巡洋艦的典型缺點。</p>"
+msgstr "<p>1922 年華盛頓海軍會議對巡洋艦的發展產生了決定性的影響。會議將排水量的最高參數定在 10,000 噸，火炮口徑定在 203 毫米，為全世界巡洋艦的建造設下限制。</p><p class=\"p_spacing\"> </p><p>在義大利皇家海軍中，按照這些「標準」所建造的第一批巡洋艦為 1928 至 1929 年投入服役的 Trento 和 Trieste。透過一些建造竅門、犧牲和妥協，義大利建造出了具有驚人武裝配備的高速艦艇。然而，這些艦艇的裝甲相對較弱，這是華盛頓條約型巡洋艦的典型缺點。</p>"
 
 msgid "IDS_PCZC512_BD098_FUBUKI"
 msgstr "Fubuki"
@@ -82247,7 +82247,7 @@ msgid "IDS_PGES420_BD8_PREUSSEN"
 msgstr "科學泰坦"
 
 msgid "IDS_PGES428_HIPPER_GLADIATOR"
-msgstr "King of the Sea — 角鬥士"
+msgstr "玩家錦標賽 — 角鬥士"
 
 msgid "IDS_PGES429_ROON_AZUR"
 msgstr "碧藍航線"
@@ -84773,13 +84773,13 @@ msgid "IDS_PGSC502_YEAR"
 msgstr "1909"
 
 msgid "IDS_PGSC506"
-msgstr "施佩伯爵海軍上將"
+msgstr "施佩伯爵將軍"
 
 msgid "IDS_PGSC506_DESCR"
 msgstr "Admiral Graf Spee 與其他 Deutschland 級「袖珍主力艦」的差異在於她的尺寸較大，且裝甲較佳。第二次世界大戰爆發後，此艦艇在大西洋展開她的第一次，也是最後一次的破襲行動，並成功俘獲和擊沉數艘英國商船。此艦艇在拉普拉塔附近的戰役中與英國巡洋艦 Exeter、Ajax 和 Achilles 交戰，隨後前往蒙特維多進行維修。Admiral Graf Spee 的指揮官在收到假情報稱英國艦艇已集結在港口出口處待命後，下令鑿沉此艦艇。"
 
 msgid "IDS_PGSC506_FULL"
-msgstr "施佩伯爵海軍上將"
+msgstr "施佩伯爵將軍"
 
 msgid "IDS_PGSC506_NUMBER"
 msgstr "3"
@@ -84983,13 +84983,13 @@ msgid "IDS_PGSC598_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSC706"
-msgstr "高校-施佩伯爵海軍上將"
+msgstr "HSF施佩伯爵將軍"
 
 msgid "IDS_PGSC706_DESCR"
 msgstr "威廉港校的 Deutschland 級直教艦。在動畫中，該艦艇的指揮官為 Thea Kreutzer，而副指揮官為 Wilhelmina。她在排水量相當於訓練用巡洋艦的艦身裝上了 28 公分火炮，而其柴油推進裝置為她帶來了更大的巡航範圍，使其成為在偏遠地區作業的寶貴資產。在《高校艦隊》系列動畫中，她經常用於長途航行。"
 
 msgid "IDS_PGSC706_FULL"
-msgstr "高校-施佩伯爵海軍上將"
+msgstr "HSF施佩伯爵將軍"
 
 msgid "IDS_PGSC706_NUMBER"
 msgstr "3"
@@ -89762,7 +89762,7 @@ msgid "IDS_PISB539_YEAR"
 msgstr "1934"
 
 msgid "IDS_PISB708"
-msgstr "碧航-利托里奧"
+msgstr "AL利托里奧"
 
 msgid "IDS_PISB708_DESCR"
 msgstr ""
@@ -89770,7 +89770,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PISB708_FULL"
-msgstr "碧航-利托里奧"
+msgstr "AL利托里奧"
 
 msgid "IDS_PISB708_NUMBER"
 msgstr "4"
@@ -94648,7 +94648,7 @@ msgid "IDS_PJSB559_YEAR"
 msgstr "1935"
 
 msgid "IDS_PJSB700"
-msgstr "海霧-大和"
+msgstr "ARP大和"
 
 msgid "IDS_PJSB700_DESCR"
 msgstr ""
@@ -94656,7 +94656,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的同名艦艇作為範本。"
 
 msgid "IDS_PJSB700_FULL"
-msgstr "海霧-大和"
+msgstr "ARP大和"
 
 msgid "IDS_PJSB700_NUMBER"
 msgstr "4"
@@ -94665,7 +94665,7 @@ msgid "IDS_PJSB700_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSB705"
-msgstr "海霧-金剛"
+msgstr "ARP金剛"
 
 msgid "IDS_PJSB705_DESCR"
 msgstr ""
@@ -94673,7 +94673,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Kongō 作為範本。"
 
 msgid "IDS_PJSB705_FULL"
-msgstr "海霧-金剛"
+msgstr "ARP金剛"
 
 msgid "IDS_PJSB705_NUMBER"
 msgstr " "
@@ -94682,7 +94682,7 @@ msgid "IDS_PJSB705_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB706"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB706_DESCR"
 msgstr ""
@@ -94690,7 +94690,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Kirishima 作為範本。"
 
 msgid "IDS_PJSB706_FULL"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB706_NUMBER"
 msgstr " "
@@ -94699,7 +94699,7 @@ msgid "IDS_PJSB706_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB707"
-msgstr "海霧-榛名"
+msgstr "ARP榛名"
 
 msgid "IDS_PJSB707_DESCR"
 msgstr ""
@@ -94707,7 +94707,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Haruna 作為範本。"
 
 msgid "IDS_PJSB707_FULL"
-msgstr "海霧-榛名"
+msgstr "ARP榛名"
 
 msgid "IDS_PJSB707_NUMBER"
 msgstr " "
@@ -94716,7 +94716,7 @@ msgid "IDS_PJSB707_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB708"
-msgstr "海霧-比叡"
+msgstr "ARP比叡"
 
 msgid "IDS_PJSB708_DESCR"
 msgstr ""
@@ -94724,7 +94724,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- DC」中的 Hiei 作為範本。"
 
 msgid "IDS_PJSB708_FULL"
-msgstr "海霧-比叡"
+msgstr "ARP比叡"
 
 msgid "IDS_PJSB708_NUMBER"
 msgstr " "
@@ -94733,13 +94733,13 @@ msgid "IDS_PJSB708_YEAR"
 msgstr " "
 
 msgid "IDS_PJSB715"
-msgstr "高校-比叡"
+msgstr "HSF比叡"
 
 msgid "IDS_PJSB715_DESCR"
 msgstr "橫須賀女子海洋學校的航海訓練艦。雖然這艘艦艇的歷史久遠，但由於頻繁改造，比起現代艦艇她可毫不遜色。"
 
 msgid "IDS_PJSB715_FULL"
-msgstr "高校-比叡"
+msgstr "HSF比叡"
 
 msgid "IDS_PJSB715_NUMBER"
 msgstr "4"
@@ -94748,10 +94748,10 @@ msgid "IDS_PJSB715_YEAR"
 msgstr "1913"
 
 msgid "IDS_PJSB799"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB799_FULL"
-msgstr "海霧-霧島"
+msgstr "ARP霧島"
 
 msgid "IDS_PJSB801"
 msgstr "河內"
@@ -95366,7 +95366,7 @@ msgid "IDS_PJSC517_YEAR"
 msgstr "1932"
 
 msgid "IDS_PJSC519"
-msgstr "碧航-吾妻"
+msgstr "AL吾妻"
 
 msgid "IDS_PJSC519_DESCR"
 msgstr ""
@@ -95374,7 +95374,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PJSC519_FULL"
-msgstr "碧航-吾妻"
+msgstr "AL吾妻"
 
 msgid "IDS_PJSC519_NUMBER"
 msgstr "1"
@@ -95473,7 +95473,7 @@ msgid "IDS_PJSC610_YEAR"
 msgstr "1921"
 
 msgid "IDS_PJSC705"
-msgstr "海霧-妙高"
+msgstr "ARP妙高"
 
 msgid "IDS_PJSC705_DESCR"
 msgstr ""
@@ -95481,7 +95481,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Myōkō 作為範本。"
 
 msgid "IDS_PJSC705_FULL"
-msgstr "海霧-妙高"
+msgstr "ARP妙高"
 
 msgid "IDS_PJSC705_NUMBER"
 msgstr " "
@@ -95490,7 +95490,7 @@ msgid "IDS_PJSC705_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC707"
-msgstr "海霧-足柄"
+msgstr "ARP足柄"
 
 msgid "IDS_PJSC707_DESCR"
 msgstr ""
@@ -95498,7 +95498,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Ashigara 作為範本。"
 
 msgid "IDS_PJSC707_FULL"
-msgstr "海霧-足柄"
+msgstr "ARP足柄"
 
 msgid "IDS_PJSC707_NUMBER"
 msgstr " "
@@ -95507,7 +95507,7 @@ msgid "IDS_PJSC707_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC708"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC708_DESCR"
 msgstr ""
@@ -95515,7 +95515,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的 Takao 作為範本。"
 
 msgid "IDS_PJSC708_FULL"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC708_NUMBER"
 msgstr " "
@@ -95524,7 +95524,7 @@ msgid "IDS_PJSC708_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC709"
-msgstr "海霧-羽黒"
+msgstr "ARP羽黒"
 
 msgid "IDS_PJSC709_DESCR"
 msgstr ""
@@ -95532,7 +95532,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Haguro 作為範本。"
 
 msgid "IDS_PJSC709_FULL"
-msgstr "海霧-羽黒"
+msgstr "ARP羽黒"
 
 msgid "IDS_PJSC709_NUMBER"
 msgstr " "
@@ -95541,13 +95541,13 @@ msgid "IDS_PJSC709_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC717"
-msgstr "南方黃龍-朱雀"
+msgstr "南海龍王"
 
 msgid "IDS_PJSC717_DESCR"
 msgstr "在中華傳統文化中，龍擁有長長的外形、布滿鱗片的身體、蛇類動物的特徵，以及四隻腳。四海龍王為四兄弟，各自掌管四方之海的其中一方。南海龍王名為敖欽。"
 
 msgid "IDS_PJSC717_FULL"
-msgstr "南方黃龍-朱雀"
+msgstr "南海龍王"
 
 msgid "IDS_PJSC717_NUMBER"
 msgstr " "
@@ -95556,7 +95556,7 @@ msgid "IDS_PJSC717_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC718"
-msgstr "海霧-摩耶"
+msgstr "ARP摩耶"
 
 msgid "IDS_PJSC718_DESCR"
 msgstr ""
@@ -95564,7 +95564,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA-」中的同名艦艇作為範本。"
 
 msgid "IDS_PJSC718_FULL"
-msgstr "海霧-摩耶"
+msgstr "ARP摩耶"
 
 msgid "IDS_PJSC718_NUMBER"
 msgstr " "
@@ -95573,13 +95573,13 @@ msgid "IDS_PJSC718_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC727"
-msgstr "東方青龍-青龍"
+msgstr "東海龍王"
 
 msgid "IDS_PJSC727_DESCR"
 msgstr "在中華傳統文化中，龍擁有長長的外形、布滿鱗片的身體、蛇類動物的特徵，以及四隻腳。四海龍王為四兄弟，各自掌管四方之海的其中一方。東海龍王名為敖廣。"
 
 msgid "IDS_PJSC727_FULL"
-msgstr "東方青龍-青龍"
+msgstr "東海龍王"
 
 msgid "IDS_PJSC727_NUMBER"
 msgstr " "
@@ -95588,7 +95588,7 @@ msgid "IDS_PJSC727_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC737"
-msgstr "海霧-那智"
+msgstr "ARP那智"
 
 msgid "IDS_PJSC737_DESCR"
 msgstr ""
@@ -95596,7 +95596,7 @@ msgstr ""
 "此戰艦以「ARPEGGIO OF BLUE STEEL -ARS NOVA- Cadenza」中的 Nachi 作為範本。"
 
 msgid "IDS_PJSC737_FULL"
-msgstr "海霧-那智"
+msgstr "ARP那智"
 
 msgid "IDS_PJSC737_NUMBER"
 msgstr " "
@@ -95605,10 +95605,10 @@ msgid "IDS_PJSC737_YEAR"
 msgstr " "
 
 msgid "IDS_PJSC799"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC799_FULL"
-msgstr "海霧-高雄"
+msgstr "ARP高雄"
 
 msgid "IDS_PJSC810"
 msgstr "藏王P"
@@ -96148,13 +96148,13 @@ msgid "IDS_PJSD518_YEAR"
 msgstr "1937"
 
 msgid "IDS_PJSD528"
-msgstr "高校-晴風II"
+msgstr "HSF晴風II"
 
 msgid "IDS_PJSD528_DESCR"
 msgstr "這艘最初命名為 Okikaze 的 Kagero 級航海訓練艦，她是橫須賀女子海洋學校船塢中後備艦隊的一員，目前配備的組件來自打撈起來的 Harekaze 。"
 
 msgid "IDS_PJSD528_FULL"
-msgstr "高校-晴風II"
+msgstr "HSF晴風II"
 
 msgid "IDS_PJSD528_NUMBER"
 msgstr "19"
@@ -96238,7 +96238,7 @@ msgid "IDS_PJSD706_YEAR"
 msgstr "1928"
 
 msgid "IDS_PJSD708"
-msgstr "高校-晴風"
+msgstr "HSF晴風"
 
 msgid "IDS_PJSD708_DESCR"
 msgstr ""
@@ -96246,7 +96246,7 @@ msgstr ""
 "出自於系列動畫《高校艦隊》。"
 
 msgid "IDS_PJSD708_FULL"
-msgstr "高校-晴風"
+msgstr "HSF晴風"
 
 msgid "IDS_PJSD708_NUMBER"
 msgstr "18"
@@ -96255,7 +96255,7 @@ msgid "IDS_PJSD708_YEAR"
 msgstr "1939"
 
 msgid "IDS_PJSD718"
-msgstr "碧航-雪風"
+msgstr "AL雪風"
 
 msgid "IDS_PJSD718_DESCR"
 msgstr ""
@@ -96263,7 +96263,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PJSD718_FULL"
-msgstr "碧航-雪風"
+msgstr "AL雪風"
 
 msgid "IDS_PJSD718_NUMBER"
 msgstr "19"
@@ -96293,13 +96293,13 @@ msgid "IDS_PJSD808_YEAR"
 msgstr "1942"
 
 msgid "IDS_PJSD889"
-msgstr "外星-北風"
+msgstr "STAR北風"
 
 msgid "IDS_PJSD889_DESCR"
 msgstr "太空水晶捕獲了艦艇。由天體所創造來與人類交流的 Andromeda 化身意識到它的行為變得具有攻擊性，而試圖幫助人類找出水晶落到地球上的原因。"
 
 msgid "IDS_PJSD889_FULL"
-msgstr "外星-北風"
+msgstr "STAR北風"
 
 msgid "IDS_PJSD889_NUMBER"
 msgstr "0"
@@ -96383,16 +96383,16 @@ msgid "IDS_PJSS528_YEAR"
 msgstr "1944"
 
 msgid "IDS_PJSX701"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX701_FULL"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX702"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX702_FULL"
-msgstr "海霧-伊401"
+msgstr "ARP伊401"
 
 msgid "IDS_PJSX799"
 msgstr "707R"
@@ -104038,7 +104038,7 @@ msgid "IDS_PRSB549_YEAR"
 msgstr "1938"
 
 msgid "IDS_PRSB709"
-msgstr "碧航-蘇維埃俄羅斯"
+msgstr "AL蘇維埃俄羅斯"
 
 msgid "IDS_PRSB709_DESCR"
 msgstr ""
@@ -104046,7 +104046,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PRSB709_FULL"
-msgstr "碧航-蘇維埃俄羅斯"
+msgstr "AL蘇維埃俄羅斯"
 
 msgid "IDS_PRSB709_NUMBER"
 msgstr "0"
@@ -104565,7 +104565,7 @@ msgid "IDS_PRSC520_YEAR"
 msgstr "1951"
 
 msgid "IDS_PRSC523"
-msgstr "碧航-曙光"
+msgstr "AL曙光"
 
 msgid "IDS_PRSC523_DESCR"
 msgstr ""
@@ -104573,7 +104573,7 @@ msgstr ""
 "來自《碧藍航線》遊戲。"
 
 msgid "IDS_PRSC523_FULL"
-msgstr "碧航-曙光"
+msgstr "AL曙光"
 
 msgid "IDS_PRSC523_NUMBER"
 msgstr "3"
@@ -105035,13 +105035,13 @@ msgid "IDS_PRSD105_YEAR"
 msgstr "1938"
 
 msgid "IDS_PRSD106"
-msgstr "火爆(< 06.03.2017)"
+msgstr "火力(< 06.03.2017)"
 
 msgid "IDS_PRSD106_DESCR"
 msgstr "1937 年，國防委員會授權展開全新驅逐艦的設計工作，此類驅逐艦將整合西班牙內戰期間獲取的戰鬥經驗。在德國入侵之前，僅有五艘 30 計畫的驅逐艦下水。當中的領艦 Ognevoi 在 1939 年於尼古拉耶夫安放龍骨，並在 1940 年 11 月下水。當第二次世界大戰延燒到蘇聯時，艦身尚未建造完成的驅逐艦先被拖到塞凡堡，隨後又被拖到巴統。Ognevoi 服役於 1945 年，隨後加入黑海艦隊。"
 
 msgid "IDS_PRSD106_FULL"
-msgstr "火爆(< 06.03.2017)"
+msgstr "火力(< 06.03.2017)"
 
 msgid "IDS_PRSD106_NUMBER"
 msgstr "30"
@@ -105170,13 +105170,13 @@ msgid "IDS_PRSD207_YEAR"
 msgstr "1938"
 
 msgid "IDS_PRSD208"
-msgstr "火爆"
+msgstr "火力"
 
 msgid "IDS_PRSD208_DESCR"
 msgstr "1937 年，國防委員會授權展開全新驅逐艦的設計工作，此類驅逐艦將整合西班牙內戰期間獲取的戰鬥經驗。在德國入侵之前，僅有五艘 30 計畫的驅逐艦下水。當中的領艦 Ognevoi 在 1939 年於尼古拉耶夫安放龍骨，並在 1940 年 11 月下水。當第二次世界大戰延燒到蘇聯時，艦身尚未建造完成的驅逐艦先被拖到塞凡堡，隨後又被拖到巴統。Ognevoi 服役於 1945 年，隨後加入黑海艦隊。"
 
 msgid "IDS_PRSD208_FULL"
-msgstr "火爆"
+msgstr "火力"
 
 msgid "IDS_PRSD208_NUMBER"
 msgstr "30"
@@ -138054,7 +138054,7 @@ msgid "IDS_TALENT_PFW405_ACHIEVEMENT_2"
 msgstr "氣焰熏天"
 
 msgid "IDS_TALENT_PFW405_ACHIEVEMENT_2_DESCRIPTION"
-msgstr "在獲得「秒殺」成就時啟動。"
+msgstr "在獲得「毀滅打擊」成就時啟動。"
 
 msgid "IDS_TALENT_PFW405_DAMAGE_8"
 msgstr "勇往直前"
@@ -142394,7 +142394,7 @@ msgid "IDS_UNLOCKS_DESCRIPTION_24"
 msgstr "<p>在「行動」中，您的團隊必須在與電腦玩家戰鬥的同時完成各種任務。每個行動都有獨特的故事元素。</p><p class=\"p_spacing\"> </p><p>完成主要目標即可獲得勝利。完成次要目標將獲得更多資源。</p><p class=\"p_spacing\"> </p><p>行動的難度取決於隊伍中艦艇的類型和階級。</p><p class=\"p_spacing\"> </p><p>可見於戰鬥類型選擇畫面。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_2827"
-msgstr "<p>加入軍團，以參加軍團戰。</p><p class=\"p_spacing\"> </p><p>軍團戰僅在軍團戰賽季期間開放。</p><p class=\"p_spacing\"> </p><p>在軍團戰中取得勝利，獲取評級點數以晉升更高階的聯賽。</p><p class=\"p_spacing\"> </p><p>獲取石油並擴建海軍基地中的建築，可提供永久經濟加成。</p><p class=\"p_spacing\"> </p><p>建立訓練房間參與戰鬥訓練，可磨練隊伍配合能力。</p><p class=\"p_spacing\"> </p><p>軍團戰和戰鬥訓練可透過戰鬥類型選擇畫面進入。</p>"
+msgstr "<p>加入公會，以參加公會戰鬥。</p><p class=\"p_spacing\"> </p><p>公會戰鬥僅在公會戰鬥賽季期間開放。</p><p class=\"p_spacing\"> </p><p>在公會戰鬥中取得勝利，獲取評級點數以晉升更高階的聯賽。</p><p class=\"p_spacing\"> </p><p>獲取石油並擴建海軍基地中的建築，可提供永久經濟加成。</p><p class=\"p_spacing\"> </p><p>建立訓練房間參與戰鬥訓練，可磨練隊伍配合能力。</p><p class=\"p_spacing\"> </p><p>公會戰鬥和戰鬥訓練可透過戰鬥類型選擇畫面進入。</p>"
 
 msgid "IDS_UNLOCKS_DESCRIPTION_3"
 msgstr "<p>與真人玩家對戰。匹配系統將隨機建立隊伍。</p><p class=\"p_spacing\"> </p><p>戰鬥類型選項位於「加入戰鬥」按鈕的旁邊。</p>"
@@ -143659,7 +143659,7 @@ msgid "IDS_WT_BUREAU_ACTIVE_TECH_TITLE"
 msgstr "已啟用的加成"
 
 msgid "IDS_WT_BUREAU_BUTTON_ONBOARDING"
-msgstr "關於實驗技術局"
+msgstr "關於實驗局"
 
 msgid "IDS_WT_BUREAU_CARD_BUTTON_ACTIVATE"
 msgstr "啟用"
@@ -144914,7 +144914,7 @@ msgstr[0] "獲得 %(count)s 個「戰術貢獻」勛帶並存活下來。"
 
 msgid "IDS_PCQT404_1"
 msgid_plural "IDS_PCQT404_1"
-msgstr[0] "獲得 %(count)s 個「秒殺」成就。"
+msgstr[0] "獲得 %(count)s 個「毀滅打擊」成就。"
 
 msgid "IDS_PCQT405_1"
 msgid_plural "IDS_PCQT405_1"
