@@ -80876,13 +80876,13 @@ msgid "IDS_PFSC896_YEAR"
 msgstr "1936"
 
 msgid "IDS_PFSD102"
-msgstr "恩賽尼˙加博爾德"
+msgstr "加博爾德海軍少尉"
 
 msgid "IDS_PFSD102_DESCR"
 msgstr "Enseigne Gabolde 為第三艘 Enseigne Roux 級艦艇，擁有不同的推進裝置：它採用了齒輪減速渦輪機。考慮到第一次世界大戰期間得到的經驗，武器的組成因此定案改變：在艦艇上安裝三門相同口徑的火炮，再將 450 毫米魚雷發射管替換成 550 毫米魚雷發射管。Enseigne Gabolde 的設計成為了戰間期法國驅逐艦的基礎。"
 
 msgid "IDS_PFSD102_FULL"
-msgstr "恩賽尼˙加博爾德"
+msgstr "加博爾德海軍少尉"
 
 msgid "IDS_PFSD102_NUMBER"
 msgstr "1"
@@ -126407,7 +126407,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_TITLE_FULL"
 msgstr " "
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_FULL"
-msgstr "加值艦艇"
+msgstr "特殊艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL194_EPICSTD10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
@@ -144829,7 +144829,7 @@ msgid "IDS_WP_MK02_T36R"
 msgstr "Alternate"
 
 msgid "IDS_WRITEOFF_REASON"
-msgstr "移除的原因："
+msgstr "扣除的原因："
 
 msgid "IDS_WRITTENOFF"
 msgstr "已扣除："
