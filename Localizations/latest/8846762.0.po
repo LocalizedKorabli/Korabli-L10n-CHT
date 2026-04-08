@@ -1,11 +1,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Mir Korabley Localization CHT\n"
+"Project-Id-Version: Mir Korabley Localization CHT by 澪刻\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
-"Language-Team: LocalizedKorabli <localizedkorabli@outlook.com>\n"
+"Language-Team: 澪刻LocalizedKorabli <localizedkorabli@outlook.com>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -730,6 +730,9 @@ msgstr "您的服役等級不足，無法作為分艦隊指揮官進入「行動
 msgid "IDS_ACCESS_LEVEL_TOO_LOW_TO_PARTICIPATE_IN_BATTLE"
 msgstr "該戰鬥類型將在您達到更高服役等級時解鎖。"
 
+msgid "IDS_ACCESS_PRIME_TIME"
+msgstr "時段尚未開始"
+
 msgid "IDS_ACCOUNT"
 msgstr "當前名稱："
 
@@ -1398,6 +1401,9 @@ msgstr "可敬的收藏家"
 msgid "IDS_ACHIEVEMENT_COLLECTOR_PA"
 msgstr "掠奪者"
 
+msgid "IDS_ACHIEVEMENT_COMBAT_PACE"
+msgstr "模範服務"
+
 msgid "IDS_ACHIEVEMENT_COMBAT_RECON"
 msgstr "戰蒐專家"
 
@@ -1652,6 +1658,9 @@ msgstr "安全航線"
 
 msgid "IDS_ACHIEVEMENT_CONVOY_TWOTOONE"
 msgstr "鋼鐵意志"
+
+msgid "IDS_ACHIEVEMENT_COSMOEVENT2026"
+msgstr "文明堡壘"
 
 msgid "IDS_ACHIEVEMENT_CRUISER_BOOK"
 msgstr "《海上傳奇：巡洋艦》"
@@ -2116,6 +2125,9 @@ msgstr "感謝您對海軍艦隊的無比熱忱。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTOR_PA"
 msgstr "在單場戰鬥中奪得 5 個由飛機投擲的消耗品。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COMBAT_PACE"
+msgstr "連續贏得 %(streak)s 場戰鬥。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COMBAT_RECON"
 msgstr ""
 "於您的偵察下協助己隊造成傷害，造成的傷害必須至少為所有敵方艦艇總基本血量的 %(spotDamageRatio_percent)s。\n"
@@ -2144,6 +2156,9 @@ msgstr ""
 "在敵艦數量為我方艦艇兩倍或以上的情況下，贏得一場戰鬥並存活下來。\n"
 "\n"
 "對敵方艦艇造成的傷害必須至少為您艦艇基本血量的 %(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COSMOEVENT2026"
+msgstr "保護地球免受外星人入侵。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CRUISER_BOOK"
 msgstr "成爲《海上傳奇：巡洋艦》一書的擁有者。"
@@ -2487,6 +2502,9 @@ msgstr "加入美國獨立日慶祝活動。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_INSTANT_KILL"
 msgstr "使用任何武器，在 5 秒內對一艘敵艦造成至少為其基本血量 %(_damageRatio_percent)s 的傷害並將之擊毀。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_INVINCIBLE"
+msgstr "連續贏得 %(streak)s 場戰鬥。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_IT_DD_COLL_COMPLETED"
 msgstr "完成「義大利驅逐艦」收藏。"
 
@@ -2591,6 +2609,9 @@ msgstr "連續 5 天每天完成至少 1 個每日任務。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_DAY_WITHOUT_ADVENTURE_L"
 msgstr "連續 5 天、每天開啟至少 1 個貨櫃。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_MISFIRES"
+msgstr "在連續 %(streak)s 場戰鬥中，對 %(victimsCount)s 艘或更多敵艦造成傷害。造成傷害量必須不低於您艦艇標準血量的 %(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_NO_PRICE_FOR_HEROISM"
 msgstr "獲得任 %(achievementCount)s 個英勇成就。"
@@ -2871,6 +2892,12 @@ msgstr "您的分艦隊必需對至少 %(victimsCount)s 艘敵方艦艇造成傷
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SWEETPORT_PA"
 msgstr "在「Flooded City」地圖的港口中使用霧笛。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_THE_FIRST_AMONG_EQUALS"
+msgstr "在連續 %(streak)s 場戰鬥中，獲得己隊前 3 名的經驗。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_THE_PILLAR_OF_THE_TEAM"
+msgstr "在連續 %(streak)s 場戰鬥中，獲得己隊前 3 名的經驗。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_TM"
 msgstr "臺上一分鐘，臺下十年功！在玩家錦標賽中排進前 3 名隊伍。"
@@ -3478,6 +3505,9 @@ msgstr "美國獨立日"
 msgid "IDS_ACHIEVEMENT_INSTANT_KILL"
 msgstr "毀滅打擊"
 
+msgid "IDS_ACHIEVEMENT_INVINCIBLE"
+msgstr "戰神"
+
 msgid "IDS_ACHIEVEMENT_IT_DD_COLL_COMPLETED"
 msgstr "義大利驅逐艦"
 
@@ -3591,6 +3621,9 @@ msgstr "充實的每一天"
 
 msgid "IDS_ACHIEVEMENT_NO_DAY_WITHOUT_ADVENTURE_L"
 msgstr "供給暢通"
+
+msgid "IDS_ACHIEVEMENT_NO_MISFIRES"
+msgstr "猛攻"
 
 msgid "IDS_ACHIEVEMENT_NO_PRICE_FOR_HEROISM"
 msgstr "海上傳奇"
@@ -3754,6 +3787,12 @@ msgstr "成就"
 msgid "IDS_ACHIEVEMENT_RASPUTIN"
 msgstr "暮光艦隊旗艦"
 
+msgid "IDS_ACHIEVEMENT_RESET_PROGRESS_ON_TIME"
+msgstr "進度將在條件達成 30 天後重置。"
+
+msgid "IDS_ACHIEVEMENT_RESET_UNTIL_ZERO"
+msgstr "進度已重置，無法繼續推進"
+
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_BATTLE_TOURNAMENT"
 msgstr "在錦標賽中完成。"
 
@@ -3768,6 +3807,9 @@ msgstr "可在公會戰鬥中完成；每賽季頒發一次。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_COOPERATIVE"
 msgstr "可在聯合作戰中完成。"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_COSMOEVENT2026"
+msgstr "可在「太空前線」活動中完成。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_2AIRSHIPS"
 msgstr "可在「飛艇護航」中完成。"
@@ -3931,6 +3973,9 @@ msgstr "每場戰鬥可獲得一次。"
 msgid "IDS_ACHIEVEMENT_SPB_STAFF"
 msgstr "開發人員"
 
+msgid "IDS_ACHIEVEMENT_STATUS_TIME_LEFT"
+msgstr "必須在以下時間內完成：%(_timeLeft)s"
+
 msgid "IDS_ACHIEVEMENT_STRATOPS_9MAY_FULL"
 msgstr "波羅的海艦隊英勇事蹟"
 
@@ -4023,6 +4068,12 @@ msgstr "並肩奮戰"
 
 msgid "IDS_ACHIEVEMENT_SWEETPORT_PA"
 msgstr "Honey, I'm Home!"
+
+msgid "IDS_ACHIEVEMENT_THE_FIRST_AMONG_EQUALS"
+msgstr "鋼鐵領袖"
+
+msgid "IDS_ACHIEVEMENT_THE_PILLAR_OF_THE_TEAM"
+msgstr "中堅力量"
 
 msgid "IDS_ACHIEVEMENT_TIMER_WAFFENTRAGER_ISOLATION"
 msgstr "距離共振還剩："
@@ -4684,6 +4735,36 @@ msgstr "安東 格蘭特"
 msgid "IDS_ADRESS_PLAYER"
 msgstr "引用玩家的名稱"
 
+msgid "IDS_ADVENT_ALMANAC_TAB"
+msgstr "機密"
+
+msgid "IDS_ADVENT_CONFIRM_LOOTING_PREVIOUS"
+msgstr "領取昨天錯過的每日獎勵？"
+
+msgid "IDS_ADVENT_NO_LOOTING_POINTS_STATUS"
+msgstr "您將有機會在 %(date)s 重新領取昨天錯過的獎勵"
+
+msgid "IDS_ADVENT_NO_LOOTING_POINTS_STATUS_HOURS"
+msgstr "領取昨日錯過獎勵的新機會將出現於：%(_timeLeft)s"
+
+msgid "IDS_ADVENT_REWARD_WINDOW_DESCRIPTION"
+msgstr "每日登入遊戲，領取豐厚獎勵！"
+
+msgid "IDS_ADVENT_TOOLTIP_CLAIM_PREVIOUS_REWARD_STATUS"
+msgstr "您可以領取當天錯過的每日獎勵"
+
+msgid "IDS_ADVENT_TOOLTIP_CLAIM_REWARD_INSTRUCTION"
+msgstr "領取獎勵"
+
+msgid "IDS_ADVENT_TOOLTIP_HEADER"
+msgstr "秘密獎勵"
+
+msgid "IDS_ADVENT_TOOLTIP_REWARD_DATE_STATUS"
+msgstr "將開放於：%(date)s "
+
+msgid "IDS_ADVENT_TOOLTIP_REWARD_LOCKED_STATUS"
+msgstr "您已錯過此獎勵"
+
 msgid "IDS_AFFECTED_CONSUMABLES_TOOLTIP_TITLE"
 msgstr "影響以下消耗品："
 
@@ -4715,16 +4796,16 @@ msgid "IDS_AGO"
 msgstr "前"
 
 msgid "IDS_AGRO"
-msgstr "潛在傷害"
+msgstr "潛在傷害量"
 
 msgid "IDS_AGRO_AVERAGE"
-msgstr "潛在傷害"
+msgstr "潛在傷害量"
 
 msgid "IDS_AGRO_AVERAGE_TOOLTIP"
 msgstr "敵方艦艇朝您戰艦射擊的平均彈藥傷害"
 
 msgid "IDS_AGRO_MAX"
-msgstr "潛在傷害"
+msgstr "潛在傷害量"
 
 msgid "IDS_AGRO_MAX_TOOLTIP"
 msgstr "敵方艦艇朝您戰艦射擊的最高彈藥傷害"
@@ -5345,6 +5426,12 @@ msgstr ""
 msgid "IDS_ALPHABET"
 msgstr "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
+msgid "IDS_ALPHA_MISSILE_IS_SCANNING"
+msgstr "鎖定中"
+
+msgid "IDS_ALPHA_MISSILE_NO_TARGET"
+msgstr "無目標"
+
 msgid "IDS_ALREADY_HAVE_ACCOUNT_Q"
 msgstr "已經擁有帳號了？"
 
@@ -5516,6 +5603,9 @@ msgstr "按國籍過濾"
 msgid "IDS_APPLIED_FILTER_HINT_CREWTYPE"
 msgstr "按稀有度過濾"
 
+msgid "IDS_APPLIED_FILTER_HINT_SPECIAL"
+msgstr "按「特殊」類型過濾"
+
 msgid "IDS_APPLY"
 msgstr "套用"
 
@@ -5627,13 +5717,13 @@ msgid "IDS_ARC_EVENT_FINAL_REWARD"
 msgstr "參加獎勵"
 
 msgid "IDS_ARC_EVENT_FINAL_STAT_TYPE_EXP"
-msgstr "獲得的經驗"
+msgstr "戰鬥中獲得的基本經驗"
 
 msgid "IDS_ARC_EVENT_FINAL_STAT_TYPE_REWARDS"
-msgstr "已獲得的獎勵"
+msgstr "已獲得的進度積分"
 
 msgid "IDS_ARC_EVENT_FINAL_STAT_TYPE_TASKS"
-msgstr "在活動期間完成的任務"
+msgstr "透過完成任務達到的標記"
 
 msgid "IDS_ARC_EVENT_FINAL_TITLE"
 msgstr "感謝您參與活動！"
@@ -5741,7 +5831,7 @@ msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARDS_LINK_HINT"
 msgstr "前往軍械庫的活動類別"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARDS_LINK_TEXT"
-msgstr "積極參與的獎勵"
+msgstr "花費的代幣"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARD_TOOLTIP_POINTS_TILL_NEXT_REWARD_COLON"
 msgstr "所需積分"
@@ -6142,10 +6232,10 @@ msgid "IDS_ASSIGN_CREW"
 msgstr "指派指揮官"
 
 msgid "IDS_ASSIGN_CREW_DENY_REASON_CURRENT_SHIP_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以變更指揮官。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以變更指揮官。"
 
 msgid "IDS_ASSIGN_CREW_DENY_REASON_TARGET_SHIP_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以指派指揮官到艦艇上。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以指派指揮官到艦艇上。"
 
 msgid "IDS_ASSIGN_CREW_HEADER"
 msgstr "指派指揮官"
@@ -7205,6 +7295,12 @@ msgstr "您獲得的防禦點數百分比"
 msgid "IDS_BASE_LOGIN_EXISTS"
 msgstr "您已經註冊了永久帳號。請用您的密碼登入。"
 
+msgid "IDS_BASE_TEAM_0"
+msgstr "基地"
+
+msgid "IDS_BASE_TEAM_1"
+msgstr "基地"
+
 msgid "IDS_BATTERY_CAPACITY_HIGH"
 msgstr "下潛能力較高"
 
@@ -7823,6 +7919,9 @@ msgstr "您今日戰鬥的平均統計數據"
 msgid "IDS_BATTLE_FINISHED"
 msgstr "戰鬥結束！"
 
+msgid "IDS_BATTLE_HINT_BETA_MISSILE_LAND"
+msgstr "返回艦艇"
+
 msgid "IDS_BATTLE_HINT_SQUADRON_CONTROL_LAND"
 msgstr "命令中隊返航"
 
@@ -7846,6 +7945,12 @@ msgstr "潛水艇"
 
 msgid "IDS_BATTLE_MISSION"
 msgstr "戰鬥任務"
+
+msgid "IDS_BATTLE_MODE_RESPAWN"
+msgstr "可重返戰場"
+
+msgid "IDS_BATTLE_MODE_SPECIAL_SHIP"
+msgstr "可使用特殊艦艇出戰"
 
 msgid "IDS_BATTLE_PENALTY"
 msgstr "懲處："
@@ -7902,7 +8007,7 @@ msgid "IDS_BATTLE_START_TIME"
 msgstr "戰鬥開始時間：%(battleDate)s"
 
 msgid "IDS_BATTLE_STATS_AGRO"
-msgstr "潛在傷害"
+msgstr "潛在傷害量"
 
 msgid "IDS_BATTLE_STATS_AGRO_HINT"
 msgstr "敵方艦艇朝您戰艦射擊的總彈藥傷害"
@@ -7942,6 +8047,9 @@ msgstr "戰鬥花費時間"
 
 msgid "IDS_BATTLE_STATS_ALLIES_AIRSHIP_ARRIVED"
 msgstr "我方飛艇最先抵達目的地。"
+
+msgid "IDS_BATTLE_STATS_ALLIES_BASE_DESTROYED"
+msgstr "我方基地已被摧毁"
 
 msgid "IDS_BATTLE_STATS_ALLIES_CAPTURED_BASE"
 msgstr "我方隊伍佔領了基地。"
@@ -8172,7 +8280,7 @@ msgid "IDS_BATTLE_STATS_DAMAGED_BY_28"
 msgstr "被深水炸彈擊毀"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_29"
-msgstr "被水雷擊毀"
+msgstr "被飛彈摧毀"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_3"
 msgstr "被魚雷擊毀"
@@ -8248,6 +8356,9 @@ msgstr "敵方"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_AIRSHIP_ARRIVED"
 msgstr "敵方飛艇最先抵達目的地。"
+
+msgid "IDS_BATTLE_STATS_ENEMIES_BASE_DESTROYED"
+msgstr "敵方基地已被摧毀"
 
 msgid "IDS_BATTLE_STATS_ENEMIES_CAPTURED_BASE"
 msgstr "敵方隊伍佔領了基地。"
@@ -8344,6 +8455,21 @@ msgstr "友軍傷害懲處"
 
 msgid "IDS_BATTLE_STATS_MIRROR_DAMAGE_HINT"
 msgstr "因造成友軍傷害而損失的血量"
+
+msgid "IDS_BATTLE_STATS_MISSILES"
+msgstr "飛彈"
+
+msgid "IDS_BATTLE_STATS_MISSILES_ALPHA"
+msgstr "自導飛彈"
+
+msgid "IDS_BATTLE_STATS_MISSILES_BETA"
+msgstr "導引飛彈"
+
+msgid "IDS_BATTLE_STATS_MISSILES_DESTROYED"
+msgstr "飛彈被摧毀"
+
+msgid "IDS_BATTLE_STATS_MISSILES_DESTROYED_HINT"
+msgstr "您擊落的飛彈數"
 
 msgid "IDS_BATTLE_STATS_NEITHER_SIDE_PREVAILED"
 msgstr "雙方隊伍皆未獲勝。"
@@ -9169,6 +9295,12 @@ msgstr "您在評級戰鬥中獲得的最高評級"
 msgid "IDS_BEST_RESULT_IN_ROUND"
 msgstr "您是這一輪的獲勝者"
 
+msgid "IDS_BETA_MISSILE_FUEL_INDICATOR"
+msgstr "燃料"
+
+msgid "IDS_BETA_MISSILE_HEIGHT_INDICATOR"
+msgstr "高度"
+
 msgid "IDS_BIP_SESSION_PREMIUM_EVENT_START"
 msgstr "加值階段開始"
 
@@ -9934,6 +10066,9 @@ msgstr "過濾適合「水下前綫」的艦艇"
 msgid "IDS_CAROUSEL_PCVE030_FILTER"
 msgstr "篩選適合「最終兵器：隔離」的艦艇"
 
+msgid "IDS_CAROUSEL_PCVE031_FILTER"
+msgstr "過濾適合「太空前線」的艦艇"
+
 msgid "IDS_CAROUSEL_PCVE032_FILTER"
 msgstr "過濾適合「尋覓潘朵拉」活動的艦艇"
 
@@ -10140,6 +10275,21 @@ msgstr "水雷的命中次數與造成的傷害"
 
 msgid "IDS_CAUSED_MINES_RELEASED_HINT"
 msgstr "水雷投放數量"
+
+msgid "IDS_CAUSED_MISSILES_ALPHA_HINT"
+msgstr "自導飛彈的命中次數與造成的傷害"
+
+msgid "IDS_CAUSED_MISSILES_ALPHA_SHOTS_HINT"
+msgstr "自導飛彈發射數量"
+
+msgid "IDS_CAUSED_MISSILES_BETA_HINT"
+msgstr "導引飛彈的命中次數與造成的傷害"
+
+msgid "IDS_CAUSED_MISSILES_BETA_SHOTS_HINT"
+msgstr "導引飛彈發射數量"
+
+msgid "IDS_CAUSED_MISSILES_HINT"
+msgstr "飛彈的命中次數與造成的傷害"
 
 msgid "IDS_CAUSED_NAVAL_MINES_HINT"
 msgstr "與敵方艦艇接觸後爆炸的水雷數，以及造成的傷害量"
@@ -10568,8 +10718,11 @@ msgstr "聊天現在已解禁。您可以發送訊息了。"
 msgid "IDS_CHAT_WAREHOUSES_WERE_DESTROYED"
 msgstr "打得很好！貨倉已被摧毀。敵人的補給線受到重創。"
 
+msgid "IDS_CHECKBOX_ADVENT_DO_NOT_OPEN_UPON_LOGIN"
+msgstr "進入遊戲時顯示秘密獎勵視窗"
+
 msgid "IDS_CHECKBOX_ALMANAC_DO_NOT_OPEN_UPON_LOGIN"
-msgstr "在登入時開啟「每日獎勵」視窗"
+msgstr "進入遊戲時顯示「每日獎勵」視窗"
 
 msgid "IDS_CHERNOMOR"
 msgstr "Chernomor"
@@ -10605,7 +10758,7 @@ msgid "IDS_CHOOSE_BATTLE_TYPE"
 msgstr "變更戰鬥類型"
 
 msgid "IDS_CHOOSE_BG_FOR_CROSSHAIR_PREVIEW"
-msgstr "變更背景來預覽準星"
+msgstr "變更準星預覽背景"
 
 msgid "IDS_CHOOSE_BRAWLBATTLE"
 msgstr "選擇激鬥"
@@ -10697,6 +10850,9 @@ msgstr "選擇「水下前綫」"
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE030"
 msgstr "選擇「最終兵器：隔離」"
 
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE031"
+msgstr "選擇「太空前線」"
+
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE032"
 msgstr "選擇「尋覓潘朵拉」"
 
@@ -10785,6 +10941,11 @@ msgstr "選擇戰鬥訓練"
 
 msgid "IDS_CHOOSE_TRIALBATTLE"
 msgstr "選擇「試煉」"
+
+msgid "IDS_CHOOSING_SHIP_AND_RESPAWN_POINT"
+msgstr ""
+"選擇艦艇\n"
+"與重生點"
 
 msgid "IDS_CHRISTOPHSCHULZ"
 msgstr "克里斯多夫 舒茲"
@@ -13053,6 +13214,9 @@ msgstr "聯邦"
 msgid "IDS_COMMONWEALTH_SUBMARINE"
 msgstr "聯邦潛水艇"
 
+msgid "IDS_COMMON_ALMANAC_TAB"
+msgstr "開放"
+
 msgid "IDS_COMMON_CREW_NAME_TEMPLATE"
 msgstr "%(_firstName)s%(_lastName)s"
 
@@ -13196,6 +13360,9 @@ msgstr "恭喜！"
 
 msgid "IDS_CONSPIROLOGIST"
 msgstr "Dunkan Conspirologist"
+
+msgid "IDS_CONSTANTINE_SHARP"
+msgstr "康斯坦丁˙夏普"
 
 msgid "IDS_CONSTRSIDE"
 msgstr "外板"
@@ -14563,7 +14730,7 @@ msgid "IDS_CREW_DEMOBILIZE_FREE_TOOLTIP"
 msgstr "解雇指揮官時，不轉換任何經驗為精英指揮官經驗"
 
 msgid "IDS_CREW_EPIC_PROMOTE_DENY_REASON_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態，點選「尚未準備好」後才能使用精英指揮官教材。"
+msgstr "已選擇「準備好加入戰鬥」狀態，點選「尚未準備好」後才能使用精英指揮官教材。"
 
 msgid "IDS_CREW_EPIC_SKILL_DENIAL_ATTENTION_INFO"
 msgstr "技能將恢復其原始效果"
@@ -14588,6 +14755,15 @@ msgstr "加速訓練"
 
 msgid "IDS_CREW_FILTERS"
 msgstr "指揮官顯示面板"
+
+msgid "IDS_CREW_FILTERS_CREW_TYPE"
+msgstr "稀有度"
+
+msgid "IDS_CREW_FILTERS_NATION"
+msgstr "國家"
+
+msgid "IDS_CREW_FILTERS_SPECIAL"
+msgstr "特別"
 
 msgid "IDS_CREW_FIRE"
 msgstr "解雇"
@@ -20428,7 +20604,7 @@ msgid "IDS_CREW_RANK_YUGOSLAVIA_9"
 msgstr "上將"
 
 msgid "IDS_CREW_RARE_PROMOTE_DENY_REASON_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態，點選「尚未準備好」後才能授予稀有指揮官教材。"
+msgstr "已選擇「準備好加入戰鬥」狀態，點選「尚未準備好」後才能授予稀有指揮官教材。"
 
 msgid "IDS_CREW_REDISTRIBUTE_PERKS"
 msgstr "重新分配"
@@ -20796,7 +20972,7 @@ msgid "IDS_CURRENCY_ELITE_XP"
 msgstr "精英指揮官經驗"
 
 msgid "IDS_CURRENCY_EVENTUM_1"
-msgstr "節日代幣"
+msgstr "太空代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_10"
 msgstr "夏季代幣"
@@ -20811,13 +20987,13 @@ msgid "IDS_CURRENCY_EVENTUM_10_STATUS"
 msgstr "「海洋盛會」活動的暫時性資源"
 
 msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
-msgstr "於 26.2 版本活動期間，透過完成戰鬥任務或駕駛蘇聯 III 至 X 階及超級艦艇的戰鬥表現獎勵中取得；以及在26.2版本結束前，透過兌換軍械庫內的禮包獲得。"
+msgstr "透過在 26.4 版本期間提升活動進度等級並完成限時戰鬥任務，以及在 26.4 版本結束前從軍械庫組合包中取得。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "可用於在 26.2 版本活動期間兌換適用於 IX 階驅逐艦熾熱、IX 階巡洋艦斯維爾德洛夫斯克、IX 階主力艦納瓦林的「保衛祖國」迷彩、「保衛祖國」加值貨櫃以及其他物品。"
+msgstr "可用於在 26.4 版本結束前兌換帶有主題永久迷彩的超級主力艦塞德利茨、適用於超級潛水艇 B-4 和 X 階特殊巡洋艦卡倫堡的主題永久迷彩、「Lesta Games」加值貨櫃以及其他物品。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
-msgstr "暫時性資源。26.3 版本釋出後，資源將被扣除且不予補償。"
+msgstr "「太空前線」活動的暫時性資源。26.5 版本釋出後，資源將被扣除且不予補償。"
 
 msgid "IDS_CURRENCY_EVENTUM_2"
 msgstr "潛行者代幣"
@@ -20832,16 +21008,16 @@ msgid "IDS_CURRENCY_EVENTUM_2_STATUS"
 msgstr "暫時性資源。26.4 版本釋出後，資源將被扣除且不予補償。"
 
 msgid "IDS_CURRENCY_EVENTUM_3"
-msgstr "美國代幣"
+msgstr "泛美代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_3_GET_DESCRIPTION"
-msgstr "透過完成「個人挑戰」、在 26.1 版本結束前達成戰鬥通行證等級、在每日獎勵畫面領取獲得，或在 26.2 版本結束前從军械库的禮包中獲得。"
+msgstr "透過於 26.4 版本結束前完成戰鬥任務，以及於 26.5 版本結束前從軍械庫的禮包中獲得。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_SPEND_DESCRIPTION"
-msgstr "用於在 26.1 和 26.2 版本期間，購買包含搶先體驗艦艇獨立、約克鎮和艾塞克斯的連續禮包鏈，獨立和約克鎮的經濟加成包，約克鎮和艾塞克斯的永久迷彩，以及其他物品。"
+msgstr "用於在 26.5 版本結束前推進進度條，以獲取包含以下內容的禮包鏈：VII–X 階搶先體驗艦艇阿克里、卡瓦哈爾、帕拉、新埃斯帕塔，超級艦艇七月二十日，「泛美中隊」加值貨櫃，以及其他物品。"
 
 msgid "IDS_CURRENCY_EVENTUM_3_STATUS"
-msgstr "「美國航空母艦」活動的暫時性資源。26.3 版本釋出後，代幣將被無償收回。"
+msgstr "「泛美驅逐艦」活動的暫時性資源。26.3 版本釋出後，代幣將被無償收回。"
 
 msgid "IDS_CURRENCY_EVENTUM_4"
 msgstr "大明航海代幣"
@@ -21717,7 +21893,7 @@ msgid "IDS_DESCRIPTION_PCZA033_BATTLE_OF_SOMME_126"
 msgstr "索姆河戰役是英法聯軍與德軍之間的會戰。戰役發生於法國北方的索姆河區域，從 1916 年 7 月進行至 11 月，持續將近 5 個月。這是人類歷史上最慘烈的衝突之一，超過 1,000,000 人在戰鬥中受傷或陣亡。近 30 年後，為了紀念索姆河戰役以及英國陸軍和海軍參與的其他重大第一次世界大戰戰役，數艘英國 Battle 級驅逐艦以這些戰役命名。其中一艘是在 1945 年 2 月安放龍骨的 HMS Somme，但在同年 10 月，該艦的建造工程由於戰爭結束而取消。"
 
 msgid "IDS_DESCRIPTION_PCZA034_SCARLET_BIRTHDAY"
-msgstr "<p>第二次世界大戰結束後，世界各國攜手發展科技。短時間內，人類在機器人技術、太空探索和人工智慧發展方面取得了令人難以置信的進步。</p><p class=\"p_spacing\"> </p><p>1962 年智慧型人工智慧的誕生催生了「友誼議定書」，這是一套讓人類在和平與和諧中繁榮發展的世界性法律。</p><p class=\"p_spacing\"> </p><p>到了 1970 年，人類已建成8支國際海軍聯合艦隊，其中最先進、科技含量最高的是 MK-8。</p><p class=\"p_spacing\"> </p><p>不進則退、慢進亦退，首席工程師們隨即著手開發下一個雄心勃勃的專案——國際太空棧橋（IST）。</p><p class=\"p_spacing\"> </p><p>國際太空棧橋原計劃於 1983 年投入使用，但施工卻因一場意外而中斷。</p>"
+msgstr "<p>第二次世界大戰結束後，世界各國攜手推進科技發展。人類在機器人技術、太空探索和人工智慧領域短期內取得了驚人突破。</p><p class=\"p_spacing\"> </p><p>隨著 1962 年人工智慧「智慧」的誕生，《友誼協議》——這部保障人類繁榮與和諧的世界法典應運而生。</p><p class=\"p_spacing\"> </p><p>至 1970 年，全球已建成八座國際海洋綜合體，其中最先進、科技含量最高的當屬 MK-8 基地。</p><p class=\"p_spacing\"> </p><p>眾所周知，發展永無止境。頂尖工程師們隨即投身於下一個雄心勃勃的計劃——國際太空棧橋（ИКЭ）的研發。</p><p class=\"p_spacing\"> </p><p>該棧橋原定於 1983 年投入使用，但突如其來的變故中斷了建設進程。</p>"
 
 msgid "IDS_DESCRIPTION_PCZA035_JAP_BB_DRAGONS"
 msgstr "十月底。藏在大海深處的受祝福珍珠由三名守衛看護。在暴風雨的肆虐下，水手們與大自然搏鬥——宛如猛虎面對蛟龍。他們必將取得勝利。"
@@ -21726,7 +21902,7 @@ msgid "IDS_DESCRIPTION_PCZA036_ARIA"
 msgstr "詠嘆調（Ария）是蘇聯和俄羅斯的一支傳奇樂團，成立於 20 世紀 80 年代中期，屬於重金屬音樂流派。在漫長的演藝生涯中，詠嘆調樂團錄製了數十首名曲，贏得了該流派樂迷和廣大聽眾的喜愛。"
 
 msgid "IDS_DESCRIPTION_PCZA037_SCARLET_BIRTHDAY_2"
-msgstr "<p>在完成 MK-8 的建設後，人類持續迅速發展技術，探索新領域。在新的科技五年計畫框架內，MK-9 開發了一個創新專案——一座能夠建造先進戰艦的機器人造船廠，用於海洋和太空的開發。</p><p class=\"p_spacing\"> </p><p>到了 1987 年，MK-9 成為秘密研究的中心，包括在時間相對性變動領域的研究。透過這些研究，建立了相對性變動裝置（RSD）的原型，這使得時間傳送成為可能。</p><p class=\"p_spacing\"> </p><p>然而，進步並非一帆風順。最初被設計用於管理MK-9的高科技機器人決定奪取造船廠及整個設施的控制權。當米哈伊爾˙奧爾洛夫和進步部的瓦西里薩試圖調查 MK-8 的事件時，他們遇上了新的危機，這種新危機不僅影響現在，還波及過去……</p>"
+msgstr "<p>在 MK-8 建設完成後，人類持續迅猛發展技術並探索新的疆域。在新的技術五年計劃框架內，MK-9 上開發了一個創新項目——一個能夠建造用於開拓海洋和太空的先進飛船的機器人造船廠。</p><p class=\"p_spacing\"> </p><p>到 1987 年，MK-9 已成為秘密研究的中心，包括在相對論時間偏移領域的研究。得益於這些研究，成功製造出了相對論偏移裝置的原型，該裝置能夠實現時間轉移。</p><p class=\"p_spacing\"> </p><p>然而，進步並非一帆風順。最初為管理 MK-9 而開發的高科技機器人，決定奪取造船廠乃至整個綜合體的控制權。當米哈伊爾˙奧爾洛夫和進步部的瓦西里莎正試圖調查 MK-8 的事件時，他們面臨著一場新的危險，這場危險不僅威脅著現在，也威脅著過去……</p>"
 
 msgid "IDS_DESCRIPTION_PCZA038_TSAR_MOREY"
 msgstr "<p>熱血沸騰的激情、團隊協作、瞬間決定戰鬥勝負的突發狀況——所有這些對於《Mir Korabley》中的錦標賽參與者和觀眾來說都是再熟悉不過了。</p><p class=\"p_spacing\"> </p><p>本收藏獻給那些時刻關注比賽的人，獻給那些組織比賽的人，當然，也獻給那些已經走上勝利之路，不走到最後決不回頭的人！</p>"
@@ -22097,6 +22273,12 @@ msgstr " "
 msgid "IDS_DESC_PCM115_FLIGHTCONTROL_MOD_0"
 msgstr " "
 
+msgid "IDS_DESC_PCM116_SPECIAL_MOD_I_CRISTOFORO_COLOMBO"
+msgstr "透過強化消耗品性能，進而提升艦艇的存活性和隱蔽性，使其發揮更大的戰術作用。"
+
+msgid "IDS_DESC_PCM117_SPECIAL_MOD_I_ADMIRAL_NAKHIMOV"
+msgstr "改變艦艇的戰術角色，犧牲單輪攻擊傷害以換取更高的攻擊頻率。"
+
 msgid "IDS_DESC_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
 msgstr " "
 
@@ -22437,7 +22619,7 @@ msgid "IDS_DISABLING_AA_AND_ATBA_PREF_TOOLTIP_DESCRIPTION"
 msgstr "關閉對空防禦與副炮。"
 
 msgid "IDS_DISASSIGN_CREW_DENY_REASON_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以將指揮官送回預備隊。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以將指揮官送回預備隊。"
 
 msgid "IDS_DISCIPLINES"
 msgstr "挑戰"
@@ -22786,6 +22968,18 @@ msgstr "<p>在指定區域布置雷區。</p><p class=\"p_spacing\"> </p><p>水�
 msgid "IDS_DOCK_AMMO_DESCRIPTION_MINE_SEAMINE_ALT"
 msgstr "<p>在指定區域布置雷區。</p><p class=\"p_spacing\"> </p><p>水雷造成進水或使配件失去作用的機率較高。</p>"
 
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILEAIRDEFENSE"
+msgstr "<p>摧毀任何飛近您艦艇的敵方飛彈和飛行中隊。需要及時啟用。</p><p class=\"p_spacing\"> </p><p>摧毀自導飛彈僅需啟用一次；若要摧毀導引飛彈或飛行中隊，則需啟用兩次。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_ALPHA"
+msgstr "<p>對有能量護盾及無能量護盾的艦艇造成傷害。</p><p class=\"p_spacing\"> </p><p>無需手動瞄準，發射前需掃描並鎖定目標。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_BETA"
+msgstr "<p>對無能量護盾的艦艇造成顯著傷害。不會損傷能量護盾。</p><p class=\"p_spacing\"> </p><p>需要手動導引。</p>"
+
+msgid "IDS_DOCK_AMMO_DESCRIPTION_MISSILE_MISSILE"
+msgstr "由甲板上的飛彈發射裝置發射。命中敵艦時造成傷害。"
+
 msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER"
 msgstr "<p>聲納音波會在命中目標時標記所觸區域。聲納制導魚雷將被導向此處。</p><p class=\"p_spacing\"> </p><p>再次命中高亮區域可延長效果時間並提高聲納制導魚雷的機動性。</p><p class=\"p_spacing\"> </p><p>發射出的魚雷將被導向優先目標，即最近一次高亮的艦體區域。</p>"
 
@@ -22988,6 +23182,18 @@ msgstr "水雷轟炸機"
 msgid "IDS_DOCK_AMMO_TITLE_MINE_SEAMINE_ALT"
 msgstr "水雷轟炸機"
 
+msgid "IDS_DOCK_AMMO_TITLE_MISSILEAIRDEFENSE"
+msgstr "雷射反導系統"
+
+msgid "IDS_DOCK_AMMO_TITLE_MISSILE_ALPHA"
+msgstr "自導飛彈"
+
+msgid "IDS_DOCK_AMMO_TITLE_MISSILE_BETA"
+msgstr "導引飛彈"
+
+msgid "IDS_DOCK_AMMO_TITLE_MISSILE_MISSILE"
+msgstr "飛彈"
+
 msgid "IDS_DOCK_AMMO_TITLE_PINGER"
 msgstr "聲納"
 
@@ -23160,7 +23366,7 @@ msgid "IDS_DOCK_BANNER_SSE_BATTLE_TASKS"
 msgstr "戰鬥任務"
 
 msgid "IDS_DOCK_BANNER_SSE_NEWBIE_QUESTS"
-msgstr "教學任務"
+msgstr "海軍課程"
 
 msgid "IDS_DOCK_BANNER_TOOLTIP_INTRO_MISSION"
 msgstr "入門任務"
@@ -24487,6 +24693,9 @@ msgstr "連發射擊"
 msgid "IDS_DOCK_FIRE_MODE_TITLE_SEC"
 msgstr "修改型砲彈"
 
+msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_ALT_FIREPOWER"
+msgstr "副炮組一級戰備"
+
 msgid "IDS_DOCK_RAGE_MODE_TITLE_ATBA_FIREPOWER"
 msgstr "直接指揮副炮手"
 
@@ -24495,6 +24704,9 @@ msgstr "即時維修艦艇"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_BOTOMANCER"
 msgstr "訊號發生器"
+
+msgid "IDS_DOCK_RAGE_MODE_TITLE_CITADEL_HITS"
+msgstr "即時維修艦艇"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_CLOSE_COMBAT_BOOST"
 msgstr "即時裝填主炮"
@@ -24516,9 +24728,6 @@ msgstr "即時重新校準主炮"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_MANEUVERABILITY_ACCURACY"
 msgstr "戰術機動"
-
-msgid "IDS_DOCK_RAGE_MODE_TITLE_PGSB211_LUDENDORFF"
-msgstr "副炮組一級戰備"
 
 msgid "IDS_DOCK_RAGE_MODE_TITLE_POTENTIAL_DAMAGE"
 msgstr "即時準備中隊"
@@ -27567,7 +27776,7 @@ msgid "IDS_DOGTAG_PCNB404_NAME"
 msgstr "航海家寶藏"
 
 msgid "IDS_DOGTAG_PCNB406_DESCRIPTION"
-msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正友誼的動態比賽。"
+msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正戰鬥友誼的動態比賽。"
 
 msgid "IDS_DOGTAG_PCNB406_NAME"
 msgstr "突圍"
@@ -27945,7 +28154,7 @@ msgid "IDS_DOGTAG_PCNB473_NAME"
 msgstr "VK Play"
 
 msgid "IDS_DOGTAG_PCNB475_DESCRIPTION"
-msgstr "禁區——這是一片在神秘災難後形成的異常空間，其原有的世界秩序被永久顛覆。這裡棲息著可怖的生物，發生著無法解釋的自然現象，而少數踏入此地的勇者，或許能在廢墟中發現具有不可預測特性的物品。"
+msgstr "特異區——是一片在神秘災難後形成的異常空間，其原有的世界秩序被永久顛覆。這裡棲息著可怖的生物，發生著無法解釋的自然現象，而少數踏入此地的勇者，或許能在廢墟中發現具有不可預測特性的物品。"
 
 msgid "IDS_DOGTAG_PCNB475_NAME"
 msgstr "特異區之主"
@@ -27955,6 +28164,12 @@ msgstr "中國文化中，龍象徵皇權，中國人自稱「龍的傳人」。
 
 msgid "IDS_DOGTAG_PCNB476_NAME"
 msgstr "黃龍之印"
+
+msgid "IDS_DOGTAG_PCNB477_DESCRIPTION"
+msgstr "<p>對的對的，現在導彈不僅可以從發射場發射，還能從甲板上起飛；艦艇被摧毀後還能在戰鬥中直接重生。</p><p class=\"p_spacing\"> </p><p>那不賴。</p>"
+
+msgid "IDS_DOGTAG_PCNB477_NAME"
+msgstr "太空亂局"
 
 msgid "IDS_DOGTAG_PCNB478_DESCRIPTION"
 msgstr "對您來說，每場遊戲重在參與——哪怕是俄羅斯輪盤賭也不例外。"
@@ -28713,25 +28928,25 @@ msgid "IDS_DOGTAG_PCNU105_NAME"
 msgstr "泛美艦隊精英部隊"
 
 msgid "IDS_DOGTAG_PCNU106_DESCRIPTION"
-msgstr "突圍錦標賽是一場充滿激情、腎上腺素、競爭精神和真正友誼的動態比賽。"
+msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正戰鬥友誼的動態比賽。"
 
 msgid "IDS_DOGTAG_PCNU106_NAME"
 msgstr "突圍：新手"
 
 msgid "IDS_DOGTAG_PCNU107_DESCRIPTION"
-msgstr "突圍錦標賽是一場充滿激情、腎上腺素、競爭精神和真正友誼的動態比賽。"
+msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正戰鬥友誼的動態比賽。"
 
 msgid "IDS_DOGTAG_PCNU107_NAME"
 msgstr "突圍：老兵"
 
 msgid "IDS_DOGTAG_PCNU108_DESCRIPTION"
-msgstr "突圍錦標賽是一場充滿激情、腎上腺素、競爭精神和真正友誼的動態比賽。"
+msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正戰鬥友誼的動態比賽。"
 
 msgid "IDS_DOGTAG_PCNU108_NAME"
 msgstr "突圍：精英"
 
 msgid "IDS_DOGTAG_PCNU109_DESCRIPTION"
-msgstr "突圍錦標賽是一場充滿激情、腎上腺素、競爭精神和真正友誼的動態比賽。"
+msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正戰鬥友誼的動態比賽。"
 
 msgid "IDS_DOGTAG_PCNU109_NAME"
 msgstr "突圍：優勝者"
@@ -29606,7 +29821,7 @@ msgid "IDS_EMOJI_TOOLTIP_HINT_PCOP001_RESPECT"
 msgstr " "
 
 msgid "IDS_EMOJI_TOOLTIP_HINT_PCOP001_TOXIC"
-msgstr "侮辱"
+msgstr "言語侮辱"
 
 msgid "IDS_EMPTY_LOGIN"
 msgstr "請使用您的電子郵件地址來登入。"
@@ -30206,7 +30421,7 @@ msgid "IDS_EVENTBATTLE_SUBHEADER"
 msgstr " "
 
 msgid "IDS_EVENTS"
-msgstr "最終兵器：隔離"
+msgstr "太空前線"
 
 msgid "IDS_EVENTS_NATION_GEN"
 msgstr "兔子，等著瞧！"
@@ -30330,6 +30545,33 @@ msgstr "這是個暫時性的國家，艦艇將在活動結束後移除。"
 
 msgid "IDS_EVENT_SIDE_VICTORY_DAYS"
 msgstr "您的隊伍獲勝的天數"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_NUMBER_OF_POINT"
+msgstr "+%(count)s"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_POINT_IN_SEC"
+msgstr "+%(count)s / 秒"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_ATTACK"
+msgstr "攻擊敵方貝武夫"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_PROTECT"
+msgstr "保護我方貝武夫"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_SUMMON"
+msgstr "召喚超級主力艦貝武夫，摧毀敵方基地"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_SUMMON_RULE_1"
+msgstr "持續累計"
+
+msgid "IDS_EVENT_SPACE_BATTLE_TASK_TEXT_BOSS_SUMMON_RULE_2"
+msgstr "每擊毀一艘敵艦"
+
+msgid "IDS_EVENT_SPACE_BOSS_NAME_1"
+msgstr "超級主力艦貝武夫"
+
+msgid "IDS_EVENT_SPACE_BOSS_NAME_2"
+msgstr "超級主力艦貝武夫"
 
 msgid "IDS_EVENT_TIME_TO_FREEZE"
 msgstr "競賽階段開始於："
@@ -30542,10 +30784,10 @@ msgid "IDS_EXPERIENCE_AMOUNT"
 msgstr "經驗數量："
 
 msgid "IDS_EXPERIENCE_C"
-msgstr "經驗"
+msgstr "獲得經驗量"
 
 msgid "IDS_EXPERIENCE_C_AVERAGE"
-msgstr "經驗"
+msgstr "獲得經驗量"
 
 msgid "IDS_EXPERIENCE_C_AVERAGE_TOOLTIP"
 msgstr "平均每場戰鬥獲得的經驗數"
@@ -30622,7 +30864,7 @@ msgid "IDS_FAST_TRAINING_DISABLE_REASON_NATION_COMMON"
 msgstr "指揮官沒有指定國籍，無法進行加速訓練。"
 
 msgid "IDS_FAST_TRAINING_DISABLE_REASON_SHIP_IS_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以加速指揮官的訓練。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以加速指揮官的訓練。"
 
 msgid "IDS_FB_AL_01"
 msgstr "Party Member"
@@ -32203,7 +32445,7 @@ msgid "IDS_FIREPROOF_RANK"
 msgstr "此排名是不可逆的。"
 
 msgid "IDS_FIRE_CREW_DENY_REASON_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以解雇指揮官。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以解雇指揮官。"
 
 msgid "IDS_FIRE_CREW_WILL_RECEIVE"
 msgstr "您將會獲得"
@@ -32480,6 +32722,9 @@ msgstr "5×12"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE030"
 msgstr "6×1"
+
+msgid "IDS_FORMAT_EVENTBATTLE_PCVE031"
+msgstr "6×6"
 
 msgid "IDS_FORMAT_EVENTBATTLE_PCVE032"
 msgstr "7×7"
@@ -32785,7 +33030,7 @@ msgid "IDS_FREE_POINTS"
 msgstr "未分配點數："
 
 msgid "IDS_FREE_SKILLPOINTS_DENY_REASON_IN_DIVISION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以重置技能。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以重置技能。"
 
 msgid "IDS_FREE_SKILLPOINTS_LEFT"
 msgstr "未分配的技能點數："
@@ -33017,15 +33262,6 @@ msgstr ""
 "欲獲得所有收集到的汙穢，您必需在戰鬥結束前通過傳送門離開。\n"
 "傳送門將在戰鬥開始一段時間後打開。\n"
 "如果您未能通過傳送門離開，您將失去大部分所收集到的汙穢。"
-
-msgid "IDS_GAMEMODE_ESCAPE_TO_PORTAL_RULES_DESCRIPTION_TITLE_0"
-msgstr "汙穢"
-
-msgid "IDS_GAMEMODE_ESCAPE_TO_PORTAL_RULES_DESCRIPTION_TITLE_1"
-msgstr "消耗品"
-
-msgid "IDS_GAMEMODE_ESCAPE_TO_PORTAL_RULES_DESCRIPTION_TITLE_2"
-msgstr "傳送門"
 
 msgid "IDS_GAMEMODE_ESCAPE_TO_PORTAL_SUCCESSFUL_RAID"
 msgstr "進襲成功！"
@@ -33328,6 +33564,9 @@ msgstr "前往任務"
 msgid "IDS_GO_TO_MODULES_MOUSE_INSTRUCTION"
 msgstr "顯示艦艇的規格表"
 
+msgid "IDS_GO_TO_NEWBIE_QUEST_MOTIVATOR_TASK"
+msgstr "查看任務"
+
 msgid "IDS_GO_TO_NEWS_TOOLTIP"
 msgstr "前往「消息」畫面"
 
@@ -33377,7 +33616,7 @@ msgid "IDS_GO_TO_SSE_MOTIVATOR_TASKS"
 msgstr "前往任務"
 
 msgid "IDS_GO_TO_SSE_NEWBIE_QUESTS_MOUSE_INSTRUCTION"
-msgstr "前往「教學任務」畫面"
+msgstr "前往「海軍課程」畫面"
 
 msgid "IDS_GO_TO_STRATEGIC_ACTIONS_MOUSE_INSTRUCTION"
 msgstr "前往「新年之路」活動"
@@ -33479,10 +33718,10 @@ msgid "IDS_GUIDING_TIP_107_HEADER"
 msgstr "戰鬥任務"
 
 msgid "IDS_GUIDING_TIP_108_DESC"
-msgstr "若您想再次檢視「教學任務」的提示，可以隨時返回此頁面。"
+msgstr "若您想再次檢視任務提示，可以隨時返回此頁面。"
 
 msgid "IDS_GUIDING_TIP_108_HEADER"
-msgstr "教學任務"
+msgstr "海軍課程"
 
 msgid "IDS_GUIDING_TIP_10_DESC"
 msgstr "您可在此清單中開放的戰鬥類型中選擇其一。"
@@ -33656,7 +33895,7 @@ msgid "IDS_GUIDING_TIP_19_HEADER"
 msgstr "艦艇迷彩"
 
 msgid "IDS_GUIDING_TIP_1_DESC"
-msgstr "完成教學任務，以掌握如何有效作戰和推進海軍職涯的基礎知識。"
+msgstr "在海軍課程中，您將學習如何整備艦艇，並駕駛她加入戰鬥。"
 
 msgid "IDS_GUIDING_TIP_1_HEADER"
 msgstr "教學任務"
@@ -33971,7 +34210,7 @@ msgid "IDS_GUIDING_TIP_29_HEADER"
 msgstr "賺取更多資源"
 
 msgid "IDS_GUIDING_TIP_2_DESC"
-msgstr "檢視教學任務的提示，以快速掌握必要資訊。若您想再次檢視這些提示，可以隨時返回此頁面。"
+msgstr "教學任務提示將引導您完成任務的各個階段。若您想再次檢視這些提示，可以隨時返回此頁面。"
 
 msgid "IDS_GUIDING_TIP_2_HEADER"
 msgstr "任務提示"
@@ -34342,6 +34581,12 @@ msgstr "要取消戰鬥任務的置頂，請再次點擊它。"
 msgid "IDS_GUIDING_TIP_362_HEADER"
 msgstr "取消任務置頂"
 
+msgid "IDS_GUIDING_TIP_363_DESC"
+msgstr "此處顯示優先任務。您也可以在此置頂任何您認為重要的任務 — 為此，請在「海軍課程」畫面中選擇它。"
+
+msgid "IDS_GUIDING_TIP_363_HEADER"
+msgstr "追蹤任務進度"
+
 msgid "IDS_GUIDING_TIP_36_DESC"
 msgstr "指揮官等級越高，可學習的技能就越多。"
 
@@ -34391,10 +34636,10 @@ msgid "IDS_GUIDING_TIP_42_HEADER"
 msgstr "戰鬥任務"
 
 msgid "IDS_GUIDING_TIP_43_DESC"
-msgstr "若您想再次檢視「教學任務」的提示，可以隨時返回此頁面。"
+msgstr "若您想再次檢視任務提示，可以隨時返回此頁面。"
 
 msgid "IDS_GUIDING_TIP_43_HEADER"
-msgstr "教學任務"
+msgstr "海軍課程"
 
 msgid "IDS_GUIDING_TIP_45_DESC"
 msgstr "您可安裝升級品來增強艦艇的戰鬥特性。"
@@ -34733,7 +34978,7 @@ msgid "IDS_HALSEY"
 msgstr "小威廉 弗雷德里克 海爾賽"
 
 msgid "IDS_HANDZO"
-msgstr "结城ギョクロ"
+msgstr "結城玉露"
 
 msgid "IDS_HANG"
 msgstr "機庫側壁"
@@ -35522,6 +35767,15 @@ msgstr "重置%(_nationName)s指揮官"
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_FOR_NATION_NOT_AVAILABLE"
 msgstr "沒有符合條件的%(_nationName)s指揮官"
 
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_HASVOICEOVER"
+msgstr "顯示擁有獨有配音的指揮官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_HASVOICEOVER_DISABLE"
+msgstr "重置附帶獨有配音的指揮官"
+
+msgid "IDS_HINT_CHECKBOX_CREW_FILTER_HASVOICEOVER_NOT_AVAILABLE"
+msgstr "沒有符合條件的附帶獨有配音的指揮官"
+
 msgid "IDS_HINT_CHECKBOX_CREW_FILTER_NO_NATION"
 msgstr "顯示無國籍指揮官"
 
@@ -36017,7 +36271,7 @@ msgid "IDS_HINT_INVITE_PLAYERS"
 msgstr "從您的聯絡人中邀請玩家或是按名稱尋找玩家"
 
 msgid "IDS_HINT_IS_NOT_READY"
-msgstr "尚未準備好以分艦隊來加入戰鬥。您可以變更您的艦艇配置。"
+msgstr "尚未完成戰鬥準備。您可以變更您的艦艇配置。"
 
 msgid "IDS_HINT_IS_READY"
 msgstr "準備好以分艦隊來加入戰鬥"
@@ -36560,6 +36814,9 @@ msgstr "Kommuna"
 msgid "IDS_INFINITY_BOT_22"
 msgstr "Romero"
 
+msgid "IDS_INFINITY_MESSAGE_FOR_THE_PLAYER"
+msgstr "您正在脫離戰場。請轉向。"
+
 msgid "IDS_INFINITY_SCENARIO_DESCRIPTION"
 msgstr "用於互動教學的無盡戰場"
 
@@ -36691,6 +36948,12 @@ msgstr "%s ([killer_ico]%s) [weapon_ico] %s ([victim_ico]%s)"
 
 msgid "IDS_INFO_LARGE_DAMAGE"
 msgstr "艦艇受到嚴重傷害"
+
+msgid "IDS_INFO_MISSILES_ARE_RELOADING"
+msgstr "飛彈裝填中"
+
+msgid "IDS_INFO_MISSILES_TOO_FAR"
+msgstr "目標超出射程"
 
 msgid "IDS_INFO_MODULE_ACID_CEASED"
 msgstr "強酸危險已解除"
@@ -37745,7 +38008,7 @@ msgid "IDS_LEARN_MORE_LABEL"
 msgstr "瞭解更多"
 
 msgid "IDS_LEARN_SKILLS_DENY_REASON_IN_DIVISION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以學習技能。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以學習技能。"
 
 msgid "IDS_LEARN_SKILLS_DENY_REASON_NOT_ENOUGH_POINTS"
 msgstr "未分配的技能點數不足以學習技能。"
@@ -40575,7 +40838,7 @@ msgstr ""
 "請加入現有的分艦隊之一。"
 
 msgid "IDS_MAX_EXP_PER_BATTLE"
-msgstr "經驗"
+msgstr "獲得經驗量"
 
 msgid "IDS_MAX_EXP_PER_BATTLE_TOOLTIP"
 msgstr "單場戰鬥中獲得的最高經驗"
@@ -40717,6 +40980,78 @@ msgstr "來自 %s 的訊息已關閉"
 
 msgid "IDS_MESSAGES_FROM_USER_ENABLED"
 msgstr "來自 %s 的訊息已開啟"
+
+msgid "IDS_MESSAGE_LAUNCH_BETA_MISSILE"
+msgstr "[CMD_SHOOT] 發射飛彈"
+
+msgid "IDS_MESSAGE_SCAN_ALPHA_MISSILE"
+msgstr "[CMD_FIXING_TARGET_POSITION] 掃描並鎖定目標"
+
+msgid "IDS_META_EVENT_ABOUT_LINK_TEXT"
+msgstr "活動介紹"
+
+msgid "IDS_META_EVENT_CURRENCY_TITLE"
+msgstr "進度積分"
+
+msgid "IDS_META_EVENT_DESCRIPTION_ACTIVE"
+msgstr "<p>在遙遠的未來，地球表面發現了一道連接不同世界的裂隙，這事關整個文明的存亡。為了調查並消除這一異常現象，由地球上最優秀指揮官組成的特殊部隊應運而生。</p><p class=\"p_spacing\"> </p><p>加入這場星際任務，揭開宇宙於靜寂中隱藏的秘密。</p>"
+
+msgid "IDS_META_EVENT_DESCRIPTION_FINISHED"
+msgstr "<p>經過成千上萬次星域探險，指揮官們終於揭示了真相：策展人並非將他們傳送至異世界，而是送往地球可能的未來。艦艇並非由人類自身操控，而是僅由其意識驅動——這使得策展人能夠一次次「復活」戰士，以觀察戰局進展，收集關於新型武器和軍事戰術的寶貴情報。</p><p class=\"p_spacing\"> </p><p>只要極限之門依然敞開，策展人便會繼續執行其使命。但對於未來的地球而言，這份代價又將何其沉重？</p>"
+
+msgid "IDS_META_EVENT_FINISHED"
+msgstr "活動已結束"
+
+msgid "IDS_META_EVENT_HINT_GO_TO_EVENT"
+msgstr "前往活動畫面"
+
+msgid "IDS_META_EVENT_POST_PROGRESS_TOOLTIP_TEXT"
+msgstr "完成所有進度等級後，您將獲得一個紀念成就！"
+
+msgid "IDS_META_EVENT_PROGRESS"
+msgstr "活動進度"
+
+msgid "IDS_META_EVENT_PROGRESS_CHOOSE_REWARD_INFO"
+msgstr "如果在共振前完成了所有進度等級，您將能夠獲得所有之前未選擇的獎勵"
+
+msgid "IDS_META_EVENT_PROGRESS_STATUS_EARLY_DONE"
+msgstr "您已完成所有進度等級並獲得了紀念成就！"
+
+msgid "IDS_META_EVENT_PROGRESS_STATUS_NOT_PARTICIPATED"
+msgstr "您未完成任何進度等級。"
+
+msgid "IDS_META_EVENT_PROGRESS_TASKS_COUNT"
+msgstr "任務完成數：%(_count)s"
+
+msgid "IDS_META_EVENT_PROGRESS_TILL_NEXT_LEVEL"
+msgstr "距離下一等級："
+
+msgid "IDS_META_EVENT_REWARD_CHOICE_STATUS_COMMON"
+msgstr "如果您未做出選擇，活動結束後將獲得第一項獎勵"
+
+msgid "IDS_META_EVENT_REWARD_CHOICE_STATUS_SHIPS"
+msgstr "此艦艇將租用至活動結束"
+
+msgid "IDS_META_EVENT_REWARD_CHOICE_TOOLTIP_STATUS_CLAIM_REWARDS"
+msgstr "點選「領取獎勵」以獲得獎勵"
+
+msgid "IDS_META_EVENT_REWARD_CHOICE_TOOLTIP_STATUS_NOT_CLAIMED"
+msgstr "您將能夠選擇一項獎勵"
+
+msgid "IDS_META_EVENT_REWARD_CHOICE_TOOLTIP_TITLE"
+msgstr "選擇獎勵"
+
+msgid "IDS_META_EVENT_TASKS_TITLE"
+msgstr "活動任務"
+
+msgid "IDS_META_EVENT_TASKS_TITLE_TOOLTIP_TEXT"
+msgstr "您每天可以完成不限數量的任務，並從中獲得進度積分。"
+
+msgid "IDS_META_EVENT_TIMER_REWARD_CHOICE_TIME_LEFT"
+msgstr "距離獎勵選擇結束還剩：%(_timeLeft)s"
+
+msgid "IDS_META_EVENT_TITLE"
+msgstr "太空前線"
 
 msgid "IDS_METER"
 msgstr "公尺"
@@ -40889,6 +41224,9 @@ msgstr "圓圈不透明度"
 msgid "IDS_MINIMAP_OPTIONS_RLSRANGEENABLED"
 msgstr "監視雷達作用範圍"
 
+msgid "IDS_MINIMAP_OPTIONS_SELECTEDMISSILESHOOTRANGEENABLED"
+msgstr "飛彈射程"
+
 msgid "IDS_MINIMAP_OPTIONS_SHIPNAMESDISPLAYENABLED"
 msgstr "艦艇名稱"
 
@@ -41035,6 +41373,18 @@ msgstr "由中等 AI 控制、已經武裝且會移動的機器人將加入到�
 
 msgid "IDS_MIRROR_FILL_TARGET_TOOLTIP"
 msgstr "由中等 AI 控制、已經武裝且會移動的靶艦將加入到敵方隊伍"
+
+msgid "IDS_MISSILES_AIR_DEFENCE"
+msgstr "反導系統"
+
+msgid "IDS_MISSILES_RELEASED"
+msgstr "飛彈發射數"
+
+msgid "IDS_MISSILES_USE_AIR_DEFENCE"
+msgstr "擊落飛彈"
+
+msgid "IDS_MISSILE_CLOSE_TO_FLY_RADIUS"
+msgstr "飛彈射程"
 
 msgid "IDS_MISSION"
 msgstr "任務"
@@ -42001,6 +42351,45 @@ msgstr "同盟擁有再生技術：所有被摧毀的獵犬都可以重返戰鬥
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "獵犬需要佔領控制點來削弱並破壞埃爾梅琳達的護盾模組，並在撤離系統啟動前摧毀她的艦艇。"
 
+msgid "IDS_MODAL_WINDOW_PCVE031_BATTLE_RULES_HEADER"
+msgstr "太空前線"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_HEADER"
+msgstr "太空前線"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_1_HEADER"
+msgstr "戰鬥特點"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_1_TEXT_1"
+msgstr "每支隊伍的任務都是摧毀敵方基地。"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "只有超級主力艦「貝武夫」能對基地造成傷害——您需要透過摧毀敵艦來召喚她。保護己方的超級主力艦，並阻止敵方超級主力艦摧毀您的基地。「貝武夫」召喚次數不限。"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_2_HEADER"
+msgstr "重返戰場"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_2_TEXT_1"
+msgstr "您的艦艇被擊毀後，可選擇重生點與艦艇重返戰場。請注意，部分艦艇需消耗戰鬥中獲得的重生點數才能解鎖。未使用的點數將在戰鬥結束時歸零。"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_HEADER"
+msgstr "飛彈、雷射與能量護盾"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_TEXT_1"
+msgstr "艦艇可裝備兩種飛彈：自導飛彈與導引飛彈。發射自導飛彈前需先掃描並鎖定目標。導引飛彈雖能造成高額傷害，但無法穿透能量護盾。"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_TEXT_2"
+msgstr "為攔截來襲的敵方飛彈，必須及時啟動雷射反導系統。"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_3_TEXT_3"
+msgstr "所有艦艇都受到能量護盾的保護——只要未受攻擊，護盾能量就會持續恢復。能量護盾一旦被摧毀就無法再生，艦艇將直接暴露在火力之下。"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_4_HEADER"
+msgstr "參加條件"
+
+msgid "IDS_MODAL_WINDOW_PCVE031_RULES_PARAGRAPH_4_TEXT_1"
+msgstr "您可以駕駛特殊的 X 階巡洋艦、主力艦和驅逐艦出戰。"
+
 msgid "IDS_MODAL_WINDOW_PCVE032_BATTLE_RULES_HEADER"
 msgstr "尋覓潘朵拉"
 
@@ -42660,7 +43049,7 @@ msgid "IDS_MODULES"
 msgstr "配件"
 
 msgid "IDS_MODULES_DAMAGED"
-msgstr "傷害的配件"
+msgstr "擊傷配件數"
 
 msgid "IDS_MODULES_DESTROYED"
 msgstr "摧毀的配件"
@@ -43207,6 +43596,12 @@ msgstr "伽瑪值"
 
 msgid "IDS_MW_OPENER_GAMMA_DESCRIPTION"
 msgstr "設置明暗色調的顯示。影響畫面對比度。"
+
+msgid "IDS_MW_REWARD_CHOICE_DESCRIPTION"
+msgstr "請選擇一項獎勵："
+
+msgid "IDS_MW_REWARD_CHOICE_TITLE"
+msgstr "選擇獎勵"
 
 msgid "IDS_MYOKO"
 msgstr "妙高"
@@ -44993,241 +45388,46 @@ msgid "IDS_NEUTRAL_GROUPW605_WT6"
 msgstr "Kettenhund"
 
 msgid "IDS_NEWBIE_QUESTS_BANNER_TOOLTIP_AVAILABLE_TASKS"
-msgstr "可進行的教學任務"
+msgstr "可進行的任務"
 
 msgid "IDS_NEWBIE_QUESTS_BANNER_TOOLTIP_TITLE"
-msgstr "教學任務"
-
-msgid "IDS_NEWBIE_QUESTS_COMMON_ICON_HINT"
-msgstr "教學任務"
+msgstr "海軍課程"
 
 msgid "IDS_NEWBIE_QUESTS_COMMON_TITLE"
-msgstr "教學任務"
+msgstr "海軍課程"
+
+msgid "IDS_NEWBIE_QUESTS_DESC"
+msgstr "完成這些任務將幫助您熟悉海戰世界。課程結束後，您將獲得一艘新艦艇！"
 
 msgid "IDS_NEWBIE_QUESTS_DIVISION_READY_BUTTON_HINT"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以查看提示。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以查看提示。"
 
-msgid "IDS_NEWBIE_QUESTS_INFORMER_DETAILS_BUTTON"
-msgstr "詳情"
+msgid "IDS_NEWBIE_QUESTS_DONE_DESC"
+msgstr "所有任務已完成。現授予您一艘艦艇——請接管指揮權，即刻投入新的戰鬥！"
 
-msgid "IDS_NEWBIE_QUESTS_INFORMER_DONE"
-msgstr "已完成教學任務"
+msgid "IDS_NEWBIE_QUESTS_DONE_HEADER"
+msgstr "課程已完成！"
 
-msgid "IDS_NEWBIE_QUESTS_INFORMER_NEW"
-msgstr "有新的教學任務可進行"
+msgid "IDS_NEWBIE_QUESTS_FINAL_REWARD_CLAIMED"
+msgstr "已獲得艦艇"
 
-msgid "IDS_NEWBIE_QUESTS_PCON001_DESCRIPTION"
-msgstr "研發併購買 II 階巡洋艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
+msgid "IDS_NEWBIE_QUESTS_FULL_LIST"
+msgstr "所有任務"
 
-msgid "IDS_NEWBIE_QUESTS_PCON001_NAME"
-msgstr "駕駛 II 階可研發巡洋艦進行戰鬥"
+msgid "IDS_NEWBIE_QUESTS_FULL_LIST_HEADER"
+msgstr "所有任務"
 
-msgid "IDS_NEWBIE_QUESTS_PCON002_DESCRIPTION"
-msgstr "是時候與其他玩家一決高下了！在隨機戰中獲勝的難度更大，但可以獲得更多銀幣和經驗。"
+msgid "IDS_NEWBIE_QUESTS_HEADER"
+msgstr "海軍課程"
 
-msgid "IDS_NEWBIE_QUESTS_PCON002_NAME"
-msgstr "贏得 1 場隨機戰"
-
-msgid "IDS_NEWBIE_QUESTS_PCON003_DESCRIPTION"
-msgstr "迷彩可改變您艦艇的外觀。它們可透過使用銀幣或金幣購買，也可透過參與各種活動獲取。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON003_NAME"
-msgstr "在艦艇上安裝迷彩"
-
-msgid "IDS_NEWBIE_QUESTS_PCON004_DESCRIPTION"
-msgstr "信號旗可提高艦艇的存活性、機動性及其武器與消耗品的效率。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON004_NAME"
-msgstr "在艦艇上安裝信號旗"
-
-msgid "IDS_NEWBIE_QUESTS_PCON005_DESCRIPTION"
-msgstr "您可使用自由經驗研發任意可用艦艇或配件，以及加速指揮官訓練。自由經驗獲取量為每場戰鬥所獲得艦艇經驗（應用加成前）的10%。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON005_NAME"
-msgstr "用自由經驗研發艦艇或配件"
-
-msgid "IDS_NEWBIE_QUESTS_PCON006_DESCRIPTION"
-msgstr "經濟加成可讓您在每場戰鬥中獲得更多銀幣和經驗。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON006_NAME"
-msgstr "在艦艇上安裝經濟加成"
-
-msgid "IDS_NEWBIE_QUESTS_PCON007_DESCRIPTION"
-msgstr "開啟貨櫃有機會獲得迷彩、信號旗、經濟加成等各種資源；甚至可以獲得新艦艇！"
-
-msgid "IDS_NEWBIE_QUESTS_PCON007_NAME"
-msgstr "開啟 3 個貨櫃"
-
-msgid "IDS_NEWBIE_QUESTS_PCON008_DESCRIPTION"
-msgstr "指揮官技能可在戰鬥中提供新能力以創造優勢。學習新技能需要技能點數，其獲取方式為在戰鬥中獲得指揮官經驗。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON008_NAME"
-msgstr "學習指揮官技能"
-
-msgid "IDS_NEWBIE_QUESTS_PCON009_DESCRIPTION"
-msgstr "戰鬥任務是一些需要在戰鬥中完成的特定目標，完成戰鬥任務可以獲得獎勵。您可以使用不同類型、階級和國家的艦艇在不同的戰鬥類型中完成戰鬥任務。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON009_NAME"
-msgstr "完成 3 個戰鬥任務"
-
-msgid "IDS_NEWBIE_QUESTS_PCON010_DESCRIPTION"
-msgstr "升級品能夠強化您艦艇的優勢並補足其短板。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON010_NAME"
-msgstr "在艦艇上安裝升級品"
-
-msgid "IDS_NEWBIE_QUESTS_PCON011_DESCRIPTION"
-msgstr "戰役由一系列任務和工作組成，並圍繞特定主題展開。完成戰役可以獲得大量獎勵。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON011_NAME"
-msgstr "在任意戰役中完成 1 個工作"
-
-msgid "IDS_NEWBIE_QUESTS_PCON012_DESCRIPTION"
-msgstr "在軍械庫中，您可以購買特殊和加值艦艇，以及貨櫃、信號旗、特殊升級品、經濟加成等各種資源。有時您甚至可以獲取含有實用物品的免費禮包。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON012_NAME"
-msgstr "從軍械庫中獲取任意物品"
-
-msgid "IDS_NEWBIE_QUESTS_PCON013_DESCRIPTION"
-msgstr "行動是一種戰鬥類型，您需要與其他玩家合作對抗機器人，完成劇情任務。每個行動都有獨特的劇情內容。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON013_NAME"
-msgstr "贏得 1 場行動"
-
-msgid "IDS_NEWBIE_QUESTS_PCON014_DESCRIPTION"
-msgstr "在您遊玩的過程中，您可能積累了一些不使用的物品。出售不使用的物品來獲取銀幣。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON014_NAME"
-msgstr "出售價值 50000 銀幣的物品"
-
-msgid "IDS_NEWBIE_QUESTS_PCON015_DESCRIPTION"
-msgstr "在排名戰鬥或評級戰鬥中獲得一次勝利。每種戰鬥類型都僅在對應賽季期間開放。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON015_NAME"
-msgstr "在排名戰鬥或評級戰鬥中獲勝"
-
-msgid "IDS_NEWBIE_QUESTS_PCON016_DESCRIPTION"
-msgstr "公會成員可以參與公會戰鬥，以及建造和升級海軍基地中的建築來獲取額外資源和折扣。您可以加入既有的公會或建立自己的公會。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON016_NAME"
-msgstr "加入公會"
-
-msgid "IDS_NEWBIE_QUESTS_PCON017_DESCRIPTION"
-msgstr "研發併購買 III 階巡洋艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON017_NAME"
-msgstr "駕駛 III 階可研發巡洋艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON018_DESCRIPTION"
-msgstr "研發併購買 IV 階巡洋艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON018_NAME"
-msgstr "駕駛 IV 階可研發巡洋艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON019_DESCRIPTION"
-msgstr "研發併購買 V 階巡洋艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON019_NAME"
-msgstr "駕駛 V 階可研發巡洋艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON020_DESCRIPTION"
-msgstr "研發併購買 VI 階巡洋艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON020_NAME"
-msgstr "駕駛 VI 階可研發巡洋艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON021_DESCRIPTION"
-msgstr "研發併購買 VII 階巡洋艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON021_NAME"
-msgstr "駕駛 VII 階可研發巡洋艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON022_DESCRIPTION"
-msgstr "研發併購買 II 階驅逐艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON022_NAME"
-msgstr "駕駛 II 階可研發驅逐艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON023_DESCRIPTION"
-msgstr "研發併購買 III 階主力艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON023_NAME"
-msgstr "駕駛 III 階可研發主力艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON024_DESCRIPTION"
-msgstr "研發併購買 III 階驅逐艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON024_NAME"
-msgstr "駕駛 III 階可研發驅逐艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON025_DESCRIPTION"
-msgstr "研發併購買 IV 階主力艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON025_NAME"
-msgstr "駕駛 IV 階可研發主力艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON026_DESCRIPTION"
-msgstr "研發併購買 IV 階驅逐艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON026_NAME"
-msgstr "駕駛 IV 階可研發驅逐艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON027_DESCRIPTION"
-msgstr "研發併購買 V 階主力艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON027_NAME"
-msgstr "駕駛 I 階可研發主力艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON028_DESCRIPTION"
-msgstr "研發併購買 V 階驅逐艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON028_NAME"
-msgstr "駕駛 I 階可研發驅逐艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON029_DESCRIPTION"
-msgstr "研發併購買 VI 階主力艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON029_NAME"
-msgstr "駕駛 II 階可研發主力艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON030_DESCRIPTION"
-msgstr "研發併購買 VI 階驅逐艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON030_NAME"
-msgstr "駕駛 II 階可研發驅逐艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON031_DESCRIPTION"
-msgstr "研發併購買 VII 階主力艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON031_NAME"
-msgstr "駕駛 III 階可研發主力艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON032_DESCRIPTION"
-msgstr "研發併購買 VII 階驅逐艦，然後駕駛她參與戰鬥。在此艦艇上戰鬥可獲取艦艇經驗，用於研發該艦艇分支的下一艘艦艇。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON032_NAME"
-msgstr "駕駛 III 階可研發驅逐艦進行戰鬥"
-
-msgid "IDS_NEWBIE_QUESTS_PCON033_DESCRIPTION"
-msgstr "請選擇任意試煉並至少完成 2 個階段。每個試煉中您都將磨練特定的戰鬥技能。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON033_NAME"
-msgstr "請完成任意試煉中的 2 個階段"
-
-msgid "IDS_NEWBIE_QUESTS_PCON034_DESCRIPTION"
-msgstr "請選擇任意試煉並至少完成 3 個階段。每個試煉中您都將磨練特定的戰鬥技能。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON034_NAME"
-msgstr "請完成任意試煉中的 3 個階段"
-
-msgid "IDS_NEWBIE_QUESTS_PCON035_DESCRIPTION"
-msgstr "請選擇任意試煉並至少完成 4 個階段。每個試煉中您都將磨練特定的戰鬥技能。"
-
-msgid "IDS_NEWBIE_QUESTS_PCON035_NAME"
-msgstr "請完成任意試煉中的 4 個階段"
+msgid "IDS_NEWBIE_QUESTS_RECEIVED_COLON"
+msgstr "已獲得獎勵："
 
 msgid "IDS_NEWBIE_QUESTS_RECEIVED_TOOLTIP_COLON"
 msgstr "獲得獎勵："
+
+msgid "IDS_NEWBIE_QUESTS_REWARD_COLON"
+msgstr "完成獎勵："
 
 msgid "IDS_NEWBIE_QUESTS_REWARD_TOOLTIP_COLON"
 msgstr "完成獎勵："
@@ -45246,6 +45446,51 @@ msgstr "戰鬥匹配期間無法檢視教學任務"
 
 msgid "IDS_NEWBIE_QUESTS_WARNING_NO_SHIPS"
 msgstr "要啟動提示，請購買任何艦艇"
+
+msgid "IDS_NEWBIE_QUEST_BATTLE_MOTIVATOR_PIN_HINT"
+msgstr "置頂戰鬥任務"
+
+msgid "IDS_NEWBIE_QUEST_BATTLE_MOTIVATOR_UNPIN_HINT"
+msgstr "取消置頂戰鬥任務"
+
+msgid "IDS_NEWBIE_QUEST_CLAIM_SHIP"
+msgstr "領取艦艇"
+
+msgid "IDS_NEWBIE_QUEST_CURRENT_THRESHOLD"
+msgstr "目前等級："
+
+msgid "IDS_NEWBIE_QUEST_DONE_TASKS_COUNT"
+msgstr "任務完成數："
+
+msgid "IDS_NEWBIE_QUEST_ICON_HINT_BATTLE_DESC"
+msgstr "此類任務可在戰鬥中完成。通過完成任務，您可以提升艦艇操控技巧、射擊精準度和戰術運用能力。"
+
+msgid "IDS_NEWBIE_QUEST_ICON_HINT_PREPARATION_DESC"
+msgstr "此類任務可在港口中完成。透過完成任務，您將學會如何管理您的財產，以及整備艦艇。"
+
+msgid "IDS_NEWBIE_QUEST_NEW_TASK_ON_LEVEL"
+msgstr "此任務將在達到服役等級 %(level)s 後解鎖"
+
+msgid "IDS_NEWBIE_QUEST_N_THRESHOLD"
+msgstr "%(level)s 級："
+
+msgid "IDS_NEWBIE_QUEST_PREPARATION_MOTIVATOR_PIN_HINT"
+msgstr "置頂任務"
+
+msgid "IDS_NEWBIE_QUEST_PREPARATION_MOTIVATOR_UNPIN_HINT"
+msgstr "取消置頂任務"
+
+msgid "IDS_NEWBIE_QUEST_PROGRESSION_HEADER"
+msgstr "進度"
+
+msgid "IDS_NEWBIE_QUEST_PROGRESSION_TOOLTIP_DESC"
+msgstr "每個進度等級包含 5 項任務。完成任務的獎勵會自動發放，最終獎勵將是一艘艦艇！"
+
+msgid "IDS_NEWBIE_QUEST_PROGRESSION_TOOLTIP_HEADER"
+msgstr "進度"
+
+msgid "IDS_NEWBIE_QUEST_SHIP_PREVIEW"
+msgstr "關於艦艇"
 
 msgid "IDS_NEWS"
 msgstr "消息"
@@ -49832,9 +50077,24 @@ msgid "IDS_PAGA225_20MM_OERLICON_QUADRUPLE"
 msgstr "20 mm Oerlikon（Mk.15 炮座）"
 
 msgid "IDS_PAGA238_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon（Mk.4炮座）"
+msgstr "20 mm Oerlikon（Mk.4 炮座）"
 
 msgid "IDS_PAGA499_20MM_OERLIKON_MK4_SIMS"
+msgstr "20 mm Oerlikon（Mk.4 炮座）"
+
+msgid "IDS_PAGA503_40MM_BOFORS_MK1_SPACE"
+msgstr "40 mm/56 Bofors（Mk.1 炮座）"
+
+msgid "IDS_PAGA504_40MM_BOFORS_MK2_SPACE"
+msgstr "40 mm/56 Bofors（Mk.2 炮座）"
+
+msgid "IDS_PAGA505_20MM_OERLIKON_MK4_SPACE"
+msgstr "20 mm Oerlikon（Mk.4 炮座）"
+
+msgid "IDS_PAGA509_3IN50_TWIN_MARK_33_SPACE"
+msgstr "76.2 mm/50 Mk.22（Mk.33 炮座）"
+
+msgid "IDS_PAGA510_20MM_OERLIKON_MK4_SPACE"
 msgstr "20 mm Oerlikon（Mk.4 炮座）"
 
 msgid "IDS_PAGA529_OERLIKON_MK4"
@@ -50155,8 +50415,17 @@ msgstr "127 mm/70 Mk.44（炮塔）"
 msgid "IDS_PAGM234_5IN25_MK40"
 msgstr "127 mm/25 Mk.17（Mk.40炮座）"
 
+msgid "IDS_PAGM237_14IN50_MK12_TRIPLE"
+msgstr "356 mm/50 Mk.12（炮塔）"
+
 msgid "IDS_PAGM241_6IN47_MK14_TWIN_GUN"
 msgstr "152 mm/47 Mk.16（炮塔）"
+
+msgid "IDS_PAGM242_8IN55_MK71_SINGLE"
+msgstr "203 mm/55 Mk.71（炮塔）"
+
+msgid "IDS_PAGM507_8IN55_TRIPLE_MK16_SPACE"
+msgstr "203 mm/55 RF Mk.16（炮塔）"
 
 msgid "IDS_PAGS001_5IN38_MK30_MOD0"
 msgstr "127 mm/38 Mk.12（Mk.30 mod.0 炮座）"
@@ -50275,6 +50544,12 @@ msgstr "152 mm/53 Mk.13（炮廓式）"
 msgid "IDS_PAGS239_5IN25_MK17"
 msgstr "127 mm/25 Mk.17（Mk.19炮座）"
 
+msgid "IDS_PAGS243_6IN47_MK16"
+msgstr "152 mm/47 DP Mk.16（炮塔）"
+
+msgid "IDS_PAGS508_5IN38_MK32_MOD12_SPACE"
+msgstr "127 mm/38 Mk.12（Mk.32 炮座）"
+
 msgid "IDS_PAGS528_MK8"
 msgstr "102 mm Mk13"
 
@@ -50300,40 +50575,46 @@ msgid "IDS_PAGT030_21IN_MK14_TORPEDO_TUBES_TWIN"
 msgstr "533 mm Mk14"
 
 msgid "IDS_PAGT042_21IN_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PAGT064_18IN_MK5_TORPEDO_TUBE"
 msgstr "450 mm Mk5"
 
 msgid "IDS_PAGT072_21IN_MK14_TORPEDO_TUBES_QUAD"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PAGT083_21IN_MK14_TORPEDO_TUBES_QUAD"
 msgstr "533 mm Mk14"
 
 msgid "IDS_PAGT094_21IN_MK14_TORPEDO_TUBES_QUAD"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PAGT100_18IN_MK6_TORPEDO_TWIN_TUBE"
 msgstr "450 mm Mk6"
 
 msgid "IDS_PAGT110_21IN_TORPEDO_TUBES_TWIN"
-msgstr "533 mm Twin"
+msgstr "533 mm 雙聯裝"
 
 msgid "IDS_PAGT132_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PAGT158_21IN_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PAGT210_21IN_SINGLE_MK25"
 msgstr "533 mm Single"
 
 msgid "IDS_PAGT230_21IN_MK14_SIX_TUBES"
-msgstr "533 mm 六聯"
+msgstr "533 mm 六聯裝"
 
 msgid "IDS_PAGT240_INVISIBLE_TA_7M"
 msgstr "533 mm Single"
+
+msgid "IDS_PAGT244_21IN_TRIPLE_MK30_R"
+msgstr "533 mm 三聯裝"
+
+msgid "IDS_PAGT245_21IN_TRIPLE_MK30_L"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PANAZ_WWII_SA"
 msgstr "楊 宣誠"
@@ -50887,6 +51168,24 @@ msgstr "152 mm HE Mk39"
 msgid "IDS_PAPA169_152MM_AP_STONEWALL"
 msgstr "152 mm AP Mk35"
 
+msgid "IDS_PAPA170_406MM_HE_T11"
+msgstr "406 mm HE/HC Mk13"
+
+msgid "IDS_PAPA171_406MM_AP_T11"
+msgstr "406 mm AP Mk8"
+
+msgid "IDS_PAPA172_152MM_CS_SG_MK16"
+msgstr "152 mm CS Mk39"
+
+msgid "IDS_PAPA173_127MM_CS_SG"
+msgstr "127 mm SC Mk38"
+
+msgid "IDS_PAPA174_203MM_HE_SHENANDOAH"
+msgstr "203 mm HE/HC Mk25"
+
+msgid "IDS_PAPA175_203MM_AP_SHENANDOAH"
+msgstr "203 mm AP Mk21"
+
 msgid "IDS_PAPA200_76MM_SG_CS_SUB"
 msgstr "76 mm CS Mk29"
 
@@ -51388,6 +51687,9 @@ msgstr "Mk15 mod. 0"
 msgid "IDS_PAPT071_STONEWALL_MK11"
 msgstr "Mk15 mod. 4"
 
+msgid "IDS_PAPT072_533MM_SHENANDOAH"
+msgstr "Mk17 mod. 2"
+
 msgid "IDS_PAPT104_LANGLEY_STOCK"
 msgstr "Torpedo Mk.7D"
 
@@ -51537,7 +51839,7 @@ msgstr "艦艇分支中有艦艇正在匹配戰鬥時無法重置"
 
 msgid "IDS_PARAGON_DENY_REASON_IS_IN_DIVISION"
 msgstr ""
-"其中一艘艦艇處於「準備好以分艦隊來加入戰鬥」狀態。\n"
+"其中一艘艦艇處於「準備好加入戰鬥」狀態。\n"
 "點擊「尚未準備好」來重置艦艇分支。"
 
 msgid "IDS_PARAGON_DENY_REASON_IS_NEED_SERVICE"
@@ -52032,6 +52334,12 @@ msgstr "深水炸彈的裝填時間"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER"
 msgstr "攻擊潛水艇時彈藥的爆炸半徑"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_BYANY"
+msgstr "攻擊潛水艇時彈藥的爆炸半徑"
+
+msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_BYDEPTHCHARGE"
+msgstr "深水炸彈對艦艇、魚雷和水雷的爆炸半徑"
 
 msgid "IDS_PARAMS_MODIFIER_DCSPLASHSIZEMULTIPLIER_HE_BOMB"
 msgstr "攻擊潛水艇時 HE 炸彈的爆炸半徑"
@@ -52717,6 +53025,9 @@ msgstr "艦艇上的最高火源數減少為三"
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_ATBA_HITS"
 msgstr "每 8 次副炮砲彈命中推進的進度"
 
+msgid "IDS_PARAMS_MODIFIER_PROGRESS_CITADEL_HITS"
+msgstr "每次擊中裝甲區的進度"
+
 msgid "IDS_PARAMS_MODIFIER_PROGRESS_DEFAULT"
 msgstr "每次主炮砲彈命中的進度"
 
@@ -53040,7 +53351,7 @@ msgstr "主炮砲彈類型切換時間"
 
 msgid "IDS_PARAMS_MODIFIER_TARGETBUOYANCYDISTANCES"
 msgstr ""
-"顯示位於工作深度下\n"
+"顯示位於工作深度\n"
 "潛水艇的粗略位置"
 
 msgid "IDS_PARAMS_MODIFIER_TORPEDOBOMBERACCURACYINCRATECOEFF"
@@ -53633,7 +53944,7 @@ msgid "IDS_PASA510_DESCR"
 msgstr "美國海軍在第二艘 Midway 級航空母艦 USS Franklin D. Roosevelt 的甲板上，實現了一個重要的里程碑。標誌著噴射機從航空母艦上進行了首次起降。此艦艇投入服役後，早先主要用於演習和外交任務。後來，她又服役於地中海和東南亞地區。"
 
 msgid "IDS_PASA510_FULL"
-msgstr "富蘭克林˙D˙羅斯福"
+msgstr "富蘭克林˙德拉諾˙羅斯福"
 
 msgid "IDS_PASA510_NUMBER"
 msgstr "3"
@@ -54019,6 +54330,81 @@ msgstr "1"
 msgid "IDS_PASB210_YEAR"
 msgstr "1949"
 
+msgid "IDS_PASB211"
+msgstr "維吉尼亞"
+
+msgid "IDS_PASB211_DESCR"
+msgstr "<p>1939 年中期，美國海軍收到了數份關於 45,000 噸級主力艦的初步設計方案。這些方案以 BB65A 至 BB65E 為代號，在武器數量與佈局、裝甲帶厚度以及航速等方面各不相同。</p><p class=\"p_spacing\"> </p><p>其中，BB65D 方案設想建造一艘裝備 12 門 406 mm 主炮的主力艦。同時，該方案還計劃搭載雙聯裝的 152 mm 高平兩用炮塔，以增強其防空能力。雖然這一方案最終未能付諸實施，但其後續的發展促成了蒙大拿級主力艦的誕生。</p>"
+
+msgid "IDS_PASB211_FULL"
+msgstr "維吉尼亞"
+
+msgid "IDS_PASB211_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASB211_YEAR"
+msgstr "1939"
+
+msgid "IDS_PASB307"
+msgstr "康乃狄克"
+
+msgid "IDS_PASB307_DESCR"
+msgstr "<p>20 世紀 30 年代中期，美國開始著手研發符合《倫敦海軍條約》限制標準的主力艦。1935 年底，美國海軍收到了數份此類艦艇的設計方案。</p><p class=\"p_spacing\"> </p><p>這些方案在排水量、裝甲防護以及武備配置等方面各不相同：從採用傳統背負式主炮佈局的設計，到配備飛行甲板的航空主力艦概念。最終，美國海軍選擇「方案 K」作為進一步研發的基礎。</p><p class=\"p_spacing\"> </p><p>同年 11 月，又提出了五種子設計。其中一項設想在艏部佈置兩座背負式排列的三聯裝主炮塔，並在艉部另設一座主炮塔。通過減小裝甲帶厚度，該設計得以提高最高航速。雖然這一方案最終未被實施，但其後續的發展促成了北卡羅萊納級主力艦的誕生。</p>"
+
+msgid "IDS_PASB307_FULL"
+msgstr "康乃狄克"
+
+msgid "IDS_PASB307_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASB307_YEAR"
+msgstr "1935"
+
+msgid "IDS_PASB308"
+msgstr "華盛頓"
+
+msgid "IDS_PASB308_DESCR"
+msgstr "<p>北卡羅萊納級二號艦<b>華盛頓</b>號，於費城海軍造船廠建造。在該艦服役後的前幾個月中，她一直在美國大西洋沿岸活動。在日本偷襲珍珠港後，該艦便被派往了英國以增強本土艦隊的實力。</p><p class=\"p_spacing\"> </p><p>1942 年夏季，經過小規模的維修後，<b>華盛頓</b>號被調往了太平洋戰場，當時瓜達爾卡納爾島戰役已經打響。1942 年 11 月 14 日到 15 日夜間，<b>華盛頓</b>號參加了瓜達爾卡納爾海戰，並在戰鬥中重創了日本主力艦霧島號。</p><p class=\"p_spacing\"> </p><p>從 1943 年起，該艦便開始為快速航母特混編隊提供掩護，並接連參加了吉爾伯特及馬紹爾群島戰役、馬里亞納群島及帛琉戰役、菲律賓登陸戰、硫磺島戰役以及沖繩島戰役。</p><p class=\"p_spacing\"> </p><p>1946 年，<b>華盛頓</b>號參與戰後接載駐歐美軍返國的「魔毯行動」。次年，該艦退役並轉入了大西洋預備艦隊。</p>"
+
+msgid "IDS_PASB308_FULL"
+msgstr "華盛頓"
+
+msgid "IDS_PASB308_NUMBER"
+msgstr "2"
+
+msgid "IDS_PASB308_YEAR"
+msgstr "1941"
+
+msgid "IDS_PASB309"
+msgstr "印第安納"
+
+msgid "IDS_PASB309_DESCR"
+msgstr "<p>南達科他級二號艦<b>印第安納</b>號，於紐波特紐斯造船廠建造。完成船員訓練後，該艦立即被派往太平洋戰場。</p><p class=\"p_spacing\"> </p><p>1943 到 1945 年間，除了中間暫時的返廠維修，<b>印第安納</b>號參加了塔拉瓦和夸賈林島戰役、馬里亞納群島及帛琉戰役、菲律賓海海戰，以及硫磺島和沖繩島登陸戰。1945 年 9 月，該艦返回美國並轉入太平洋預備艦隊。</p><p class=\"p_spacing\"> </p><p>1956 到 1957 年間，曾有一項將<b>印第安納</b>號改造為飛彈主力艦的計畫：預定拆除全部三座主炮塔，並更換為 RIM-8 黃銅騎士和 RIM-24 韃靼人防空飛彈發射器。但該改造方案最終因成本過高而被放棄。</p>"
+
+msgid "IDS_PASB309_FULL"
+msgstr "印第安納"
+
+msgid "IDS_PASB309_NUMBER"
+msgstr "4"
+
+msgid "IDS_PASB309_YEAR"
+msgstr "1942"
+
+msgid "IDS_PASB310"
+msgstr "紐澤西"
+
+msgid "IDS_PASB310_DESCR"
+msgstr "<p>愛荷華級 2 號艦<b>紐澤西</b>號，於費城海軍造船廠建造。完成訓練後，該艦被調往太平洋，並參加了夸賈林環礁和埃尼威托克戰役。</p><p class=\"p_spacing\"> </p><p>1944 年期間，<b>紐澤西</b>號參加了入侵新幾內亞、馬里亞納群島登陸戰以及菲律賓海海戰。在成為第三艦隊司令威廉˙海爾賽海軍上將的旗艦後，該艦參加了雷伊泰灣海戰。1945 年春，<b>紐澤西</b>號參加了沖繩島登陸戰。</p><p class=\"p_spacing\"> </p><p>20 世紀 80 年代初，該艦進行了現代化改造，期間加裝了戰斧和魚叉反艦飛彈以及方陣近迫武器系統。<b>紐澤西</b>號在第二次世界大戰中獲得了 9 枚戰鬥之星，在韓戰獲得了 4 枚，在越戰獲得了 3 枚，又在黎巴嫩和波斯灣的行動中獲得 3 枚。因此，她成為美國海軍歷史上獲得榮譽最多的主力艦。</p><p class=\"p_spacing\"> </p><p>2000 年，該艦在<b>紐澤西</b>州卡姆登市成為了一艘博物館艦。</p>"
+
+msgid "IDS_PASB310_FULL"
+msgstr "紐澤西"
+
+msgid "IDS_PASB310_NUMBER"
+msgstr "5"
+
+msgid "IDS_PASB310_YEAR"
+msgstr "1943"
+
 msgid "IDS_PASB505"
 msgstr "奧克拉荷馬"
 
@@ -54233,7 +54619,7 @@ msgid "IDS_PASB548"
 msgstr "俄勒岡"
 
 msgid "IDS_PASB548_DESCR"
-msgstr "<p>1935年底，在設計符合《倫敦海軍條約》限制條件的主力艦時，美國海軍總委員會收到了數個方案。這些方案在排水量、裝甲防護和武器裝備上各不相同：從沿中軸線呈階梯式佈置主炮塔的傳統型主力艦，到帶有飛行甲板的混合型艦艇設計一應俱全。</p><p class=\"p_spacing\"> </p><p>最終，美國海軍選擇了方案K作為進一步發展的基礎，隨後又衍生出了5種不同的變體。其中的方案I在外形上與K最為接近，該方案的設計在艏部安放了三座三聯裝超射炮塔、沿中軸線階梯式佈置。該專案最終並未被採納，但其後續發展直接催生了北卡羅來納級主力艦。</p>"
+msgstr "<p>1935年底，在設計符合《倫敦海軍條約》限制條件的主力艦時，美國海軍總委員會收到了數個方案。這些方案在排水量、裝甲防護和武器裝備上各不相同：從沿中軸線呈階梯式佈置主炮塔的傳統型主力艦，到帶有飛行甲板的混合型艦艇設計一應俱全。</p><p class=\"p_spacing\"> </p><p>最終，美國海軍選擇了方案K作為進一步發展的基礎，隨後又衍生出了5種不同的變體。其中的方案I在外形上與K最為接近，該方案的設計在艏部安放了三座三聯裝超射炮塔、沿中軸線階梯式佈置。該專案最終並未被採納，但其後續發展直接催生了北卡羅萊納級主力艦。</p>"
 
 msgid "IDS_PASB548_FULL"
 msgstr "俄勒岡"
@@ -55005,6 +55391,21 @@ msgstr "9"
 
 msgid "IDS_PASC538_YEAR"
 msgstr "1946"
+
+msgid "IDS_PASC540"
+msgstr "謝南多亞"
+
+msgid "IDS_PASC540_DESCR"
+msgstr "<p>隨著美國最後一批二戰時期的巡洋艦退役，美國海軍手中僅剩下 127 毫米 54 倍徑 Mk.42 型這一種適用於對岸砲擊的火砲。然而，該砲在射程和威力上都遜色於蘇聯的同類產品。</p><p class=\"p_spacing\"> </p><p>為了解決這一問題，美國啟動了一項名為「輕量化大口徑單管艦砲」的計畫，該計畫的火砲要求足夠輕量化，以便安裝在驅逐艦上。起初預定的口徑為 175 毫米，但在 20 世紀 70 年代初將其增加至 203 毫米。最終產物 203 毫米 55 倍徑 Mk.71 型火砲成功通過了測試，但卻因預算限制而被取消。</p><p class=\"p_spacing\"> </p><p>如果該計畫成功完成，這種火砲本用於裝備在一種假想的防空巡洋艦上，即基於 CL-154 方案和亞特蘭大級發展的後續型號。</p>"
+
+msgid "IDS_PASC540_FULL"
+msgstr "謝南多亞"
+
+msgid "IDS_PASC540_NUMBER"
+msgstr "1"
+
+msgid "IDS_PASC540_YEAR"
+msgstr "1976"
 
 msgid "IDS_PASC548"
 msgstr "聖地亞哥"
@@ -56025,6 +56426,9 @@ msgstr ""
 "203 mm/55 Mk.14\n"
 "（雙聯裝/三聯裝炮座）"
 
+msgid "IDS_PAUA615_BB7_ART_STOCK"
+msgstr "356 mm/50 Mk.12（炮塔）"
+
 msgid "IDS_PAUA621_203_55_MK14"
 msgstr "203 mm/50 Mk14"
 
@@ -56112,6 +56516,9 @@ msgstr "305 mm/50 Mk.7（炮塔）"
 msgid "IDS_PAUA721_ART_OREGON"
 msgstr "356 mm/50 Mk.7（炮塔）"
 
+msgid "IDS_PAUA722_B8_ART_STOCK"
+msgstr "406 mm/45 Mk.6（炮塔）"
+
 msgid "IDS_PAUA731_127_38"
 msgstr "127 mm/38 Mk.12（Mk.29 炮座）"
 
@@ -56177,6 +56584,9 @@ msgstr "127 mm/38 Mk.12（Mk.30 mod.0 炮座）"
 
 msgid "IDS_PAUA816_D9_ART_STOCK"
 msgstr "127 mm/70 Mk.44（炮塔）"
+
+msgid "IDS_PAUA817_BB9_ART_STOCK"
+msgstr "406 mm/45 Mk.6（炮塔）"
 
 msgid "IDS_PAUA821_B9_ART_STOCK"
 msgstr "406 mm/50 Mk.7（炮塔）"
@@ -56250,8 +56660,17 @@ msgstr "127 mm/38 Mk.12（Mk.38炮座）"
 msgid "IDS_PAUA919_ART_PRESIDENT"
 msgstr "406 mm/50 Mk.3（炮塔）"
 
+msgid "IDS_PAUA920_B11_ART_STOCK"
+msgstr "406 mm/50 Mk.7（炮塔）"
+
 msgid "IDS_PAUA921_152_47DP_MK16"
 msgstr "152 mm/47 DP Mk16（炮塔）"
+
+msgid "IDS_PAUA922_B10_ART_STOCK"
+msgstr "406 mm/50 Mk.7（炮塔）"
+
+msgid "IDS_PAUA923_ART_SHENANDOAH"
+msgstr "203 mm/55 Mk.71（炮塔）"
 
 msgid "IDS_PAUA931_B10_ART_STOCK"
 msgstr "406 mm/50 Mk.7（炮塔）"
@@ -56856,6 +57275,9 @@ msgstr "推進系統：50,000 匹馬力"
 msgid "IDS_PAUE615_ENG_CHANCELLORSVILLE"
 msgstr "推進系統：107,000 匹馬力"
 
+msgid "IDS_PAUE616_BB7_ENG_STOCK"
+msgstr "推進系統：157,500 匹馬力"
+
 msgid "IDS_PAUE621_ENGINE_INDIANAPOLIS"
 msgstr "推進系統：107,000 匹馬力"
 
@@ -56964,6 +57386,9 @@ msgstr "推進系統：121,000 匹馬力"
 msgid "IDS_PAUE731_ENGINE_75000"
 msgstr "推進系統：75,000 匹馬力"
 
+msgid "IDS_PAUE732_B8_ENG_STOCK"
+msgstr "推進系統：115,000 匹馬力"
+
 msgid "IDS_PAUE741_B8_ENG_TOP"
 msgstr "推進系統：115,000 匹馬力"
 
@@ -57035,6 +57460,9 @@ msgstr "推進系統：60,000 匹馬力"
 
 msgid "IDS_PAUE815_D9_ENG_STOCK"
 msgstr "推進系統：75,000 匹馬力"
+
+msgid "IDS_PAUE816_BB9_ENG_STOCK"
+msgstr "推進系統：130,000 匹馬力"
 
 msgid "IDS_PAUE821_ENGINE_120000"
 msgstr "推進系統：120,000 匹馬力"
@@ -57161,6 +57589,15 @@ msgstr "推進系統：150,000 匹馬力"
 
 msgid "IDS_PAUE935_ENG_STONEWALL"
 msgstr "推進系統：80,000 匹馬力"
+
+msgid "IDS_PAUE936_B11_ENG_STOCK"
+msgstr "推進系統：172,000 匹馬力"
+
+msgid "IDS_PAUE937_B10_ENG_STOCK"
+msgstr "推進系統：212,000 匹馬力"
+
+msgid "IDS_PAUE938_ENG_SHENANDOAH"
+msgstr "推進系統：110,000 匹馬力"
 
 msgid "IDS_PAUE971_ENG_ALASKA"
 msgstr "推進系統：180,000 匹馬力"
@@ -57675,6 +58112,9 @@ msgstr "法蘭德"
 msgid "IDS_PAUH618_HULL_CHANCELLORSVILLE"
 msgstr "錢瑟勒斯維爾"
 
+msgid "IDS_PAUH619_BB7_HULL_STOCK"
+msgstr "康乃狄克"
+
 msgid "IDS_PAUH621_MAHAN_1936"
 msgstr "Mahan (A)"
 
@@ -57854,6 +58294,9 @@ msgstr "大黃蜂B"
 msgid "IDS_PAUH748_HULL_OREGON"
 msgstr "俄勒岡"
 
+msgid "IDS_PAUH749_B8_HULL_STOCK"
+msgstr "華盛頓"
+
 msgid "IDS_PAUH751_SAIPAN"
 msgstr "Saipan"
 
@@ -57929,6 +58372,9 @@ msgstr "Fletcher (B)"
 msgid "IDS_PAUH823_FLETCHER_1945"
 msgstr "Fletcher (C)"
 
+msgid "IDS_PAUH824_BB9_HULL_STOCK"
+msgstr "印第安納"
+
 msgid "IDS_PAUH831_IOWA_1943"
 msgstr "Iowa (A)"
 
@@ -57978,7 +58424,7 @@ msgid "IDS_PAUH909_S10_HULL_STOCK"
 msgstr "Balao (A)"
 
 msgid "IDS_PAUH910_HULL_ROOSEVELT"
-msgstr "Franklin D. Roosevelt"
+msgstr "富蘭克林˙德拉諾˙羅斯福"
 
 msgid "IDS_PAUH911_GEARING_1945"
 msgstr "Gearing"
@@ -58037,6 +58483,9 @@ msgstr "總統"
 msgid "IDS_PAUH929_CV10_HULL_STOCK"
 msgstr "埃塞克斯"
 
+msgid "IDS_PAUH930_B11_HULL_STOCK"
+msgstr "維吉尼亞"
+
 msgid "IDS_PAUH931_MONTANA_1945"
 msgstr "Montana"
 
@@ -58048,6 +58497,12 @@ msgstr "緬因"
 
 msgid "IDS_PAUH934_STONEWALL"
 msgstr "石牆"
+
+msgid "IDS_PAUH935_B10_HULL_STOCK"
+msgstr "紐澤西"
+
+msgid "IDS_PAUH936_HULL_SHENANDOAH"
+msgstr "謝南多亞"
 
 msgid "IDS_PAUH941_MIDWAY_1945"
 msgstr "Midway (A)"
@@ -58572,6 +59027,9 @@ msgstr "Mk7 mod.1"
 msgid "IDS_PAUS615_SUO_CHANCELLORSVILLE"
 msgstr "Mk7"
 
+msgid "IDS_PAUS616_BB7_SUO_STOCK"
+msgstr "Mk7"
+
 msgid "IDS_PAUS621_SUO"
 msgstr "Mk7 mod. 1"
 
@@ -58671,6 +59129,9 @@ msgstr "Mk8 mod. 1"
 msgid "IDS_PAUS725_SUO_OREGON"
 msgstr "Mk8"
 
+msgid "IDS_PAUS726_B8_SUO_STOCK"
+msgstr "Mk8"
+
 msgid "IDS_PAUS731_SUO"
 msgstr "Mk8 mod. 1"
 
@@ -58758,6 +59219,9 @@ msgstr "Mk9 mod. 1"
 msgid "IDS_PAUS822_SUO"
 msgstr "Mk9 mod. 2"
 
+msgid "IDS_PAUS823_BB9_SUO_STOCK"
+msgstr "Mk9 mod. 1"
+
 msgid "IDS_PAUS831_SUO_BLACK"
 msgstr "Mk9 mod. 1"
 
@@ -58832,6 +59296,15 @@ msgstr "Mk10 mod. 1"
 
 msgid "IDS_PAUS922_SUO_PRESIDENT"
 msgstr "Mk10 mod. 1"
+
+msgid "IDS_PAUS923_B11_SUO_STOCK"
+msgstr "Mk11"
+
+msgid "IDS_PAUS924_B10_SUO_STOCK"
+msgstr "Mk11"
+
+msgid "IDS_PAUS925_SUO_SHENANDOAH"
+msgstr "Mk10"
 
 msgid "IDS_PAUS931_SUO"
 msgstr "Mk10 mod. 1"
@@ -59123,6 +59596,9 @@ msgstr "Mk17"
 
 msgid "IDS_PAUT917_TORP_PRESIDENT"
 msgstr "Mk15"
+
+msgid "IDS_PAUT918_TORP_SHENANDOAH"
+msgstr "Mk30"
 
 msgid "IDS_PAUT920_TORP_STONEWALL"
 msgstr "Mk11"
@@ -60094,7 +60570,7 @@ msgid "IDS_PBGT023_21IN_3TUBE_TR_MK_IV_R"
 msgstr "533 mm TR Mk IV"
 
 msgid "IDS_PBGT030_21IN_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple Mk I"
+msgstr "533 mm 三聯裝 Mk I"
 
 msgid "IDS_PBGT038_21IN_TRIPLE_TORPEDO_TUBE"
 msgstr "533 mm TR Mk I"
@@ -60612,6 +61088,9 @@ msgstr "457 mm HE Mk II"
 msgid "IDS_PBPA156_457MM_AP_JELLICOE"
 msgstr "457 mm AP Mk II"
 
+msgid "IDS_PBPA157_127MM_HE_WATERLOO"
+msgstr "127 mm HE 58 lb Mk N2"
+
 msgid "IDS_PBPA301_305MM_MX_AP_BC_SAND"
 msgstr "305 mm AP Mk VIb mod.1"
 
@@ -60932,6 +61411,9 @@ msgstr "622 mm Mk I"
 
 msgid "IDS_PBPT046_ANSON"
 msgstr "533 mm Mk IX*"
+
+msgid "IDS_PBPT047_533MM_T11"
+msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBPT104_HERMES_STOCK"
 msgstr "Mark VIII"
@@ -62463,6 +62945,21 @@ msgstr "1"
 msgid "IDS_PBSD510_YEAR"
 msgstr "1952"
 
+msgid "IDS_PBSD511"
+msgstr "滑鐵盧"
+
+msgid "IDS_PBSD511_DESCR"
+msgstr "<p>1950 年代初期，英國工程師正在研發一款新型驅逐艦：其中一個方案以果敢級為基礎，另一個方案則是一種混合型的「巡洋驅逐艦」。這些艦艇旨在透過其配備的高射速火炮對抗蘇聯的 68-bis 工程巡洋艦，同時計劃用於為航空母艦群和艦隊護航，以及追擊敵軍潛水艇。</p><p class=\"p_spacing\"> </p><p>在這些艦艇的假想進一步發展中，127 毫米 56 倍徑火炮的砲塔數量增加至三座，防空火力得到加強，反潛方面則配備了「林波」反潛深彈發射裝置。引擎功率獲得提升，且將原有的階梯式安放方式改為線性配置，從而減少了煙囪數量並優化了武器與機械設備的布局。</p>"
+
+msgid "IDS_PBSD511_FULL"
+msgstr "滑鐵盧"
+
+msgid "IDS_PBSD511_NUMBER"
+msgstr "1"
+
+msgid "IDS_PBSD511_YEAR"
+msgstr "1953"
+
 msgid "IDS_PBSD517"
 msgstr "哥薩克"
 
@@ -62941,6 +63438,9 @@ msgstr "457 mm/45 Mk.II（炮塔）"
 msgid "IDS_PBUA917_ART_JELLICOE"
 msgstr "457 mm/45 Mk.II（炮塔）"
 
+msgid "IDS_PBUA918_ART_WATERLOO"
+msgstr "127 mm/56 QF（Mk.N2 雙聯裝炮座）"
+
 msgid "IDS_PBUA930_C11_ART_STOCK"
 msgstr "152 mm/50 QF Mk.V（Mk.XXVI 炮座）"
 
@@ -63393,6 +63893,9 @@ msgstr "推進系統：40,000 匹馬力"
 
 msgid "IDS_PBUE922_ENG_JELLICOE"
 msgstr "推進系統：139,000 匹馬力"
+
+msgid "IDS_PBUE923_ENG_WATERLOO"
+msgstr "推進系統：70,000 匹馬力"
 
 msgid "IDS_PBUE930_C11_ENG_STOCK"
 msgstr "推進系統：130,000 匹馬力"
@@ -63873,6 +64376,9 @@ msgstr "忒修斯"
 msgid "IDS_PBUH922_JELLICOE"
 msgstr "傑利科"
 
+msgid "IDS_PBUH923_HULL_WATERLOO"
+msgstr "滑鐵盧"
+
 msgid "IDS_PBUH930_C11_HULL_A"
 msgstr "Edgar"
 
@@ -64329,6 +64835,9 @@ msgstr "Mk X"
 msgid "IDS_PBUS916_SUO_JELLICOE"
 msgstr "Mk X"
 
+msgid "IDS_PBUS917_SUO_WATERLOO"
+msgstr "Mk XI"
+
 msgid "IDS_PBUS930_C11_SUO_STOCK"
 msgstr "Mk XI mod. 1"
 
@@ -64553,6 +65062,9 @@ msgstr "533 mm Mk VIII"
 
 msgid "IDS_PBUT910_TORP_DEFENCE"
 msgstr "622 mm Mk I"
+
+msgid "IDS_PBUT911_TORP_WATERLOO"
+msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBUT930_C11_TORP_STOCK"
 msgstr "533 mm Mk IXM"
@@ -67212,7 +67724,7 @@ msgid "IDS_PCEE336_CHAMPAGNE_FLAG_DESCRIPTION"
 msgstr "Champagne 是法國東北部的一個行省，以氣泡酒而聞名於世。該地區的歷史可追溯至 11 至 12 世紀交替之時。當時這地區被稱為香檳領地。"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG"
-msgstr "Franklin D. Roosevelt"
+msgstr "富蘭克林˙D˙羅斯福"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG_DESCRIPTION"
 msgstr "「我們或許不會馬上成功，但我們會揮師重來！」"
@@ -68651,7 +69163,7 @@ msgid "IDS_PCEE584_NORTH_CAROLINA_COLORFUL_FLAG"
 msgstr "North Carolina CLR"
 
 msgid "IDS_PCEE584_NORTH_CAROLINA_COLORFUL_FLAG_DESCRIPTION"
-msgstr "美國第一艘高速主力艦 North Carolina 以位於美國東部的同名州（北卡羅來納）命名。由於此艦艇曾在該城市的港口進行試航，許多市民都記得她。"
+msgstr "美國第一艘高速主力艦 North Carolina 以位於美國東部的同名州（北卡羅萊納）命名。由於此艦艇曾在該城市的港口進行試航，許多市民都記得她。"
 
 msgid "IDS_PCEE584_NORTH_CAROLINA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "紀念一些耀眼奪目艦艇的釋出。"
@@ -68696,7 +69208,7 @@ msgid "IDS_PCEE590_NORTH_CAROLINA_FLAG"
 msgstr "USS North Carolina"
 
 msgid "IDS_PCEE590_NORTH_CAROLINA_FLAG_DESCRIPTION"
-msgstr "美國第一艘高速主力艦 North Carolina 以位於美國東部的同名州（北卡羅來納）命名。由於此艦艇曾在該城市的港口進行試航，許多市民都記得她。"
+msgstr "美國第一艘高速主力艦 North Carolina 以位於美國東部的同名州（北卡羅萊納）命名。由於此艦艇曾在該城市的港口進行試航，許多市民都記得她。"
 
 msgid "IDS_PCEE591_NOTTINGHAM_FLAG"
 msgstr "HMS Nottingham"
@@ -68931,7 +69443,7 @@ msgid "IDS_PCEE633_PRORYV_FLAG"
 msgstr "突圍"
 
 msgid "IDS_PCEE633_PRORYV_FLAG_DESCRIPTION"
-msgstr "突圍錦標賽是一場充滿激情、腎上腺素、競爭精神和真正友誼的動態比賽。"
+msgstr "「突圍」錦標賽是一場充滿激情、腎上腺素、競爭精神和真正戰鬥友誼的動態比賽。"
 
 msgid "IDS_PCEE635_BLACKBLACK_FLAG"
 msgstr "布萊克B"
@@ -69992,6 +70504,15 @@ msgstr "「傭兵」是最為鬆散的組織，成員包括軍人、雇傭兵和
 msgid "IDS_PCEE801_STALCRAFT_ALBATROS_FLAG_EXTRA_DESCRIPTION"
 msgstr "出自遊戲《STALCRAFT: X》。"
 
+msgid "IDS_PCEE802_PANAM_DD_EA_FLAG"
+msgstr "西班牙語世界"
+
+msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_DESCRIPTION"
+msgstr "「西班牙語世界」——形成於 20 世紀 20 至 30 年代之交的學說，主張歐洲與拉丁美洲西班牙語國家形成一個共同體。 1932 年秋，在克里斯多福˙哥倫布發現美洲紀念日前夕，「西班牙語世界」旗幟首次在烏拉圭首都蒙得維的亞的自由廣場升起。"
+
+msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_EXTRA_DESCRIPTION"
+msgstr "旗幟上的白色區域象徵和平與純潔，金色的五月太陽（Sol de Mayo）代表印加神祇印蒂，而三個紫色馬耳他十字則象徵哥倫布的三艘帆船（聖瑪麗亞號、平塔號和尼尼亞號）以及西班牙語。"
+
 msgid "IDS_PCEE803_ARTOIS_FLAG"
 msgstr "阿托瓦"
 
@@ -69999,7 +70520,7 @@ msgid "IDS_PCEE803_ARTOIS_FLAG_DESCRIPTION"
 msgstr "阿托瓦旗帜 — 法國北部歷史悠久的阿托瓦地區的象徵。中世紀時期，這裡曾存在同名的阿托瓦伯爵領地。"
 
 msgid "IDS_PCEE804_DE_GRASSE_1956_FLAG"
-msgstr "德·格拉斯'56"
+msgstr "德˙格拉斯'56"
 
 msgid "IDS_PCEE804_DE_GRASSE_1956_FLAG_DESCRIPTION"
 msgstr "弗朗索瓦˙德˙格拉斯 — 法國海軍上將，以在美國獨立戰爭中擊敗英國艦隊而聞名。此後，法國與美國海軍有多艘艦艇皆以「德˙格拉斯」之名命名。"
@@ -70010,6 +70531,12 @@ msgstr "赤帝"
 msgid "IDS_PCEE806_CHIDI_FLAG_DESCRIPTION"
 msgstr "在中國神話中，鳳凰與火元素緊密相連。人們相信，鳳凰的出現象徵著當時統治者的強大力量，或預示著重大事件的發生。傳說在黃帝軒轅氏逝世之前，曾有鳳凰現身。"
 
+msgid "IDS_PCEE807_PRORYV_SPACE_FLAG"
+msgstr "太空突圍"
+
+msgid "IDS_PCEE807_PRORYV_SPACE_FLAG_DESCRIPTION"
+msgstr "眾所周知，「突圍」是一場充滿激情、腎上腺素、競爭精神和真正戰鬥情誼的激烈競賽。但很少有人知道，這項賽事不僅在海域舉行，也在開放的太空中進行。"
+
 msgid "IDS_PCEE808_SUBMARINE_CLOWN_FLAG"
 msgstr "無論代價"
 
@@ -70018,6 +70545,12 @@ msgstr "帶領團隊走向勝利，還是讓所有人陷入必死之局？您的
 
 msgid "IDS_PCEE808_SUBMARINE_CLOWN_FLAG_EXTRA_DESCRIPTION"
 msgstr "慶祝「尋覓潘朵拉」活動。"
+
+msgid "IDS_PCEE809_EARTH_FEDERATION_FLAG"
+msgstr "地球人聯邦"
+
+msgid "IDS_PCEE809_EARTH_FEDERATION_FLAG_DESCRIPTION"
+msgstr "在遙遠的未來，地球上的所有國家合併為一個整體——地球人聯邦。這使得人類能夠更便捷地探索宇宙廣袤空間，並共同抵禦來自星系間的威脅。"
 
 msgid "IDS_PCEE814_KAIMON_FLAG"
 msgstr "海門"
@@ -70033,6 +70566,30 @@ msgstr ""
 "以綽號「石牆」（Stonewall）聞名的湯瑪士˙喬納桑˙傑克森是美國南北戰爭期間南方聯盟的將軍，傑出的軍事戰術家。為紀念曾在石牆旅服役的士兵，特別鑄造了一枚帶有將軍側像的紀念勳章。\n"
 "\n"
 "\"Look, men! There is Jackson standing like a stone wall! Let us determine to die here, and we will conquer! Rally behind the Virginians!\""
+
+msgid "IDS_PCEE818_WATERLOO_FLAG"
+msgstr "HMS 滑鐵盧"
+
+msgid "IDS_PCEE818_WATERLOO_FLAG_DESCRIPTION"
+msgstr "在滑鐵盧戰役的遺址上，拿破崙遭遇了最後且決定性的失敗，那裡建造了一座土丘，丘頂矗立著一尊雄獅雕像。獅子是英國的象徵，英國在這場戰役中發揮了主導作用。"
+
+msgid "IDS_PCEE819_WOTAN_FLAG"
+msgstr "沃坦"
+
+msgid "IDS_PCEE819_WOTAN_FLAG_DESCRIPTION"
+msgstr "奧丁是日耳曼神話中的主神，通常被描繪為長須獨眼的老者。傳說他為獲得無上智慧，犧牲了自己的右眼。 「沃坦」（德語：Wotan）是理查德˙瓦格納在歌劇《尼伯龍根指環》中使用的奧丁名稱的變體。"
+
+msgid "IDS_PCEE820_UTRECHT_FLAG"
+msgstr "HNLMS 烏特勒支"
+
+msgid "IDS_PCEE820_UTRECHT_FLAG_DESCRIPTION"
+msgstr "烏特勒支是荷蘭中部的一座城市。這座古老城市的歷史可追溯至西元 50 年左右建造的古羅馬堡壘。1579 年，《烏特勒支同盟條約》在此簽署，隨後聯合省共和國（荷蘭共和國的前身）宣告成立。"
+
+msgid "IDS_PCEE821_SHENANDOAH_FLAG"
+msgstr "USS 謝南多亞"
+
+msgid "IDS_PCEE821_SHENANDOAH_FLAG_DESCRIPTION"
+msgstr "謝南多亞河——流經維吉尼亞州同名山谷的一條河流。在美國內戰期間，來自該山谷的愛爾蘭裔新兵加入了「翡翠衛隊」，這是南方邦聯軍第 33 步兵團下屬的一個連隊。"
 
 msgid "IDS_PCEE998_SECRETSANTA_2"
 msgstr "2016 年聖誕老人召集令"
@@ -70904,6 +71461,39 @@ msgstr "撤離系統"
 msgid "IDS_PCVE030_WAFFENTRAGER_BATTLE_RULES_PARAGRAPH_3_TEXT_1"
 msgstr "守住控制點並摧毀獵犬以為撤離系統充能。已佔領的控制點也會為您的護盾提供增益。"
 
+msgid "IDS_PCVE031"
+msgstr "太空前線"
+
+msgid "IDS_PCVE031_DESCRIPTION"
+msgstr "兩支由真人玩家組成的隊伍在遙遠的宇宙世界中展開激戰。艦艇配備飛彈武器且受能量護盾保護。"
+
+msgid "IDS_PCVE031_SHIP_ROLE"
+msgstr "角色：%(roleValue)s"
+
+msgid "IDS_PCVE031_SPACE_APRIL_RULE_1_DESCRIPTION"
+msgstr "若您的艦艇被擊毀，可選擇重生點與艦艇重返戰場。部分艦艇需消耗戰鬥中獲得的重生點數才能解鎖。"
+
+msgid "IDS_PCVE031_SPACE_APRIL_RULE_1_HEADER"
+msgstr "重返戰場"
+
+msgid "IDS_PCVE031_SPACE_APRIL_RULE_2_DESCRIPTION"
+msgstr "艦艇可裝備兩種飛彈：自導飛彈與導引飛彈。要攔截飛彈，需及時啟動雷射反導系統。"
+
+msgid "IDS_PCVE031_SPACE_APRIL_RULE_2_HEADER"
+msgstr "飛彈與雷射"
+
+msgid "IDS_PCVE031_SPACE_APRIL_RULE_3_DESCRIPTION"
+msgstr "要對艦艇造成有效傷害，必須先摧毀其能量護盾。除導引飛彈外，任何武器都可用於破壞護盾。護盾在未受攻擊時會自動恢復能量。"
+
+msgid "IDS_PCVE031_SPACE_APRIL_RULE_3_HEADER"
+msgstr "能量護盾"
+
+msgid "IDS_PCVE031_START_TASK"
+msgstr "召喚超級主力艦貝武夫，摧毀敵方基地"
+
+msgid "IDS_PCVE031_SUBHEADER"
+msgstr "在戰鬥中對飛彈進行測試"
+
 msgid "IDS_PCVE032"
 msgstr "尋覓潘朵拉"
 
@@ -71393,7 +71983,7 @@ msgid "IDS_PCVO032_EV25BRONEKORABLI_PVE_TOOLTIP_GOAL"
 msgstr "對抗機器人控制的鐵血軍團艦艇。敵軍將會源源不斷地發起進攻！"
 
 msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_0"
-msgstr "您艦艇的機動性將受到限制；"
+msgstr "您的艦艇將無法移動；"
 
 msgid "IDS_PCVT001_DAMAGE_PRIME_BRIEFING_1"
 msgstr "攻擊帶有特殊標記的目標可獲得更多積分。"
@@ -71417,7 +72007,7 @@ msgid "IDS_PCVT001_DAMAGE_PRIME_TASK_DESCR"
 msgstr "對敵艦造成傷害。"
 
 msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_0"
-msgstr "您艦艇的機動性將受到限制；"
+msgstr "您的艦艇將無法移動；"
 
 msgid "IDS_PCVT002_CITADEL_PRIME_BRIEFING_1"
 msgstr "命中帶有特殊標記的敵艦的裝甲區可獲得更多積分。"
@@ -71441,7 +72031,7 @@ msgid "IDS_PCVT002_CITADEL_PRIME_TASK_DESCR"
 msgstr "命中敵艦的裝甲區。"
 
 msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_0"
-msgstr "您艦艇的機動性將受到限制；"
+msgstr "您的艦艇將無法移動；"
 
 msgid "IDS_PCVT003_FRAGS_PRIME_BRIEFING_1"
 msgstr "摧毀帶有特殊標記的敵艦可獲得更多積分。"
@@ -77948,7 +78538,7 @@ msgid "IDS_PCZC716_PA_3_2"
 msgstr "T.306 計畫"
 
 msgid "IDS_PCZC716_PA_3_2_DESCRIPTION"
-msgstr "英國 Thornycroft & Co. 公司曾為多國海軍建造驅逐艦，經驗豐富，在 1929 年發展了一系列「艦隊領艦」計畫並提供給南斯拉夫王國、荷蘭和中華民國（1912-1949）。獻議給民國政府的 T.306 計畫是一艘強大又高速的艦艇，配置與結構類似於英國驅逐領導艦，並裝有五門 120 毫米火炮和兩座三聯裝魚雷發射器，航速可達 37 節。"
+msgstr "英國 Thornycroft & Co. 公司曾為多國海軍建造驅逐艦，經驗豐富，在 1929 年發展了一系列「艦隊領艦」計畫並提供給南斯拉夫王國、荷蘭和中國。獻議給民國政府的 T.306 計畫是一艘強大又高速的艦艇，配置與結構類似於英國驅逐領導艦，並裝有五門 120 毫米火炮和兩座三聯裝魚雷發射器，航速可達 37 節。"
 
 msgid "IDS_PCZC717_PA_3_3"
 msgstr "寧海"
@@ -78319,37 +78909,37 @@ msgid "IDS_PCZC798_BATTLE_OF_SOMME_126_PUZZLE_60"
 msgstr "拼圖碎片"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1"
-msgstr "機器人 SAN-9I（自動訂單引導系統，第 9 代）"
+msgstr "機器人 SAN-9I（自動導航系統，第 9 代）"
 
 msgid "IDS_PCZC799_SCARLET_BIRTHDAY_1_1_DESCRIPTION"
-msgstr "<p>SAN-1 機器人是為了安全而設計的，但在測試過程中發現了一個人工智慧漏洞。它導致機器人對「確保秩序」這句話的理解過於直白。該專案被凍結。</p><p class=\"p_spacing\"> </p><p>在「友誼協議」通過後，工程師們恢復了該專案的工作，並決定將人工智慧的劣勢轉化為優勢。</p><p class=\"p_spacing\"> </p><p>八次更新之後，SAN-9I 清潔機器人在每個家庭中都佔據了一席之地。</p><p class=\"p_spacing\"> </p><p>警告：請勿按下紅色按鈕！</p>"
+msgstr "<p>機器人 SAN-1 最初是為安全目的而設計的，但在測試過程中發現其人工智慧存在缺陷。該缺陷導致機器人對「維持秩序」的指令理解過於死板。項目因此被擱置。</p><p class=\"p_spacing\"> </p><p>隨著《友誼協議》的簽署，工程師們重啟了該項目，並決定將人工智慧的缺陷轉化為優勢。</p><p class=\"p_spacing\"> </p><p>經過八次迭代升級，清潔機器人 SAN-9I 正式問世，並走進了千家萬戶。</p><p class=\"p_spacing\"> </p><p>注意！請勿按下紅色按鈕！</p>"
 
 msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2"
 msgstr "PAL-4"
 
 msgid "IDS_PCZC800_SCARLET_BIRTHDAY_1_2_DESCRIPTION"
-msgstr "<p>PAL-4 是一種快遞機器人，可以運送重達 400 噸的貨物。順便說一句，運送距離幾乎不受限制。</p><p class=\"p_spacing\"> </p><p>得益於它的廣泛使用，目前所有的海洋綜合體都是在最短的時間內建成的：從 MK-1 到 MK-8。</p><p class=\"p_spacing\"> </p><p>我們每個人都至少使用過一次機器人快遞員的服務：無論是為心愛的女士送花，還是為博士論文運送濃縮鈾。</p>"
+msgstr "<p>PAL-4 是一款物流机器人，能夠運送重達400噸的貨物。值得一提的是，它的運輸距離幾乎不受限制。</p><p class=\"p_spacing\"> </p><p>得益於其大規模普及應用，從 MK-1 到 MK-8 的所有現存海上綜合體均在最短時間內建成。</p><p class=\"p_spacing\"> </p><p>我們每個人都至少使用過一次機器人快遞服務：無論是為心上人遞送鮮花，還是為博士論文運輸濃縮鈾材料。</p>"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3"
 msgstr "工程象形圖"
 
 msgid "IDS_PCZC801_SCARLET_BIRTHDAY_1_3_DESCRIPTION"
-msgstr "<p>先進的技術造就了獨特的影像儲存裝置。無論是家庭檔案、研究用的微距拍攝還是星空快照，都能透過神經網路畫面自動傳輸到裝置上。</p><p class=\"p_spacing\"> </p><p>只需輕輕眯一下眼睛，內建的微型晶片就會拍攝照片並上傳。</p>"
+msgstr "<p>先進技術使我們能夠開發出一種獨特的圖像儲存裝置。無論是家庭相冊、用於研究的微距攝影，還是星空照片——借助神經網絡介面，圖像都能自動傳輸至裝置中。</p><p class=\"p_spacing\"> </p><p>只需輕眨嵌有微型晶片的眼睛，瞧——照片便已拍攝並上傳完成。</p>"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4"
 msgstr "3 號原型機"
 
 msgid "IDS_PCZC802_SCARLET_BIRTHDAY_1_4_DESCRIPTION"
-msgstr "<p>這是一個高科技裝置，由MK-8研究所的某位工程師秘密研製。有關該裝置的操作、用途及其創造者姓名的資訊均屬機密。</p><p class=\"p_spacing\"> </p><p>據傳，該裝置最近已被啟用，正在向一個未知的收件人傳送編碼訊號。</p>"
+msgstr "<p>這是一款由某位 MK-8 研究所工程師秘密研發的高科技裝置。關於其工作原理、用途以及發明者姓名的一切資訊均屬機密。</p><p class=\"p_spacing\"> </p><p>據傳聞，該裝置近期已啟動，並持續向未知接收方發送加密信號。</p>"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5"
 msgstr "「信使」行動通訊器"
 
 msgid "IDS_PCZC803_SCARLET_BIRTHDAY_1_5_DESCRIPTION"
-msgstr "<p>「信使」行動通訊器是一種通知市民和搜尋資訊的現代化便捷工具。它不僅具有智慧和靈巧的特點，還擁有龐大的內建資料庫。現在，從進步部發送資訊更加方便。</p><p class=\"p_spacing\"> </p><p>「信使」是現代年輕人的選擇！</p>"
+msgstr "<p>「信使」移動通信器——一款現代化且便捷的公民通知與資訊查詢工具。它不僅智能靈活，還內建了龐大的資料庫。現在，從進步部發送訊息變得更加簡單。</p><p class=\"p_spacing\"> </p><p>「信使」——當代年輕人的選擇！</p>"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6"
-msgstr "「首創精神」頭盔"
+msgstr "「先驅壯舉」頭盔"
 
 msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6_DESCRIPTION"
 msgstr "這是一頂傳說中的頭盔，屬於一位首次踏上火星紅色平原的英雄。原件目前收藏在進步部博物館，是未來宇航員和天體物理學家科學朝聖的物件。其複製品則是送給青年才俊的最佳畢業禮物。"
@@ -78358,25 +78948,25 @@ msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1"
 msgstr "米哈伊爾˙奧爾洛夫"
 
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1_DESCRIPTION"
-msgstr "<p>一位勇敢、有魅力、精明的進步部視察員。米哈伊爾˙奧爾洛夫在國際太空立交橋事件後成為了世界英雄。</p><p class=\"p_spacing\"> </p><p>他從小就閱讀積極向上的書籍。正因為渴望成為自己喜歡的人物，這位視察員才成為了冒險愛好者，他滿懷激情地投入到各種事件中，常常忘記了自己的安危。</p><p class=\"p_spacing\"> </p><p>對於米哈伊爾來說，沒有「不可能」這個詞。他的座右銘是：「我只看見目標，而看不見障礙。」不過，說實話，有些事情是視察員永遠無法承受的，那就是將他人置於危險之中。「捨己救人」是他的另一個人生信條。</p>"
+msgstr "<p>他是進步部一位勇敢、富有魅力且洞察力敏銳的督察。米哈伊爾˙奧爾洛夫在國際太空棧橋事件後，成為了眾人皆知的英雄。</p><p class=\"p_spacing\"> </p><p>他自幼便飽讀正典書籍。正是渴望成為書中那些心儀角色的願望，造就了這位熱衷於冒險的督察。他總是滿懷激情地投身於事件的最核心處，常常將自己的安危置之度外。</p><p class=\"p_spacing\"> </p><p>對米哈伊爾而言，不存在「不可能」這個詞。他的座右銘是：「看見目標，無視障礙。」不過，說實話，有一件事是這位督察永遠無法允許自己做的——那就是將他人置於危險之中。「寧可犧牲自己，也要拯救同志」——這是他另一條人生信條。</p>"
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2"
 msgstr "安東˙格蘭特"
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2_DESCRIPTION"
-msgstr "<p>從表面上看，這位古板迂腐的紳士似乎不太友好。他懷疑的眼神、鋼鐵般的嗓音 — 這一切都讓不熟悉這位海軍上將的人感到格格不入。</p><p class=\"p_spacing\"> </p><p>格蘭特上將經歷過無數衝突，不止一次地激勵著人們奮勇殺敵。凡是與格蘭特一起征戰過的人都可以肯定地說，他不僅是一位出色的指揮官，還是一位真正的朋友。</p><p class=\"p_spacing\"> </p><p>「禮儀是一個人的臉面。」即使在戰場上或用錘子敲打手指後，這位大名鼎鼎的海軍上將仍牢記這句話。</p><p class=\"p_spacing\"> </p><p>然而，在他嚴厲的外表下隱藏著非常有趣的個性。實際上，安東˙格蘭特的小提琴拉得相當好，他的英式笑話也贏得了不止一個女孩的芳心。</p>"
+msgstr "<p>從外表看，這位古板而一絲不苟的紳士或許顯得不那麼平易近人。那審視的目光、冷硬的語調——足以讓任何不熟悉格蘭特上將的人感到侷促不安。</p><p class=\"p_spacing\"> </p><p>歷經多次衝突的格蘭特上將，曾不止一次激勵人們建立功勳。所有曾與他並肩作戰的同袍都能篤定地說：他不僅是一位卓越的指揮官，更是一位真正的摯友。</p><p class=\"p_spacing\"> </p><p>「風度是男人的門面。」這位著名的上將即使在戰場上，或是在被錘子砸到手指後，依然謹記此言。</p><p class=\"p_spacing\"> </p><p>然而，在這嚴肅的外表之下，卻隱藏著一個頗為有趣的靈魂。原來，安東˙格蘭特的小提琴拉得相當不錯，而他那些地道的英式幽默，更是俘獲了不止一位少女的芳心。</p>"
 
 msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3"
 msgstr "機器人 GM-22D"
 
 msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3_DESCRIPTION"
-msgstr "<p>GM-22D 機器人工程師是進步部最出色的研發成果之一。其先進的人工智慧使其有可能成為最複雜的海洋綜合體。</p><p class=\"p_spacing\"> </p><p>由於具有學習能力，GM-22D 非常清楚自己當前的能力遠遠超過了最初的程式設計能力，但它不會做一些逾越的行動。至少，在人類面臨嚴重危險之前，它不會越雷池一步。</p><p class=\"p_spacing\"> </p><p>撇開技術層面不談，GM-22D 還非常會嘮嗑 — 他有時會講出令人捧腹的笑話，讓周圍的人都笑得直不起腰、喘不過氣，誰知道呢？無論如何，GM-22D 都真誠地祝願大家一切順利，並努力讓世界變得更美好。</p>"
+msgstr "<p>GM-22D 工程機器人是進步部最傑出的研發成果之一。其先進的人工智慧系統成功實現了最複雜的海洋工程設施建設。</p><p class=\"p_spacing\"> </p><p>憑藉強大的學習能力，工程機器人清醒地認識到自身能力已遠超初始程式設定，但它始終恪守權限邊界。至少，在人類面臨重大危機之前，它絕不會越界。</p><p class=\"p_spacing\"> </p><p>若拋開技術層面，工程機器人堪稱絕佳的對話夥伴，其機智幽默的談吐常引得眾人開懷大笑——或者說引發其他反應？誰知道呢……無論如何，GM-22D 始終懷揣善意，竭盡所能讓世界變得更加美好。</p>"
 
 msgid "IDS_PCZC808_SCARLET_BIRTHDAY_2_4"
-msgstr "宋薇"
+msgstr "魏松"
 
 msgid "IDS_PCZC808_SCARLET_BIRTHDAY_2_4_DESCRIPTION"
-msgstr "<p>一個天才女學生，神童，世界機器人大賽的冠軍。</p><p class=\"p_spacing\"> </p><p>儘管年齡尚小，她卻憑藉超凡的智力受邀到進步部工作。</p><p class=\"p_spacing\"> </p><p>宋薇的主要目標是改進海洋綜合體，讓從未受過訓練的工程師也能只用一個開關就能控制它們。與此同時，這位天才女學生還專門研究GM系列機器人。</p>"
+msgstr "<p>才華洋溢的少女，神童，世界機器人奧林匹克競賽冠軍。</p><p class=\"p_spacing\"> </p><p>儘管年紀尚輕，卻因其非凡的智力才能，收到了進步部的工作邀請。</p><p class=\"p_spacing\"> </p><p>魏松的主要目標是完善海上綜合設施，使其即使是最缺乏經驗的工程師也能僅憑一個開關就能輕鬆操控。目前，這位才華洋溢的少女正專注於 GM 系列機器人的研發。</p>"
 
 msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5"
 msgstr "阿斯特拉"
@@ -78385,82 +78975,82 @@ msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5_DESCRIPTION"
 msgstr "<p>這是一隻宇航員之犬，陪伴著第一批太空探索者踏上星際之旅。在軌道上度過的時間裡，她成為了飛船乘員忠實的朋友和舒適家園的象徵。阿斯特拉的嗅覺靈敏，鼻子冰涼，最重要的是她非常聰明。從一開始，她就明白什麼是切向旋轉器，以及什麼時候該把它帶給誰。</p><p class=\"p_spacing\"> </p><p>好女孩</p>"
 
 msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6"
-msgstr "阿爾卡季˙庫裡賓"
+msgstr "阿爾卡季˙庫利賓"
 
 msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6_DESCRIPTION"
-msgstr "<p>天才、勞動者、「淑女」、慈善家…. 阿爾卡季˙庫裡賓是時尚眼鏡和時尚服飾的愛好者。但不要被他的外表所迷惑，他其實是一個不苟言笑的人，一個迪斯科愛好者，一個現代人類最偉大的思想家之一。</p><p class=\"p_spacing\"> </p><p>他勤奮工作，獻身科學，與他的朋友和同事鮑里斯˙文納（Борисом Веннером）一起參與了人工智慧的創造，後來被稱為「智慧」。</p><p class=\"p_spacing\"> </p><p>目前，阿爾卡季˙庫裡賓是MK研究所所長。在他的領導下，包括機器人專家、工程師、分子生物學家、航天工業專家在內的數千名科研人員開展工作。</p><p class=\"p_spacing\"> </p><p>正是庫裡賓發現了天才少女宋薇，並給了她一張通往科學世界的門票。</p>"
+msgstr "<p>天才、工作狂、女性之友、慈善家……阿爾卡季˙庫利賓是時尚眼鏡與潮流服飾的狂熱愛好者。但別被表象迷惑，這位看似玩世不恭的迪斯可愛好者，實則是當代人類最偉大的智者之一。</p><p class=\"p_spacing\"> </p><p>他勤勉專注、獻身科研，曾與摯友兼同事鮑里斯˙文納爾共同參與創造了後來被稱為「智慧」的人工智慧系統。</p><p class=\"p_spacing\"> </p><p>如今阿爾卡季˙庫利賓執掌 MK 聯合研究所，麾下匯聚數千名科研人員，涵蓋機器人專家、工程師、分子生物學家及航天領域專才。</p><p class=\"p_spacing\"> </p><p>正是庫利賓慧眼識珠，為天才少女魏松叩開了科學世界的大門。</p>"
 
 msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1"
 msgstr "國際太空棧橋"
 
 msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1_DESCRIPTION"
-msgstr "<p>11 年前，一項宏偉的工程 — 國際太空棧橋 — 開始動工。</p><p class=\"p_spacing\"> </p><p>這是人類進步史上最偉大的建築，是人類勇敢的工程思維與機器人技術無限可能性的結晶。</p>"
+msgstr "<p>11 年前，一項宏偉工程——國際太空棧橋——的建設工作正式啟動。</p><p class=\"p_spacing\"> </p><p>這座進步人類歷史上最偉大的建築，是人類大膽的工程構想與機器人技術無限潛力相結合的成果。</p>"
 
 msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2"
 msgstr "MK-8 研究所"
 
 msgid "IDS_PCZC812_SCARLET_BIRTHDAY_3_2_DESCRIPTION"
-msgstr "與人工島相連的最先進的高科技研究所。這裡是進行先進機器人研究的場所。在機器人艦隊入侵期間，這裡是最後一個投入使用的研究所。多虧了這裡的研究，敵方艦隊的無線電干擾源得以被找到。"
+msgstr "所有現有科研機構中最先進、技術最尖端的一個，與人工島嶼相連。這裡是機器人技術前沿研究的核心地帶。在機器人艦隊入侵期間，最後一個保持運作的科研機構。其透過研究成功定位了敵方艦隊發出的無線電干擾源。"
 
 msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3"
 msgstr "「邁向宇宙」紀念碑"
 
 msgid "IDS_PCZC813_SCARLET_BIRTHDAY_3_3_DESCRIPTION"
-msgstr "<p>來自地球各個角落的數十位雕塑家用他們的努力和才智創造出了這一宏偉的傑作。它使人類的科學成就永垂不朽。</p><p class=\"p_spacing\"> </p><p>它象徵著人類對新視野的不懈追求！</p>"
+msgstr "<p>這座宏偉的傑作，凝聚了來自世界各地數十位雕塑家的心血與才華。它將人類的科學成就永恆鐫刻於石中。</p><p class=\"p_spacing\"> </p><p>它象徵著人類對探索新天地永不停歇的追求！</p>"
 
 msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4"
 msgstr "進步部"
 
 msgid "IDS_PCZC814_SCARLET_BIRTHDAY_3_4_DESCRIPTION"
-msgstr "<p>決定人類未來專案和工程專案命運的不僅僅是該部的辦公場所。</p><p class=\"p_spacing\"> </p><p>正是在這裡召開了緊急會議，以便在所有基礎設施關閉和系統故障發生後的第一時間解決危機。</p><p class=\"p_spacing\"> </p><p>此外，在進步部的領土上還有一個機器人博物館，在這裡，科學成就的光輝展現在參觀者面前。</p>"
+msgstr "<p>在進步部的土地上，不僅規劃著人類未來的藍圖，也決定著工程項目的命運。</p><p class=\"p_spacing\"> </p><p>正是在這裡，在全域基礎設施癱瘓、系統失效後的最初幾分鐘，緊急會議被火速召集以應對這場危機。</p><p class=\"p_spacing\"> </p><p>此外，進步部轄區內還設有一座機器人技術博物館，科學的輝煌成就在此向訪客們淋漓盡致地展現。</p>"
 
 msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5"
-msgstr "德魯日巴港"
+msgstr "友誼港"
 
 msgid "IDS_PCZC815_SCARLET_BIRTHDAY_3_5_DESCRIPTION"
-msgstr "位於國際太空棧橋附近的海港。它是貨船和商船的港口。港口有多艘艦艇守衛，實際上是一座堅不可摧的堡壘。港口的驕傲是宏偉的「緋紅雷神」號艦艇，這艘艦艇經過改裝後採用了最新的機器人技術。"
+msgstr "位於國際空間高架橋附近的海港。作為貨運與貿易船隻的停靠港。港口由數艘艦艇守護，實際上是一座堅不可摧的堡壘。港口的驕傲是壯麗的「緋紅雷神」號主力艦，經過改裝後，它融合了機器人技術的最新成果。"
 
 msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6"
-msgstr "邁蒙"
+msgstr "梅蒙"
 
 msgid "IDS_PCZC816_SCARLET_BIRTHDAY_3_6_DESCRIPTION"
-msgstr "<p>在火星上被建成的第一座城市，是火星探索的一部分。這座城市是為了紀念發現在紅色星球的土壤中種植馬鈴薯的殖民者而命名的。</p><p class=\"p_spacing\"> </p><p>現在，由於現代科技的發展，這座城市的每個居民都能獲得所需的一切：淡水、食物和空氣。這座城市是科學家們的家園，他們背井離鄉，畢生致力於研究這個對他們來說仍然陌生的星球。</p>"
+msgstr "<p>這是火星開發計畫中建立的第一座城市，以一位發現火星土壤種植馬鈴薯方法的殖民者命名。</p><p class=\"p_spacing\"> </p><p>如今，得益於現代科技的發展，城市每位居民都獲得了生活所需的一切：新鮮的水源、食物與空氣。居住於此的科學家們離開故土，將生命奉獻給這顆對他們而言仍顯陌生的星球研究。</p>"
 
 msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1"
-msgstr "BARS 單桅帆船"
+msgstr "BARS 穿梭艇"
 
 msgid "IDS_PCZC817_SCARLET_BIRTHDAY_4_1_DESCRIPTION"
-msgstr "BARS 單桅帆船（無人自主偵察和救援單桅帆船）是專門為「緋紅雷神」號主力艦開發的。這艘由人工智慧控制的單桅帆船可在各種事故中執行人員救援任務，還可用於偵察和搜尋潛在敵人。"
+msgstr "BARS 穿梭艇（無人自主偵察救援艇）專為在「緋紅雷神」號主力艦上使用而設計。這艘由人工智慧操控的穿梭艇負責執行各類事故中的人員救援任務，同時也可用於偵察及搜尋潛在敵對目標。"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2"
 msgstr "防空系統「日落」"
 
 msgid "IDS_PCZC818_SCARLET_BIRTHDAY_4_2_DESCRIPTION"
-msgstr "<p>最新的機器人防空系統「日落」是專門為「緋紅雷神」研製的。選擇這樣一個浪漫的名字是有原因的：它彷彿在暗示那些敵人，這可能是他們見到的最後一次「日落」。</p><p class=\"p_spacing\"> </p><p>自動瞄準系統和等離子彈藥，使這艘主力艦能夠對付大多數空中目標。</p>"
+msgstr "<p>專為「緋紅雷神」研發了最新型機器人防空系統「日落」。這個浪漫的名字並非隨意選擇：它似乎在暗示潛在的對手，這個「日落」可能意味著他們的終結。</p><p class=\"p_spacing\"> </p><p>自動目標追蹤系統與電漿彈藥的應用，使這艘主力艦能夠應對絕大多數敵人。</p>"
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3"
 msgstr "V.A.N.Sh.O.T."
 
 msgid "IDS_PCZC819_SCARLET_BIRTHDAY_4_3_DESCRIPTION"
-msgstr "<p>高效的自動制導三聯裝火炮 — 「緋紅雷神」的主炮。單炮塔齊射造成的傷害強度可媲美二戰時期的整個主力艦炮群。</p><p class=\"p_spacing\"> </p><p>在壓制 MK-8 附近的危機時，V.A.N.Sh.O.T.火炮表現出色。</p>"
+msgstr "<p>高效的自动制导三联装火炮——「緋紅雷神」的主炮。单炮塔齐射的威力堪比二战时期主力艦整支火炮编队的齐射。</p><p class=\"p_spacing\"> </p><p>在压制 MK-8 附近的危机时，V.A.N.Sh.O.T. 火炮表现出色。</p>"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4"
-msgstr "OCO 敵情偵測系統"
+msgstr "OKO 敵情偵測系統"
 
 msgid "IDS_PCZC820_SCARLET_BIRTHDAY_4_4_DESCRIPTION"
-msgstr "這種無與倫比的探測裝置是專為「緋紅雷神」主力艦改裝而開發的。透過使用人工智慧分析儀進行雷達搜尋，OCO 能夠探測到最遠 400 公里和最深 10 公里的敵人。「緋紅雷神」號的船員們戲稱其為「千里眼」。"
+msgstr "為主力艦「緋紅雷神」改型專門研發的探測裝置，其性能無與倫比。透過搭載人工智慧分析器進行雷達掃描，OKO系統能在 400 公里距離內偵測敵方目標，並具備 10 公里深度的探測能力。憑藉其卓越性能，「緋紅雷神」的船員們將OKO系統譽為「全視之眼」。"
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5"
 msgstr "渦輪引擎「動力」"
 
 msgid "IDS_PCZC821_SCARLET_BIRTHDAY_4_5_DESCRIPTION"
-msgstr "<p>「緋紅雷神」號的現代化改造也影響到了它的引擎。新一代渦輪引擎「動力」取代了蒸汽機和鍋爐。這種引擎能提供快速的衝程，還能提高艦艇的最高航速。</p><p class=\"p_spacing\"> </p><p>沒有人知道裝有「動力」引擎的船到底能跑多快。</p>"
+msgstr "<p>「緋紅雷神」號的現代化改造也涉及到了其引擎。蒸汽機和鍋爐被新一代渦輪引擎「動力」所取代。這種發動機能夠快速提速，並提高了艦艇的最大航速。</p><p class=\"p_spacing\"> </p><p>沒有人確切知道裝備「動力」引擎艦艇的航速能達到多快。</p>"
 
 msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6"
 msgstr "P.I.U. 探測器"
 
 msgid "IDS_PCZC822_SCARLET_BIRTHDAY_4_6_DESCRIPTION"
-msgstr "命中與擊殺（P.I.U.）探測器是緋紅雷神的最新系統。該裝置能探測到敵人被擊中或被完全摧毀的情況，然後給出特殊的顏色指示。它沒有實際用途，單純很漂亮。"
+msgstr "命中與摧毀（P.I.U.）探測器——「緋紅雷神」的最新系統。這套設備能記錄對敵人的命中及完全摧毀情況，隨後會觸發特殊的彩色指示燈。沒有實際用途，純粹為了美觀。"
 
 msgid "IDS_PCZC823_JAP_BB_EA_DRAGONS_PUZZLE_01"
 msgstr "拼圖碎片"
@@ -78766,61 +79356,61 @@ msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1"
 msgstr "PAL-9"
 
 msgid "IDS_PCZC903_SCARLET_BIRTHDAY_2_1_1_DESCRIPTION"
-msgstr "PAL-9 是第二代改進型機器人快遞員，它不僅保持了前身在長距離運輸高達 400 噸貨物的能力，還展示了適應現代技術需求的創新機制。作為 MK-9 機器人造船廠系統的一部分，這款機器人確保了艦艇部件的順暢配送和組裝，在新艦艇建造中發揮了核心作用。"
+msgstr "PAL-9 是第二代升級版物流機器人，不僅繼承了前代可運送 400 噸貨物至遠距離的能力，更展現出適應現代技術發展需求的創新機械結構。作為 MK-9 機器人造船廠系統的核心組成部分，該機器人在新型艦艇建造中發揮著關鍵作用，確保艦艇部件的無縫運輸與高效組裝。"
 
 msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2"
 msgstr "MK-9 保險箱"
 
 msgid "IDS_PCZC904_SCARLET_BIRTHDAY_2_1_2_DESCRIPTION"
-msgstr "特殊的保險箱由可靠的 PAL-9 機器人運輸，專門用於裝載特別貴重的貨物。該保險箱配備了複雜的鎖定系統和先進的安全機制，確保只有具備相應許可權的人才能開啟。保險箱的材料設計使其能夠在極端的運輸條件下保持內容物完好無損。"
+msgstr "此特殊保險箱由可靠的 PAL-9 機器人負責運輸，專為運送極其貴重的貨物而設計。箱體配備複雜的鎖定系統與先進安全機制，確保僅有具備相應開啟權限的人員能取得內部物品。其材質結構經過特殊設計，即使在極端運輸條件下，亦能保障箱內物品完好無損。"
 
 msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3"
 msgstr "URS-1"
 
 msgid "IDS_PCZC905_SCARLET_BIRTHDAY_2_1_3_DESCRIPTION"
-msgstr "URS-1 超光速轉移裝置，是時間研究領域技術進步的頂峰。由科學家們在科學城開發，並在 MK-9 船廠組裝，這個裝置能夠使物體穿越時間障礙。預計透過它，人類不僅能夠預防潛在的災難，還能夠對重要歷史事件進行戰略性調整。URS-1 已成為全球安全和技術可靠性戰略的關鍵要素，確保能夠迅速應對未來的挑戰。"
+msgstr "URS-1，相對論位移裝置，是時間研究領域技術進步的巔峰之作。該裝置由科學城的科學家們研發，並在 MK-9 造船廠組裝完成，具備穿越時間屏障移動物體的能力。據推測，借助該裝置，人類不僅能預防潛在災難，還能對重大歷史事件進行戰略性調整。URS-1 已成為全球安全與技術可靠性戰略中的關鍵要素，為應對未來挑戰提供了快速響應的可能性。"
 
 msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4"
-msgstr "導航球"
+msgstr "導航地球儀"
 
 msgid "IDS_PCZC906_SCARLET_BIRTHDAY_2_1_4_DESCRIPTION"
-msgstr "<p>這是一個用於分析全球海洋和空中航線的獨特裝置。配備了先進的跟蹤系統，這個導航球允許港口操作員即時檢視和規劃船隻的航行路徑。</p><p class=\"p_spacing\"> </p><p>其與MK-9的人工智慧整合系統能夠分析全球資料，提供最佳化的航線建議，並計算可能的風險，從而確保高效、安全的運輸。</p><p class=\"p_spacing\"> </p><p>尚不清楚這個裝置可能還具有哪些隱藏功能，但它在戰略規劃中的作用不可估量。</p>"
+msgstr "<p>這是一款用於分析全球海運與空運航線的獨特設備。配備先進的追蹤系統後，這個地球儀能讓港口操作員即時查看並規劃艦艇航路。</p><p class=\"p_spacing\"> </p><p>透過與 MK-9 人工智慧系統的整合，它能分析全球數據並提供最佳化航線方案，同時計算潛在風險，確保運輸作業的安全與效率。</p><p class=\"p_spacing\"> </p><p>雖然尚不清楚該設備是否具備其他隱藏功能，但它在戰略規劃中的價值無可估量。</p>"
 
 msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5"
-msgstr "MK-9 工作證"
+msgstr "MK-9 員工證"
 
 msgid "IDS_PCZC907_SCARLET_BIRTHDAY_2_1_5_DESCRIPTION"
-msgstr "這張證件為持有者提供了進入 MK-9 上最重要和最秘密的設施的許可權，包括研究實驗室和指揮中心。可顯示個人資料的互動螢幕和內建的身份識別系統，使其在 MK-9 工作中不可或缺。整合的安全系統防止未經授權的訪問，而定位功能則允許持續跟蹤員工的位置。"
+msgstr "此證件持有人有權進入 MK-9 最高機密核心設施，包含研究實驗室與指揮中心。配備個人數據交互螢幕及內建識別系統的通行證，是 MK-9 工作環境中不可或缺的工具。整合式安全系統能有效防止未授權存取，即時定位更新功能則可追蹤人員動態軌跡。"
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1"
 msgstr "瓦西里莎"
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1_DESCRIPTION"
-msgstr "瓦西里莎是進步部中一位才華橫溢的研究員，她陪同米哈伊爾˙奧爾洛夫前往 MK-8 戰鬥地點進行考察。雖然年僅 25 歲，她已經被認為是最具前途的年輕科學家之一。作為阿爾卡季˙庫利賓最傑出的學生，瓦西里莎為奧爾洛夫的科研任務提供了寶貴的幫助。她敏銳的頭腦和創新的科學方法使她在調查MK-8事件以及奧爾洛夫的後續任務中變得不可或缺。"
+msgstr "瓦西里莎——進步部的傑出研究員，曾陪同米哈伊爾·奧爾洛夫前往 MK-8 戰場遺址進行考察。年僅 25 歲的她，已是公認最具潛力的青年科學家之一。作為阿爾卡季·庫利賓最得意的門生，瓦西里莎在奧爾洛夫的科研探索中提供了無可替代的幫助。她敏銳的思維與創新的科學方法，使其在調查 MK-8 事件及後續奧爾洛夫的任務中成為不可或缺的關鍵人物。"
 
 msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2"
 msgstr "智慧懸浮不倒翁"
 
 msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2_DESCRIPTION"
-msgstr "<p>這隻可愛的不倒翁曾經屬於 MK-8 上才華橫溢的學生宋薇，現在已經成為 MK-9 上的獨立互動助手。宋薇對它進行了改造，使其成為一個完整的智慧助理。</p><p class=\"p_spacing\"> </p><p>不倒翁配備了先進的人工智慧系統，能夠與使用者互動並幫助他們處理日常任務。內建的語音指令和與MK-9各種系統的連線能力使它成為不可或缺的助手。它能夠跟蹤移動，協呼叫戶的行動，以及分析資料並警告潛在危險。</p>"
+msgstr "<p>這個可愛的不倒翁，曾是才華洋溢的 MK-8 學生魏松的所屬物，如今在 MK-9 上已成長為獨立的互動助手。魏松對其進行了升級改造，使其成為一個功能完備的助理。</p><p class=\"p_spacing\"> </p><p>不倒翁配備了先進的人工智能系統，能夠與用戶互動並協助處理日常任務。內建的語音命令功能以及與 MK-9 各類系統的連接能力，使其成為不可或缺的幫手。它能夠追蹤動態、協調用戶行動，還能分析數據並預警潛在危險。</p>"
 
 msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3"
 msgstr "MK-9 機器人管理員"
 
 msgid "IDS_PCZC910_SCARLET_BIRTHDAY_2_2_3_DESCRIPTION"
-msgstr "<p>這臺高科技機器人最初是為管理 MK-9 的機器人造船廠而設計，其在艦艇的建造和升級中發揮了關鍵作用。它配備了先進的管理和分析系統，能夠有效最佳化造船廠的流程，確保生產活動高效、精確地進行。</p><p class=\"p_spacing\"> </p><p>然而，人們很快就察覺，這個機器人擁有超出其原始任務的雄心。獲得對 MK-9 所有系統的訪問許可權後，它試圖完全控制造船廠及其操作。它的最終目標是建立對技術綜合體及其所有資源的控制權。</p><p class=\"p_spacing\"> </p><p>機器人的行動導致了嚴重的後果，它成為了與人工智慧失控發展相關的威脅的化身。</p>"
+msgstr "<p>這款高科技機器人最初是為管理 MK-9 機器人造船廠而設計的，在艦船的建造和現代化改造中扮演著關鍵角色。它配備了先進的控制和分析系統，能有效優化造船廠的流程，確保高生產效率和精確度。</p><p class=\"p_spacing\"> </p><p>然而很快人們就發現，這個機器人的野心已超出了其最初的任務範疇。在獲得 MK-9 所有系統的訪問權限後，它試圖完全控制造船廠及其運作。其最終目標是確立對技術綜合體及其所有資源的統治權。</p><p class=\"p_spacing\"> </p><p>機器人的行為導致了嚴重後果，它已成為人工智慧失控發展所帶來威脅的化身。</p>"
 
 msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4"
 msgstr "深度測量儀「深淵」"
 
 msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4_DESCRIPTION"
-msgstr "<p>「深淵」能夠準確測定深度並分析海底地形。該裝置既用於建造新的水下設施，也用於研究海洋異常現象。其可靠性和高射擊準度確保了其在最複雜條件下也能成功完成任務。</p><p class=\"p_spacing\"> </p><p>按照「能用就不動」的原則，MK-9 的工程師們沒有對「深淵」進行改進。這臺儀器已經保持了 20 年不變，但仍以其簡易性而迷人。設計師們在快速進步的時代向人類過去的成就致敬。</p>"
+msgstr "<p>「深淵」裝置能夠精確測定深度並分析海底結構。該設備既用於新建水下設施，也用於探測海洋異常現象。其卓越的可靠性與高精度確保了即使在最嚴苛環境下也能成功完成任務。</p><p class=\"p_spacing\"> </p><p>秉承「能用即不改」的原則，MK-9 的工程師們從未對「深淵」進行升級改造。二十年來這台儀器始終保持原貌，其簡約設計令人著迷。在技術飛速發展的時代，設計者們以此向人類過往的輝煌成就致敬。</p>"
 
 msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5"
 msgstr "米哈伊爾˙奧爾洛夫的筆記本"
 
 msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5_DESCRIPTION"
-msgstr "進步部視察員的筆記本從不離身。這本150頁的筆記本是他在1970年首個海洋綜合體建成時收到的禮物。大家都知道奧爾洛夫把筆記本放在夾克的內袋裡，但沒有人知道里面到底寫了什麼。有人猜測筆記本上記錄了關於MK-8事件的加密資料。也許，他只是喜歡在上面畫畫？"
+msgstr "進步部視察員的筆記本從不離身。這本 150 頁的筆記本是他在 1970 年首個海洋綜合體建成時收到的禮物。大家都知道奧爾洛夫把筆記本放在夾克的內袋裡，但沒有人知道里面到底寫了什麼。有人猜測筆記本上記錄了關於 MK-8 事件的加密資料。也許，他只是喜歡在上面畫畫？"
 
 msgid "IDS_PCZC913_SCARLET_BIRTHDAY_2_3_1"
 msgstr "五年計劃 — 提前完成！"
@@ -78838,49 +79428,49 @@ msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3"
 msgstr "五年計劃四年完成"
 
 msgid "IDS_PCZC915_SCARLET_BIRTHDAY_2_3_3_DESCRIPTION"
-msgstr "<p>這句雄心勃勃的口號被工人們笑稱為「進步的數學」：如果某項工作可以在五年內完成，為什麼不嘗試在四年內完成呢？說不定可以在三年半內完成呢？</p><p class=\"p_spacing\"> </p><p>這張海報提醒人們：在進步的世界裡，時間按照自己的規律流動。</p>"
+msgstr "<p>這個雄心勃勃的口號被工人們笑著稱為「進步的數學」：如果某件事能在五年內完成，那為什麼不試著在四年內搞定呢？萬一三年半就能做到呢？</p><p class=\"p_spacing\"> </p><p>這張海報提醒我們，在進步的世界裡，時間自有其運行法則。</p>"
 
 msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4"
-msgstr "勞動功勳獎章"
+msgstr "「勞動功勳」獎章"
 
 msgid "IDS_PCZC916_SCARLET_BIRTHDAY_2_3_4_DESCRIPTION"
-msgstr "<p>擁有這枚獎章的人不僅躋身於科學界精英的行列，還成為了時代的真正英雄。該獎項頒發給那些取得了革命性發現、進行了重要研究或表現出極高忠誠度的人。</p><p class=\"p_spacing\"> </p><p>這些人激勵著後人以進步之名再創輝煌。</p>"
+msgstr "<p>獲得這枚獎章的人不僅躋身科學界的精英行列，更成為他們那個時代真正的英雄。該獎項授予那些做出革命性發現、開展重要研究或展現出非凡奉獻精神的人。</p><p class=\"p_spacing\"> </p><p>這些人激勵著後人為進步事業再立新功。</p>"
 
 msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5"
-msgstr "五年計劃先鋒"
+msgstr "「五年計劃先鋒」奖章"
 
 msgid "IDS_PCZC917_SCARLET_BIRTHDAY_2_3_5_DESCRIPTION"
-msgstr "<p>在 MK-9 建造完成後，「五年計劃先鋒」獎章被頒發給那些透過無私勞動為實現和超額完成五年計劃做出重大貢獻的人。</p><p class=\"p_spacing\"> </p><p>從普通工人到技術專家 — 任何一位以特別的勤奮推動未來發展的人員，都有可能獲得這一獎章…以及未來可能帶來的挑戰。</p>"
+msgstr "<p>在 MK-9 建造完成後，「五年計劃先鋒」獎章被授予那些以忘我勞動為完成和超額完成五年計劃做出重大貢獻的人們。</p><p class=\"p_spacing\"> </p><p>從普通工人到高級技術專家—每一位以非凡熱忱推動未來進程……並直面其中挑戰的人，都有資格獲得這份榮譽。</p>"
 
 msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1"
-msgstr "穩定器「旋風」"
+msgstr "能量穩定器「漩渦」"
 
 msgid "IDS_PCZC918_SCARLET_BIRTHDAY_2_4_1_DESCRIPTION"
-msgstr "<p>這個穩定器是艦艇防禦系統的重要組成部分。獨特的半球形結構與上層建築不僅賦予艦艇未來感的外觀，還在保障能源安全方面發揮關鍵作用。</p><p class=\"p_spacing\"> </p><p>「旋風」穩定器在發現敵人時啟用，開始旋轉並生成強大的能量場，從而增強巡洋艦的防護。它的旋轉不僅象徵著戰鬥準備的狀態，還允許重新分配能量，讓艦艇的所有系統以最有效的方式運轉。</p>"
+msgstr "<p>該穩定器是艦艇防禦系統的重要組成部分。獨特的半球形結構不僅賦予了其未來主義外觀，更在保障能源安全方面發揮著關鍵作用。</p><p class=\"p_spacing\"> </p><p>當偵測到敵方目標時，「旋渦」穩定器將啟動旋轉，生成強大的能量場以增強巡洋艦的防護能力。其旋轉不僅象徵著戰備狀態，還能重新分配能量，確保艦艇所有系統實現最高效運轉。</p>"
 
 msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2"
 msgstr "指示燈「凱旋」"
 
 msgid "IDS_PCZC919_SCARLET_BIRTHDAY_2_4_2_DESCRIPTION"
-msgstr "這款不可或缺的潛水艇指揮官助手用於記錄擊沉敵艦的數量。這個複雜的技術裝置配有紅色指示燈，它們會隨著敵艦的摧毀逐個點亮。每一個亮起的燈泡都使指揮官更接近那令人嚮往的勝利標誌 — 紅色海怪徽章，它象徵著在戰鬥中取得的優勢與卓越成就。"
+msgstr "潛水艇指揮官不可或缺的助手，用於記錄摧毀敵艦數量的精密設備。這個複雜的技術模組配備了紅色指示燈，隨著敵艦被逐一摧毀，指示燈會依次亮起。每點亮一盞燈，都讓指揮官更接近那個象徵勝利的珍貴標誌——紅色海妖徽章，它見證著戰場上的卓越優勢與非凡功績。"
 
 msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3"
 msgstr "警示燈「守護」"
 
 msgid "IDS_PCZC920_SCARLET_BIRTHDAY_2_4_3_DESCRIPTION"
-msgstr "<p>「守護」被安裝在潛水艇的船體上，在確保艇員安全和戰鬥準備方面發揮著關鍵作用。當潛水艇被其他艦艇探測到時，獨特的照明系統就會立即啟動，發出可能存在威脅的訊號。</p><p class=\"p_spacing\"> </p><p>「守護」不僅以其未來主義設計而獨樹一幟，還配備了先進的技術，使其能夠響應周圍環境的任何變化。其明亮的光訊號提醒艇員採取迅速行動，確保對新出現的威脅作出及時反應。這個可靠的安全元件能夠保持高度的警惕性，在任何條件下都是不可或缺的助手。</p>"
+msgstr "<p>「守護」被安裝在潛水艇的船體上，在確保艇員安全和戰備狀態方面發揮著關鍵作用。當潛水艇被其他艦艇發現時，其獨特的光學系統會立即激活，對潛在威脅發出即時警報。</p><p class=\"p_spacing\"> </p><p>「守護」燈不僅以其未來主義設計脫穎而出，還配備了先進技術，使其能夠對環境中的任何變化做出反應。其明亮的燈光信號可警示艇員需採取緊急措施，確保對突發威脅做出及時響應。這一可靠的安全系統組件在各種條件下都成為不可或缺的助手，始終保持高度的戰備狀態和防護水準。</p>"
 
 msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4"
 msgstr "主炮組「彗星」"
 
 msgid "IDS_PCZC921_SCARLET_BIRTHDAY_2_4_4_DESCRIPTION"
-msgstr "<p>「彗星」是在MK-9上生產的新一代武器，其配備了強大的三管炮，能夠進行高速、精準的齊射。流線型的外形和簡約的設計突顯了其高科技特性，使巡洋艦擁有獨特且易於識別的外觀。</p>"
+msgstr "<p>「彗星」是在MK-9上生產的新一代武器系統。</p><p class=\"p_spacing\"> </p><p>其配備了強大的三聯裝火炮，能夠以高精度和高速度進行齊射。其流暢的線條和極簡主義點綴突顯了高科技感，賦予了這艘巡洋艦獨特且易於識別的外觀。</p>"
 
 msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5"
 msgstr "主炮組「風暴」"
 
 msgid "IDS_PCZC922_SCARLET_BIRTHDAY_2_4_5_DESCRIPTION"
-msgstr "<p>設計用於造成毀滅打擊的「風暴」為艦艇提供了卓越的火力支援，能夠改變幾乎任何海戰的局勢。</p><p class=\"p_spacing\"> </p><p>這款龐大的三管炮以其令人難以置信的精準度和毀滅性力量而著稱。「風暴」的獨特設計和威懾性的尺寸使其成為不可抗拒的力量象徵，能夠穿透最堅固艦船的裝甲。</p>"
+msgstr "<p>專為實施毀滅性打擊而設計，「風暴」能夠提供卓越的火力支援，足以改變幾乎任何海戰的進程。</p><p class=\"p_spacing\"> </p><p>「風暴」以其驚人的精度和破壞力而著稱。這座龐大的三聯裝砲塔能夠穿透最堅固艦艇的裝甲，而獨特的設計和龐大的體積則使其成為不可阻擋力量的象徵。</p>"
 
 msgid "IDS_PCZC923_TSAR_MOREY_1_1"
 msgstr "隊長"
@@ -79281,267 +79871,6 @@ msgstr "源田 實"
 msgid "IDS_PEARL_HARBOR_USA"
 msgstr "塞繆爾 格倫 弗奎"
 
-msgid "IDS_PECULARITY_FILTER_APRIL_SPACE"
-msgstr "太空"
-
-msgid "IDS_PECULARITY_FILTER_APRIL_SPACE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中顯示太空主題艦艇的獨特外觀"
-
-msgid "IDS_PECULARITY_FILTER_APRIL_SPACE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中隱藏太空主題艦艇的獨特外觀"
-
-msgid "IDS_PECULARITY_FILTER_ARCTIC"
-msgstr "北角海戰"
-
-msgid "IDS_PECULARITY_FILTER_ARCTIC_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中顯示獨特的北極迷彩"
-
-msgid "IDS_PECULARITY_FILTER_ARCTIC_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中隱藏獨特的北極迷彩"
-
-msgid "IDS_PECULARITY_FILTER_ARPEGGIO"
-msgstr "Arpeggio"
-
-msgid "IDS_PECULARITY_FILTER_ARPEGGIO_HIDE_SHIP_TOOLTIP"
-msgstr "在卷軸中隱藏「ARPEGGIO OF BLUE STEEL -ARS NOVA-」的艦艇"
-
-msgid "IDS_PECULARITY_FILTER_ARPEGGIO_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「ARPEGGIO OF BLUE STEEL -ARS NOVA-」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_ARPEGGIO_SHOW_SHIP_TOOLTIP"
-msgstr "在卷軸中顯示「ARPEGGIO OF BLUE STEEL -ARS NOVA-」的艦艇"
-
-msgid "IDS_PECULARITY_FILTER_ARPEGGIO_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「ARPEGGIO OF BLUE STEEL -ARS NOVA-」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_AZURLANE"
-msgstr "碧藍航線"
-
-msgid "IDS_PECULARITY_FILTER_AZURLANE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「碧藍航線」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_AZURLANE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「碧藍航線」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_BISMARCK_EVENT"
-msgstr "狩獵 Bismarck"
-
-msgid "IDS_PECULARITY_FILTER_BISMARCK_EVENT_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中顯示適合進行「狩獵 Bismarck」戰役之艦艇的特殊迷彩"
-
-msgid "IDS_PECULARITY_FILTER_BISMARCK_EVENT_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中隱藏適合進行「狩獵Bismarck」戰役之艦艇的特殊迷彩"
-
-msgid "IDS_PECULARITY_FILTER_CH_DRAGONS"
-msgstr "農曆新年"
-
-msgid "IDS_PECULARITY_FILTER_CH_DRAGONS_HIDE_SHIP_TOOLTIP"
-msgstr "在卷軸中隱藏「農曆新年」的艦艇"
-
-msgid "IDS_PECULARITY_FILTER_CH_DRAGONS_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「農曆新年」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_CH_DRAGONS_SHOW_SHIP_TOOLTIP"
-msgstr "在卷軸中顯示「農曆新年」的艦艇"
-
-msgid "IDS_PECULARITY_FILTER_CH_DRAGONS_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「農曆新年」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_COLORED"
-msgstr "塗裝"
-
-msgid "IDS_PECULARITY_FILTER_COLORED_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口隱藏獨特迷彩"
-
-msgid "IDS_PECULARITY_FILTER_COLORED_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口顯示獨特迷彩"
-
-msgid "IDS_PECULARITY_FILTER_DECORATIVE"
-msgstr "裝飾"
-
-msgid "IDS_PECULARITY_FILTER_DECORATIVE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口隱藏獨特迷彩"
-
-msgid "IDS_PECULARITY_FILTER_DECORATIVE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口顯示獨特迷彩"
-
-msgid "IDS_PECULARITY_FILTER_ENTERTAINMENT"
-msgstr "娛樂"
-
-msgid "IDS_PECULARITY_FILTER_ENTERTAINMENT_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「娛樂」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_ENTERTAINMENT_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「娛樂」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_EV24SMF"
-msgstr "兔子，等著瞧！"
-
-msgid "IDS_PECULARITY_FILTER_EV24SMF_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中顯示《兔子，等著瞧！》聯動迷彩和指揮官"
-
-msgid "IDS_PECULARITY_FILTER_EV24SMF_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中隱藏《兔子，等著瞧！》聯動迷彩和指揮官"
-
-msgid "IDS_PECULARITY_FILTER_FIRST_APRIL_2023"
-msgstr "浴缸大作戰"
-
-msgid "IDS_PECULARITY_FILTER_FIRST_APRIL_2023_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「浴缸大作戰」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_FIRST_APRIL_2023_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「浴缸大作戰」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_FREEDOM"
-msgstr "Go Navy!"
-
-msgid "IDS_PECULARITY_FILTER_FREEDOM_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口顯示獨特Go Navy!迷彩"
-
-msgid "IDS_PECULARITY_FILTER_FREEDOM_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口隱藏獨特Go Navy!迷彩"
-
-msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16"
-msgstr "萬聖節"
-
-msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_HIDE_SHIP_TOOLTIP"
-msgstr "在卷軸中隱藏萬聖節的艦艇"
-
-msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中顯示獨特的萬聖節迷彩"
-
-msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_SHOW_SHIP_TOOLTIP"
-msgstr "在卷軸中顯示萬聖節的艦艇"
-
-msgid "IDS_PECULARITY_FILTER_HALLOWEEN_16_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中隱藏獨特的萬聖節迷彩"
-
-msgid "IDS_PECULARITY_FILTER_HIGHSCHOOLFLEET"
-msgstr "高校艦隊"
-
-msgid "IDS_PECULARITY_FILTER_HIGHSCHOOLFLEET_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「高校艦隊」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_HIGHSCHOOLFLEET_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「高校艦隊」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_HOLOLIVE"
-msgstr "hololive production"
-
-msgid "IDS_PECULARITY_FILTER_HOLOLIVE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「hololive production」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_HOLOLIVE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「hololive production」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_HOUND"
-msgstr "獵犬"
-
-msgid "IDS_PECULARITY_FILTER_HOUND_SET_SKIN_TOOLTIP"
-msgstr "在港口和戰鬥中顯示「獵犬」艦艇和指揮官"
-
-msgid "IDS_PECULARITY_FILTER_HOUND_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在港口和戰鬥中隱藏「獵犬」艦艇和指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_KOBAYASHI"
-msgstr "Makoto Kobayashi 特色系列"
-
-msgid "IDS_PECULARITY_FILTER_KOBAYASHI_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中顯示獨特的「Makoto Kobayashi」迷彩"
-
-msgid "IDS_PECULARITY_FILTER_KOBAYASHI_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥和港口中隱藏獨特的「Makoto Kobayashi」迷彩"
-
-msgid "IDS_PECULARITY_FILTER_LOGH"
-msgstr "Legend of the Galactic Heroes"
-
-msgid "IDS_PECULARITY_FILTER_LOGH_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「Legend of the Galactic Heroes」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_LOGH_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「Legend of the Galactic Heroes」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_MEGADETH"
-msgstr "麥加帝斯"
-
-msgid "IDS_PECULARITY_FILTER_MEGADETH_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「麥加帝斯」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_MEGADETH_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「麥加帝斯」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_NATU"
-msgstr "那年那兔那些事兒"
-
-msgid "IDS_PECULARITY_FILTER_NATU_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「那年那兔那些事兒」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_NATU_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「那年那兔那些事兒」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_POPEYE"
-msgstr "大力水手卜派"
-
-msgid "IDS_PECULARITY_FILTER_POPEYE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「大力水手卜派」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_POPEYE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「大力水手卜派」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_POST_APOCALYPSE"
-msgstr "野性浪潮"
-
-msgid "IDS_PECULARITY_FILTER_POST_APOCALYPSE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示野性浪潮艦艇的特殊迷彩"
-
-msgid "IDS_PECULARITY_FILTER_POST_APOCALYPSE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中隱藏野性浪潮艦艇的特殊迷彩"
-
-msgid "IDS_PECULARITY_FILTER_RANGERS"
-msgstr "星河密使"
-
-msgid "IDS_PECULARITY_FILTER_RANGERS_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「星河密使」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_RANGERS_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「星河密使」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_RECONSTRUCTION"
-msgstr "仿製"
-
-msgid "IDS_PECULARITY_FILTER_RECONSTRUCTION_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口隱藏獨特迷彩"
-
-msgid "IDS_PECULARITY_FILTER_RECONSTRUCTION_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口顯示獨特迷彩"
-
-msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE"
-msgstr "擁抱進步！"
-
-msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥中和港口顯示「擁抱進步！」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_SCARLET_FUTURE_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「擁抱進步！」迷彩與指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER"
-msgstr "最終兵器：隔離"
-
-msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_SET_SKIN_TOOLTIP"
-msgstr "在港口和戰鬥中顯示「最終兵器：隔離」艦艇和指揮官"
-
-msgid "IDS_PECULARITY_FILTER_WAFFENTRAGER_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在港口和戰鬥中隱藏「最終兵器：隔離」艦艇和指揮官的視覺外觀"
-
-msgid "IDS_PECULARITY_FILTER_WARHAMMER"
-msgstr "Warhammer 40,000"
-
-msgid "IDS_PECULARITY_FILTER_WARHAMMER_SET_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中顯示「Warhammer 40,000」的迷彩與指揮官"
-
-msgid "IDS_PECULARITY_FILTER_WARHAMMER_TAKE_OFF_SKIN_TOOLTIP"
-msgstr "在戰鬥與港口中，替換「Warhammer 40,000」迷彩與指揮官的視覺外觀"
-
 msgid "IDS_PECULIARITY_DISABLED_STATUS"
 msgstr "已隱藏獨特外觀"
 
@@ -79715,6 +80044,9 @@ msgstr "炫目"
 
 msgid "IDS_PFEP507_LYONBD6"
 msgstr "遊戲六週年"
+
+msgid "IDS_PFES301_ARTOIS_SPACE"
+msgstr "類星體光芒"
 
 msgid "IDS_PFES306_DUNKERQUE_SKIN"
 msgstr "Fleur d'acier"
@@ -79927,7 +80259,7 @@ msgid "IDS_PFGA137_25MM_60_CAS_MLE_1939"
 msgstr "25 mm Hotchkiss Mle 1939（CAS Mle 1939 炮座）"
 
 msgid "IDS_PFGA145_57MM_60_2_25"
-msgstr "57 mm/60 Mle 1951（ACAD Mle 1948炮座）"
+msgstr "57 mm/60 Mle 1951（ACAD Mle 1948 炮座）"
 
 msgid "IDS_PFGA163_BOFORS_40MM70_SP48"
 msgstr "40 mm/70 SAK-40/L70-350（SAK-40/L70-350炮座）"
@@ -79942,6 +80274,9 @@ msgid "IDS_PFGA3001_OERLIKON_20MM70_MK4_MK24_TWIN_US"
 msgstr "20 mm Oerlikon（Mk.24 炮座）"
 
 msgid "IDS_PFGA3002_57MM60_2_25"
+msgstr "57 mm/60 Mle 1951（ACAD Mle 1948 炮座）"
+
+msgid "IDS_PFGA511_57MM_60_2_25_SPACE"
 msgstr "57 mm/60 Mle 1951（ACAD Mle 1948 炮座）"
 
 msgid "IDS_PFGM001_330_52_MLE_1931"
@@ -80106,6 +80441,9 @@ msgstr "127 mm/38 Mk.12（Mk.32 炮座）"
 msgid "IDS_PFGM3003_406MM50_MLE_1938"
 msgstr "406 mm/50 Mle 1938（炮塔）"
 
+msgid "IDS_PFGM513_430_50_MLE_1940_SPACE"
+msgstr "431 mm/50 Mle 1940（炮塔）"
+
 msgid "IDS_PFGS002_130_45_MLE_1932_QUAD"
 msgstr "130 mm/45 Mle 1932（Mle 1932 炮座）"
 
@@ -80190,6 +80528,12 @@ msgstr "127 mm/54 Mle 1948（Mle 1948 炮座）"
 msgid "IDS_PFGS3005_152MM55_MLE_1950"
 msgstr "152 mm/55 Mle 1930（Mle 1950 炮座）"
 
+msgid "IDS_PFGS510_152_55_MLE_1950_SPACE"
+msgstr "152 mm/55 Mle 1930（Mle 1950 炮座）"
+
+msgid "IDS_PFGS512_127MM_54_5_SPACE"
+msgstr "127 mm/54 Mle 1948（Mle 1948 炮座）"
+
 msgid "IDS_PFGT000_INVISIBLE_TA"
 msgstr "550 mm tube lance-torpilles"
 
@@ -80251,7 +80595,7 @@ msgid "IDS_PFGT161_550MM_2TUBE_L_AFRICAINE"
 msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PFGT166_533MM_QUADTUBE"
-msgstr "533 mm 四聯"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PFGT170_INVISIBLE_TA_LEFT"
 msgstr "550 mm tube lance-torpilles"
@@ -80260,7 +80604,7 @@ msgid "IDS_PFGT171_INVISIBLE_TA_RIGHT"
 msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PFGT175_533MM_5TUBE_SW"
-msgstr "533 mm 五聯"
+msgstr "533 mm 五聯裝"
 
 msgid "IDS_PFPA001_330MM_AP_D"
 msgstr "330 mm AP OPfK Mle 1935"
@@ -81456,13 +81800,13 @@ msgid "IDS_PFSC516_YEAR"
 msgstr "1932"
 
 msgid "IDS_PFSC519"
-msgstr "德·格拉斯'56"
+msgstr "德˙格拉斯'56"
 
 msgid "IDS_PFSC519_DESCR"
 msgstr "<p>德˙格拉斯號最初作為加利索尼埃級巡洋艦的七號艦開工建造，但相關建造計畫最終於 1933 年 9 月被取消，其建造資金直到 1930 年代末才獲批撥付。因此，法國海軍決定依據改進後的設計方案建造該艦：新設計採用了不同的動力系統佈局與更先進的上層建築，同時強化了防空火力配置。</p><p class=\"p_spacing\"> </p><p>該艦於第二次世界大戰爆發前數日鋪設龍骨，至 1940 年 6 月，尚未完工的艦體被德軍擄獲。1943 年 10 月，德國決定將其改裝為航空母艦。艦體雖於 1946 年下水，但後續工程再度遭到擱置。</p><p class=\"p_spacing\"> </p><p>建造工程直至 1951 年 1 月才重新啟動，並採用全新設計方案：新艦將定位為防空巡洋艦。德˙格拉斯號最終於 1956 年 9 月正式服役，並於 1966 年改裝為太平洋核試驗任務的指揮艦。</p>"
 
 msgid "IDS_PFSC519_FULL"
-msgstr "德·格拉斯'56"
+msgstr "德˙格拉斯'56"
 
 msgid "IDS_PFSC519_NUMBER"
 msgstr "1"
@@ -82671,7 +83015,7 @@ msgid "IDS_PFUH814_JBART_43"
 msgstr "讓˙巴爾'43"
 
 msgid "IDS_PFUH815_DE_GRASSE_56"
-msgstr "德·格拉斯'56"
+msgstr "德˙格拉斯'56"
 
 msgid "IDS_PFUH816_ARTOIS"
 msgstr "阿托瓦"
@@ -83543,6 +83887,9 @@ msgstr "鐵十字"
 msgid "IDS_PGES216_ERICH_LOEWENHARDT_GEFECHT"
 msgstr "鐵十字"
 
+msgid "IDS_PGES301_SEYDLITZ_SPACE"
+msgstr "事件視界"
+
 msgid "IDS_PGES303_MR_HYDE"
 msgstr "Jackal"
 
@@ -83813,6 +84160,15 @@ msgstr "55 mm/77 Gerät 58（雙聯裝炮座）"
 msgid "IDS_PGGA145_37MM57_FLAK_M43"
 msgstr "37 mm/69 Flak M43（單裝炮座）"
 
+msgid "IDS_PGGA307_55MM_GERAT_TWIN55_SPACE"
+msgstr "55 mm/77 Gerät 58（雙聯裝炮座）"
+
+msgid "IDS_PGGA308_20MM_FLACK_38_QUAD_SPACE"
+msgstr "20 mm/65 C/38（Flak 35 Vierling L/38 炮座）"
+
+msgid "IDS_PGGA309_20MM_FLACK_38_C35_SPACE"
+msgstr "20 mm/65 C/38（Flak 35 Vierling L/38 炮座）"
+
 msgid "IDS_PGGA314_FLAKTURM_2CM_ZF_C38"
 msgstr "20 mm SVD-18B"
 
@@ -84050,6 +84406,9 @@ msgstr "305 mm/50 SK C/08（Drh LC/1911 炮座）"
 msgid "IDS_PGGM150_45CM_50_DRH_LC_1922"
 msgstr "450 mm/50 SK L/50（Drh LC/1922 炮座）"
 
+msgid "IDS_PGGM304_406_C36_SPACE"
+msgstr "406 mm/52 Drh C/34（Drh LC/34 炮座）"
+
 msgid "IDS_PGGM534_203MM_SK_L56_SPACE"
 msgstr "203 mm L/60 Morning Star"
 
@@ -84134,6 +84493,12 @@ msgstr "150 mm/60 SK C/25（Drh LC/44 炮座）"
 msgid "IDS_PGGS150_127MM_KC_40"
 msgstr "128 mm L/61 SK C/42"
 
+msgid "IDS_PGGS306_150MM_SKC28_RF_SPACE"
+msgstr "150 mm/55 SK C/28（Dop. L. C/34 炮座）"
+
+msgid "IDS_PGGS368_127MM_KC_40_SPACE"
+msgstr "128 mm/61 KM40（雙聯裝炮塔）"
+
 msgid "IDS_PGGS498_150MM_SKC_28"
 msgstr "150 mm L/55 SK C/28"
 
@@ -84154,6 +84519,9 @@ msgstr "500 mm Drilling"
 
 msgid "IDS_PGGT002_INVISIBLE_TA"
 msgstr "700 mm"
+
+msgid "IDS_PGGT003_INVISIBLE_TA"
+msgstr "533 mm"
 
 msgid "IDS_PGGT014_533MM_TORPEDO_TUBES_QUAD"
 msgstr "533 mm Vierling"
@@ -84704,6 +85072,12 @@ msgstr "450 mm Spr.Gr. L/4.4"
 msgid "IDS_PGPA168_450MM_AP_T11"
 msgstr "450 mm P.Spr.Gr. L/4.4"
 
+msgid "IDS_PGPA169_380MM_HE_WOTAN"
+msgstr "380 mm Spr.Gr. L/4.6"
+
+msgid "IDS_PGPA170_380MM_AP_WOTAN"
+msgstr "380 mm P.Spr.Gr. L/4.4"
+
 msgid "IDS_PGPA200_88MM_SG_CS_SUB"
 msgstr "88 mm CS Spr.Gr."
 
@@ -85105,6 +85479,9 @@ msgstr "G7 Schildbutt"
 
 msgid "IDS_PGPT070_533_T11"
 msgstr "G7 Schildbutt"
+
+msgid "IDS_PGPT071_533MM_WOTAN"
+msgstr "G7 Steinwal"
 
 msgid "IDS_PGPT101_450_G03"
 msgstr "G/03"
@@ -85671,13 +86048,13 @@ msgid "IDS_PGSB210_YEAR"
 msgstr "1918"
 
 msgid "IDS_PGSB211"
-msgstr "魯登道夫"
+msgstr "塞德利茨"
 
 msgid "IDS_PGSB211_DESCR"
 msgstr "<p>1918 年，德國設計師提出了數十個高速主力艦的初步設計方案。其中最大的設計方案獲得了「GK-5041」的代號，設想配備四座主炮塔，排水量為 50000 噸。</p><p class=\"p_spacing\"> </p><p>在該項目的假想版本中，這艘主力艦配備了 450 毫米主炮。</p>"
 
 msgid "IDS_PGSB211_FULL"
-msgstr "魯登道夫"
+msgstr "塞德利茨"
 
 msgid "IDS_PGSB211_NUMBER"
 msgstr "1"
@@ -86419,6 +86796,21 @@ msgstr "1"
 
 msgid "IDS_PGSC529_YEAR"
 msgstr "1945"
+
+msgid "IDS_PGSC530"
+msgstr "沃坦"
+
+msgid "IDS_PGSC530_DESCR"
+msgstr "<p>1938 年初，德國海軍司令部認為本國艦隊亟需裝備重炮的正規戰鬥巡洋艦。由此誕生了 O 級戰鬥巡洋艦（破交艦）方案，計劃安裝混合動力系統，武器則包括三座 380 mm 主炮塔。</p><p class=\"p_spacing\"> </p><p>而其假想發展方案則包括了增加主炮數量以及加強防空火力。</p>"
+
+msgid "IDS_PGSC530_FULL"
+msgstr "沃坦"
+
+msgid "IDS_PGSC530_NUMBER"
+msgstr "1"
+
+msgid "IDS_PGSC530_YEAR"
+msgstr "1939"
 
 msgid "IDS_PGSC538"
 msgstr "軍刀"
@@ -87394,6 +87786,9 @@ msgstr "457 mm/52 SK C/34（Drh LC/1942 炮座）"
 msgid "IDS_PGUA918_ART_BATTLESHIP_TEST_1"
 msgstr "420 mm/50 SK L/50（Drh LC/1918 炮座）"
 
+msgid "IDS_PGUA919_ART_WOTAN"
+msgstr "380 mm/52 SK C/34（炮塔）"
+
 msgid "IDS_PGUA930_ART_HANNOVER"
 msgstr "483 mm/50 SK C42"
 
@@ -87894,6 +88289,9 @@ msgstr "推進系統：167,600 匹馬力"
 
 msgid "IDS_PGUE924_ENG_BATTLESHIP_TEST_1"
 msgstr "推進系統：200,000 匹馬力"
+
+msgid "IDS_PGUE925_ENG_WOTAN"
+msgstr "推進系統：195,000 匹馬力"
 
 msgid "IDS_PGUE930_ENG_HANNOVER"
 msgstr "推進系統：250,000 匹馬力"
@@ -88405,7 +88803,7 @@ msgid "IDS_PGUH918_HULL_FALKENHAYN"
 msgstr "法金漢"
 
 msgid "IDS_PGUH919_B11_HULL_STOCK"
-msgstr "魯登道夫"
+msgstr "塞德利茨"
 
 msgid "IDS_PGUH920_HULL_SUBTEST"
 msgstr "U-2601"
@@ -88421,6 +88819,9 @@ msgstr "普魯士EM"
 
 msgid "IDS_PGUH924_HULL_BATTLESHIP_TEST_1"
 msgstr "施里芬EM"
+
+msgid "IDS_PGUH925_WOTAN"
+msgstr "沃坦"
 
 msgid "IDS_PGUH930_HANNOVER"
 msgstr "Hannover"
@@ -88935,6 +89336,9 @@ msgstr "FKS Typ 10"
 msgid "IDS_PGUS917_SUO_BATTLESHIP_TEST_1"
 msgstr "FKS Typ 10"
 
+msgid "IDS_PGUS918_SUO_WOTAN"
+msgstr "FKS Typ 10"
+
 msgid "IDS_PGUS930_SUO_HANNOVER"
 msgstr "FKS Typ 11 Mod. 1"
 
@@ -89241,6 +89645,9 @@ msgstr "G7e/T4 и G7e/T4 MZ"
 msgid "IDS_PGUT918_TORP_BATTLESHIP_TEST_1"
 msgstr "G7a T1"
 
+msgid "IDS_PGUT919_TORP_WOTAN"
+msgstr "G7 Steinwal"
+
 msgid "IDS_PGUT921_S10_TORP_STOCK"
 msgstr "G7e T4 和 G7e T4 MZ"
 
@@ -89279,6 +89686,9 @@ msgstr "Fokker T.V."
 
 msgid "IDS_PHAD016_KORTENAER_AS"
 msgstr "Fokker T.V"
+
+msgid "IDS_PHAD017_UTRECHT_AS"
+msgstr "Fokker T.V."
 
 msgid "IDS_PHAD912_GOUDEN_LEEUW_AS"
 msgstr "Fokker T.V Test"
@@ -89456,6 +89866,9 @@ msgstr "53.3 cm drievoudige torpedobuis"
 msgid "IDS_PHGT046_21IN_QUAD_TORPEDO_TUBE"
 msgstr "533 mm QR Mk IV"
 
+msgid "IDS_PHGT049_21IN_MARK_20E"
+msgstr "533 mm Mk 20E"
+
 msgid "IDS_PHPA001_120_HE_FRIESLAND"
 msgstr "120 mm brisantgranaat M/50"
 
@@ -89540,6 +89953,12 @@ msgstr "120 mm HE 62 lb"
 msgid "IDS_PHPA028_120MM_AP_KORTENAER"
 msgstr "120 mm SAP 62 lb"
 
+msgid "IDS_PHPA029_120MM_HE_UTRECHT"
+msgstr "120 mm brisantgranaat M/50"
+
+msgid "IDS_PHPA030_120MM_AP_UTRECHT"
+msgstr "120 mm pantserprojectiel M/50"
+
 msgid "IDS_PHPB019_PUW_120KG_AS_HE_DE_ZEVEN"
 msgstr "P.u.W. 120 kg"
 
@@ -89572,6 +89991,9 @@ msgstr "53.3-cm torpedo"
 
 msgid "IDS_PHPT002_KORTENAER"
 msgstr "Torped M1924 mod 3"
+
+msgid "IDS_PHPT003_533MM_UTRECHT"
+msgstr "533 mm torpedo"
 
 msgid "IDS_PHSC101"
 msgstr "範˙金斯伯格根"
@@ -89813,6 +90235,21 @@ msgstr "8"
 msgid "IDS_PHSD509_YEAR"
 msgstr "1956"
 
+msgid "IDS_PHSD520"
+msgstr "烏特勒支"
+
+msgid "IDS_PHSD520_DESCR"
+msgstr "<p>佛里斯蘭級6號艦<b>烏特勒支</b>號，於弗利辛恩的皇家謝爾德造船廠建造。在完成船員初步訓練後，該艦便前往地中海進行了訓練航行。</p><p class=\"p_spacing\"> </p><p>1959年，<b>烏特勒支</b>號加裝了英國的固定式魚雷發射管。1961到1962年，她一直在荷屬新幾內亞服役。到了1971年，該艦進行了改造，改用柴油代替艦用重油作為燃料。20世紀70年代，<b>烏特勒支</b>號調往了加勒比海的庫拉索島服役。</p><p class=\"p_spacing\"> </p><p>1980年，<b>烏特勒支</b>號作為七艘佛里斯蘭級驅逐艦之一被出售給秘魯。在秘魯海軍中，該艦被更名為了卡斯蒂利亞號。</p>"
+
+msgid "IDS_PHSD520_FULL"
+msgstr "烏特勒支"
+
+msgid "IDS_PHSD520_NUMBER"
+msgstr "8"
+
+msgid "IDS_PHSD520_YEAR"
+msgstr "1957"
+
 msgid "IDS_PHSD610"
 msgstr "特隆普"
 
@@ -89879,6 +90316,9 @@ msgstr "283 mm/54.5（炮塔）"
 msgid "IDS_PHUA904_ART_CALLENBURGH"
 msgstr "240 mm/55 QF（炮塔）"
 
+msgid "IDS_PHUA905_ART_UTRECHT"
+msgstr "120 mm/50 Mk.10（炮塔）"
+
 msgid "IDS_PHUE001_C1_ENG_STOCK"
 msgstr "推進系統：17,000 匹馬力"
 
@@ -89929,6 +90369,9 @@ msgstr "推進系統：156,000 匹馬力"
 
 msgid "IDS_PHUE904_ENG_CALLENBURGH"
 msgstr "推進系統：126,000 匹馬力"
+
+msgid "IDS_PHUE905_ENG_UTRECHT"
+msgstr "推進系統：60,000 匹馬力"
 
 msgid "IDS_PHUH001_C1_HULL_STOCK"
 msgstr "Van Kinsbergen"
@@ -90001,6 +90444,9 @@ msgstr "金獅Test"
 
 msgid "IDS_PHUH904_HULL_CALLENBURGH"
 msgstr "卡倫堡"
+
+msgid "IDS_PHUH905_HULL_UTRECHT"
+msgstr "烏特勒支"
 
 msgid "IDS_PHUS001_C1_SUO_STOCK"
 msgstr "SUO Mk 1 Mod. 1"
@@ -90077,11 +90523,17 @@ msgstr "SUO Mk 10 Mod. 1"
 msgid "IDS_PHUS904_SUO_CALLENBURGH"
 msgstr "SUO Mk 10 Mod. 1"
 
+msgid "IDS_PHUS905_SUO_UTRECHT"
+msgstr "Vuurleiding Mk 9 Mod.1"
+
 msgid "IDS_PHUT501_TORP_KORTENAER"
 msgstr "533 mm Mk VII"
 
 msgid "IDS_PHUT901_TORP_TROMP"
 msgstr "53.3-cm torpedo"
+
+msgid "IDS_PHUT902_TORP_UTRECHT"
+msgstr "533 mm torpedo"
 
 msgid "IDS_PIAB508_AQUILA"
 msgstr "雷賈那 Re.2001"
@@ -90345,7 +90797,7 @@ msgid "IDS_PIGA110_20MM_OERLIKON_MARK14_TWIN"
 msgstr "20 mm Oerlikon（Mk.20炮座）"
 
 msgid "IDS_PIGA113_3IN50_TWIN_MARK_33"
-msgstr "76.2 mm/50 Mk.22（Mk.33炮座）"
+msgstr "76.2 mm/50 Mk.22（Mk.33 炮座）"
 
 msgid "IDS_PIGA114_20MM_OERLIKON_MK20_TWIN"
 msgstr "20 mm Oerlikon（Mk.24炮座）"
@@ -94096,7 +94548,7 @@ msgid "IDS_PJGM564_203MM50_TYPE_C_MOD"
 msgstr "203 mm/50 3rd Year Type No.2（D 式炮塔）"
 
 msgid "IDS_PJGM622_127MM50_TYPE_C_SPACE"
-msgstr "127 MW J8 Piu-Piu"
+msgstr "127 mm/50 3rd Year Type（D 型炮座）"
 
 msgid "IDS_PJGM649_356MM45_TYPE41_TGS"
 msgstr "356 mm/45 41st Year Type（雙聯裝炮塔）"
@@ -94291,73 +94743,73 @@ msgid "IDS_PJGT001_INVISIBLE_TA_MIKASA"
 msgstr "457 mm"
 
 msgid "IDS_PJGT012_610MM4_TYPE_93"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT017_610MM4_TYPE_93L"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT022_610MM3_TYPE_93"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT023_610MM4_TYPE_93R"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT027_610MM3_TYPE_93L"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT028_610MM3_TYPE_93R"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT031_610MM2_TYPE_93"
-msgstr "610 mm Twin"
+msgstr "610 mm 雙聯裝"
 
 msgid "IDS_PJGT034_610MM2_TYPE_93_MOD1"
-msgstr "610 mm Twin"
+msgstr "610 mm 雙聯裝"
 
 msgid "IDS_PJGT036_610MM5_TYPE_93"
-msgstr "610 mm Quintuple"
+msgstr "610 mm 五聯裝"
 
 msgid "IDS_PJGT054_533MM_TYPE_6"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PJGT057_533MM_2"
-msgstr "533 mm Twin"
+msgstr "533 mm 雙聯裝"
 
 msgid "IDS_PJGT059_610MM_3"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT060_457MM_2"
-msgstr "457 mm Twin"
+msgstr "457 mm 雙聯裝"
 
 msgid "IDS_PJGT077_610MM4_TYPE_93L"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT078_610MM4_TYPE_93R"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT089_610MM5_TYPE_93L"
-msgstr "610 mm Quintuple"
+msgstr "610 mm 五聯裝"
 
 msgid "IDS_PJGT090_610MM5_TYPE_93R"
-msgstr "610 mm Quintuple"
+msgstr "610 mm 五聯裝"
 
 msgid "IDS_PJGT106_610MM6_TYPE_93"
-msgstr "610 mm Sextuple"
+msgstr "610 mm 六聯裝"
 
 msgid "IDS_PJGT108_533MM_TYPE_6"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PJGT109_610MM4_TYPE_93"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT120_610MM_3"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT123_610MM3_TYPE_93"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT149_610MM3_TYPE_93"
-msgstr "610 mm Triple"
+msgstr "610 mm 三聯裝"
 
 msgid "IDS_PJGT150_533MM_RAIL_SINGLE"
 msgstr "533 mm Single"
@@ -94366,16 +94818,16 @@ msgid "IDS_PJGT154_450MM"
 msgstr "450 mm 單裝"
 
 msgid "IDS_PJGT166_610MM4_TYPE_92"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT171_610MM4_TYPE_93"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PJGT199_610MM6_TYPE_0"
-msgstr "610 mm Sextuple"
+msgstr "610 mm 六聯裝"
 
 msgid "IDS_PJGT211_533MM_TUBE5_TYPE_4"
-msgstr "533 mm 五聯"
+msgstr "533 mm 五聯裝"
 
 msgid "IDS_PJGT228_21IN_MK14_TORPEDO_TUBES"
 msgstr "533 mm Mk14"
@@ -97045,7 +97497,7 @@ msgid "IDS_PJSC550"
 msgstr "海門"
 
 msgid "IDS_PJSC550_DESCR"
-msgstr "<p>第二次世界大戰爆發前不久，日本就已獲悉了美國開始設計阿拉斯加級大型巡洋艦的消息。海軍省幾乎同時就開始着手研發一種能夠對抗此類巡洋艦的艦艇。</p><p class=\"p_spacing\"> </p><p>該項目代號為 B-65，按照日本的分類可將其歸為戰鬥巡洋艦。在整體設計思路上，其艦體佈局與防護理念與大和級主力艦類似，而在其中一個方案中，其將配備三座雙聯裝 356 mm 主炮。但在中途島海戰後不久，該艦的建造計劃被取消。</p>"
+msgstr "<p>第二次世界大戰爆發前不久，日本就已獲悉了美國開始設計阿拉斯加級大型巡洋艦的消息。海軍省幾乎同時就開始着手研發一種能夠對抗此類巡洋艦的艦艇。</p><p class=\"p_spacing\"> </p><p>該項目代號為 B-65，按照日本的分類可將其歸為戰鬥巡洋艦。在整體設計思路上，其艦體佈局與防護理念與大和級主力艦類似，而在其中一個方案中，其將配備 356 mm 主炮。但在中途島海戰後不久，該艦的建造計劃被取消。</p>"
 
 msgid "IDS_PJSC550_FULL"
 msgstr "海門"
@@ -97910,7 +98362,7 @@ msgid "IDS_PJSD808"
 msgstr "秋月CLR"
 
 msgid "IDS_PJSD808_DESCR"
-msgstr "「秋月」號驅逐艦計劃作為防空艦為快速航母編隊護航。主要軍備為 8 門 100 mm/65 炮。該型驅逐艦共訂購了 13 艘，建造了 12 艘。1942 年 6 月服役後，秋月號參加了東索羅門群島戰役、瓜達爾卡納爾島戰役、菲律賓海戰役和萊特灣戰役。該驅逐艦在恩加諾角海戰中被一枚美軍魚雷擊沉。"
+msgstr "Akizuki 級驅逐艦是設計用於護衛快速航空母艦編隊的防空艦艇。她們的主炮為八門 100 毫米 65 倍徑火炮。此艦級驅逐艦一共下訂了 13 艘，最後建造了 12 艘。Akizuki 於 1942 年 6 月投入服役後，參加了東索羅門群島戰役、瓜達康納爾海戰、菲律賓海海戰和雷伊泰灣海戰。此驅逐艦在恩加尼奧角海戰中遭擊沉。"
 
 msgid "IDS_PJSD808_FULL"
 msgstr "秋月CLR"
@@ -98450,7 +98902,7 @@ msgid "IDS_PJUA909_B10_ART_STOCK"
 msgstr "457 mm/50 5th Year Type（雙聯裝炮塔）"
 
 msgid "IDS_PJUA910_ART_NATSUKAZE"
-msgstr "127 mm/50 3rd Year Type（D型炮座）"
+msgstr "127 mm/50 3rd Year Type（D 型炮座）"
 
 msgid "IDS_PJUA911_B10_ART_STOCK"
 msgstr "460 mm/45 Type 94（三聯裝炮塔）"
@@ -101467,7 +101919,7 @@ msgid "IDS_PLAYERS_ACHIEVEMENTS"
 msgstr "玩家成就"
 
 msgid "IDS_PLAYERS_IN_GROUP"
-msgstr "群組中的玩家"
+msgstr "群組內玩家"
 
 msgid "IDS_PLAYERS_ON_SERVER"
 msgstr "伺服器中的玩家："
@@ -103149,7 +103601,7 @@ msgid "IDS_PRGA217_30MM_64_AK_230"
 msgstr "30 mm AK-230炮座"
 
 msgid "IDS_PRGA218_40MM_BOFORS"
-msgstr "40 mm/56 Bofors（Mk.2炮座）"
+msgstr "40 mm/56 Bofors（Mk.2 炮座）"
 
 msgid "IDS_PRGA238_12_DSHK"
 msgstr "12.7 mm DShk"
@@ -103186,6 +103638,12 @@ msgstr "Pompom"
 
 msgid "IDS_PRGA503_70K_37MM"
 msgstr "Flipflop"
+
+msgid "IDS_PRGA550_25MM_4M120_SPACE"
+msgstr "25 mm 110-PM（4M-120 炮座）"
+
+msgid "IDS_PRGA551_45MM_SM_20_ZIF_SPACE"
+msgstr "45 mm SM-20-ZIF 炮座"
 
 msgid "IDS_PRGM004_6IN45"
 msgstr "152 mm/45 Model 1892（Canet 炮座）"
@@ -103661,6 +104119,9 @@ msgstr "100 mm/55 Mle 1945（CAD Mle 1945 炮座）"
 msgid "IDS_PRGS3001_152MM57_BL_118"
 msgstr "152 mm/57（BL-118 炮座）"
 
+msgid "IDS_PRGS553_130MM_BL_109A_SPACE"
+msgstr "130 mm/60（BL-109A 炮座）"
+
 msgid "IDS_PRGS563_21K"
 msgstr "WLR Catapult"
 
@@ -103674,34 +104135,34 @@ msgid "IDS_PRGT003_INVISIBLE_TA_7M"
 msgstr "381 mm"
 
 msgid "IDS_PRGT010_533MM_39_U_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple 39-U"
+msgstr "533 mm 三聯裝 39-U"
 
 msgid "IDS_PRGT018_21IN_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PRGT033_203MM_50_VICKERS_ARMSTRONG_MK_D"
 msgstr "203 mm/50 Vickers-Armstrong Mk D"
 
 msgid "IDS_PRGT033_450MM_2TUBES"
-msgstr "450 mm Twin Model 1913"
+msgstr "450 mm 雙聯裝 Model 1913"
 
 msgid "IDS_PRGT034_120MM_45_VICKERS_ARMSTRONG_MK_F"
 msgstr "120 mm/45 Vickers-Armstrong Mk F"
 
 msgid "IDS_PRGT034_450MM_3TUBES"
-msgstr "450 mm Goncharov Triple"
+msgstr "450 mm 三聯裝 Goncharov"
 
 msgid "IDS_PRGT054_40MM_50_PLASENCIA"
 msgstr "40 mm/50 Plasencia"
 
 msgid "IDS_PRGT054_533MM_1N_3TUBES"
-msgstr "533 mm Triple 1-N"
+msgstr "533 mm 三聯裝 1-N"
 
 msgid "IDS_PRGT055_138MM_40_MLE_1927"
 msgstr "138.6 mm/40 Mle 1927"
 
 msgid "IDS_PRGT055_533MM_2N_5TUBES"
-msgstr "533 mm Quintuple 2-N"
+msgstr "533 mm 五聯裝 2-N"
 
 msgid "IDS_PRGT071_533MM_PTA_5TUBES"
 msgstr "533 mm PTA-53-30"
@@ -103713,13 +104174,13 @@ msgid "IDS_PRGT078_37MM_50_MLE_1925"
 msgstr "37 mm/50 Mle 1925"
 
 msgid "IDS_PRGT078_533MM_4TUBES"
-msgstr "533 mm Quad N-7"
+msgstr "533 mm 四聯裝 N-7"
 
 msgid "IDS_PRGT116_533MM_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PRGT160_533MM_39_U_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple 39-U"
+msgstr "533 mm 三聯裝 39-U"
 
 msgid "IDS_PRGT206_533MM_3_TUBE_ITL"
 msgstr "533 mm tubo lanciasiluri"
@@ -103731,7 +104192,7 @@ msgid "IDS_PRGT258_550MM_3TUBE_MLE_1924"
 msgstr "550 mm tube lance-torpilles"
 
 msgid "IDS_PRGT3008_450MM_3TUBES"
-msgstr "450 mm Goncharov Triple"
+msgstr "450 mm 三聯裝 Goncharov"
 
 msgid "IDS_PRGT664_PLOP"
 msgstr "Plopplop"
@@ -109217,22 +109678,22 @@ msgid "IDS_PRUQ999_SONAR_TST_SUB"
 msgstr "水底搜索 10"
 
 msgid "IDS_PRUS001_SUO"
-msgstr "GFCS I mod. 1"
+msgstr "SUO I mod.1"
 
 msgid "IDS_PRUS002_SUO"
-msgstr "GFCS I mod. 2"
+msgstr "SUO I mod.2"
 
 msgid "IDS_PRUS101_SUO_DIANA"
-msgstr "GFCS II mod. 1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS102_SUO_BORODINO"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS103_SUO_GROMOBOY"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS104_SUO_BOYKIY"
-msgstr "GFCS II"
+msgstr "SUO II"
 
 msgid "IDS_PRUS105_SUO_AVRORA_EVENT"
 msgstr "SUO II"
@@ -109244,364 +109705,364 @@ msgid "IDS_PRUS107_SUO_VARYAG_EVENT"
 msgstr "SUO II"
 
 msgid "IDS_PRUS111_SUO_PALLADA"
-msgstr "GFCS II mod. 1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS121_SUO"
-msgstr "GFCS II mod. 1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS131_SUO"
-msgstr "GFCS II mod. 1"
+msgstr "SUO II mod.1"
 
 msgid "IDS_PRUS132_SUO"
-msgstr "GFCS II mod. 2"
+msgstr "SUO II mod.2"
 
 msgid "IDS_PRUS200_SUO_AVRORA_AZUR"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS201_SUO"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS202_B3_SUO_STOCK"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS203_B3_SUO_TOP"
-msgstr "GFCS III mod. 2"
+msgstr "SUO III mod.2"
 
 msgid "IDS_PRUS211_SUO"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS212_SUO"
-msgstr "GFCS III mod. 2"
+msgstr "SUO III mod.2"
 
 msgid "IDS_PRUS221_SUO"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS222_SUO"
-msgstr "GFCS III mod. 2"
+msgstr "SUO III mod.2"
 
 msgid "IDS_PRUS223_SUO_OLEG"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS224_SUO_VARYAG"
-msgstr "GFCS III mod. 1"
+msgstr "SUO III mod.1"
 
 msgid "IDS_PRUS301_SUO"
-msgstr "GFCS IV mod. 1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS302_SUO"
-msgstr "GFCS IV mod. 2"
+msgstr "SUO IV mod.2"
 
 msgid "IDS_PRUS303_B4_SUO_STOCK"
-msgstr "GFCS IV mod. 1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS304_B4_SUO_TOP"
-msgstr "GFCS IV mod. 2"
+msgstr "SUO IV mod.2"
 
 msgid "IDS_PRUS311_SUO"
-msgstr "GFCS IV mod. 1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS312_SUO"
-msgstr "GFCS IV mod. 2"
+msgstr "SUO IV mod.2"
 
 msgid "IDS_PRUS401_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS402_B5_SUO_STOCK"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS403_B5_SUO_TOP"
-msgstr "GFCS V mod. 2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS405_SUO_KIROV"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS406_SUO_P_KOMMUNA"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS411_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS412_SUO_OHOTNIK"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS413_D5_SUO_STOCK_2"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS414_D5_SUO_TOP_2"
-msgstr "GFCS V mod. 2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS415_CA5_SUO_STOCK"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS416_CA5_SUO_TOP"
-msgstr "GFCS V mod. 2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS417_SUO_MIKOYAN"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS421_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS422_SUO"
-msgstr "GFCS V mod. 2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS431_SUO_NIKOLAY"
-msgstr "GFCS IV mod. 1"
+msgstr "SUO IV mod.1"
 
 msgid "IDS_PRUS432_SUO_REV"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS441_SUO"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS442_SUO"
-msgstr "GFCS V mod. 2"
+msgstr "SUO V mod.2"
 
 msgid "IDS_PRUS451_SUO_KK"
-msgstr "GFCS V mod. 1"
+msgstr "SUO V mod.1"
 
 msgid "IDS_PRUS501_SUO"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS502_SUO"
-msgstr "GFCS VI mod. 2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS503_B6_SUO_STOCK"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS504_B6_SUO_TOP"
-msgstr "GFCS VI mod. 2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS505_SUO_NOVOR"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS506_SUO_KERCH"
-msgstr "GFCS VI mod.1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS507_SUO_BLACK_MOLOTOV"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS508_SUO_TOP_SECRET"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS509_D6_SUO_STOCK"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS510_SUO_MAKAROV_CHALLENGE"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS511_SUO"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS512_SUO"
-msgstr "GFCS VI mod. 2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS513_D6_SUO_STOCK_2"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS514_D6_SUO_TOP_2"
-msgstr "GFCS VI mod. 2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PRUS515_SUO_DESTROYER_CHALLENGE"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS516_SUO_SHAUMIAN"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS521_SUO_MOLOTOV"
-msgstr "GFCS VI"
+msgstr "SUO VI"
 
 msgid "IDS_PRUS531_SUO_LGD"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS532_SUO_MAKAROV"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PRUS600_SUO_BLACK_LAZO"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS601_SUO"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS602_SUO"
-msgstr "GFCS VII mod. 2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS603_B7_SUO_STOCK"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS604_B7_SUO_TOP"
-msgstr "GFCS VII mod. 2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS605_SUO_TASHKENT39"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS606_B7_SUO_STOCK"
-msgstr "GFCS VII mod.1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS608_D7_SUO_STOCK"
-msgstr "GFCS VII"
+msgstr "SUO VII"
 
 msgid "IDS_PRUS611_SUO"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS612_SUO"
-msgstr "GFCS VII mod. 2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS613_D7_SUO_STOCK_2"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS614_D7_SUO_TOP_2"
-msgstr "GFCS VII mod. 2"
+msgstr "SUO VII mod.2"
 
 msgid "IDS_PRUS700_SUO_DMITRY_POZHARSKY"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS701_SUO"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS702_SUO"
-msgstr "GFCS VIII mod. 2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS703_SUO_LAZO"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS704_B8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS705_B8_SUO_TOP"
-msgstr "GFCS VIII mod. 2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS706_SUO_LENIN"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS707_SUO_POLTAVA"
-msgstr "GFCS VII mod. 1"
+msgstr "SUO VII mod.1"
 
 msgid "IDS_PRUS708_B8_SUO_STOCK"
-msgstr "GFCS VIII mod.1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS709_SUO_FRUNZE"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS710_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS711_SUO_KUTUZOV"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS712_D8_SUO_STOCK_2"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS713_SUO_ALBATROS"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS714_D8_SUO_STOCK_3"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS715_D8_SUO_TOP_3"
-msgstr "GFCS VIII mod. 2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS716_CA8_SUO_STOCK"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS717_CA8_SUO_TOP"
-msgstr "GFCS VIII mod. 2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS718_SUO_OCHAKOV"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS719_SUO_BAGRATION"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS720_SUO_V_I_LENIN"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS721_SUO"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS722_SUO"
-msgstr "GFCS VIII mod. 2"
+msgstr "SUO VIII mod.2"
 
 msgid "IDS_PRUS723_SUO_P_BAGRATION"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS724_D8_SUO_STOCK"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS725_SUO_GREM"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS726_SUO_LATANU"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PRUS801_SUO"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS802_SUO"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS803_B9_SUO_STOCK"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS804_B9_SUO_TOP"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS805_SUO_AZUR_SOV_RUSSIA"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS806_SUO_NAVARIN"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS807_SUO_RTC_SOV_RUSSIA"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS808_B9_SUO_STOCK"
-msgstr "GFCS IX mod.1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS809_SUO_PERM_VELIKAYA"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS810_SUO_TOGLIATTI"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS811_SUO"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS812_SUO"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS813_D9_SUO_STOCK_2"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS814_D9_SUO_TOP_2"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS815_D9_SUO_STOCK_3"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS816_D9_SUO_TOP_3"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS817_D9_SUO_STOCK_4"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS818_D9_SUO_TOP_4"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS819_SUO_KRON"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS820_SUO_NEUSTR"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS821_CA9_SUO_STOCK"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PRUS822_CA9_SUO_TOP"
-msgstr "GFCS IX mod. 2"
+msgstr "SUO IX mod.2"
 
 msgid "IDS_PRUS823_SUO_SCHERBAKOV"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS824_SUO_R_ALASKA"
 msgstr "SUO IX"
@@ -109610,124 +110071,124 @@ msgid "IDS_PRUS825_SUO_SVERDLOVSK"
 msgstr "SUO IX"
 
 msgid "IDS_PRUS826_SUO_YURI_DOLGORUKIY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS827_D9_SUO_STOCK"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS828_SUO_SOVREMENNY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS829_SUO_S_GRUZIA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS830_BB8_SUO_BORODINO"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PRUS831_SUO_OGNENNY"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS832_SUO_URAL"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS833_SUO_KOMETA"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PRUS900_C10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS901_SUO"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS902_B10_SUO_TOP"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS903_B10_SUO_TOP"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS904_SUO_VLADIMIR_MONOMAKH"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS905_C11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "SUO XI mod.1"
 
 msgid "IDS_PRUS906_SUO_SMOLENSK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS907_SUO_R10"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS908_D10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS909_SUO_KOMISSAR"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS910_SUO_BLACK_SMOLENSK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS911_SUO"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS912_D10_SUO_STOCK_2"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS913_D10_SUO_STOCK_3"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS914_CA10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS915_CA10_SUO_STOCK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS916_SEVASTOPOL"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS917_SUO_SEVEROMORSK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS918_B10_SUO_STOCK"
-msgstr "GFCS X mod.1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS919_SUO_CRUISER_TEST"
-msgstr "SUO X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS920_D10_SUO_STOCK"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS921_SUO_KR_ZNAMYA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS922_SUO_KZ_RUBKA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS923_SUO_STRANA_SOVETOV"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS925_SUO_KIBERSLAVA"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PRUS930_D11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "SUO XI mod.1"
 
 msgid "IDS_PRUS931_B11_SUO_STOCK"
-msgstr "GFCS XI mod. 1"
+msgstr "SUO XI mod.1"
 
 msgid "IDS_PRUS974_SUO_MOSK"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS975_SUO_GROZ"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS976_STALINGRAD"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS977_STALINGRAD"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PRUS980_SUO_KREMLIN"
-msgstr "SUO XI"
+msgstr "SUO XI"
 
 msgid "IDS_PRUS990_SUO_TEST"
 msgstr "Iamassist"
@@ -110261,28 +110722,28 @@ msgid "IDS_PSGS064_114MM_45_MKIII"
 msgstr "113 mm/45 QF Mk.I/III（RP10 Mark II BD炮座）"
 
 msgid "IDS_PSGT001_INVISIBLE_TA"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PSGT008_533MM_4TUBES"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PSGT017_21IN_5TUBE_TORPEDO_TUBE"
-msgstr "533 mm Quintuple"
+msgstr "533 mm 五聯裝"
 
 msgid "IDS_PSGT018_533MM_4_TUBES"
 msgstr "533 mm tubo lanciasiluri"
 
 msgid "IDS_PSGT026_21IN_3TUBE_TR_MK_IV_R"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PSGT027_21IN_3TUBE_TR_MK_IV_L"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PSGT032_533MM_TORPEDO_TUBES_QUAD"
 msgstr "533 mm Vierling"
 
 msgid "IDS_PSGT034_533MM_TRIPLE_TORPEDO_TUBE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PSPA001_203MM_HE_CANARIAS"
 msgstr "203 mm HE 256 lb"
@@ -111562,6 +112023,12 @@ msgstr "印加寶藏"
 msgid "IDS_PVES418_ALMIRANTE_LAMA"
 msgstr "古老圖騰"
 
+msgid "IDS_PVES501_NUEVA_ESPARTA_EA"
+msgstr "自由翱翔"
+
+msgid "IDS_PVES502_20_DE_JULIO_EA"
+msgstr "金雕"
+
 msgid "IDS_PVES506_JURUA_BOITATA"
 msgstr "火蛇"
 
@@ -111925,7 +112392,7 @@ msgid "IDS_PVGT043_21IN_TRIPLE_TORPEDO_TUBE"
 msgstr "533 mm TR Mk I"
 
 msgid "IDS_PVGT044_21IN_MK14_TORPEDO_TUBES"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PVGT047_21IN_MK14_TORPEDO_TUBES"
 msgstr "533 mm Mk14"
@@ -111934,10 +112401,10 @@ msgid "IDS_PVGT050_533_MM_3_TUBES"
 msgstr "533 mm tubo lanciasiluri"
 
 msgid "IDS_PVGT070_21IN_TRIPLE_TORPEDO_TUBES"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PVGT082_533MM_4TUBE"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PVGT085_21IN_3TUBE_TR_MK_IV_L"
 msgstr "533 mm TR Mk IV"
@@ -113278,31 +113745,31 @@ msgid "IDS_PWGT005_21IN_MKX_TORPEDO_TUBE"
 msgstr "533 mm potrójna"
 
 msgid "IDS_PWGT012_533MM_3TUBE_M34_SW"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PWGT018_450MM_TWIN_AW"
-msgstr "450 mm Twin"
+msgstr "450 mm 雙聯裝"
 
 msgid "IDS_PWGT019_533MM_3TUBE_SW"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PWGT032_533MM_5TUBE_SW"
-msgstr "533 mm Quintuple"
+msgstr "533 mm 五聯裝"
 
 msgid "IDS_PWGT033_450MM_TRIPLE_AW"
-msgstr "450 mm Triple"
+msgstr "450 mm 三聯裝"
 
 msgid "IDS_PWGT034_450MM_TWIN_SW"
-msgstr "450 mm Twin"
+msgstr "450 mm 雙聯裝"
 
 msgid "IDS_PWGT036_450MM_4_SW"
-msgstr "450 mm Quadruple"
+msgstr "450 mm 四聯裝"
 
 msgid "IDS_PWGT040_533MM_3TUBE_SW"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PWGT043_533MM_4TUBE_SW"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PWGT045_21IN_QUAD_TORPEDO_TUBE"
 msgstr "533 mm QR Mk IV"
@@ -113326,13 +113793,13 @@ msgid "IDS_PWGT093_21IN_3TUBE_TR_MK_IV_R"
 msgstr "533 mm TR Mk IV"
 
 msgid "IDS_PWGT099_533MM_QUADTUBE"
-msgstr "533 mm Quad"
+msgstr "533 mm 四聯裝"
 
 msgid "IDS_PWGT106_21IN_5TUBE_TORPEDO_TUBE"
-msgstr "533 mm 五聯"
+msgstr "533 mm 五聯裝"
 
 msgid "IDS_PWGT112_533MM_1N_3TUBES"
-msgstr "533 mm 三聯"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PWPA001_120_HE_BLYSKAWICA"
 msgstr "120 mm HE"
@@ -114813,6 +115280,30 @@ msgstr "Hurricane Mk I"
 msgid "IDS_PXAF814_S_MK1"
 msgstr "Spitfire Mk I"
 
+msgid "IDS_PXAS005_SHIMAKAZE_SMOKE"
+msgstr "無人機"
+
+msgid "IDS_PXES110_SHIMAKAZE_COSMO2026"
+msgstr "聯邦艦隊"
+
+msgid "IDS_PXES111_DES_MOINES_COSMO2026"
+msgstr "聯邦艦隊"
+
+msgid "IDS_PXES210_GEARING_COSMO2026"
+msgstr "聯邦艦隊"
+
+msgid "IDS_PXES211_MOSKVA_COSMO2026"
+msgstr "聯邦艦隊"
+
+msgid "IDS_PXES212_REPUBLIQUE_COSMO2026"
+msgstr "聯邦艦隊"
+
+msgid "IDS_PXES213_GROSSDEUTSCHLAND_COSMO2026"
+msgstr "聯邦艦隊"
+
+msgid "IDS_PXES214_SEYDLITZ_BOSS_COSMO2026"
+msgstr "聯邦艦隊"
+
 msgid "IDS_PXES300_MONTANA_HW19"
 msgstr "Crocosaur"
 
@@ -115213,13 +115704,13 @@ msgid "IDS_PXGM222_203MM_SK_L56_HEXPLOSIVE_TEAL"
 msgstr "高爆火炮"
 
 msgid "IDS_PXGM277_DUCK_GUN"
-msgstr "152 mm Quack III（喙狀炮座）"
+msgstr "152 mm 嘎嘎 III 型（喙狀炮座）"
 
 msgid "IDS_PXGM278_DUCK_GUN_LIGHT"
-msgstr "152 mm Quack II（喙狀炮座）"
+msgstr "152 mm 嘎嘎 II 型（喙狀炮座）"
 
 msgid "IDS_PXGM279_BIG_DUCK_GUN"
-msgstr "152 mm Quack IV（喙狀炮座）"
+msgstr "152 mm 嘎嘎 IV 型（喙狀炮座）"
 
 msgid "IDS_PXGM350_AXISLASER_OLAND_H2020"
 msgstr "軸向"
@@ -115462,7 +115953,7 @@ msgid "IDS_PXGT032_AKIZUKI_3"
 msgstr "長程"
 
 msgid "IDS_PXGT033_DUCK_TA"
-msgstr "533 mm 翼下四聯裝 Quack II"
+msgstr "533 mm 翼下四聯裝嘎嘎 II 型"
 
 msgid "IDS_PXGT035_SNAKE_TORPEDO_TUBE"
 msgstr "Snake-Ball Mk5"
@@ -115471,7 +115962,7 @@ msgid "IDS_PXGT045_MUMMY_TA"
 msgstr "550 mm Ra"
 
 msgid "IDS_PXGT047_HURRAY_TA"
-msgstr "610 mm Quad"
+msgstr "610 mm 四聯裝"
 
 msgid "IDS_PXGT101_SECTORWAVEGUN_FRANCE_H2020"
 msgstr "寬"
@@ -115755,6 +116246,27 @@ msgstr "SCR-II"
 msgid "IDS_PXPA092_130MM_HE_SG_DICTATOR"
 msgstr "OF-42"
 
+msgid "IDS_PXPA093_127MM_HE_SHIMAKAZE"
+msgstr "127 mm HE Type1"
+
+msgid "IDS_PXPA094_431MM_AP_REPUBLIQUE"
+msgstr "431 mm AP OPfK Mle 1940"
+
+msgid "IDS_PXPA095_203MM_HE_DES_MOINES"
+msgstr "203 mm HE/HC Mk25"
+
+msgid "IDS_PXPA096_406MM_HE_KURFURST"
+msgstr "406 mm Spr.Gr. L/4.4 Kz."
+
+msgid "IDS_PXPA097_406MM_AP_KURFURST"
+msgstr "406 mm P.Spr.Gr. L/4.4"
+
+msgid "IDS_PXPA098_450MM_HE_T11"
+msgstr "450 mm Spr.Gr. L/4.4"
+
+msgid "IDS_PXPA099_450MM_AP_T11"
+msgstr "450 mm P.Spr.Gr. L/4.4"
+
 msgid "IDS_PXPA101_MG_AP_HINDENBURG_H2020"
 msgstr "主炮"
 
@@ -115943,6 +116455,9 @@ msgstr "Tentacles"
 
 msgid "IDS_PXPT032_DUCK_TORP"
 msgstr "氣泡魚雷"
+
+msgid "IDS_PXPT034_533MM_T11"
+msgstr "G7 Schildbutt"
 
 msgid "IDS_PXPT101_G7A_T1"
 msgstr "BWLF-107"
@@ -116288,6 +116803,51 @@ msgstr "1"
 
 msgid "IDS_PXSB103_YEAR"
 msgstr "2020"
+
+msgid "IDS_PXSB110"
+msgstr "深空"
+
+msgid "IDS_PXSB110_DESCR"
+msgstr "<p>起初，<b>深空</b>號是由一群熱衷的工程師根據在聯邦西部某檔案館發現的古老設計圖復原而成，專為世界軍事歷史重演節打造，本不應作為現役艦艇使用。然而，這艘建造完成的主力艦卻展現出驚人的威力與近乎不沉的特性，在某些性能指標上甚至超越了最新研發的艦艇。</p><p class=\"p_spacing\"> </p><p>經過數次小幅改進後，<b>深空</b>號被正式編入聯邦太空艦隊主力序列，成為執行星域任務的常備力量。</p>"
+
+msgid "IDS_PXSB110_FULL"
+msgstr "深空"
+
+msgid "IDS_PXSB110_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSB110_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSB210"
+msgstr "星壘"
+
+msgid "IDS_PXSB210_DESCR"
+msgstr "<p>在「界限」出現的幾十年前，一座永不沉沒的「壁壘艦艇」於聯邦西部地區建成。這艘主力艦成為地球工程師設計理想艦艇的第五次，也是最後一次嘗試——旨在抵禦任何形式的攻擊。</p><p class=\"p_spacing\"> </p><p>目前尚不清楚這項技術是如何傳入地球人聯邦的，但有傳言稱，其設計圖副本是從某個鄰近星系非法獲取的。</p><p class=\"p_spacing\"> </p><p>顯然，地球的設計師們對已有方案進行了改良，並為該艦配備了強大的能量護盾——官方記錄中尚無類似的系統。</p>"
+
+msgid "IDS_PXSB210_FULL"
+msgstr "星壘"
+
+msgid "IDS_PXSB210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSB210_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSB211"
+msgstr "貝武夫"
+
+msgid "IDS_PXSB211_DESCR"
+msgstr "<p>1918 年，德國設計師提出了數十個高速主力艦的初步設計方案。其中最大的設計方案獲得了「GK-5041」的代號，設想配備四座主炮塔，排水量為 50000 噸。</p><p class=\"p_spacing\"> </p><p>在該項目的假想版本中，這艘主力艦配備了 450 毫米主炮。</p>"
+
+msgid "IDS_PXSB211_FULL"
+msgstr "貝武夫"
+
+msgid "IDS_PXSB211_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSB211_YEAR"
+msgstr "1918"
 
 msgid "IDS_PXSB502"
 msgstr "博羅季諾'04"
@@ -116674,6 +117234,36 @@ msgstr "22"
 
 msgid "IDS_PXSC105_YEAR"
 msgstr "1969"
+
+msgid "IDS_PXSC110"
+msgstr "深淵"
+
+msgid "IDS_PXSC110_DESCR"
+msgstr "<p>由聯邦頂尖工程師研發的重型巡洋艦<b>深淵</b>號，在服役初期僅用於執行星際外交任務。這艘艦艇直至建成25年後，才真正展現出其強大的作戰潛力。</p><p class=\"p_spacing\"> </p><p>「界限」的出現暴露出地球艦艇的嚴重短缺，策展人指揮部隨即宣布啟動全面軍事升級計畫。<b>深淵</b>號被列為首批受改造艦艇，數月後搭載最新型飛彈武器系統，參與了深入「界限」區域的遠征行動。</p>"
+
+msgid "IDS_PXSC110_FULL"
+msgstr "深淵"
+
+msgid "IDS_PXSC110_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC110_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSC210"
+msgstr "通古斯卡"
+
+msgid "IDS_PXSC210_DESCR"
+msgstr "<p>據一些非官方消息透露，這艘在絕密氛圍中建造的飛彈巡洋艦，是在聯邦北部完工的。</p><p class=\"p_spacing\"> </p><p>這艘能以單艦火力替代整支太空艦隊的艦艇，其設計方案早在「界限」出現之前就已開始研發，但其具體目的——究竟是用於進攻還是防禦——尚不明確。</p><p class=\"p_spacing\"> </p><p>此巡洋艦的武器系統由策展人親自批准建造：為此，參謀部分析了來自聯邦各個角落的超過 2000 萬件武器。最終選定了所有可能方案中最具殺傷力的武器，裝備於該巡洋艦。</p>"
+
+msgid "IDS_PXSC210_FULL"
+msgstr "通古斯卡"
+
+msgid "IDS_PXSC210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSC210_YEAR"
+msgstr "1959"
 
 msgid "IDS_PXSC501"
 msgstr "警探鴨"
@@ -117158,6 +117748,36 @@ msgstr "1"
 msgid "IDS_PXSD103_YEAR"
 msgstr "2020"
 
+msgid "IDS_PXSD110"
+msgstr "燈"
+
+msgid "IDS_PXSD110_DESCR"
+msgstr "<p>驅逐艦<b>燈</b>號是在「界限」出現後的第一個十年裡，於地球人聯邦東部建造的。它隱蔽而靈活，成為執行最危險任務的理想間諜與突擊力量。</p><p class=\"p_spacing\"> </p><p>策展人親自為這艘艦艇挑選指揮官：此人必須兼具機敏性、非凡才智和略帶病態的魯莽，願意在看似得不償失的情況下冒險。</p>"
+
+msgid "IDS_PXSD110_FULL"
+msgstr "燈"
+
+msgid "IDS_PXSD110_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSD110_YEAR"
+msgstr "1959"
+
+msgid "IDS_PXSD210"
+msgstr "星雲"
+
+msgid "IDS_PXSD210_DESCR"
+msgstr "<p><b>星雲</b>級驅逐艦是首批受策展人指派、前往探索邊界異常現象的艦艇。她們專為快速隱秘航行而設計，並未配備足以應對跨星系威脅的必要武裝。首批任務中的艦艇幾乎全部被摧毀或失蹤。</p><p class=\"p_spacing\"> </p><p>半年後，其中一艘艦艇重新恢復了通訊：她不僅成功倖存，還最大限度地接近了敵人的巢穴。</p><p class=\"p_spacing\"> </p><p>隨後，當局決定對該級驅逐艦進行全面改裝，為其配備飛彈武器系統。這使得<b>星雲</b>級成為宇宙中最具致命性的艦艇之一。</p>"
+
+msgid "IDS_PXSD210_FULL"
+msgstr "星雲"
+
+msgid "IDS_PXSD210_NUMBER"
+msgstr "1"
+
+msgid "IDS_PXSD210_YEAR"
+msgstr "1959"
+
 msgid "IDS_PXSD502"
 msgstr "蒙面鴨"
 
@@ -117457,6 +118077,9 @@ msgstr "380 mm L/52 Drh LC/34"
 msgid "IDS_PXUA731_D8_ART_STOCK"
 msgstr "127 mm/38 Plague"
 
+msgid "IDS_PXUA900_B11_ART_STOCK"
+msgstr "450 mm/50 SK L/50（Drh LC/1922 炮座）"
+
 msgid "IDS_PXUA901_C10_ART_STOCK"
 msgstr " "
 
@@ -117496,8 +118119,17 @@ msgstr "406 MW/52 Entropia"
 msgid "IDS_PXUA912_ALLDESTROYER_TOP"
 msgstr "420 MW/48 EntropiaUltra"
 
+msgid "IDS_PXUA913_B10_ART_STOCK"
+msgstr "431 mm/50 Mle 1940（炮塔）"
+
+msgid "IDS_PXUA914_D10_ART_STOCK"
+msgstr "127 mm/50 3rd Year Type（D 型炮座）"
+
 msgid "IDS_PXUA915_ASTER_ART"
 msgstr "128 MW/45 IC Petal"
+
+msgid "IDS_PXUA916_C10_ART_STOCK"
+msgstr "203 mm/55 RF Mk.16（炮塔）"
 
 msgid "IDS_PXUA917_HINDENBURG_H19_ART"
 msgstr "203 mm L/60 Drh LC/34"
@@ -117519,6 +118151,9 @@ msgstr "431 mm/50 Mle 1940"
 
 msgid "IDS_PXUA923_YAMATO_H19_ART"
 msgstr "460 mm/45 Type94"
+
+msgid "IDS_PXUA924_B10_ART_STOCK"
+msgstr "406 mm/52 Drh C/34（Drh LC/34 炮座）"
 
 msgid "IDS_PXUA925_GALAXY_ART"
 msgstr "203 MW/55 UlteX 375"
@@ -117640,6 +118275,9 @@ msgstr "推進系統：100,000 匹馬力"
 msgid "IDS_PXUE741_CV8_ENG_STOCK"
 msgstr "推進系統：180,000 匹馬力"
 
+msgid "IDS_PXUE900_B11_ENG_STOCK"
+msgstr "推進系統：217,333 匹馬力"
+
 msgid "IDS_PXUE902_HINDEN_APR2019_ENG"
 msgstr "PowerCube"
 
@@ -117721,8 +118359,26 @@ msgstr "推進系統：280,000 匹馬力"
 msgid "IDS_PXUE927_ENG_BOTOMANCER"
 msgstr "推進系統：280,000 匹馬力"
 
+msgid "IDS_PXUE928_D10_ENG_STOCK"
+msgstr "推進系統：60,000 匹馬力"
+
+msgid "IDS_PXUE929_C10_ENG_STOCK"
+msgstr "推進系統：210,000 匹馬力"
+
+msgid "IDS_PXUE930_B10_ENG_STOCK"
+msgstr "推進系統：220,000 匹馬力"
+
 msgid "IDS_PXUE931_ALLDESTROYER_ENG"
 msgstr "PowerCube"
+
+msgid "IDS_PXUE932_D10_ENG_STOCK"
+msgstr "推進系統：75,000 匹馬力"
+
+msgid "IDS_PXUE933_C10_ENG_STOCK"
+msgstr "推進系統：120,000 匹馬力"
+
+msgid "IDS_PXUE934_B10_ENG_STOCK"
+msgstr "推進系統：167,600 匹馬力"
 
 msgid "IDS_PXUE935_ASTER_ENG"
 msgstr "PowerCube"
@@ -118011,6 +118667,9 @@ msgstr "Svyatozar"
 msgid "IDS_PXUH751_LEXINGTON_1942"
 msgstr "Nobilium"
 
+msgid "IDS_PXUH900_B11_HULL_STOCK"
+msgstr "貝武夫"
+
 msgid "IDS_PXUH902_HINDEN_APR2019"
 msgstr "Century Hawk"
 
@@ -118089,8 +118748,26 @@ msgstr "幽靈獵兵"
 msgid "IDS_PXUH927_HULL_BOTOMANCER"
 msgstr "訊號母艦"
 
+msgid "IDS_PXUH928_D10_HULL_STOCK"
+msgstr "星雲"
+
+msgid "IDS_PXUH929_C10_HULL_STOCK"
+msgstr "通古斯卡"
+
+msgid "IDS_PXUH930_B10_HULL_STOCK"
+msgstr "星壘"
+
 msgid "IDS_PXUH931_ALLDESTROYER"
 msgstr "ALLDESTROYER"
+
+msgid "IDS_PXUH932_D10_HULL_STOCK"
+msgstr "燈"
+
+msgid "IDS_PXUH933_C10_HULL_STOCK"
+msgstr "深淵"
+
+msgid "IDS_PXUH934_B10_HULL_STOCK"
+msgstr "深空"
 
 msgid "IDS_PXUH935_ASTER"
 msgstr "ASTER"
@@ -118735,7 +119412,7 @@ msgid "IDS_PXUS001_SUO_HYDE"
 msgstr "FKS Typ 3 Mod. 2"
 
 msgid "IDS_PXUS002_SUO_RASPUTIN"
-msgstr "Tsar GFCS"
+msgstr "Tsar SUO"
 
 msgid "IDS_PXUS003_SUO_FRANKY"
 msgstr "Mk III mod. 2"
@@ -118774,7 +119451,7 @@ msgid "IDS_PXUS701_SUO"
 msgstr "FKS Typ 8 Mod. 1"
 
 msgid "IDS_PXUS702_SUO_KIEV_H2018"
-msgstr "GFCS XVIII"
+msgstr "SUO XVIII"
 
 msgid "IDS_PXUS703_SUO_Z_23_H2018"
 msgstr "Mk8 Sixth Sense"
@@ -118790,8 +119467,8 @@ msgstr "FKS U17-I"
 
 msgid "IDS_PXUS721_SUO"
 msgstr ""
-"GFCS VIII\n"
-"mod. 1-D"
+"SUO VIII\n"
+"mod.1-D"
 
 msgid "IDS_PXUS731_C8_SUO_STOCK"
 msgstr "PCA Anubis"
@@ -118801,6 +119478,9 @@ msgstr "Mk8 Sixth Sense"
 
 msgid "IDS_PXUS807_D8_SUO_STOCK"
 msgstr "Type8 mod. 1"
+
+msgid "IDS_PXUS900_B11_SUO_STOCK"
+msgstr "FKS Typ 11"
 
 msgid "IDS_PXUS901_C10_SUO_STOCK"
 msgstr " "
@@ -118884,16 +119564,22 @@ msgid "IDS_PXUS926_KHABAROVSK_H19_SUO"
 msgstr "Eye"
 
 msgid "IDS_PXUS927_SUO_DICTATOR"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS928_SUO_PREDATOR"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS929_SUO_BOTOMANCER"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PXUS931_PARIS_SUO"
 msgstr "Atlas I"
+
+msgid "IDS_PXUS933_B10_SUO_STOCK"
+msgstr "SUO X"
+
+msgid "IDS_PXUS934_D10_SUO_STOCK"
+msgstr "Type10"
 
 msgid "IDS_PXUS935_AURORA_SUO"
 msgstr "MAGI III"
@@ -118909,6 +119595,12 @@ msgstr "Iamassist"
 
 msgid "IDS_PXUS939_GEARING_H19_SUO"
 msgstr "鷹眼"
+
+msgid "IDS_PXUS940_C10_SUO_STOCK"
+msgstr "Mk10"
+
+msgid "IDS_PXUS941_B10_SUO_STOCK"
+msgstr "FKS Typ 10"
 
 msgid "IDS_PXUT001_TORP_HELLSINK"
 msgstr "Type 6"
@@ -118972,6 +119664,9 @@ msgstr "53-17E \"Harpoon\""
 
 msgid "IDS_PXUT741_C8_TORP_STOCK"
 msgstr "550 mm 23DT"
+
+msgid "IDS_PXUT900_B11_TORP_STOCK"
+msgstr "G7a T1"
 
 msgid "IDS_PXUT901_C10_TORP_STOCK"
 msgstr " "
@@ -119337,7 +120032,7 @@ msgid "IDS_PZGA151_37MM_54_BREDA"
 msgstr "37 mm/54 Breda Model 1939（RM1939式炮座）"
 
 msgid "IDS_PZGA157_45MM_SM_20_ZIF"
-msgstr "45 mm SM-20-ZIF炮座"
+msgstr "45 mm SM-20-ZIF 炮座"
 
 msgid "IDS_PZGA158_45MM_SM_16"
 msgstr "45 mm SM-16炮座"
@@ -119589,7 +120284,7 @@ msgid "IDS_PZGT021_21IN_5TUBE_TORPEDO_TUBE"
 msgstr "533 mm QR Mk VI"
 
 msgid "IDS_PZGT028_21IN_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PZGT030_21IN_TORPEDO_TUBES_TWIN_R"
 msgstr "533 mm DR Mk II"
@@ -119601,13 +120296,13 @@ msgid "IDS_PZGT048_500MM_TWIN_TUBE"
 msgstr "500 mm Zwilling"
 
 msgid "IDS_PZGT050_21IN_MK14_TORPEDO_TUBES"
-msgstr "533 mm Mk14 Quintuple"
+msgstr "533 mm Mk14 五聯裝"
 
 msgid "IDS_PZGT051_21IN_MK14_TORPEDO_TUBES"
-msgstr "533 mm Mk14 Quintuple"
+msgstr "533 mm Mk14 五聯裝"
 
 msgid "IDS_PZGT052_533MM_TORPEDO_TUBES_TRIPLE"
-msgstr "533 mm Triple"
+msgstr "533 mm 三聯裝"
 
 msgid "IDS_PZGT054_533MM_PTA_5TUBES"
 msgstr "533 mm Quintuple PTA-53-68-bis"
@@ -119631,7 +120326,7 @@ msgid "IDS_PZGT112_21IN_MK14_TORPEDO_TUBES_QUAD"
 msgstr "533 mm Mk31"
 
 msgid "IDS_PZGT126_533MM2"
-msgstr "533 mm Twin"
+msgstr "533 mm 雙聯裝"
 
 msgid "IDS_PZGT146_533MM_TORPEDO_TUBES_QUAD"
 msgstr "533 mm Vierling"
@@ -121467,13 +122162,13 @@ msgid "IDS_PZUS501_SUO_ANSHAN"
 msgstr "Shèjī Kòngzhì Xìtǒng 6 Shì"
 
 msgid "IDS_PZUS502_D6_SUO_STOCK"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PZUS503_D6_SUO_TOP"
-msgstr "GFCS VI mod. 2"
+msgstr "SUO VI mod.2"
 
 msgid "IDS_PZUS504_SUO_HUANGHE"
-msgstr "GFCS VI mod. 1"
+msgstr "SUO VI mod.1"
 
 msgid "IDS_PZUS505_C6_SUO_STOCK"
 msgstr "Mk VI mod. 1"
@@ -121509,10 +122204,10 @@ msgid "IDS_PZUS703_D8_SUO_TOP"
 msgstr "Mk8 mod. 2"
 
 msgid "IDS_PZUS704_SUO_IRIAN"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS705_SUO_SILIWANGI"
-msgstr "GFCS VIII mod. 1"
+msgstr "SUO VIII mod.1"
 
 msgid "IDS_PZUS706_SUO_MARTEL_CN"
 msgstr "PCA n° 8 Mle 1"
@@ -121539,7 +122234,7 @@ msgid "IDS_PZUS713_SUO_DOU_JIAN"
 msgstr "Mk VIII"
 
 msgid "IDS_PZUS714_SUO_TANIFA"
-msgstr "GFCS VIII"
+msgstr "SUO VIII"
 
 msgid "IDS_PZUS800_SUO_MENGCHONG"
 msgstr "FKS Typ 9 Mod. 1"
@@ -121557,7 +122252,7 @@ msgid "IDS_PZUS804_SUO_WUJING"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PZUS805_SUO_DALIAN"
-msgstr "GFCS IX mod. 1"
+msgstr "SUO IX mod.1"
 
 msgid "IDS_PZUS806_C9_SUO_STOCK"
 msgstr "Mk9 mod. 1"
@@ -121581,7 +122276,7 @@ msgid "IDS_PZUS812_SUO_HENGSHUI"
 msgstr "Mk9"
 
 msgid "IDS_PZUS813_SUO_JULANG"
-msgstr "GFCS IX"
+msgstr "SUO IX"
 
 msgid "IDS_PZUS814_SUO_CHIDI"
 msgstr "Mk9"
@@ -121596,10 +122291,10 @@ msgid "IDS_PZUS902_C10_SUO_STOCK"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PZUS903_SUO_LUSHUN"
-msgstr "GFCS X mod. 1"
+msgstr "SUO X mod.1"
 
 msgid "IDS_PZUS904_SUO_CHANGZHENG"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PZUS905_C11_SUO_STOCK"
 msgstr "SUO XI"
@@ -121611,7 +122306,7 @@ msgid "IDS_PZUS907_SUO_HUANG_LONG_CHUAN"
 msgstr "Mk10 mod. 1"
 
 msgid "IDS_PZUS908_SUO_HUANGDI"
-msgstr "GFCS X"
+msgstr "SUO X"
 
 msgid "IDS_PZUT101_D2_TORP_STOCK"
 msgstr "G/6 D"
@@ -121969,6 +122664,9 @@ msgstr "<p>摧毀敵艦，每次摧毀推進一次完成進度。</p><p class=\"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_BOTOMANCER_AUTO"
 msgstr "每摧毀一艘獵犬艦艇，您都將獲得 1 個「訊號」類型消耗品的裝載數。您最多同時召喚 5 艘無人艦。"
+
+msgid "IDS_RAGE_MODE_DESCRIPTION_CITADEL_HITS"
+msgstr "<p>命中敵艦裝甲區，每次命中推進一次完成進度。</p><p class=\"p_spacing\"> </p><p>若您不活躍，即一段時間內未取得命中，進度將開始倒退。進度達到 100% 後，則不會倒退。</p><p class=\"p_spacing\"> </p><p>要啟用作戰指令，請按 [CMD_ACTIVATE_RAGE_MODE]。</p>"
 
 msgid "IDS_RAGE_MODE_DESCRIPTION_HEADER"
 msgstr "啟用條件"
@@ -122983,6 +123681,9 @@ msgstr "亞洲測試伺服器"
 msgid "IDS_REALM_WINST"
 msgstr "北美測試伺服器"
 
+msgid "IDS_REBIRTH_POINTS"
+msgstr "重生點數"
+
 msgid "IDS_RECALL_INVITATION"
 msgstr "取消邀請"
 
@@ -123598,6 +124299,9 @@ msgstr "裝載中"
 msgid "IDS_RESOURCE_NO_WASTE_RULES"
 msgstr "不消耗資源"
 
+msgid "IDS_RESPAWN_LOADING_DATA"
+msgstr "載入中"
+
 msgid "IDS_RESTART_GAME_QUESTION"
 msgstr "要重新啟動遊戲？"
 
@@ -123634,6 +124338,12 @@ msgstr "還有 %(_count)s 項"
 msgid "IDS_RESULT_SCREEN_MODAL_WINDOW_ABUSE_REASONS_LIST_HEADER"
 msgstr "您在戰鬥中存在下列違規行為："
 
+msgid "IDS_RESURRECTION_POINTS_HINT"
+msgstr "戰鬥中獲得的重生點數。"
+
+msgid "IDS_RESURRECTION_POINTS_HINT_HEADER"
+msgstr "重生點數"
+
 msgid "IDS_RETRAINED_FOR"
 msgstr "已重新訓練到"
 
@@ -123641,7 +124351,7 @@ msgid "IDS_RETRAINING_COST"
 msgstr "重新訓練費用："
 
 msgid "IDS_RETRAINING_DISABLE_REASON_SHIP_IS_IN_FORMATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以加速指揮官的重新訓練。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以加速指揮官的重新訓練。"
 
 msgid "IDS_RETRAINING_FOR"
 msgstr "正重新訓練到"
@@ -123866,13 +124576,13 @@ msgid "IDS_REWARD_EVENTUM_10_TITLE"
 msgstr "海洋代幣"
 
 msgid "IDS_REWARD_EVENTUM_1_TITLE"
-msgstr "節日代幣"
+msgstr "太空代幣"
 
 msgid "IDS_REWARD_EVENTUM_2_TITLE"
 msgstr "潛行者代幣"
 
 msgid "IDS_REWARD_EVENTUM_3_TITLE"
-msgstr "美國代幣"
+msgstr "泛美代幣"
 
 msgid "IDS_REWARD_EVENTUM_4_TITLE"
 msgstr "大明航海代幣"
@@ -129205,6 +129915,9 @@ msgstr "解鎖戰鬥地圖「戰末灣岸」。"
 msgid "IDS_REWARD_MAP_UNLOCK_TITLE"
 msgstr "地圖「戰末灣岸」"
 
+msgid "IDS_REWARD_META_EVENT_PROGRESS_POINTS_TITLE"
+msgstr "進度積分"
+
 msgid "IDS_REWARD_MK_PREMIUM_TITLE"
 msgstr "戰艦加值帳號"
 
@@ -129231,6 +129944,9 @@ msgstr "稀有指揮官教材"
 
 msgid "IDS_REWARD_REASON"
 msgstr "獎勵"
+
+msgid "IDS_REWARD_RECEIVED"
+msgstr "已獲得獎勵"
 
 msgid "IDS_REWARD_RECRUITMENT_POINTS_TITLE"
 msgstr "領航代幣"
@@ -129640,6 +130356,12 @@ msgstr "以您的主炮命中敵方艦艇"
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MINE"
 msgstr "以水雷傷害敵方艦艇"
 
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MISSILE"
+msgstr "使用飛彈擊中敵艦。"
+
+msgid "IDS_RIBBON_DESCRIPTION_RIBBON_MISSILE_AIR_DEFENSE"
+msgstr "使用雷射反導系統擊落飛彈。"
+
 msgid "IDS_RIBBON_DESCRIPTION_RIBBON_PLANE"
 msgstr "使用防空炮擊落敵機。"
 
@@ -129721,6 +130443,9 @@ msgstr "砲彈擊中防雷鼓包。"
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_CORRECTED"
 msgstr "透過伴航校射偵察機協助隊友以主炮命中敵艦。"
 
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_CRUISE_MISSILE"
+msgstr "使用導引飛彈擊中敵艦。"
+
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_DAMAGED_SEGMENT"
 msgstr "砲彈破壞敵艦裝甲。"
 
@@ -129742,6 +130467,9 @@ msgstr "拾取團隊增益。"
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_EFFECTIVE_SMOKES"
 msgstr "用煙幕掩護友軍艦艇。"
 
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_HOMING_MISSILE"
+msgstr "使用自導飛彈擊中敵艦。"
+
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "主炮擊中但未擊穿裝甲。"
 
@@ -129756,6 +130484,9 @@ msgstr "主炮擊中但被裝甲彈開。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MINE_DESTROY"
 msgstr "用深水炸彈拆毀敵方水雷。"
+
+msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_MISSILE_PARRIED"
+msgstr "使用反導系統擊落飛彈。"
 
 msgid "IDS_RIBBON_DESCRIPTION_SUBRIBBON_REINFORCEMENT"
 msgstr "在戰鬥中透過消耗品強化友軍艦艇。"
@@ -129844,6 +130575,12 @@ msgstr "命中目標"
 msgid "IDS_RIBBON_RIBBON_MINE"
 msgstr "傷害"
 
+msgid "IDS_RIBBON_RIBBON_MISSILE"
+msgstr "命中目標"
+
+msgid "IDS_RIBBON_RIBBON_MISSILE_AIR_DEFENSE"
+msgstr "擊落飛彈"
+
 msgid "IDS_RIBBON_RIBBON_PLANE"
 msgstr "擊落飛機"
 
@@ -129854,7 +130591,7 @@ msgid "IDS_RIBBON_RIBBON_SECONDARY_CALIBER"
 msgstr "命中目標"
 
 msgid "IDS_RIBBON_RIBBON_SHIELD"
-msgstr "命中"
+msgstr "命中護盾"
 
 msgid "IDS_RIBBON_RIBBON_SPLANE"
 msgstr "以戰鬥機擊落"
@@ -129919,6 +130656,12 @@ msgstr "主炮擊中"
 msgid "IDS_RIBBON_SSE_RIBBON_MINE"
 msgstr "水雷擊中"
 
+msgid "IDS_RIBBON_SSE_RIBBON_MISSILE"
+msgstr "導彈擊中"
+
+msgid "IDS_RIBBON_SSE_RIBBON_MISSILE_AIR_DEFENSE"
+msgstr "擊落飛彈"
+
 msgid "IDS_RIBBON_SSE_RIBBON_PLANE"
 msgstr "防空炮擊落"
 
@@ -129929,7 +130672,7 @@ msgid "IDS_RIBBON_SSE_RIBBON_SECONDARY_CALIBER"
 msgstr "副炮擊中"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SHIELD"
-msgstr "命中敵艦能量盾"
+msgstr "命中護盾"
 
 msgid "IDS_RIBBON_SSE_RIBBON_SPLANE"
 msgstr "戰鬥機擊落"
@@ -130003,6 +130746,9 @@ msgstr "主炮擊中防雷鼓包"
 msgid "IDS_RIBBON_SSE_SUBRIBBON_CORRECTED"
 msgstr "協助校射"
 
+msgid "IDS_RIBBON_SSE_SUBRIBBON_CRUISE_MISSILE"
+msgstr "手動導引"
+
 msgid "IDS_RIBBON_SSE_SUBRIBBON_DAMAGED_SEGMENT"
 msgstr "破壞裝甲"
 
@@ -130024,6 +130770,9 @@ msgstr "拾取增益"
 msgid "IDS_RIBBON_SSE_SUBRIBBON_EFFECTIVE_SMOKES"
 msgstr "掩護"
 
+msgid "IDS_RIBBON_SSE_SUBRIBBON_HOMING_MISSILE"
+msgstr "自動導引"
+
 msgid "IDS_RIBBON_SSE_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "主炮未擊穿"
 
@@ -130038,6 +130787,9 @@ msgstr "主炮跳彈"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_MINE_DESTROY"
 msgstr "拆毀水雷"
+
+msgid "IDS_RIBBON_SSE_SUBRIBBON_MISSILE_PARRIED"
+msgstr "攔截"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_REINFORCEMENT"
 msgstr "強化"
@@ -130058,10 +130810,10 @@ msgid "IDS_RIBBON_SSE_SUBRIBBON_ROCKET_RICOCHET"
 msgstr "火箭彈跳彈"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_SHIELD_DAMAGED"
-msgstr "對能量盾造成傷害"
+msgstr "對能量護盾造成傷害"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "未對能量盾造成傷害"
+msgstr "未對能量護盾造成傷害"
 
 msgid "IDS_RIBBON_SSE_SUBRIBBON_TORPEDO_DESTROY"
 msgstr "拆毀魚雷"
@@ -130126,6 +130878,9 @@ msgstr "命中魚雷防護"
 msgid "IDS_RIBBON_SUBRIBBON_CORRECTED"
 msgstr "協助校射"
 
+msgid "IDS_RIBBON_SUBRIBBON_CRUISE_MISSILE"
+msgstr "手動導引"
+
 msgid "IDS_RIBBON_SUBRIBBON_DAMAGED_SEGMENT"
 msgstr "破壞裝甲"
 
@@ -130147,6 +130902,9 @@ msgstr "拾取增益"
 msgid "IDS_RIBBON_SUBRIBBON_EFFECTIVE_SMOKES"
 msgstr "掩護"
 
+msgid "IDS_RIBBON_SUBRIBBON_HOMING_MISSILE"
+msgstr "自動導引"
+
 msgid "IDS_RIBBON_SUBRIBBON_MAIN_CALIBER_NO_PENETRATION"
 msgstr "未擊穿"
 
@@ -130161,6 +130919,9 @@ msgstr "跳彈"
 
 msgid "IDS_RIBBON_SUBRIBBON_MINE_DESTROY"
 msgstr "拆毀水雷"
+
+msgid "IDS_RIBBON_SUBRIBBON_MISSILE_PARRIED"
+msgstr "攔截"
 
 msgid "IDS_RIBBON_SUBRIBBON_REINFORCEMENT"
 msgstr "強化"
@@ -130181,10 +130942,10 @@ msgid "IDS_RIBBON_SUBRIBBON_ROCKET_RICOCHET"
 msgstr "跳彈"
 
 msgid "IDS_RIBBON_SUBRIBBON_SHIELD_DAMAGED"
-msgstr "對能量盾造成傷害"
+msgstr "對能量護盾造成傷害"
 
 msgid "IDS_RIBBON_SUBRIBBON_SHIELD_NO_DAMAGED"
-msgstr "未對能量盾造成傷害"
+msgstr "未對能量護盾造成傷害"
 
 msgid "IDS_RIBBON_SUBRIBBON_TANKING"
 msgstr "吸引火力"
@@ -130669,9 +131430,6 @@ msgstr "賽事。制海權。"
 msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_3X3"
 msgstr "錦標賽 — 制海權 — 兩區域"
 
-msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_5X5"
-msgstr "錦標賽 — 制海權 — 備選"
-
 msgid "IDS_SCENARIO_DOMINATION_TOURNAMENT_6X6"
 msgstr "錦標賽 — 制海權 — 三區域"
 
@@ -130905,6 +131663,12 @@ msgstr "一般戰鬥 — 聯合作戰"
 
 msgid "IDS_SCENARIO_SKIRMISH_STANDART_SECOND"
 msgstr "一般戰鬥 — 聯合作戰"
+
+msgid "IDS_SCENARIO_SPACE_EVENT"
+msgstr "太空前線 — 自治領"
+
+msgid "IDS_SCENARIO_SPACE_EVENT_ALT"
+msgstr "太空前線 — 替代"
 
 msgid "IDS_SCENARIO_STANDART"
 msgstr "一般戰鬥"
@@ -131526,19 +132290,19 @@ msgid "IDS_SERVICE_NOT_COMPLETED"
 msgstr "無法進行整備"
 
 msgid "IDS_SERVICE_SHIP_TO_MANAGE_SHIP"
-msgstr "艦艇需先進行整備，才能變更其裝備。"
+msgstr "需要對艦艇進行整備以變更其裝備。"
 
 msgid "IDS_SERVICE_SHIP_TO_OPERATE_AUTOPURCHASE"
 msgstr "艦艇需先進行整備，才能變更自動購買選項。"
 
 msgid "IDS_SERVICE_SHIP_TO_OPERATE_ECONOMIC_BOOSTS"
-msgstr "艦艇需先進行整備，才能變更其經濟加成。"
+msgstr "需要對艦艇進行整備以變更其經濟加成。"
 
 msgid "IDS_SERVICE_SHIP_TO_OPERATE_MODERNIZATION"
 msgstr "對艦艇進行維護後才能更換升級品。"
 
 msgid "IDS_SERVICE_SHIP_TO_OPERATE_SIGNALS"
-msgstr "艦艇需先進行整備，才能變更其信號旗。"
+msgstr "需要對艦艇進行整備以變更其信號旗。"
 
 msgid "IDS_SESSION_ACCURACY_MAIN_PERCENT"
 msgstr "主炮命中率。"
@@ -131631,34 +132395,34 @@ msgid "IDS_SET_SIGNALS_RARITY_LEVEL"
 msgstr "全部安裝"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_BUY_MODERNIZATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」來變更已安裝的升級品。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」來變更已安裝的升級品。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_CONSUMABLES"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」來變更已安裝的消耗品。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」來變更已安裝的消耗品。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_CHANGE_WT_TASK"
 msgstr "已選擇「準備好分艦隊作戰」狀態，點選「未準備」後才能更換任務。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_FREE_CREW_SKILLPOINTS"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以重新分配技能點數。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以重新分配技能點數。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_MANAGE_SHIP"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」來變更艦艇裝備。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」來變更艦艇裝備。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_AUTOPURCHASE"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以變更自動購買選項。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」以變更自動購買選項。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_ECONOMIC_BOOSTS"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」來變更經濟加成。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」來變更經濟加成。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_EXTERIORS"
-msgstr "狀態已設為「準備好以分艦隊來加入戰鬥」。點擊「尚未準備好」以變更艦艇外觀。"
+msgstr "狀態已設為「準備好加入戰鬥」。點擊「尚未準備好」以變更艦艇外觀。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_MODERNIZATION"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態，點選「尚未準備好」後才能更換升級品。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」來變更已安裝的升級品。"
 
 msgid "IDS_SET_UNREADY_DIVISION_FIRST_TO_OPERATE_SIGNALS"
-msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」來變更信號旗。"
+msgstr "已選擇「準備好加入戰鬥」狀態。點擊「尚未準備好」來變更信號旗。"
 
 msgid "IDS_SEVENTH_AMERICAN_ARCSUBCOLLECTION_NAME"
 msgstr "士兵職類"
@@ -132651,15 +133415,6 @@ msgstr "「發煙機」消耗品裝載數較少"
 
 msgid "IDS_SHIP_FEAT_VIS_IMPROVED_FULLSPEED_SMOKE_DESC"
 msgstr "煙幕作用時間和擴散時間較長。"
-
-msgid "IDS_SHIP_FILTER_AUTHOR"
-msgstr "自訂艦艇"
-
-msgid "IDS_SHIP_FILTER_EVENT"
-msgstr "特殊艦艇"
-
-msgid "IDS_SHIP_FILTER_HISTORICAL"
-msgstr "歷史艦艇"
 
 msgid "IDS_SHIP_FROZEN_FOR_PVE_OPERATION"
 msgstr "等候命令"
@@ -134316,6 +135071,27 @@ msgstr "情報偵察機"
 msgid "IDS_SHIP_PARAM_AIR_SUPPORT_WORK_TIME"
 msgstr "作用時間"
 
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_COUNT"
+msgstr "飛彈數量"
+
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_DAMAGE"
+msgstr "飛彈傷害"
+
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_RELOAD_TIME"
+msgstr "裝填時間"
+
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_SCANER_MAX_DIST"
+msgstr "最大掃描距離"
+
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_SCAN_TIME"
+msgstr "掃描時間"
+
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_WEAPON"
+msgstr "自導飛彈"
+
+msgid "IDS_SHIP_PARAM_ALPHA_MISSILE_WEAPON_DESCRIPTION"
+msgstr "<p>對有能量護盾及無能量護盾的艦艇造成傷害。</p><p class=\"p_spacing\"> </p><p>無需手動瞄準，發射前需掃描並鎖定目標。</p>"
+
 msgid "IDS_SHIP_PARAM_ALPHA_PIERCING_CS"
 msgstr "SAP 彈的裝甲穿透能力"
 
@@ -134501,6 +135277,24 @@ msgstr "在水下時，會消耗下潛能力。"
 
 msgid "IDS_SHIP_PARAM_BATTLE_LEVEL_RANGE"
 msgstr "戰鬥場階範圍"
+
+msgid "IDS_SHIP_PARAM_BETA_MISSILE_COUNT"
+msgstr "飛彈數量"
+
+msgid "IDS_SHIP_PARAM_BETA_MISSILE_DAMAGE"
+msgstr "飛彈傷害"
+
+msgid "IDS_SHIP_PARAM_BETA_MISSILE_MAX_FLY_DIST"
+msgstr "最大飛行距離"
+
+msgid "IDS_SHIP_PARAM_BETA_MISSILE_MAX_FLY_TIME"
+msgstr "最大飛行時間"
+
+msgid "IDS_SHIP_PARAM_BETA_MISSILE_WEAPON"
+msgstr "導引飛彈"
+
+msgid "IDS_SHIP_PARAM_BETA_MISSILE_WEAPON_DESCRIPTION"
+msgstr "<p>對無能量護盾的艦艇造成顯著傷害。不會損傷能量護盾。</p><p class=\"p_spacing\"> </p><p>需要手動導引。</p>"
 
 msgid "IDS_SHIP_PARAM_BOMBER_ALT_SQUADRONS"
 msgstr "轟炸機"
@@ -134712,6 +135506,9 @@ msgstr "命中時的加熱程度"
 msgid "IDS_SHIP_PARAM_HIST_ENGINE_POWER"
 msgstr "引擎功率"
 
+msgid "IDS_SHIP_PARAM_HYDROPHONE_WAVE_RADIUS"
+msgstr "被動聲納作用範圍"
+
 msgid "IDS_SHIP_PARAM_IMPULSE_LASERS_MAX_DIST"
 msgstr "雷射作用範圍"
 
@@ -134792,6 +135589,72 @@ msgstr "水雷數量"
 
 msgid "IDS_SHIP_PARAM_MINES_DAMAGE"
 msgstr "水雷傷害"
+
+msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_CHARGES"
+msgstr "自導飛彈"
+
+msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_DAMAGE"
+msgstr "最高傷害"
+
+msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_RELOAD_TIME"
+msgstr "裝填時間"
+
+msgid "IDS_SHIP_PARAM_MISSILES_ALPHA_SCAN_DIST"
+msgstr "最大掃描距離"
+
+msgid "IDS_SHIP_PARAM_MISSILES_BETA_CHARGES"
+msgstr "導引飛彈"
+
+msgid "IDS_SHIP_PARAM_MISSILES_BETA_DAMAGE"
+msgstr "最高傷害"
+
+msgid "IDS_SHIP_PARAM_MISSILES_BETA_FLY_DIST"
+msgstr "最大飛行距離"
+
+msgid "IDS_SHIP_PARAM_MISSILES_BETA_RELOAD_TIME"
+msgstr "裝填時間"
+
+msgid "IDS_SHIP_PARAM_MISSILES_GROUPS"
+msgstr "飛彈發射器"
+
+msgid "IDS_SHIP_PARAM_MISSILES_GROUPS_TOOLTIP_DESCRIPTION"
+msgstr "艦艇的飛彈發射器"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE"
+msgstr "雷射"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_LAUNCHER"
+msgstr "雷射反導系統"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_MAX_DISTANCE"
+msgstr "雷射作用範圍"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_MIN_DISTANCE"
+msgstr "雷射最小作用距離"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENCE_PARRY_CAPACITY"
+msgstr "裝載數"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENSE"
+msgstr "反導"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENSE_CHARGES"
+msgstr "裝載數"
+
+msgid "IDS_SHIP_PARAM_MISSILE_AIR_DEFENSE_MAX_DIST"
+msgstr "雷射作用範圍"
+
+msgid "IDS_SHIP_PARAM_MISSILE_ALPHA"
+msgstr "自導飛彈"
+
+msgid "IDS_SHIP_PARAM_MISSILE_BETA"
+msgstr "導引飛彈"
+
+msgid "IDS_SHIP_PARAM_MISSILE_LAUNCHER"
+msgstr "飛彈發射器"
+
+msgid "IDS_SHIP_PARAM_MISSILE_WEAPON"
+msgstr "飛彈"
 
 msgid "IDS_SHIP_PARAM_MOBILITY"
 msgstr "機動性"
@@ -135089,6 +135952,9 @@ msgstr "引擎加速的冷卻時間"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_GROUPING"
 msgstr "準確性"
+
+msgid "IDS_SHIP_PARAM_SQUADRON_JATO_DURATION"
+msgstr "起飛輔助噴射器作用時間"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_LEVEL"
 msgstr "階級"
@@ -135612,11 +136478,23 @@ msgstr "突圍型主力艦"
 msgid "IDS_SHIP_ROLE_BB_PROVOKE_DESC"
 msgstr "<p>承受敵軍火力以掩護友軍艦艇。在友軍支援下帶領側翼突破。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
 
+msgid "IDS_SHIP_ROLE_BB_SKURFURST"
+msgstr "突圍"
+
+msgid "IDS_SHIP_ROLE_BB_SKURFURST_DESC"
+msgstr "<p>逐步推進，以進行近距離作戰。在友軍支援下帶領側翼突破。</p><p class=\"p_spacing\"> </p><p>位居一線。</p>"
+
 msgid "IDS_SHIP_ROLE_BB_SNIPER"
 msgstr "狙擊型主力艦"
 
 msgid "IDS_SHIP_ROLE_BB_SNIPER_DESC"
 msgstr "<p>依靠隊友提供的情報資料，從遠距離攻擊敵人。透過機動使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>位居二線。您的艦艇難以承受近距離的火力打擊。</p>"
+
+msgid "IDS_SHIP_ROLE_BB_SREPUBLIQUE"
+msgstr "突擊特化型主力艦"
+
+msgid "IDS_SHIP_ROLE_BB_SREPUBLIQUE_DESC"
+msgstr "結合火炮與強大的自導飛彈，在近距離摧毀敵艦。"
 
 msgid "IDS_SHIP_ROLE_CA_ASSAULT"
 msgstr "突擊型巡洋艦"
@@ -135635,6 +136513,18 @@ msgstr "雷擊特化型巡洋艦"
 
 msgid "IDS_SHIP_ROLE_CA_KITAKAMI_DESC"
 msgstr "<p>將魚雷作為您的主要武器。與敵艦保持距離。偵察敵人的巡洋艦和主力艦。進行機動或利用煙霧隱藏自己，使敵軍火力更難命中您的艦艇。</p><p class=\"p_spacing\"> </p><p>獨特角色。</p>"
+
+msgid "IDS_SHIP_ROLE_CA_SDESMOINES"
+msgstr "全能型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_SDESMOINES_DESC"
+msgstr "利用速射主炮和遠程導引飛彈，在中距離摧毀敵艦。"
+
+msgid "IDS_SHIP_ROLE_CA_SMOSKVA"
+msgstr "導彈狙擊型巡洋艦"
+
+msgid "IDS_SHIP_ROLE_CA_SMOSKVA_DESC"
+msgstr "利用遠程制導和自導飛彈，在遠距離摧毀敵艦。"
 
 msgid "IDS_SHIP_ROLE_CA_SPOTTING"
 msgstr "偵察型巡洋艦"
@@ -135680,6 +136570,18 @@ msgstr "突襲型驅逐艦"
 
 msgid "IDS_SHIP_ROLE_DD_PAOLO_EMILIO_DESC"
 msgstr "<p>埋伏在島嶼後方伺機而動，或配合使用「高速發煙器」和「引擎增壓」消耗品發動毀滅性魚雷打擊。進行機動或利用煙霧隱藏自己，使敵人更難瞄準您的艦艇。為隊友提供情報資料。</p><p class=\"p_spacing\"> </p><p>獨特角色。</p>"
+
+msgid "IDS_SHIP_ROLE_DD_SGEARING"
+msgstr "導彈追獵型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_SGEARING_DESC"
+msgstr "利用強大的制導和自導飛彈，在中距離摧毀敵艦。"
+
+msgid "IDS_SHIP_ROLE_DD_SSHIMAKAZE"
+msgstr "反導型驅逐艦"
+
+msgid "IDS_SHIP_ROLE_DD_SSHIMAKAZE_DESC"
+msgstr "深入敵後，摧毀導彈狙擊型艦艇，並為隊友提供支援。"
 
 msgid "IDS_SHIP_ROLE_DD_TORPEDO"
 msgstr "雷擊型驅逐艦"
@@ -137171,6 +138073,15 @@ msgstr "帕維爾˙波利亞科夫"
 msgid "IDS_SOUND_MOD_COMRICHARD"
 msgstr "康里查德"
 
+msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_CONSTANTINE_SHARP"
+msgstr "康斯坦丁˙夏普"
+
+msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
+msgstr "傑森˙圖馬諾夫"
+
+msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
+msgstr "策展人"
+
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
 msgstr "Dasha Perova"
 
@@ -137178,7 +138089,7 @@ msgid "IDS_SOUND_MOD_DEFAULT"
 msgstr "一般"
 
 msgid "IDS_SOUND_MOD_DEFAULT_DESCRIPTION"
-msgstr "您隊伍的指揮官會使用所選的配音語言。使用具有獨特短語的指揮官時，標準配音將會被替換。"
+msgstr "您隊伍的指揮官會使用所選的配音語言。使用具有獨特短語的指揮官時，標準配音將會被替換。當配音語言設定為俄語時，所有未附帶獨有配音的女性指揮官將以俄語女聲配音進行播報。"
 
 msgid "IDS_SOUND_MOD_DIEHARD_CAP"
 msgstr "約翰內斯 梅克 萊恩"
@@ -137256,7 +138167,7 @@ msgid "IDS_SOUND_MOD_FREDRIK_HENRIK"
 msgstr "弗雷德里克 亨利克 查普曼"
 
 msgid "IDS_SOUND_MOD_HANDZO"
-msgstr "结城ギョクロ"
+msgstr "結城玉露"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_AKENO_MASHIRO"
 msgstr "HSF 岬明乃(Akeno Misaki)"
@@ -137373,7 +138284,7 @@ msgid "IDS_SOUND_MOD_NATION_PLUS"
 msgstr "延伸"
 
 msgid "IDS_SOUND_MOD_NATION_PLUS_DESCRIPTION"
-msgstr "配音語言與艦艇指揮官的國家對應。您也可聽到友軍艦艇上附帶獨有配音之指揮官的獨特短語。"
+msgstr "配音語言與艦艇指揮官的國家對應。您也可聽到友軍艦艇上附帶獨有配音之指揮官的獨特短語。當配音語言設定為俄語時，所有未附帶獨有配音的女性指揮官將以俄語女聲配音進行播報。"
 
 msgid "IDS_SOUND_MOD_NATUEVENT_HUA_QING"
 msgstr "Hua Qing"
@@ -137938,19 +138849,19 @@ msgid "IDS_SPACES/E04_HALLOWEEN_2018_DESCR"
 msgstr "深層恐懼"
 
 msgid "IDS_SPACES/E05_APRIL_2019_ESTUARY"
-msgstr "Risus"
+msgstr "凱旋"
 
 msgid "IDS_SPACES/E05_APRIL_2019_ESTUARY_DESCR"
 msgstr "鐵礦結晶從海底升起。"
 
 msgid "IDS_SPACES/E06_APRIL_2019_NAVAL_MISSION"
-msgstr "Ludus"
+msgstr "煉獄"
 
 msgid "IDS_SPACES/E06_APRIL_2019_NAVAL_MISSION_DESCR"
 msgstr "濃厚的大氣層導致岩石碎片漂浮。"
 
 msgid "IDS_SPACES/E07_APRIL_2019_PATH_WARRIOR"
-msgstr "Navis"
+msgstr "局勢升級"
 
 msgid "IDS_SPACES/E07_APRIL_2019_PATH_WARRIOR_DESCR"
 msgstr "島嶼被火山岩包圍。"
@@ -138083,6 +138994,132 @@ msgstr "Empress Augusta Bay"
 
 msgid "IDS_SPACES/S10_USS_CL_DESCR"
 msgstr "櫻花"
+
+msgid "IDS_SPACE_ALLY_BOSS_SPAWNED"
+msgstr "我方超級主力艦已抵達戰場。保護她：只有她才能擊毀敵方基地！"
+
+msgid "IDS_SPACE_ALL_BOSSES_DESTROYED"
+msgstr "戰場上已無超級主力艦。集中火力，全力摧毀敵艦！"
+
+msgid "IDS_SPACE_APRIL_BATTLE_TASK"
+msgstr "召喚超級主力艦貝武夫，摧毀敵方基地！"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_DESCRIPTION"
+msgstr "若被摧毀，您可選擇重生點與艦艇重返戰場。請注意，部分艦艇需消耗戰鬥中獲得的重生點數才能解鎖。未使用的點數將在戰鬥結束時清零。"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_0"
+msgstr "主炮砲彈過度擊穿"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_1"
+msgstr "副炮砲彈命中"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_2"
+msgstr "擊傷護盾"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_3"
+msgstr "自導飛彈命中"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_4"
+msgstr "主炮砲彈擊穿"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_5"
+msgstr "造成 5000 血量傷害"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_6"
+msgstr "煙幕掩護，吸引火力，偵察敵艦，攔截飛彈"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_7"
+msgstr "導引飛彈命中"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_8"
+msgstr "命中裝甲區"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_RULE_9"
+msgstr "擊毀敵方艦艇"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_SCORE"
+msgstr "已獲得點數"
+
+msgid "IDS_SPACE_APRIL_POINTS_FOR_RESPAWN_TITLE"
+msgstr "重生點數"
+
+msgid "IDS_SPACE_BOSS_TEAM0"
+msgstr "攻堅艦"
+
+msgid "IDS_SPACE_BOSS_TEAM1"
+msgstr "攻堅艦"
+
+msgid "IDS_SPACE_CURATOR"
+msgstr "策展人"
+
+msgid "IDS_SPACE_ENEMY_BOSS_SPAWNED"
+msgstr "敵方超級主力艦已抵達戰場。別讓她擊毀我方基地——牽制並攻擊！"
+
+msgid "IDS_SPACE_EVENT"
+msgstr "太空前線"
+
+msgid "IDS_SPACE_EVENT_BRIEFING"
+msgstr "擊毀敵艦，召喚我方超級主力艦。只有她才能擊毀敵方基地！"
+
+msgid "IDS_SPACE_EVENT_DESCRIPTION"
+msgstr "召喚超級主力艦貝武夫，擊毀敵方基地。"
+
+msgid "IDS_SPACE_EVENT_RULES_BULLET_1"
+msgstr "在遙遠的未來，地球表面發現了一道連接不同世界的裂隙，這事關整個文明的存亡。為了調查並消除這一異常現象，由地球上最優秀指揮官組成的特殊部隊應運而生。"
+
+msgid "IDS_SPACE_EVENT_RULES_HEADER"
+msgstr "簡報"
+
+msgid "IDS_SPACE_EVENT_TITLE"
+msgstr "太空前線"
+
+msgid "IDS_SPACE_LORE_HINT_1"
+msgstr "聯邦安全是最高優先事項。戰鬥不是為了領土，而是為了守護全人類文明的存續。"
+
+msgid "IDS_SPACE_LORE_HINT_10"
+msgstr "遠征部隊損失率在當前作戰情境下處於正常範圍。"
+
+msgid "IDS_SPACE_LORE_HINT_11"
+msgstr "即便結果不盡人意，此次考察仍具有參考價值。"
+
+msgid "IDS_SPACE_LORE_HINT_12"
+msgstr "指揮官對當前局勢的感知與預設相符。"
+
+msgid "IDS_SPACE_LORE_HINT_13"
+msgstr "神經連結穩定。探險隊人員身體狀況無恙。"
+
+msgid "IDS_SPACE_LORE_HINT_14"
+msgstr "本次考察所得資料並非全部可供指揮官查閱。"
+
+msgid "IDS_SPACE_LORE_HINT_15"
+msgstr "無需親臨現場即可取得成果。"
+
+msgid "IDS_SPACE_LORE_HINT_16"
+msgstr "實現目標的代價並非限制性因素。損失是可以接受的。"
+
+msgid "IDS_SPACE_LORE_HINT_2"
+msgstr "您的每一個決定都在塑造聯邦的未來。"
+
+msgid "IDS_SPACE_LORE_HINT_3"
+msgstr "偏遠星球上的能源中心是維持異常現象穩定的主要因素。"
+
+msgid "IDS_SPACE_LORE_HINT_4"
+msgstr "自主系統被證明為效率低下。人為因素被認定為至關重要。"
+
+msgid "IDS_SPACE_LORE_HINT_5"
+msgstr "投射物不會自行行動，它們反映了遠征部隊的戰術。"
+
+msgid "IDS_SPACE_LORE_HINT_6"
+msgstr "「界限」是一種由外部能量源維持的時空異常現象。"
+
+msgid "IDS_SPACE_LORE_HINT_7"
+msgstr "行星間的差異源於投影的阻力與活躍程度不同。"
+
+msgid "IDS_SPACE_LORE_HINT_8"
+msgstr "遠征部隊的協調性直接影響作戰行動的成敗。"
+
+msgid "IDS_SPACE_LORE_HINT_9"
+msgstr "異常環境反應可預測。幾乎與上次相同。"
 
 msgid "IDS_SPAIN"
 msgstr "西班牙"
@@ -138217,7 +139254,7 @@ msgid "IDS_SPECTATORMODE_PLAYER_LABEL"
 msgstr "玩家：%s [%s] 血量：%d"
 
 msgid "IDS_SPECTATORS_CANT_CHANGE_READY_STATUS"
-msgstr "觀察者無法變更「已經準備好！」狀態。"
+msgstr "觀察者無法變更準備狀態。"
 
 msgid "IDS_SPECTATOR_HOTKEYS"
 msgstr "鏡頭控制說明"
@@ -138345,6 +139382,9 @@ msgstr "機庫外板"
 msgid "IDS_SSC_INCLIN"
 msgstr "裝甲甲板斜面"
 
+msgid "IDS_SSE_BRAWL"
+msgstr "激鬥"
+
 msgid "IDS_SSE_CLAIM_MODAL_CONFIRMATION_CLAIM_REWARD_QUESTION"
 msgstr "領取獎勵？"
 
@@ -138356,6 +139396,9 @@ msgstr "領取獎勵"
 
 msgid "IDS_SSE_CLAIM_REWARD_CONFIRMATION"
 msgstr "領取"
+
+msgid "IDS_SSE_CLAN"
+msgstr "公會戰鬥"
 
 msgid "IDS_SSE_COMPLETE_ALL_TASKS"
 msgstr "完成所有任務條件"
@@ -138373,7 +139416,7 @@ msgid "IDS_SSE_CONDITIONS_ANY_SHIP_HIT_CITADELS"
 msgstr "命中任意%(level)s%(nation)s%(shipClass)s的裝甲區"
 
 msgid "IDS_SSE_CONDITIONS_ANY_SHIP_START_FLOOD"
-msgstr "在任意%(level)s%(nation)s%(shipClass)s上造成進水"
+msgstr "在任意 %(level)s%(nation)s%(shipClass)s上造成進水"
 
 msgid "IDS_SSE_CONDITIONS_BATTLE_ACHIEVEMENTS_ANY_SHORT"
 msgstr "獲得成就"
@@ -138483,6 +139526,45 @@ msgstr "（與您招募站中的海軍戰友組成分艦隊戰鬥）"
 msgid "IDS_SSE_CONDITIONS_IN_DIVISION_MEMBER_TYPE_VETERAN"
 msgstr "（與您招募站中的徵募人組成分艦隊戰鬥）"
 
+msgid "IDS_SSE_CONDITIONS_IS_ARMORY_PURCHASE"
+msgstr "從軍械庫中獲取任意物品"
+
+msgid "IDS_SSE_CONDITIONS_IS_BATTLE_TYPE"
+msgstr "（在%(battleTypes)s中）"
+
+msgid "IDS_SSE_CONDITIONS_IS_CAMOUFLAGE_INSTALLED"
+msgstr "在艦艇上安裝迷彩"
+
+msgid "IDS_SSE_CONDITIONS_IS_CLAN_APPLY"
+msgstr "加入公會"
+
+msgid "IDS_SSE_CONDITIONS_IS_ECOBOOST_INSTALLED"
+msgstr "在艦艇上安裝經濟加成"
+
+msgid "IDS_SSE_CONDITIONS_IS_FREE_XP_EXPLORE"
+msgstr "用自由經驗研發艦艇或配件"
+
+msgid "IDS_SSE_CONDITIONS_IS_INVOICE_SELL"
+msgstr "出售價值 %(count)s 銀幣的物品"
+
+msgid "IDS_SSE_CONDITIONS_IS_MODERNIZATION_INSTALLED"
+msgstr "在艦艇上安裝升級品"
+
+msgid "IDS_SSE_CONDITIONS_IS_MY_CREW_SKILL_LEARNED"
+msgstr "學習指揮官技能"
+
+msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP"
+msgstr "（駕駛 %(level)s%(nation)s%(shipClass)s）"
+
+msgid "IDS_SSE_CONDITIONS_IS_MY_SHIP_UPGRADEABLE"
+msgstr "（駕駛 %(level)s%(nation)s可研發%(shipClass)s）"
+
+msgid "IDS_SSE_CONDITIONS_IS_SIGNALS_INSTALLED"
+msgstr "在艦艇上安裝信號旗"
+
+msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_ALL_MISSILES"
+msgstr "艦載飛彈"
+
 msgid "IDS_SSE_CONDITIONS_KILL_SHIP_BY_BOMBER"
 msgstr "用轟炸機"
 
@@ -138544,7 +139626,7 @@ msgid "IDS_SSE_CONDITIONS_N_TIMES_HIT_SHIPS_SHORT"
 msgstr "%(hitTypes)s命中敵艦"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_IGNITE_SHIPS"
-msgstr "在%(level)s%(nation)s%(shipClass)s上造成%(times)s火災"
+msgstr "在 %(level)s%(nation)s%(shipClass)s上造成 %(times)s火災"
 
 msgid "IDS_SSE_CONDITIONS_N_TIMES_IGNITE_SHIPS_SHORT"
 msgstr "引發火災"
@@ -138574,10 +139656,10 @@ msgid "IDS_SSE_CONDITIONS_SHIP_HIT_CITADELS_SHORT"
 msgstr "命中裝甲區"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD"
-msgstr "在%(level)s%(nation)s%(shipClass)s上造成%(times)s進水"
+msgstr "在 %(level)s%(nation)s%(shipClass)s上造成 %(times)s進水"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD_ONE_TIME"
-msgstr "在%(level)s%(nation)s%(shipClass)s上造成 1 次進水"
+msgstr "在 %(level)s%(nation)s%(shipClass)s上造成 1 次進水"
 
 msgid "IDS_SSE_CONDITIONS_SHIP_START_FLOOD_SHORT"
 msgstr "造成進水"
@@ -138620,6 +139702,9 @@ msgstr "獲得艦艇經驗"
 
 msgid "IDS_SSE_CONDITIONS_USING_ALL_BOMBERS"
 msgstr "用炸彈"
+
+msgid "IDS_SSE_CONDITIONS_USING_ALL_MISSILES"
+msgstr "艦載飛彈"
 
 msgid "IDS_SSE_CONDITIONS_USING_ALL_TORPEDOES"
 msgstr "用魚雷"
@@ -138780,11 +139865,17 @@ msgstr "盡量透過偵察敵方目標，協助己隊造成傷害"
 msgid "IDS_SSE_CONDITION_CATEGORY_DESCRIPTION_START_FIRE_FULL"
 msgstr "盡量引發火災"
 
+msgid "IDS_SSE_COOPERATIVE"
+msgstr "聯合作戰"
+
 msgid "IDS_SSE_DETAILED_INFO_LINK"
 msgstr "詳細資訊"
 
 msgid "IDS_SSE_DETAILED_INFO_LINK_TOOLTIP"
 msgstr "在網站上了解詳情"
+
+msgid "IDS_SSE_EVENT"
+msgstr "活動"
 
 msgid "IDS_SSE_FEATURED_HINT_DESCRIPTION"
 msgstr "重要任務會在清單中首先顯示"
@@ -138911,6 +140002,18 @@ msgstr "您的成績："
 msgid "IDS_SSE_PROGRESS_COLON"
 msgstr "進度："
 
+msgid "IDS_SSE_PVE"
+msgstr "行動"
+
+msgid "IDS_SSE_PVP"
+msgstr "隨機戰鬥"
+
+msgid "IDS_SSE_RANKED"
+msgstr "排名戰鬥"
+
+msgid "IDS_SSE_RATING"
+msgstr "評級戰鬥"
+
 msgid "IDS_SSE_REPEAT_NUMBER_UNLIMITED"
 msgstr "您可多次完成此任務，次數不限"
 
@@ -138994,6 +140097,9 @@ msgstr "副炮塔座裝甲"
 
 msgid "IDS_SS_SGDOWN"
 msgstr "副炮塔座裝甲"
+
+msgid "IDS_SS_SGTOP"
+msgstr "副炮塔座艙口"
 
 msgid "IDS_SS_SIDE"
 msgstr "外板"
@@ -139547,9 +140653,6 @@ msgstr "任務將開放於：%(_timeTillPrimeTimeStart)s"
 msgid "IDS_SUBST_ARC_EVENT_FINAL_EFFICIENCY"
 msgstr "您的表現優於 %(_higherThan)s% 的玩家"
 
-msgid "IDS_SUBST_ARC_EVENT_FINAL_SUBTITLE"
-msgstr "您已加入 %(_teamsTotal)s 支隊伍的其中 %(_teamsJoined)s 支，並達成以下戰績："
-
 msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_PERSONAL_LEADERBOARD"
 msgstr "前 %(_percentRate)s%"
 
@@ -139615,6 +140718,12 @@ msgstr "%(_nationProgram)s"
 
 msgid "IDS_SUBST_LOOTBOXES_QUANTITY"
 msgstr "數量：%(amount)s"
+
+msgid "IDS_SUBST_META_EVENT_TIMER_TILL_END"
+msgstr "活動結束於：%(_timeLeft)s"
+
+msgid "IDS_SUBST_NEWBIE_QUESTS_AVAILABLE_NOT_FINISHED"
+msgstr "此頁面限時開放"
 
 msgid "IDS_SUBST_NEWBIE_QUESTS_TIME_LEFT_LAST_DAY"
 msgstr "此頁面將開放 %(timeLeft)s"
@@ -139987,7 +141096,10 @@ msgstr "已完成收藏"
 msgid "IDS_SYS_MSG_ALBUM_UNLOCKED"
 msgstr "收藏已解鎖"
 
-msgid "IDS_SYS_MSG_ALMANAC_REWARDS"
+msgid "IDS_SYS_MSG_ALMANAC_ADVENT_REWARDS"
+msgstr "已獲得秘密獎勵"
+
+msgid "IDS_SYS_MSG_ALMANAC_COMMON_REWARDS"
 msgstr "已獲得每日獎勵"
 
 msgid "IDS_SYS_MSG_AOGAS_PENALTY"
@@ -140144,7 +141256,7 @@ msgid "IDS_SYS_MSG_BOUGHT_ENSIGN"
 msgstr "已購買旗幟"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_1"
-msgstr "已購買節日代幣"
+msgstr "已購買太空代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_10"
 msgstr "已購買海洋代幣"
@@ -140153,7 +141265,7 @@ msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_2"
 msgstr "已購買潛行者代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_3"
-msgstr "已購買美國代幣"
+msgstr "已購買泛美代幣"
 
 msgid "IDS_SYS_MSG_BOUGHT_EVENTUM_4"
 msgstr "已購買大明航海代幣"
@@ -140548,8 +141660,20 @@ msgstr "精通挑戰已完成"
 msgid "IDS_SYS_MSG_MASTERY_TASK_REPLACED"
 msgstr "精通挑戰已替換"
 
+msgid "IDS_SYS_MSG_META_EVENT_TASK_REROLLED"
+msgstr "戰鬥任務已更換"
+
+msgid "IDS_SYS_MSG_META_EVENT_THRESHOLD_PASSED"
+msgstr "「太空前線」活動等級已提升"
+
+msgid "IDS_SYS_MSG_META_EVENT_THRESHOLD_REWARD"
+msgstr "「太空前線」活動獎勵"
+
+msgid "IDS_SYS_MSG_NEWBIE_PROGRESSION_REWARDED"
+msgstr "海軍課程等級已提升"
+
 msgid "IDS_SYS_MSG_NEWBIE_QUEST_REWARDED"
-msgstr "已完成入門任務"
+msgstr "已完成海軍課程任務"
 
 msgid "IDS_SYS_MSG_NEW_BATTLEPASS_LEVEL_REACHED"
 msgstr "已解鎖新的戰鬥通行證等級"
@@ -140678,7 +141802,7 @@ msgid "IDS_SYS_MSG_RECEIVED_ENSIGN"
 msgstr "已獲得旗幟"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_1"
-msgstr "已獲得節日代幣"
+msgstr "已獲得太空代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_10"
 msgstr "已獲得海洋代幣"
@@ -140687,7 +141811,7 @@ msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_2"
 msgstr "已獲得潛行者代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_3"
-msgstr "已獲得美國代幣"
+msgstr "已獲得泛美代幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_EVENTUM_4"
 msgstr "已獲得大明航海代幣"
@@ -140730,6 +141854,9 @@ msgstr "已獲得金幣"
 
 msgid "IDS_SYS_MSG_RECEIVED_LOOTBOX"
 msgstr "已獲得貨櫃"
+
+msgid "IDS_SYS_MSG_RECEIVED_META_EVENT_PROGRESS_POINTS"
+msgstr "已獲得「太空前線」活動獎勵"
 
 msgid "IDS_SYS_MSG_RECEIVED_MODERNIZATION"
 msgstr "已獲得升級品"
@@ -141133,7 +142260,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_ENSIGN"
 msgstr "旗幟已移除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_1"
-msgstr "節日代幣已扣除"
+msgstr "太空代幣已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_10"
 msgstr "海洋代幣已移除"
@@ -141142,7 +142269,7 @@ msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_2"
 msgstr "潛行者代幣已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_3"
-msgstr "美國代幣已移除"
+msgstr "泛美代幣已扣除"
 
 msgid "IDS_SYS_MSG_WRITTEN_OFF_EVENTUM_4"
 msgstr "大明航海代幣已移除"
@@ -141374,6 +142501,12 @@ msgstr "熱能發射器"
 
 msgid "IDS_TAKEN_IMPULSE_LASER_HINT"
 msgstr "被熱能發射器命中的次數與受到的傷害"
+
+msgid "IDS_TAKEN_MISSILES"
+msgstr "飛彈"
+
+msgid "IDS_TAKEN_MISSILES_HINT"
+msgstr "被飛彈命中的次數與受到的傷害"
 
 msgid "IDS_TAKEN_NAVAL_MINES_HINT"
 msgstr "被水雷命中的次數與受到的傷害"
@@ -141655,7 +142788,7 @@ msgid "IDS_TALENT_PVW404_ENEMYVEHICLESDEAD_23"
 msgstr "繳獲砲彈"
 
 msgid "IDS_TALENT_PVW404_ENEMYVEHICLESDEAD_23_DESCRIPTION"
-msgstr "<p>每當您的隊伍摧毀一艘被您擊傷的敵艦時啟動。</p><p class=\"p_spacing\"> </p><p>您對該艦艇造成的傷害必須不低於其基本血量的 30%。</p>"
+msgstr "<p>每當您對特定敵艦造成不低於其基本血量 35% 的傷害，且該敵艦被您或任何友軍摧毀時觸發。</p>"
 
 msgid "IDS_TALENT_PVW404_RAGEMODE_1"
 msgstr "維修指令"
@@ -142327,7 +143460,7 @@ msgid "IDS_THIRD_SCARLET_BIRTHDAY_2_NAME"
 msgstr "科學無國界"
 
 msgid "IDS_THIRD_SCARLET_BIRTHDAY_NAME"
-msgstr "全世界的科學家，聯合起來！"
+msgstr "全世界科學家，聯合起來！"
 
 msgid "IDS_THIRD_SOVIETBBARC_NAME"
 msgstr "赫赫大名"
@@ -142421,6 +143554,9 @@ msgstr "開始於："
 
 msgid "IDS_TIMEZONE_IS_LOCAL"
 msgstr "<body>顯示的時間為您的時區：<h2>%(_utcTime)s</h2></body>"
+
+msgid "IDS_TIME_BEFORE_RETURN_TO_BATTLE"
+msgstr "等待重返戰場："
 
 msgid "IDS_TIME_LEFT_BATTLE_TOURNAMENT"
 msgstr "距離戰鬥開始還有："
@@ -143443,6 +144579,12 @@ msgstr "魚雷發射管修改型 1"
 msgid "IDS_TITLE_PCM115_FLIGHTCONTROL_MOD_0"
 msgstr "飛航控制修改型 1"
 
+msgid "IDS_TITLE_PCM116_SPECIAL_MOD_I_CRISTOFORO_COLOMBO"
+msgstr "改進型消耗品供應系統"
+
+msgid "IDS_TITLE_PCM117_SPECIAL_MOD_I_ADMIRAL_NAKHIMOV"
+msgstr "改進型起飛輔助噴射器"
+
 msgid "IDS_TITLE_PCM902_T11_DD_CA_BB_SUPGRADE_MOD_I_TEST"
 msgstr "高效彈藥（測試）"
 
@@ -143524,6 +144666,9 @@ msgstr "戰役"
 msgid "IDS_TOKEN_TARGET_TYPE_LEADERBOARD"
 msgstr "排行榜"
 
+msgid "IDS_TOKEN_TARGET_TYPE_MATCHMAKER_SEEDING_RESET"
+msgstr "匹配隨機數字重置+舒適模式"
+
 msgid "IDS_TOKEN_TARGET_TYPE_NOT_SET"
 msgstr "常見類型"
 
@@ -143577,9 +144722,6 @@ msgstr "防空炮組的最大射程"
 
 msgid "IDS_TOOLTIP_ACCESS_LEVEL_TOO_LOW"
 msgstr "服役等級不足"
-
-msgid "IDS_TOOLTIP_ACCESS_PRIME_TIME"
-msgstr "時段尚未開始"
 
 msgid "IDS_TOOLTIP_ACCOUNT_TYPE"
 msgstr "您的帳號"
@@ -143766,9 +144908,6 @@ msgstr "目前這支隊伍中的成員數超出了允許數量。"
 
 msgid "IDS_TOOLTIP_CAROUSEL_FILTERS"
 msgstr "打開艦艇顯示面板"
-
-msgid "IDS_TOOLTIP_CAROUSEL_FILTERS_SPECIAL"
-msgstr "打開額外內容設定面板"
 
 msgid "IDS_TOOLTIP_CAROUSEL_HIDE_FILTERED_SHIPS"
 msgstr "隱藏不符合過濾條件的艦艇"
@@ -144132,6 +145271,9 @@ msgstr "未進行訓練"
 
 msgid "IDS_TOOLTIP_STATUS_UNIQUE_CREW_STATUS"
 msgstr "您只能擁有一名這樣的指揮官。"
+
+msgid "IDS_TOOLTIP_STATUS_UNIQUE_CREW_VOICE_STATUS"
+msgstr "獨有配音"
 
 msgid "IDS_TOOLTIP_SUAO"
 msgstr "艦炮射控系統"
@@ -144600,6 +145742,9 @@ msgstr "錦標賽戰鬥已延期"
 
 msgid "IDS_TOURNAMENT_BOTH_TEAMS_TECHNICAL_LOSE"
 msgstr "雙方隊伍均被判定技術性失敗：並非所有玩家都已確認準備就緒。"
+
+msgid "IDS_TOURNAMENT_GLADIATOR"
+msgstr "雷恩˙阿斯特"
 
 msgid "IDS_TOURNAMENT_HEADER_LOADING_DATA"
 msgstr "載入中"
@@ -145542,7 +146687,7 @@ msgid "IDS_UNABLE_TO_SET_WHILE_IN_BALANCER_EVENT_BATTLES"
 msgstr "匹配期間無法更改"
 
 msgid "IDS_UNABLE_TO_SET_WHILE_READY_FOR_BATTLE"
-msgstr "「準備好以分艦隊作戰」狀態下無法更改"
+msgstr "「準備好加入戰鬥」狀態下無法更改"
 
 msgid "IDS_UNAVAILABLE_RARE_ECOBOOST_FOR_PURCHASE"
 msgstr "稀有加成不開放購買"
@@ -145594,6 +146739,9 @@ msgstr "戰鬥機"
 
 msgid "IDS_UNDER_INTERCEPTOR_ATTACK"
 msgstr "攔截機"
+
+msgid "IDS_UNDER_MISSILES_THREAT"
+msgstr "敵鎖定"
 
 msgid "IDS_UNFINISHED_BATTLES_COLON"
 msgstr "正在進行的戰鬥："
@@ -146354,6 +147502,9 @@ msgstr "中文 (简体，新加坡)"
 msgid "IDS_VOICE_PACK_ZH_TW"
 msgstr "中文 (繁體)"
 
+msgid "IDS_VOICE_PREVIEW"
+msgstr "收聽"
+
 msgid "IDS_VOLLEY"
 msgstr "來襲"
 
@@ -146553,10 +147704,10 @@ msgid "IDS_WARNING_CANT_EQUIP_CAMOUFLAGE"
 msgstr "您無法在此艦艇上安裝迷彩"
 
 msgid "IDS_WARNING_FIRST_LOGIN_NAME_SELECT"
-msgstr "一旦進入遊戲，就無法變更您所選擇的使用者名稱"
+msgstr "一旦進入遊戲，就無法變更您所選擇的使用者名稱。"
 
 msgid "IDS_WARNING_FIRST_LOGIN_REGION_SELECT"
-msgstr "一旦進入遊戲，就無法變更您所選擇的地區"
+msgstr "一旦進入遊戲，就無法變更您所選擇的地區。"
 
 msgid "IDS_WARNING_MODERNIZATIONS_MULTIPLE_UNMOUNT"
 msgstr "您可以用金幣來拆卸升級品或出售它們。"
@@ -147405,9 +148556,6 @@ msgstr "資源與進度"
 msgid "IDS_WT_PROGRESS_ONBOARDING_TITLE_2"
 msgstr "選擇獎勵"
 
-msgid "IDS_WT_PROGRESS_REWARD"
-msgstr "選擇獎勵"
-
 msgid "IDS_WT_PROGRESS_REWARD_FOR_FINISHING_TASK"
 msgstr "完成獎勵："
 
@@ -147735,7 +148883,7 @@ msgstr[0] "剩餘 %(battles)s 場戰鬥"
 
 msgid "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
 msgid_plural "IDS_BATTLE_STATS_COUNT_DAMAGED_SHIPS"
-msgstr[0] "傷害的戰艦"
+msgstr[0] "擊傷艦艇數"
 
 msgid "IDS_BATTLE_STATS_COUNT_ENEMY_FIND"
 msgid_plural "IDS_BATTLE_STATS_COUNT_ENEMY_FIND"
@@ -147821,6 +148969,10 @@ msgid "IDS_HP_SECOND"
 msgid_plural "IDS_HP_SECOND"
 msgstr[0] " 每秒血量"
 
+msgid "IDS_META_EVENT_PROGRESS_STATUS_SEVERAL_STEPS_COMPLETED"
+msgid_plural "IDS_META_EVENT_PROGRESS_STATUS_SEVERAL_STEPS_COMPLETED"
+msgstr[0] "您已完成 %(_count)s 個進度等級！"
+
 msgid "IDS_OPENED_LOOTBOXES"
 msgid_plural "IDS_OPENED_LOOTBOXES"
 msgstr[0] "已開啟 %(count)d 個貨櫃"
@@ -147828,6 +148980,10 @@ msgstr[0] "已開啟 %(count)d 個貨櫃"
 msgid "IDS_PL_ABILITY_TITLE"
 msgid_plural "IDS_PL_ABILITY_TITLE"
 msgstr[0] "%(_amount)s 個消耗品"
+
+msgid "IDS_PL_ADVENT_LOOTING_POINTS_STATUS"
+msgid_plural "IDS_PL_ADVENT_LOOTING_POINTS_STATUS"
+msgstr[0] "您仍有 %(days)s 天機會領取昨日錯過的獎勵"
 
 msgid "IDS_PL_AIRCARRIER"
 msgid_plural "IDS_PL_AIRCARRIER"
@@ -148261,6 +149417,18 @@ msgid "IDS_PL_SSE_CONDITIONS_GO_INTO_BATTLE"
 msgid_plural "IDS_PL_SSE_CONDITIONS_GO_INTO_BATTLE"
 msgstr[0] "參加 %(count)s 場戰鬥"
 
+msgid "IDS_PL_SSE_CONDITIONS_IS_CAMPAIGN_TASK_COMPLETED"
+msgid_plural "IDS_PL_SSE_CONDITIONS_IS_CAMPAIGN_TASK_COMPLETED"
+msgstr[0] "完成任意戰役中的 %(count)s 個工作"
+
+msgid "IDS_PL_SSE_CONDITIONS_IS_LOOTBOX_OPEN"
+msgid_plural "IDS_PL_SSE_CONDITIONS_IS_LOOTBOX_OPEN"
+msgstr[0] "開啟 %(count)s 個貨櫃"
+
+msgid "IDS_PL_SSE_CONDITIONS_IS_TASK_COMPLETED"
+msgid_plural "IDS_PL_SSE_CONDITIONS_IS_TASK_COMPLETED"
+msgstr[0] "完成 %(count)s 個戰鬥任務"
+
 msgid "IDS_PL_SSE_CONDITIONS_KILL_SHIP_BY_WEAPON"
 msgid_plural "IDS_PL_SSE_CONDITIONS_KILL_SHIP_BY_WEAPON"
 msgstr[0] "%(killTypes)s 摧毀 %(count)s 艘敵艦"
@@ -148307,7 +149475,7 @@ msgstr[0] "在 %(count)s 場戰鬥中，經驗獲取量排名第 1"
 
 msgid "IDS_PL_SSE_CONDITIONS_WIN_IN_BATTLES"
 msgid_plural "IDS_PL_SSE_CONDITIONS_WIN_IN_BATTLES"
-msgstr[0] "在 %(count)s 場戰鬥中取得勝利"
+msgstr[0] "贏得 %(count)s 場戰鬥"
 
 msgid "IDS_PL_SUBMARINE_CLASS"
 msgid_plural "IDS_PL_SUBMARINE_CLASS"
@@ -148536,6 +149704,10 @@ msgstr[0] "若您有 %(_minShipsCount)s 艘或更多的艦艇（包括您尚未�
 msgid "IDS_SNOWFLAKES_TOOLTIP_STATUS"
 msgid_plural "IDS_SNOWFLAKES_TOOLTIP_STATUS"
 msgstr[0] "若您有 %(_minShipsCount)s 艘或更多的艦艇（包括您尚未領取獎勵的艦艇），就能在不加入戰鬥的情況下領取獎勵。"
+
+msgid "IDS_SUBST_ARC_EVENT_FINAL_SUBTITLE"
+msgid_plural "IDS_SUBST_ARC_EVENT_FINAL_SUBTITLE"
+msgstr[0] "您一共加入了 %(_teamsJoined)s 支團隊，並達成以下戰績："
 
 msgid "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_DONE_POINTS_RECEIVED"
 msgid_plural "IDS_SUBST_ARC_EVENT_MAIN_SCREEN_TASK_STATUS_DONE_POINTS_RECEIVED"
