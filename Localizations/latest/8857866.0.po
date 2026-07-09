@@ -360,7 +360,7 @@ msgid "IDS_2025WT_CHAT_BOTOMANCER_PXY532_NO_TARGET"
 msgstr "傳送目標已被摧毀。消耗品已停用。"
 
 msgid "IDS_2025WT_ERMELINDA"
-msgstr "埃爾梅琳達˙榮格"
+msgstr "埃爾梅琳達·榮格"
 
 msgid "IDS_2025WT_HOUND_LEADER"
 msgstr "獵犬領袖"
@@ -620,37 +620,37 @@ msgid "IDS_ABUSE_REASON_AFK"
 msgstr "在戰鬥中不活躍"
 
 msgid "IDS_ABUSE_REASON_AFK_WITH_BULLET"
-msgstr "˙ 在戰鬥中不活躍"
+msgstr "• 在戰鬥中不活躍"
 
 msgid "IDS_ABUSE_REASON_COMPLAINTS"
 msgstr "來自玩家的舉報"
 
 msgid "IDS_ABUSE_REASON_COMPLAINTS_WITH_BULLET"
-msgstr "˙ 來自玩家的舉報"
+msgstr "• 來自玩家的舉報"
 
 msgid "IDS_ABUSE_REASON_GRIEFER"
 msgstr "干擾友軍"
 
 msgid "IDS_ABUSE_REASON_GRIEFER_WITH_BULLET"
-msgstr "˙ 干擾友軍"
+msgstr "• 干擾友軍"
 
 msgid "IDS_ABUSE_REASON_LEAVER"
 msgstr "提前退出戰鬥"
 
 msgid "IDS_ABUSE_REASON_LEAVER_WITH_BULLET"
-msgstr "˙ 提前退出戰鬥"
+msgstr "• 提前退出戰鬥"
 
 msgid "IDS_ABUSE_REASON_TKILL"
 msgstr "對隊友造成傷害"
 
 msgid "IDS_ABUSE_REASON_TKILL_WITH_BULLET"
-msgstr "˙ 對隊友造成傷害"
+msgstr "• 對隊友造成傷害"
 
 msgid "IDS_ABUSE_REASON_TSHOTS"
 msgstr "友軍傷害"
 
 msgid "IDS_ABUSE_REASON_TSHOTS_WITH_BULLET"
-msgstr "˙ 友軍傷害"
+msgstr "• 友軍傷害"
 
 msgid "IDS_ABUSE_STATUS_CLEANED"
 msgstr "懲處已解除"
@@ -3053,7 +3053,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_VICTORYDAY"
 msgstr "參與「慶祝偉大衛國戰爭勝利 80 週年」活動。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WAFFENTRAGER_ISOLATION"
-msgstr "完成同盟與埃爾梅琳達˙榮格對抗的所有等級。"
+msgstr "完成同盟與埃爾梅琳達·榮格對抗的所有等級。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WARRIOR"
 msgstr "擊毀 %(victimsCount)s 艘或以上的敵方艦艇。"
@@ -4751,7 +4751,7 @@ msgid "IDS_ADI_GUNTUR"
 msgstr "阿迪 貢圖爾"
 
 msgid "IDS_ADMIRALE"
-msgstr "安東 格蘭特"
+msgstr "安東·格蘭特"
 
 msgid "IDS_ADRESS_PLAYER"
 msgstr "引用玩家的名稱"
@@ -5646,7 +5646,7 @@ msgid "IDS_APPOINT_PLAYER_TO_COMMANDER"
 msgstr "指派為指揮官"
 
 msgid "IDS_APRAKSIN"
-msgstr "費奧多爾 阿普拉克辛"
+msgstr "費奧多爾·阿普拉克辛"
 
 msgid "IDS_APRIL_FOOLS_DAY_BANNER_HEADER"
 msgstr "太空戰鬥"
@@ -6319,7 +6319,7 @@ msgid "IDS_ASTRA_DOG"
 msgstr "Astra"
 
 msgid "IDS_ASTRONAUT_ARTEMIEV"
-msgstr "Oleg Artemiev"
+msgstr "奧列格·阿爾捷米耶夫"
 
 msgid "IDS_ASYMMETRIC_BATTLE"
 msgstr "非對稱戰鬥"
@@ -6357,7 +6357,7 @@ msgid "IDS_ATTENTION"
 msgstr "注意！"
 
 msgid "IDS_AUBOYNEAU"
-msgstr "菲利普 奧布瓦諾"
+msgstr "菲利普·奧布瓦諾"
 
 msgid "IDS_AUC1"
 msgstr "Theodor \"Trouble\" Murphy"
@@ -7164,7 +7164,7 @@ msgid "IDS_AZUR_ITSEN"
 msgstr "逸仙"
 
 msgid "IDS_AZUR_JEANBART"
-msgstr "讓˙巴爾"
+msgstr "讓·巴爾"
 
 msgid "IDS_AZUR_KAGA"
 msgstr "加賀"
@@ -7215,7 +7215,7 @@ msgid "IDS_BAJIE"
 msgstr "豬八戒"
 
 msgid "IDS_BALAO_SUBTEST"
-msgstr "Sam Fisher"
+msgstr "山姆·費舍爾"
 
 msgid "IDS_BALBES"
 msgstr "二流子"
@@ -9713,7 +9713,7 @@ msgid "IDS_BULGE"
 msgstr "舷外板"
 
 msgid "IDS_BULLET"
-msgstr "˙"
+msgstr "•"
 
 msgid "IDS_BUMBLEBEE"
 msgstr "大黃蜂"
@@ -13203,7 +13203,7 @@ msgid "IDS_COMMANDER_GEARING_PA"
 msgstr "Dr. Ecraseur"
 
 msgid "IDS_COMMANDER_GROZOVOY_PA"
-msgstr "Ivan the Terrible"
+msgstr "伊凡·恐怖"
 
 msgid "IDS_COMMANDER_H2019_BORISANGLER"
 msgstr "Boris Angler"
@@ -13224,7 +13224,7 @@ msgid "IDS_COMMANDER_H2019_MEPHISTEUFEL"
 msgstr "Skull Teufel"
 
 msgid "IDS_COMMANDER_HARUGUMO_PA"
-msgstr "David Vortex"
+msgstr "戴維·漩渦"
 
 msgid "IDS_COMMANDER_HENRI_H2019"
 msgstr "David \"Vortex\" Jones"
@@ -13242,10 +13242,10 @@ msgid "IDS_COMMANDER_KHABAROVSK_H2019"
 msgstr "Dr. van Ecraseur"
 
 msgid "IDS_COMMANDER_KHABAROVSK_PA"
-msgstr "Boris the Pipe"
+msgstr "鮑里斯·管道"
 
 msgid "IDS_COMMANDER_KLEBER_PA"
-msgstr "Octane Diesel"
+msgstr "辛烷·燃油"
 
 msgid "IDS_COMMANDER_MONSTERCRUISER_H2020"
 msgstr "刺脊"
@@ -13260,7 +13260,7 @@ msgid "IDS_COMMANDER_SHIMAKAZE_H2019"
 msgstr "Boris Angler"
 
 msgid "IDS_COMMANDER_SHIMAKAZE_PA"
-msgstr "Baron von Vagabond"
+msgstr "馮·瓦加本男爵"
 
 msgid "IDS_COMMANDER_SMOLENSK_H2020"
 msgstr "Ich-Theo Billy"
@@ -13272,7 +13272,7 @@ msgid "IDS_COMMANDER_YAMATO_H2019"
 msgstr "Chernomor the Terrible"
 
 msgid "IDS_COMMANDER_Z_52_PA"
-msgstr "Rattenkönig"
+msgstr "鼠王"
 
 msgid "IDS_COMMAND_SHOOT"
 msgstr "射擊"
@@ -13467,10 +13467,10 @@ msgid "IDS_CONGRATULATIONS_FIRST_RANK"
 msgstr "恭喜！"
 
 msgid "IDS_CONSPIROLOGIST"
-msgstr "Dunkan Conspirologist"
+msgstr "鄧肯·真言"
 
 msgid "IDS_CONSTANTINE_SHARP"
-msgstr "康斯坦丁˙夏普"
+msgstr "康斯坦丁·夏普"
 
 msgid "IDS_CONSTRSIDE"
 msgstr "內部裝甲"
@@ -20975,7 +20975,7 @@ msgid "IDS_CRUISE_DEEP_UP_PREF_TOOLTIP_DESCRIPTION"
 msgstr "降低潛艦的下潛深度。"
 
 msgid "IDS_CUNNINGHAM"
-msgstr "安德魯 康寧漢"
+msgstr "安德魯·康寧漢"
 
 msgid "IDS_CURRENCIES_OPERATION_AFTER"
 msgstr "交易後"
@@ -21113,7 +21113,7 @@ msgid "IDS_CURRENCY_EVENTUM_1_GET_DESCRIPTION"
 msgstr "透過參與限時門戶活動「俄勒岡計劃」，以及在 26.6 和 26.7 版本活動期間從軍械庫貨櫃中獲取。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_SPEND_DESCRIPTION"
-msgstr "可用於在 26.6 和 26.7 版本活動期間兌換包含以下內容的連續組合包：VIII 階主力艦俄勒岡及其永久迷彩「百慕達」和紀念旗幟，特殊指揮官小威廉˙梅耶，「美國中隊」加值貨櫃，以及其他資源。"
+msgstr "可用於在 26.6 和 26.7 版本活動期間兌換包含以下內容的連續組合包：VIII 階主力艦俄勒岡及其永久迷彩「百慕達」和紀念旗幟，特殊指揮官小威廉·梅耶，「美國中隊」加值貨櫃，以及其他資源。"
 
 msgid "IDS_CURRENCY_EVENTUM_1_STATUS"
 msgstr "「俄勒岡計劃」門戶活動的暫時性資源。26.8 版本釋出後，代幣將被清空且不予補償。"
@@ -21437,7 +21437,7 @@ msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_GET_DESCRIPTION"
 msgstr "透過在 25.10 版本結束前在軍械庫活動類別中兌換反應堆合金獎勵或禮包鏈、完成活動戰鬥任務、推進活動進度等級，以及在有限時間內完成「守護厄瑞玻斯」門戶戰役來獲得。"
 
 msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_SPEND_DESCRIPTION"
-msgstr "用於在 25.10 版本結束前駕駛埃爾梅琳達˙榮格的艦艇（烈焰騎士、幽靈獵兵和訊號母艦）加入戰鬥。"
+msgstr "用於在 25.10 版本結束前駕駛埃爾梅琳達·榮格的艦艇（烈焰騎士、幽靈獵兵和訊號母艦）加入戰鬥。"
 
 msgid "IDS_CURRENCY_WAFFENTRAGERACTIVATIONKEYS_STATUS"
 msgstr "「最終兵器：隔離」活動的暫時性資源。25.11 版本更新後，資源將被無償收回。"
@@ -21671,40 +21671,40 @@ msgid "IDS_DANGER"
 msgstr "危險"
 
 msgid "IDS_DANKA_SHCHUS"
-msgstr "Danka Shchus"
+msgstr "丹卡·舒斯"
 
 msgid "IDS_DASH"
 msgstr "—"
 
 msgid "IDS_DASHA_EU"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_FR"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_GE"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_IT"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_JP"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_NED"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_PZ"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_RU"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_UK"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DASHA_US"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_DATA_LOADING"
 msgstr "載入資料中"
@@ -22037,7 +22037,7 @@ msgid "IDS_DESCRIPTION_PCZA003_DUNKIRK"
 msgstr ""
 "敦克爾克撤離行動是第二次世界大戰中最大的一場戰鬥，陸軍、海軍及空軍全面參與其中。在幾天之內，於 1940 年五月底至六月初，超過 330,000 人的英國和法國部隊從法國北部撤離。為了拯救他們，盟軍部隊不得不犧牲掉所有的裝備和他們的大部分武器。敦克爾克附近，英國遠征部隊與法國陸軍共遺棄了 2,472 把步槍和 65,000 輛車。為了撤離，英國海軍部號召了超過 800 艘英國、法國、荷蘭及比利時的戰艦和民用船隻。\n"
 "\n"
-"其中包括約五十艘驅逐艦、數十艘掃雷艦、拖網漁船、蒸汽客輪、遊艇、漁船、救助船和其他船隻。有四分之一的艦艇被德國空軍及德國海軍攻擊，再加上德意志國防軍炮襲和水雷的屏障。在撤離的九天之內，有 145 架英國和 156 架德國飛機為爭奪法國北部的制空權而在戰鬥中被擊落。溫斯頓˙丘吉爾說過：「戰爭不是靠撤退來取勝的」。然而，由於敦克爾克的奇蹟，被拯救的英國陸軍才能夠在新的戰場上對抗軸心國，而撤離的法國部隊也形成了自由法國部隊的基礎。\n"
+"其中包括約五十艘驅逐艦、數十艘掃雷艦、拖網漁船、蒸汽客輪、遊艇、漁船、救助船和其他船隻。有四分之一的艦艇被德國空軍及德國海軍攻擊，再加上德意志國防軍炮襲和水雷的屏障。在撤離的九天之內，有 145 架英國和 156 架德國飛機為爭奪法國北部的制空權而在戰鬥中被擊落。溫斯頓·丘吉爾說過：「戰爭不是靠撤退來取勝的」。然而，由於敦克爾克的奇蹟，被拯救的英國陸軍才能夠在新的戰場上對抗軸心國，而撤離的法國部隊也形成了自由法國部隊的基礎。\n"
 "\n"
 "四年後，盟軍凱旋回到法國。在敦克爾克組織大規模部隊運輸所得到的經驗也運用到了 1944 年的諾曼第登陸期間。後來，在 1940 年負責撤離的海軍中將 Bertram Ramsay 和艦長 William Tennant 成為了 D 日的關鍵人物。"
 
@@ -22187,7 +22187,7 @@ msgid "IDS_DESCRIPTION_PCZA036_ARIA"
 msgstr "詠嘆調（Ария）是蘇聯和俄羅斯的一支傳奇樂團，成立於 20 世紀 80 年代中期，屬於重金屬音樂流派。在漫長的演藝生涯中，詠嘆調樂團錄製了數十首名曲，贏得了該流派樂迷和廣大聽眾的喜愛。"
 
 msgid "IDS_DESCRIPTION_PCZA037_SCARLET_BIRTHDAY_2"
-msgstr "<p>在 MK-8 建設完成後，人類持續迅猛發展技術並探索新的疆域。在新的技術五年計劃框架內，MK-9 上開發了一個創新項目——一個能夠建造用於開拓海洋和太空的先進飛船的機器人造船廠。</p><p class=\"p_spacing\"> </p><p>到 1987 年，MK-9 已成為秘密研究的中心，包括在相對論時間偏移領域的研究。得益於這些研究，成功製造出了相對論偏移裝置的原型，該裝置能夠實現時間轉移。</p><p class=\"p_spacing\"> </p><p>然而，進步並非一帆風順。最初為管理 MK-9 而開發的高科技機器人，決定奪取造船廠乃至整個綜合體的控制權。當米哈伊爾˙奧爾洛夫和進步部的瓦西里莎正試圖調查 MK-8 的事件時，他們面臨著一場新的危險，這場危險不僅威脅著現在，也威脅著過去……</p>"
+msgstr "<p>在 MK-8 建設完成後，人類持續迅猛發展技術並探索新的疆域。在新的技術五年計劃框架內，MK-9 上開發了一個創新項目——一個能夠建造用於開拓海洋和太空的先進飛船的機器人造船廠。</p><p class=\"p_spacing\"> </p><p>到 1987 年，MK-9 已成為秘密研究的中心，包括在相對論時間偏移領域的研究。得益於這些研究，成功製造出了相對論偏移裝置的原型，該裝置能夠實現時間轉移。</p><p class=\"p_spacing\"> </p><p>然而，進步並非一帆風順。最初為管理 MK-9 而開發的高科技機器人，決定奪取造船廠乃至整個綜合體的控制權。當米哈伊爾·奧爾洛夫和進步部的瓦西里莎正試圖調查 MK-8 的事件時，他們面臨著一場新的危險，這場危險不僅威脅著現在，也威脅著過去……</p>"
 
 msgid "IDS_DESCRIPTION_PCZA038_TSAR_MOREY"
 msgstr "<p>熱血沸騰的激情、團隊協作、瞬間決定戰鬥勝負的突發狀況——所有這些對於《Mir Korabley》中的錦標賽參與者和觀眾來說都是再熟悉不過了。</p><p class=\"p_spacing\"> </p><p>本收藏獻給那些時刻關注比賽的人，獻給那些組織比賽的人，當然，也獻給那些已經走上勝利之路，不走到最後決不回頭的人！</p>"
@@ -22787,16 +22787,16 @@ msgid "IDS_DE_IJICHI"
 msgstr "Hikojirō Ijichi"
 
 msgid "IDS_DE_JONG"
-msgstr "克拉斯 詹森"
+msgstr "克拉斯·詹森"
 
 msgid "IDS_DE_RUYTER"
-msgstr "米希爾 德 魯伊特"
+msgstr "米希爾·德·魯伊特"
 
 msgid "IDS_DE_SEREBRENNIKOV"
-msgstr "Peter Serebrennikov"
+msgstr "彼得·謝列布連尼科夫"
 
 msgid "IDS_DIEHARD_CAP"
-msgstr "約翰內斯 梅克 萊恩"
+msgstr "約翰內斯·梅克·萊恩"
 
 msgid "IDS_DIFFERENT_LEAGUES_IN_DIVISION"
 msgstr "所有分艦隊成員必須屬於同一個聯賽，才能參加排名戰"
@@ -23090,7 +23090,7 @@ msgid "IDS_DIVISION_READY"
 msgstr "該分艦隊已經準備好"
 
 msgid "IDS_DOBROJIR_DROBODANOVICH"
-msgstr "Dobrojir Drobodanovich"
+msgstr "多布羅日爾·德羅波丹諾維奇"
 
 msgid "IDS_DOCK"
 msgstr "港口"
@@ -23142,9 +23142,9 @@ msgstr "<p>會穿透裝甲並於艦艇內部爆炸，造成重大傷害。</p><p
 msgid "IDS_DOCK_AMMO_DESCRIPTION_AXISLASER"
 msgstr ""
 "特色：\n"
-" ˙ 釋出前需累積能量\n"
-" ˙ 發出一系列強大的雷射脈衝\n"
-" ˙ 從近距離和中距離對付慢速目標最為有效"
+" · 釋出前需累積能量\n"
+" · 發出一系列強大的雷射脈衝\n"
+" · 從近距離和中距離對付慢速目標最為有效"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_DEEPWATER"
 msgstr "<p>會用深水魚雷來攻擊目標。</p><p class=\"p_spacing\"> </p><p>深水魚雷擁有較低的被偵測性，但只能命中吃水較深的艦艇。</p>"
@@ -23164,8 +23164,8 @@ msgstr "<p>會用深水魚雷來攻擊目標。</p><p class=\"p_spacing\"> </p><
 msgid "IDS_DOCK_AMMO_DESCRIPTION_CHARGELASER"
 msgstr ""
 "特色：\n"
-"˙發射前需累積能量；保持鎖定在目標區域\n"
-"˙從遠距離對付慢速目標最為有效"
+"•發射前需累積能量；保持鎖定在目標區域\n"
+"•從遠距離對付慢速目標最為有效"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_CS"
 msgstr "<p>穿透裝甲並於艦艇內部爆炸，造成重大傷害。</p><p class=\"p_spacing\"> </p><p>砲彈裝甲穿透能力優於高爆彈，不隨距離變化。發生跳彈的機率較低。</p>"
@@ -23275,9 +23275,9 @@ msgstr "<p>以聲納音波命中目標，將高亮突顯其部位以利魚雷引
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SECTOR_WAVE"
 msgstr ""
 "特色：\n"
-" ˙ 震波可命中多個目標\n"
-" ˙ 造成的傷害與命中面積的大小成正比\n"
-" ˙ 可以摧毀敵人的魚雷和震波"
+" · 震波可命中多個目標\n"
+" · 造成的傷害與命中面積的大小成正比\n"
+" · 可以摧毀敵人的魚雷和震波"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SECTOR_WAVE_SMF_WAVE_GUN"
 msgstr "波浪能擊沉蛋和鯊魚，並抵消敵方艦艇發射的波浪。"
@@ -23332,12 +23332,12 @@ msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_PLAZMA_EVENT_HW20"
 msgstr ""
 "特色：\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害。"
+" · 再次擊中艦艇的同一區域將造成更高的傷害。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_STUN_EVENT_HW20"
 msgstr ""
 "特色：\n"
-" ˙ 魚雷可讓敵方武器暫時失去作用"
+" · 魚雷可讓敵方武器暫時失去作用"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUBBURN"
 msgstr "<p>魚雷引發進水和火災的機率較高，但傷害較低。</p><p class=\"p_spacing\"> </p><p>對抗大型裝甲目標和機動性差的目標最為有效。</p>"
@@ -24331,7 +24331,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY542_2025WT_ADDBB2"
 msgstr "<p>召喚無人主力艦<b>英王喬治五世</b>。</p><p class=\"p_spacing\"> </p><p>進入戰鬥後，無人艦會為您所有存活的無人艦提供<u>每秒恢復 40 血量</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」作戰指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY543_2025WT_ADDDD3"
-msgstr "<p>召喚無人驅逐艦<b>古斯塔夫˙尤利烏斯˙梅爾克</b>。</p><p class=\"p_spacing\"> </p><p>只要無人艦存活，就會為您的艦艇及您所有存活的無人艦提供<u>武器射速 +15%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」作戰指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
+msgstr "<p>召喚無人驅逐艦<b>古斯塔夫·尤利烏斯·梅爾克</b>。</p><p class=\"p_spacing\"> </p><p>只要無人艦存活，就會為您的艦艇及您所有存活的無人艦提供<u>武器射速 +15%</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」作戰指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY544_2025WT_ADDCR3"
 msgstr "<p>召喚無人巡洋艦<b>約克</b>。</p><p class=\"p_spacing\"> </p><p>只要無人艦存活，就會為您的艦艇及您所有存活的無人艦提供<u>每秒恢復 50 血量</u>的永久加成。相同無人艦的加成可疊加。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」作戰指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
@@ -24340,7 +24340,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY545_2025WT_ADDBB3"
 msgstr "<p>召喚無人主力艦<b>德夫林格</b>。</p><p class=\"p_spacing\"> </p><p>每次使用都會消耗 1 次「訊號」類型消耗品的裝載數，後者則可透過「訊號發生器」作戰指令補充。</p><p class=\"p_spacing\"> </p><p>將準星對準敵方艦艇並按下 [KEY_F3]，無人艦將集中火力攻擊此艦艇。</p>"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY546_2025WT_HOUNDSINVADER"
-msgstr "將艦艇傳送至一個被埃爾梅琳達˙榮格佔領的關鍵地區。"
+msgstr "將艦艇傳送至一個被埃爾梅琳達·榮格佔領的關鍵地區。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY547_2025WT_WT3_TELEPORT2"
 msgstr "將艦艇傳送至一個被獵犬佔領但沒有獵犬在其中的關鍵地區。您不能傳送到您當前所在的關鍵地區。"
@@ -27033,7 +27033,7 @@ msgid "IDS_DOGTAG_PCNB243_NAME"
 msgstr "波蘭的象徵"
 
 msgid "IDS_DOGTAG_PCNB244_DESCRIPTION"
-msgstr "紀念 Simón Bolívar。"
+msgstr "紀念西蒙·玻利瓦。"
 
 msgid "IDS_DOGTAG_PCNB244_NAME"
 msgstr "解放者"
@@ -27129,7 +27129,7 @@ msgid "IDS_DOGTAG_PCNB256_DESCRIPTION"
 msgstr "數艘法國海軍艦艇均以傳奇的敦克爾克私掠船長 Jean Bart 命名，他在 17 世紀末由法國領軍的所有海戰中為自己贏得了榮耀。1949 年投入服役的 Richelieu 級主力艦便是其中一艘以他命名的艦艇。"
 
 msgid "IDS_DOGTAG_PCNB256_NAME"
-msgstr "Jean Bart"
+msgstr "讓·巴爾"
 
 msgid "IDS_DOGTAG_PCNB257_DESCRIPTION"
 msgstr "「讓我們飛向浩瀚藍天，飛向高空，衝向太陽。」"
@@ -28076,7 +28076,7 @@ msgid "IDS_DOGTAG_PCNB412_NAME"
 msgstr "擁抱進步！"
 
 msgid "IDS_DOGTAG_PCNB413_DESCRIPTION"
-msgstr "愛德華˙奧韋奇金（Эдуарда Овечкина）的小說集是他在海軍學校學習和在 TK-20 號潛艦（「阿庫拉」 型）服役期間的作品。故事描述了潛艦兵在深海和陸地上的生活。"
+msgstr "愛德華·奧韋奇金（Эдуарда Овечкина）的小說集是他在海軍學校學習和在 TK-20 號潛艦（「阿庫拉」 型）服役期間的作品。故事描述了潛艦兵在深海和陸地上的生活。"
 
 msgid "IDS_DOGTAG_PCNB413_NAME"
 msgstr "鋼鐵鯊魚"
@@ -28307,7 +28307,7 @@ msgid "IDS_DOGTAG_PCNB454_DESCRIPTION"
 msgstr ""
 "鳳凰，或稱「鳳皇」，是統治所有鳥類的神話生物。其羽毛包含黑、白、紅、黃、綠五種主要顏色，而其身上的五種花紋象徵著五種儒家美德：德、義、禮、仁、信。\n"
 "\n"
-"「簫韶九成，鳳皇來儀。」—《尚書˙虞書˙益稷》"
+"「簫韶九成，鳳皇來儀。」—《尚書·虞書·益稷》"
 
 msgid "IDS_DOGTAG_PCNB454_NAME"
 msgstr "鳳凰涅槃"
@@ -28316,7 +28316,7 @@ msgid "IDS_DOGTAG_PCNB455_DESCRIPTION"
 msgstr ""
 "麒麟是中國古代神話中的瑞獸。傳說麒麟預示著傑出人物的誕生或死亡。據說它預示了偉大思想家孔子的誕生，也曾出現在黃帝和堯帝的宮廷。\n"
 "\n"
-"「麒，仁寵也，麋身龍尾一角；麐（麟），牝（雌）麒也。」——《說文解字˙十》"
+"「麒，仁寵也，麋身龍尾一角；麐（麟），牝（雌）麒也。」——《說文解字·十》"
 
 msgid "IDS_DOGTAG_PCNB455_NAME"
 msgstr "麒麟瑞獸"
@@ -28376,13 +28376,13 @@ msgid "IDS_DOGTAG_PCNB464_NAME"
 msgstr "最佳潛艦指揮官2024"
 
 msgid "IDS_DOGTAG_PCNB465_DESCRIPTION"
-msgstr "俄羅斯傳奇電子遊戲節目《Ot vinta!》首播於1995年。該節目的固定主持人組合為鮑里斯˙列佩圖爾（綽號：「Бонус」，即「波努斯」）與安東˙扎伊採夫（綽號：「Гамовер」，即「加莫菲爾」）。"
+msgstr "俄羅斯傳奇電子遊戲節目《Ot vinta!》首播於1995年。該節目的固定主持人組合為鮑里斯·列佩圖爾（綽號：「Бонус」，即「波努斯」）與安東·扎伊採夫（綽號：「Гамовер」，即「加莫菲爾」）。"
 
 msgid "IDS_DOGTAG_PCNB465_NAME"
 msgstr "Ot vinta!"
 
 msgid "IDS_DOGTAG_PCNB466_DESCRIPTION"
-msgstr "同盟是一個旨在控制強大軍事技術的秘密組織。根據組織的任務，獵犬分艦隊被派往南極基地「厄瑞玻斯要塞」，以對抗埃爾梅琳達˙榮格及其麾下獨特的艦艇。"
+msgstr "同盟是一個旨在控制強大軍事技術的秘密組織。根據組織的任務，獵犬分艦隊被派往南極基地「厄瑞玻斯要塞」，以對抗埃爾梅琳達·榮格及其麾下獨特的艦艇。"
 
 msgid "IDS_DOGTAG_PCNB466_NAME"
 msgstr "止步——危險！"
@@ -28454,7 +28454,7 @@ msgid "IDS_DOGTAG_PCNB478_NAME"
 msgstr "賭徒"
 
 msgid "IDS_DOGTAG_PCNB479_DESCRIPTION"
-msgstr "<p>1981 年，蘇聯電視螢幕上迎來了第三部關於大偵探夏洛克˙福爾摩斯及其忠實朋友華生醫生冒險經歷的電影。這部改編自柯南·道爾小說《巴斯克維爾的獵犬》的影片迅速贏得了觀眾的喜愛，其中部分台詞廣為流傳，成為經典。</p><p class=\"p_spacing\"> </p><p>影片中的主要角色由瓦西里˙利瓦諾夫、維塔利˙索洛明、尼基塔˙米哈爾科夫和奧列格˙揚科夫斯基飾演。</p>"
+msgstr "<p>1981 年，蘇聯電視螢幕上迎來了第三部關於大偵探夏洛克·福爾摩斯及其忠實朋友華生醫生冒險經歷的電影。這部改編自柯南·道爾小說《巴斯克維爾的獵犬》的影片迅速贏得了觀眾的喜愛，其中部分台詞廣為流傳，成為經典。</p><p class=\"p_spacing\"> </p><p>影片中的主要角色由瓦西里·利瓦諾夫、維塔利·索洛明、尼基塔·米哈爾科夫和奧列格·揚科夫斯基飾演。</p>"
 
 msgid "IDS_DOGTAG_PCNB479_NAME"
 msgstr "巴斯克維爾的獵犬"
@@ -29453,7 +29453,7 @@ msgid "IDS_DROP_BRANCH_X2_MULTIPLIER"
 msgstr "× 2"
 
 msgid "IDS_DROZDOV"
-msgstr "Valentine Drozdov"
+msgstr "瓦倫丁·德羅茲多夫"
 
 msgid "IDS_DRUM_MODE_AVAILABLE"
 msgstr "主炮僅可使用連發射擊模式"
@@ -29717,10 +29717,10 @@ msgid "IDS_DUAL_ST_ST_DECK"
 msgstr "甲板"
 
 msgid "IDS_DUBININ_ARIA"
-msgstr "Vitaliy Dubinin"
+msgstr "維塔利·杜比寧"
 
 msgid "IDS_DUNK_CAPN"
-msgstr "傑克 敦克爾克"
+msgstr "傑克·敦克爾克"
 
 msgid "IDS_DUPLICATE_COMPENSATION"
 msgstr "補償金額："
@@ -29758,7 +29758,7 @@ msgid "IDS_DYNAMIC_LIGHTING_DESCRIPTION"
 msgstr "來自動態光源的光線品質。"
 
 msgid "IDS_DZHABRAILOV"
-msgstr "Тimur Dzhabrailov"
+msgstr "帖木兒·扎布拉伊洛夫"
 
 msgid "IDS_EARLY_ACCESS"
 msgstr "搶先體驗"
@@ -30297,7 +30297,7 @@ msgid "IDS_ERMELINDA_6"
 msgstr "還沒完呢！船員們，快撤到其他艦艇上去！"
 
 msgid "IDS_ERMELINDA_JUNG"
-msgstr "埃爾梅琳達˙榮格"
+msgstr "埃爾梅琳達·榮格"
 
 msgid "IDS_ERROR_ACCOUNT_BANNED"
 msgstr "您的帳號被封鎖到 %s。原因：%s。"
@@ -30655,7 +30655,7 @@ msgid "IDS_EV2020_RULES_PORTAL_WITHOUT_KEY"
 msgstr "您需要鑰匙才能通過傳送門離開。"
 
 msgid "IDS_EVAVALENTINE"
-msgstr "Eva Valentine"
+msgstr "伊娃·瓦倫緹娜"
 
 msgid "IDS_EVENT"
 msgstr "活動"
@@ -32937,7 +32937,7 @@ msgid "IDS_FIRST_SCARLET_BIRTHDAY_NAME"
 msgstr "機器人以「智慧」著稱"
 
 msgid "IDS_FIRST_SOVIETBBARC_NAME"
-msgstr "海軍上將Nikolay Gerasimovich Kuznetsov"
+msgstr "海軍上將 Nikolay Gerasimovich Kuznetsov"
 
 msgid "IDS_FIRST_SPACE_MUSEUM_NAME"
 msgstr "人造衛星與空間站：第 1 部分"
@@ -33207,7 +33207,7 @@ msgid "IDS_FRANCE"
 msgstr "法國"
 
 msgid "IDS_FRANCECAPPREM"
-msgstr "查爾斯 亨利 吉羅"
+msgstr "夏爾-亨利·奧諾雷"
 
 msgid "IDS_FRANCE_AIRCARRIER"
 msgstr "法國航空母艦"
@@ -33216,7 +33216,7 @@ msgid "IDS_FRANCE_BATTLESHIP"
 msgstr "法國主力艦"
 
 msgid "IDS_FRANCE_CAP"
-msgstr "約翰 奧諾雷 蘭尼埃"
+msgstr "讓-雅克·奧諾雷"
 
 msgid "IDS_FRANCE_CRUISER"
 msgstr "法國巡洋艦"
@@ -33438,7 +33438,7 @@ msgid "IDS_FRIDAY_FULL"
 msgstr "週五"
 
 msgid "IDS_FRIEDRICHBONTE"
-msgstr "弗里德里希 邦特"
+msgstr "弗里德里希·邦特"
 
 msgid "IDS_FROM_COMMANDERS"
 msgstr "來自指揮官"
@@ -33773,10 +33773,10 @@ msgid "IDS_GENERATOR4"
 msgstr "產生器D"
 
 msgid "IDS_GERCAP"
-msgstr "埃里希 雷德爾"
+msgstr "弗朗茨·馮·日德蘭"
 
 msgid "IDS_GERCAPPREM"
-msgstr "庫爾特 凱撒 霍夫曼"
+msgstr "萊因哈德·馮·日德蘭"
 
 msgid "IDS_GERMANY"
 msgstr "德國"
@@ -33857,7 +33857,7 @@ msgid "IDS_GMSIGMACOUNT"
 msgstr "主炮組砲彈的最大偏差度"
 
 msgid "IDS_GNIDOVSKY"
-msgstr "Rupert Gnidovsky"
+msgstr "魯伯特·格尼多夫斯基"
 
 msgid "IDS_GODZILLA"
 msgstr "哥吉拉"
@@ -35417,7 +35417,7 @@ msgid "IDS_HALLOWEEN_TORPEDOES_TITLE_NORMAL"
 msgstr "魚雷"
 
 msgid "IDS_HALSEY"
-msgstr "小威廉 弗雷德里克 海爾賽"
+msgstr "小威廉·F·海爾賽"
 
 msgid "IDS_HANDZO"
 msgstr "結城玉露"
@@ -36141,7 +36141,7 @@ msgid "IDS_HIGH_ABILITY_HEAL_AMOUNT"
 msgstr "「維修小組」可恢復大量血量"
 
 msgid "IDS_HILDA_ANIME"
-msgstr "希尔達˙斯卡蒂絲多蒂爾"
+msgstr "希尔達·斯卡蒂絲多蒂爾"
 
 msgid "IDS_HINT_ACCOUNT_TYPE"
 msgstr "帳號類型"
@@ -36995,10 +36995,10 @@ msgid "IDS_HOLDING_BASE"
 msgstr "守住"
 
 msgid "IDS_HOLSTININ_ARIA"
-msgstr "佛拉迪米爾˙霍爾斯金"
+msgstr "佛拉迪米爾·霍爾斯金"
 
 msgid "IDS_HORACEHOOD"
-msgstr "賀拉斯 胡德"
+msgstr "賀拉斯·胡德"
 
 msgid "IDS_HORSE_POWER"
 msgstr "馬力"
@@ -37110,7 +37110,7 @@ msgid "IDS_HOUYI"
 msgstr "后羿"
 
 msgid "IDS_HRENSBERG"
-msgstr "迪克˙哈倫斯貝格"
+msgstr "迪克·哈倫斯貝格"
 
 msgid "IDS_HUA_HU"
 msgstr "Hua Hu"
@@ -37978,7 +37978,7 @@ msgid "IDS_JAKEEYHERMANN"
 msgstr "傑基 赫爾曼"
 
 msgid "IDS_JAMES_CONRAD"
-msgstr "詹姆斯˙康拉德"
+msgstr "詹姆斯·康拉德"
 
 msgid "IDS_JAMES_DGREASE_H18"
 msgstr "James D. Breese"
@@ -38023,7 +38023,7 @@ msgid "IDS_JAP_WWII_SA"
 msgstr "富岡 定俊"
 
 msgid "IDS_JASON_TUMANOFF"
-msgstr "亞宗˙圖馬諾夫"
+msgstr "亞宗·圖馬諾夫"
 
 msgid "IDS_JENKINS"
 msgstr "勒萊 詹金斯"
@@ -38032,7 +38032,7 @@ msgid "IDS_JG_MEPHISTEUFEL_H18"
 msgstr "J.G. Mephisteufel"
 
 msgid "IDS_JITNYAKOV_ARIA"
-msgstr "米哈伊爾˙日特尼亞科夫"
+msgstr "米哈伊爾·日特尼亞科夫"
 
 msgid "IDS_JNOEL"
 msgstr "傑里米 諾埃爾"
@@ -38329,7 +38329,7 @@ msgid "IDS_KEY_VOLUMEUP"
 msgstr "VolUp"
 
 msgid "IDS_KHARITONOV"
-msgstr "亞歷山大˙哈里託諾夫"
+msgstr "亞歷山大·哈里託諾夫"
 
 msgid "IDS_KILLED_BY_YOURSELF"
 msgstr "被您擊毀"
@@ -38408,13 +38408,13 @@ msgid "IDS_KOUKO_NOSA"
 msgstr "納沙 幸子"
 
 msgid "IDS_KSANKA_SHCHUS"
-msgstr "桑卡˙什丘斯"
+msgstr "桑卡·什丘斯"
 
 msgid "IDS_KUZNETSOV"
-msgstr "尼古拉 庫茲涅佐夫"
+msgstr "尼古拉·庫茲涅佐夫"
 
 msgid "IDS_K_TYPE_SUBTEST"
-msgstr "謝苗˙雷巴科夫"
+msgstr "謝苗·雷巴科夫"
 
 msgid "IDS_LANA_ANIME"
 msgstr "拉娜"
@@ -38599,7 +38599,7 @@ msgid "IDS_LICENCE_INFO"
 msgstr "法律資訊"
 
 msgid "IDS_LILY_THORNE"
-msgstr "莉莉˙索恩"
+msgstr "莉莉·索恩"
 
 msgid "IDS_LIMITED_SHIPS_HEADER"
 msgstr "已選擇「準備好以分艦隊來加入戰鬥」狀態。點擊「尚未準備好」以查看指揮官個人檔案。"
@@ -40561,7 +40561,7 @@ msgid "IDS_LSHIFT"
 msgstr "SHIFT"
 
 msgid "IDS_LUTJENS"
-msgstr "君特 呂特晏斯"
+msgstr "君特·呂特晏斯"
 
 msgid "IDS_L_O_C_A_L_I_Z_E_D_K_O_R_A_B_L_I"
 msgstr "Copyright © 2024–2026 LocalizedKorabli"
@@ -41119,7 +41119,7 @@ msgid "IDS_MAIN_WEAKARMOR"
 msgstr "裝甲防護較低"
 
 msgid "IDS_MAKAROV"
-msgstr "斯捷潘˙馬卡洛夫"
+msgstr "斯捷潘·馬卡洛夫"
 
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
 msgstr "私人房間"
@@ -41349,7 +41349,7 @@ msgid "IDS_MAYA"
 msgstr "摩耶"
 
 msgid "IDS_MAYCAP"
-msgstr "維克托 康斯坦丁諾維奇 瓦西里耶夫"
+msgstr "維克托·茲納緬斯基"
 
 msgid "IDS_MAY_DAY_CA"
 msgstr "羅伯特 厄爾 道格拉斯 喬治"
@@ -41547,7 +41547,7 @@ msgid "IDS_MINAKAMISHIORI_OBONFEST"
 msgstr "水神 栞"
 
 msgid "IDS_MINA_THEA"
-msgstr "緹雅 克魯采"
+msgstr "緹雅·克魯采"
 
 msgid "IDS_MINA_URA"
 msgstr "Mina Hurray"
@@ -41787,7 +41787,7 @@ msgid "IDS_MINIMUM"
 msgstr "最低"
 
 msgid "IDS_MININ"
-msgstr "庫茲馬˙米寧"
+msgstr "庫茲馬·米寧"
 
 msgid "IDS_MINUTE"
 msgstr "分鐘"
@@ -41929,27 +41929,27 @@ msgstr "要學習技能和提高指揮官的戰鬥效率，請前往指揮官技
 
 msgid "IDS_MODAL_EVENT_BATTLE_CHOOSER_DESC_PORTAL"
 msgstr ""
-"˙ 在活動的第一週，每隊最多可有 3 名玩家。\n"
-"˙ 每過去一週，傳送門開啟的時間就會變得越晚。\n"
-"˙ 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
+"• 在活動的第一週，每隊最多可有 3 名玩家。\n"
+"• 每過去一週，傳送門開啟的時間就會變得越晚。\n"
+"• 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
 
 msgid "IDS_MODAL_EVENT_BATTLE_CHOOSER_DESC_PORTAL_HARD"
 msgstr ""
-"˙ 在活動的第二週，每隊最多可有 4 名玩家。\n"
-"˙ 每過去一週，傳送門開啟的時間就會變得越晚。\n"
-"˙ 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
+"• 在活動的第二週，每隊最多可有 4 名玩家。\n"
+"• 每過去一週，傳送門開啟的時間就會變得越晚。\n"
+"• 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
 
 msgid "IDS_MODAL_EVENT_BATTLE_CHOOSER_DESC_PORTAL_NIGHTMARE"
 msgstr ""
-"˙ 在活動的第四週，每隊最多可有 6 名玩家。\n"
-"˙ 每過去一週，傳送門開啟的時間就會變得越晚。\n"
-"˙ 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
+"• 在活動的第四週，每隊最多可有 6 名玩家。\n"
+"• 每過去一週，傳送門開啟的時間就會變得越晚。\n"
+"• 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
 
 msgid "IDS_MODAL_EVENT_BATTLE_CHOOSER_DESC_PORTAL_ULTRAHARD"
 msgstr ""
-"˙ 在活動的第三週，每隊最多可有 5 名玩家。\n"
-"˙ 每過去一週，傳送門開啟的時間就會變得越晚。\n"
-"˙ 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
+"• 在活動的第三週，每隊最多可有 5 名玩家。\n"
+"• 每過去一週，傳送門開啟的時間就會變得越晚。\n"
+"• 每過去一週，猛獸都會變得更加危險，但是獲得的戰鬥點數也會相應增加。"
 
 msgid "IDS_MODAL_EXCLUDE_BOT_OUT_OF_TEAM_OF_TRAINING_ROOM"
 msgstr "刪除團隊中的所有機器人？"
@@ -42114,13 +42114,13 @@ msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "隊伍最大規模取決於對局等級："
 
 msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "˙ I-III 階：6v6"
+msgstr "• I-III 階：6v6"
 
 msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_3"
-msgstr "˙ IV 階：6v6 或 9v9"
+msgstr "• IV 階：6v6 或 9v9"
 
 msgid "IDS_MODAL_WINDOW_COOPERATIVEBATTLE_RULES_PARAGRAPH_2_TEXT_4"
-msgstr "˙ V-X 階和超級：9v9"
+msgstr "• V-X 階和超級：9v9"
 
 msgid "IDS_MODAL_WINDOW_CREW_INFO_HEADER"
 msgstr "技能詳情"
@@ -42794,7 +42794,7 @@ msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_HEADER"
 msgstr "戰鬥特點"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_1"
-msgstr "您可以選擇為強大艦艇的指揮官埃爾梅琳達˙榮格而戰，或是為同盟的爪牙——獵犬而戰。每一方都有各自的戰術、目標和秘密。"
+msgstr "您可以選擇為強大艦艇的指揮官埃爾梅琳達·榮格而戰，或是為同盟的爪牙——獵犬而戰。每一方都有各自的戰術、目標和秘密。"
 
 msgid "IDS_MODAL_WINDOW_PCVE030_RULES_PARAGRAPH_1_TEXT_2"
 msgstr "戰鬥開始時，所有關鍵地區都在埃爾梅琳達的控制下。地圖上分佈著傳送門，可用於傳送到戰場的另一端。"
@@ -43139,16 +43139,16 @@ msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_1"
 msgstr "隊伍最大規模取決於對局等級："
 
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_2"
-msgstr "˙ I-III 階：6v6"
+msgstr "• I-III 階：6v6"
 
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_3"
-msgstr "˙ IV 階：6v6 或 9v9"
+msgstr "• IV 階：6v6 或 9v9"
 
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_4"
-msgstr "˙ V-VI 階：9v9 或 12v12"
+msgstr "• V-VI 階：9v9 或 12v12"
 
 msgid "IDS_MODAL_WINDOW_RANDOMBATTLE_RULES_PARAGRAPH_2_TEXT_5"
-msgstr "˙ VII-X 階和超級：12v12"
+msgstr "• VII-X 階和超級：12v12"
 
 msgid "IDS_MODAL_WINDOW_RANKEDBATTLE_RULES_HEADER"
 msgstr "排名戰"
@@ -43312,9 +43312,9 @@ msgstr "您港口中的艦艇越多，一場戰鬥可領取的獎勵數量就越
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_2_TEXT_3"
 msgstr ""
 "以艦艇數量計：\n"
-"˙100艘：獲350點基本經驗，獎勵+1\n"
-"˙200艘：獲400點基本經驗，獎勵+2\n"
-"˙300艘：獲450點基本經驗，獎勵+3"
+"•100艘：獲350點基本經驗，獎勵+1\n"
+"•200艘：獲400點基本經驗，獎勵+2\n"
+"•300艘：獲450點基本經驗，獎勵+3"
 
 msgid "IDS_MODAL_WINDOW_SNOWFLAKES_RULES_PARAGRAPH_3_HEADER"
 msgstr "獎勵數量"
@@ -43986,7 +43986,7 @@ msgid "IDS_MSKIN_NOT_LINKED"
 msgstr "尚未連結。一旦將此迷彩與艦艇連結，它便永久專屬於該艦艇。"
 
 msgid "IDS_MT_KATUKOV"
-msgstr "Mikhail Katukov"
+msgstr "米哈伊爾·卡圖科夫"
 
 msgid "IDS_MULLER"
 msgstr "穆勒"
@@ -44759,7 +44759,7 @@ msgid "IDS_NAVAL_FLAG_VENEZUELA"
 msgstr "委內瑞拉海軍"
 
 msgid "IDS_NAVAL_FLAG_VENEZUELA_DESCRIPTION"
-msgstr "委內瑞拉玻利瓦爾海軍軍旗與國旗相同。其設計源自南美獨立鬥士弗朗西斯科˙德˙米蘭達的三色旗，由黃、藍、紅三色組成。藍色條紋上有七顆星，象徵該國的七個省。1930 年前星星呈圓形排列，之後改為弧形排列。自 1954 年起，旗角處增添了國徽。"
+msgstr "委內瑞拉玻利瓦爾海軍軍旗與國旗相同。其設計源自南美獨立鬥士弗朗西斯科·德·米蘭達的三色旗，由黃、藍、紅三色組成。藍色條紋上有七顆星，象徵該國的七個省。1930 年前星星呈圓形排列，之後改為弧形排列。自 1954 年起，旗角處增添了國徽。"
 
 msgid "IDS_NAVAL_FLAG_VIETNAM"
 msgstr "越南海軍"
@@ -44771,7 +44771,7 @@ msgid "IDS_NAVAL_FLAG_WAFFENTRAGER_FLAG"
 msgstr "最終兵器"
 
 msgid "IDS_NAVAL_FLAG_WAFFENTRAGER_FLAG_DESCRIPTION"
-msgstr "埃爾梅琳達˙榮格是開發了革命性軍事技術的傳奇工程師馬克斯˙馮˙克里格之女。克里格神秘失蹤後，埃爾梅琳達繼承了他的事業，但同盟擋在了她的路上。"
+msgstr "埃爾梅琳達·榮格是開發了革命性軍事技術的傳奇工程師馬克斯·馮·克里格之女。克里格神秘失蹤後，埃爾梅琳達繼承了他的事業，但同盟擋在了她的路上。"
 
 msgid "IDS_NAVAL_FLAG_YUGOSLAVIA"
 msgstr "南斯拉夫海軍"
@@ -46507,7 +46507,7 @@ msgid "IDS_OLD_RANK"
 msgstr "排名已下降"
 
 msgid "IDS_OLGA_GROMOVA"
-msgstr "奧爾加˙格羅莫娃"
+msgstr "奧爾加·格羅莫娃"
 
 msgid "IDS_OLIVERWRIGHT"
 msgstr "奧利佛 萊特"
@@ -54325,7 +54325,7 @@ msgid "IDS_PARTNERS_LL_KONGVSGODZILLA"
 msgstr "© 2021 Legendary. All Rights Reserved. GODZILLA TM & © TOHO CO., LTD."
 
 msgid "IDS_PARTNERS_LL_LOGH"
-msgstr "©YOSHIKI TANAKA/SHOCHIKU ˙ Production I.G"
+msgstr "©YOSHIKI TANAKA/SHOCHIKU · Production I.G"
 
 msgid "IDS_PARTNERS_LL_OODLE"
 msgstr ""
@@ -54609,13 +54609,13 @@ msgid "IDS_PASA508_YEAR"
 msgstr "1938"
 
 msgid "IDS_PASA510"
-msgstr "富蘭克林˙D˙羅斯福"
+msgstr "富蘭克林·D·羅斯福"
 
 msgid "IDS_PASA510_DESCR"
 msgstr "美國海軍在第二艘 Midway 級航空母艦 USS Franklin D. Roosevelt 的甲板上，實現了一個重要的里程碑。標誌著噴射機從航空母艦上進行了首次起降。此艦艇投入服役後，早先主要用於演習和外交任務。後來，她又服役於地中海和東南亞地區。"
 
 msgid "IDS_PASA510_FULL"
-msgstr "富蘭克林˙德拉諾˙羅斯福"
+msgstr "富蘭克林·德拉諾·羅斯福"
 
 msgid "IDS_PASA510_NUMBER"
 msgstr "3"
@@ -55065,7 +55065,7 @@ msgid "IDS_PASB310"
 msgstr "紐澤西"
 
 msgid "IDS_PASB310_DESCR"
-msgstr "<p>愛荷華級 2 號艦<b>紐澤西</b>號，於費城海軍造船廠建造。完成訓練後，該艦被調往太平洋，並參加了夸賈林環礁和埃尼威托克戰役。</p><p class=\"p_spacing\"> </p><p>1944 年期間，<b>紐澤西</b>號參加了入侵新幾內亞、馬里亞納群島登陸戰以及菲律賓海海戰。在成為第三艦隊司令威廉˙海爾賽海軍上將的旗艦後，該艦參加了雷伊泰灣海戰。1945 年春，<b>紐澤西</b>號參加了沖繩島登陸戰。</p><p class=\"p_spacing\"> </p><p><b>紐澤西</b>號在第二次世界大戰中獲得了 9 枚戰鬥之星，在韓戰獲得了 4 枚，在越戰獲得了 3 枚，又在黎巴嫩和波斯灣的行動中獲得 3 枚。因此，她成為美國海軍歷史上獲得榮譽最多的主力艦。</p><p class=\"p_spacing\"> </p><p>2000 年，該艦在<b>紐澤西</b>州卡姆登市成為了一艘博物館艦。</p>"
+msgstr "<p>愛荷華級 2 號艦<b>紐澤西</b>號，於費城海軍造船廠建造。完成訓練後，該艦被調往太平洋，並參加了夸賈林環礁和埃尼威托克戰役。</p><p class=\"p_spacing\"> </p><p>1944 年期間，<b>紐澤西</b>號參加了入侵新幾內亞、馬里亞納群島登陸戰以及菲律賓海海戰。在成為第三艦隊司令威廉·海爾賽海軍上將的旗艦後，該艦參加了雷伊泰灣海戰。1945 年春，<b>紐澤西</b>號參加了沖繩島登陸戰。</p><p class=\"p_spacing\"> </p><p><b>紐澤西</b>號在第二次世界大戰中獲得了 9 枚戰鬥之星，在韓戰獲得了 4 枚，在越戰獲得了 3 枚，又在黎巴嫩和波斯灣的行動中獲得 3 枚。因此，她成為美國海軍歷史上獲得榮譽最多的主力艦。</p><p class=\"p_spacing\"> </p><p>2000 年，該艦在<b>紐澤西</b>州卡姆登市成為了一艘博物館艦。</p>"
 
 msgid "IDS_PASB310_FULL"
 msgstr "紐澤西"
@@ -55737,7 +55737,7 @@ msgid "IDS_PASC045"
 msgstr "馬布爾黑德L"
 
 msgid "IDS_PASC045_DESCR"
-msgstr "一艘配備魚雷武器與強大火炮的高速偵察巡洋艦。還裝載了飛機裝卸設備。她的主炮配置不同於相同艦級的其他艦艇。"
+msgstr "USS Marblehead 是 Omaha 級巡洋艦，作為亞洲艦隊的一員迎接第二次世界大戰的爆發。在望加錫海峽海戰中，Marblehead 的方向舵受損並卡住。此巡洋艦僅僅透過以不同速度運轉引擎來實現轉向並成功逃脫。她前往南非，然後踏上了前往布魯克林的旅程。1942 年到 1944 年，此艦艇服役於南大西洋，並在 1944 年夏季為船團護航。後來，她移往歐洲，參加了法國南部的登陸行動。"
 
 msgid "IDS_PASC045_FULL"
 msgstr "馬布爾黑德Lima"
@@ -55752,7 +55752,7 @@ msgid "IDS_PASC106"
 msgstr "彭薩科拉"
 
 msgid "IDS_PASC106_DESCR"
-msgstr "美國海軍第一艘根據《華盛頓海軍條約》概述的指導方針所建造的巡洋艦。為確保有足夠的火力，在四座炮塔中安置十門 203 毫米火炮。由於艦身狹窄，三聯裝炮塔安裝在較高的位置。第二次世界大戰期間，USS Pensacola 在中途島海戰中為 Yorktown 和 Enterprise 航空母艦護航發揮了重要作用。她後來參加了索羅門群島戰役，為航空母艦 Hornet 護航。戰爭期間，此艦艇獲頒了 13 枚戰鬥之星。"
+msgstr "第一艘在 1922 年華盛頓海軍條約限制下設計的美國重型巡洋艦。她配有不同於一般布局的主炮組，將三聯裝炮塔置於雙聯裝炮塔之上。這是因為三聯裝炮塔的炮塔座較寬而無法裝在她艦艏與艦艉的艦身線之內。在建造的過程中，Pensacola 裝備了兩座三聯裝 533 毫米魚雷發射管，於 1930 年代中期拆卸。她在第二次世界大戰中存活下來，並在新式武器測試期間作為靶艦而沉沒。"
 
 msgid "IDS_PASC106_FULL"
 msgstr "彭薩科拉"
@@ -55887,7 +55887,7 @@ msgid "IDS_PASC210"
 msgstr "伍斯特"
 
 msgid "IDS_PASC210_DESCR"
-msgstr "第二次世界大戰初期，美國正在研製使用能抵禦航空炸彈襲擊的裝甲甲板之巡洋艦。此艦艇在艦艏和艦艉的超射位置上安裝了六座雙聯裝炮塔。很快人們就發現最大的威脅不是來自「傳統」轟炸機，而是來自俯衝轟炸機和導引炸彈，因此裝甲甲板的厚度可以減少。1945 年 1 月，此級首艦 USS Worcester 安放龍骨。儘管最初計劃建造十艘，但由於第二次世界大戰即將結束，實際上僅完成了其中兩艘。"
+msgstr "設計成配備 152 毫米高平兩用火炮的防空巡洋艦。雖然被歸類為輕型巡洋艦，但此艦級之艦艇與 Baltimore 級重型巡洋艦相比之下卻有著較大的排水量與尺寸。雙聯裝主炮塔裝備著先進的自動裝填機，大幅增強過射速並使她能在任何仰角下裝填火炮。Worcester 從未參與到第二次世界大戰的行動，而只在戰後服役數年。她於 1958 年除役。"
 
 msgid "IDS_PASC210_FULL"
 msgstr "伍斯特"
@@ -56435,13 +56435,13 @@ msgid "IDS_PASD029_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASD111"
-msgstr "漢弗萊斯"
+msgstr "約書亞·漢弗萊斯"
 
 msgid "IDS_PASD111_DESCR"
 msgstr "在設計 Allen M. Sumner 級和 Gearing 級驅逐艦時，考慮了在艦艇單裝或雙聯裝炮座中配備 127 毫米/54 口徑長管火炮的選擇。然而，要在現有的艦身上安裝這些火炮是不可能的：沒有足夠的空間容納相應的設備和系統，也沒有足夠的時間從頭開始重新設計艦艇。此外，以 76 毫米機炮取代 40 毫米 Bofors 炮會導致排水量明顯增加，因此就放棄了這個開發方案。"
 
 msgid "IDS_PASD111_FULL"
-msgstr "約書亞˙漢弗萊斯"
+msgstr "約書亞·漢弗萊斯"
 
 msgid "IDS_PASD111_NUMBER"
 msgstr "1"
@@ -56690,13 +56690,13 @@ msgid "IDS_PASD597_YEAR"
 msgstr "1939"
 
 msgid "IDS_PASD610"
-msgstr "福雷斯特˙謝爾曼"
+msgstr "福雷斯特·謝爾曼"
 
 msgid "IDS_PASD610_DESCR"
 msgstr "在建造了大型且昂貴的 Mitscher 級驅逐艦之後，下一個系列應此要是一個更經濟的選擇。設計的主要重點是對空而非反潛防禦。主武器為單裝炮座的 127 毫米長管機炮。1950 年代至 1970 年代，USS Forrest Sherman 參加了訓練演習和典禮行動。"
 
 msgid "IDS_PASD610_FULL"
-msgstr "福雷斯特˙謝爾曼"
+msgstr "福雷斯特·謝爾曼"
 
 msgid "IDS_PASD610_NUMBER"
 msgstr "18"
@@ -56720,13 +56720,13 @@ msgid "IDS_PASD709_YEAR"
 msgstr "1943"
 
 msgid "IDS_PASD710"
-msgstr "威廉˙里斯˙拉什"
+msgstr "威廉·里斯·拉什"
 
 msgid "IDS_PASD710_DESCR"
-msgstr "<p><b>威廉˙里斯˙拉什</b>是一艘基林級驅逐艦。她於 1944 年 10 月在新澤西州紐瓦克鋪設龍骨，1945 年 7 月下水，並於同年 9 月服役——彼時第二次世界大戰已結束。</p><p class=\"p_spacing\"> </p><p>在 1945 年到 1950 年期間，<b>威廉˙里斯˙拉什</b>為游騎兵號航空母艦護航，並在之後參與了美國海軍在歐洲和地中海地區的長期部署任務。1951 年，該艦參加了朝鮮戰爭，對北朝鮮的鐵路交通線實施炮擊。1964 年，她進行了為期 10 個月的艦隊重整與現代化（FRAM）改造。此後，<b>威廉˙里斯˙拉什</b>都一直活躍於美國海軍在全球各地的各種作戰與巡邏任務當中，並完成了多次環球航行。</p><p class=\"p_spacing\"> </p><p>1978 年，該艦被移交給南朝鮮，並一直在南朝鮮海軍服役至 1999 年。2000 年，該艦成為博物館艦，但最終於 2016 年被報廢並拆解。</p>"
+msgstr "<p><b>威廉·里斯·拉什</b>是一艘基林級驅逐艦。她於 1944 年 10 月在新澤西州紐瓦克鋪設龍骨，1945 年 7 月下水，並於同年 9 月服役——彼時第二次世界大戰已結束。</p><p class=\"p_spacing\"> </p><p>在 1945 年到 1950 年期間，<b>威廉·里斯·拉什</b>為游騎兵號航空母艦護航，並在之後參與了美國海軍在歐洲和地中海地區的長期部署任務。1951 年，該艦參加了朝鮮戰爭，對北朝鮮的鐵路交通線實施炮擊。1964 年，她進行了為期 10 個月的艦隊重整與現代化（FRAM）改造。此後，<b>威廉·里斯·拉什</b>都一直活躍於美國海軍在全球各地的各種作戰與巡邏任務當中，並完成了多次環球航行。</p><p class=\"p_spacing\"> </p><p>1978 年，該艦被移交給南朝鮮，並一直在南朝鮮海軍服役至 1999 年。2000 年，該艦成為博物館艦，但最終於 2016 年被報廢並拆解。</p>"
 
 msgid "IDS_PASD710_FULL"
-msgstr "威廉˙里斯˙拉什"
+msgstr "威廉·里斯·拉什"
 
 msgid "IDS_PASD710_NUMBER"
 msgstr "175"
@@ -59158,7 +59158,7 @@ msgid "IDS_PAUH909_S10_HULL_STOCK"
 msgstr "Balao (A)"
 
 msgid "IDS_PAUH910_HULL_ROOSEVELT"
-msgstr "富蘭克林˙德拉諾˙羅斯福"
+msgstr "富蘭克林·德拉諾·羅斯福"
 
 msgid "IDS_PAUH911_GEARING_1945"
 msgstr "Gearing"
@@ -59206,7 +59206,7 @@ msgid "IDS_PAUH925_HULL_ARCHERFISH"
 msgstr "射水魚"
 
 msgid "IDS_PAUH926_W_R_RUSH"
-msgstr "威廉˙里斯˙拉什"
+msgstr "威廉·里斯·拉什"
 
 msgid "IDS_PAUH927_HULL_CV_TEST"
 msgstr "中途島Test"
@@ -60383,16 +60383,16 @@ msgid "IDS_PAYLOAD_SPEED_DESCRIPTION_CONVOY_AIRSHIP_3"
 msgstr "我方推動己方飛艇並牽制敵方飛艇"
 
 msgid "IDS_PA_DIESEL"
-msgstr "Octane Diesel"
+msgstr "辛烷·燃油"
 
 msgid "IDS_PA_ECRASEUR"
 msgstr "Dr. Ecraseur"
 
 msgid "IDS_PA_GROZNY"
-msgstr "Ivan the Terrible"
+msgstr "伊凡·恐怖"
 
 msgid "IDS_PA_RATTENKONIG"
-msgstr "Rattenkönig"
+msgstr "鼠王"
 
 msgid "IDS_PA_SCARLET"
 msgstr "Scarlet Fury"
@@ -60401,13 +60401,13 @@ msgid "IDS_PA_SKULLCAP"
 msgstr "Skullcap"
 
 msgid "IDS_PA_TRUBA"
-msgstr "Boris the Pipe"
+msgstr "鮑里斯·管道"
 
 msgid "IDS_PA_VAGABOND"
-msgstr "Baron von Vagabond"
+msgstr "馮·瓦加本男爵"
 
 msgid "IDS_PA_VORTEX"
-msgstr "David Vortex"
+msgstr "戴維·漩渦"
 
 msgid "IDS_PBAB001_B_RIPON"
 msgstr "里彭 IIC"
@@ -60539,10 +60539,10 @@ msgid "IDS_PBAD901_ASW_T6"
 msgstr "蕭特 S.25 桑德蘭"
 
 msgid "IDS_PBAD902_ASW_T8"
-msgstr "亨德利˙佩吉 哈利法克斯 GR"
+msgstr "亨德利·佩吉 哈利法克斯 GR"
 
 msgid "IDS_PBAD903_ASW_T10"
-msgstr "亨德利˙佩吉 哈利法克斯 GR"
+msgstr "亨德利·佩吉 哈利法克斯 GR"
 
 msgid "IDS_PBAD904_ASW_T5"
 msgstr "蕭特 S.25 桑德蘭"
@@ -60551,10 +60551,10 @@ msgid "IDS_PBAD905_ASW_T6_CV"
 msgstr "蕭特 S.25 桑德蘭"
 
 msgid "IDS_PBAD906_ASW_T8_CV"
-msgstr "亨德利˙佩吉 哈利法克斯 GR"
+msgstr "亨德利·佩吉 哈利法克斯 GR"
 
 msgid "IDS_PBAD907_ASW_T10_CV"
-msgstr "亨德利˙佩吉 哈利法克斯 GR"
+msgstr "亨德利·佩吉 哈利法克斯 GR"
 
 msgid "IDS_PBAF001_H_NIMROD"
 msgstr "獵迷 Mk I"
@@ -62699,7 +62699,7 @@ msgid "IDS_PBSB506"
 msgstr "君權"
 
 msgid "IDS_PBSB506_DESCR"
-msgstr "<p>R級主力艦基於前代艦的伊麗莎白女王級而設計，在裝甲結構上有所改進：主裝甲甲板向上移了一級，且主裝甲帶的裝甲厚度在整個高度範圍內保持一致。此外，該級艦體中的炮廓炮也經過了重新設計。</p><p class=\"p_spacing\"> </p><p>君權在第一次世界大戰後期服役 — 就在日德蘭海戰前一天。然而，由於當時船員仍未完成訓練，約翰˙傑利科海軍上將決定將該艦留在港口。</p><p class=\"p_spacing\"> </p><p>在第二次世界大戰中，君權承擔了護航與攔截義大利艦隊的任務，之後她也參與了大西洋的護航行動。1944 年，該艦被用作替代義大利的戰爭賠償，暫時移交給了蘇聯海軍。在蘇聯北方艦隊中，她以阿爾漢格爾斯克之名服役，直至 1949 年退役。</p><p class=\"p_spacing\"> </p><p>戰後，該艦再次被歸還於英國，其炮塔內的部分機械裝置被用於建造位於柴郡的射電望遠鏡。</p>"
+msgstr "<p>R級主力艦基於前代艦的伊麗莎白女王級而設計，在裝甲結構上有所改進：主裝甲甲板向上移了一級，且主裝甲帶的裝甲厚度在整個高度範圍內保持一致。此外，該級艦體中的炮廓炮也經過了重新設計。</p><p class=\"p_spacing\"> </p><p>君權在第一次世界大戰後期服役 — 就在日德蘭海戰前一天。然而，由於當時船員仍未完成訓練，約翰·傑利科海軍上將決定將該艦留在港口。</p><p class=\"p_spacing\"> </p><p>在第二次世界大戰中，君權承擔了護航與攔截義大利艦隊的任務，之後她也參與了大西洋的護航行動。1944 年，該艦被用作替代義大利的戰爭賠償，暫時移交給了蘇聯海軍。在蘇聯北方艦隊中，她以阿爾漢格爾斯克之名服役，直至 1949 年退役。</p><p class=\"p_spacing\"> </p><p>戰後，該艦再次被歸還於英國，其炮塔內的部分機械裝置被用於建造位於柴郡的射電望遠鏡。</p>"
 
 msgid "IDS_PBSB506_FULL"
 msgstr "君權"
@@ -67007,7 +67007,7 @@ msgid "IDS_PCEE102_BATTLE_OF_PHILLIPINES_DESCRIPTION"
 msgstr "史上規模最大的航母對航母艦隊交戰的決定性勝利。"
 
 msgid "IDS_PCEE103_DE_GRASSE"
-msgstr "德˙格拉斯"
+msgstr "德·格拉斯"
 
 msgid "IDS_PCEE103_DE_GRASSE_DESCRIPTION"
 msgstr "「載冠立獅」為 François-Joseph Paul, marquis de Grasse Tilly, comte de Grasse 紋章上的標誌，該艦艇也以他來命名。"
@@ -68016,7 +68016,7 @@ msgid "IDS_PCEE255_YUKIKAZE_FLAG"
 msgstr "碧藍航線 ─ Yukikaze"
 
 msgid "IDS_PCEE255_YUKIKAZE_FLAG_DESCRIPTION"
-msgstr "聽好了，我乃高貴的，幸運的，無敵的，雪風˙Eight˙陽炎The.Geni……（咬舌）什麼啊，這個詞好難唸啊！（低聲）咳咳，總而言之，能得到我是你的幸運，你就儘管依靠本大人的運氣吧，HO,HO,HO！"
+msgstr "聽好了，我乃高貴的，幸運的，無敵的，雪風·Eight·陽炎The.Geni……（咬舌）什麼啊，這個詞好難唸啊！（低聲）咳咳，總而言之，能得到我是你的幸運，你就儘管依靠本大人的運氣吧，HO,HO,HO！"
 
 msgid "IDS_PCEE255_YUKIKAZE_FLAG_EXTRA_DESCRIPTION"
 msgstr "來自《碧藍航線》遊戲。"
@@ -68521,7 +68521,7 @@ msgid "IDS_PCEE336_CHAMPAGNE_FLAG_DESCRIPTION"
 msgstr "Champagne 是法國東北部的一個行省，以氣泡酒而聞名於世。該地區的歷史可追溯至 11 至 12 世紀交替之時。當時這地區被稱為香檳領地。"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG"
-msgstr "富蘭克林˙D˙羅斯福"
+msgstr "富蘭克林·D·羅斯福"
 
 msgid "IDS_PCEE337_ROOSEVELT_FLAG_DESCRIPTION"
 msgstr "「我們或許不會馬上成功，但我們會揮師重來！」"
@@ -70309,7 +70309,7 @@ msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG"
 msgstr "鋼鐵鯊魚"
 
 msgid "IDS_PCEE646_SHARK_OF_STEEL_FLAG_DESCRIPTION"
-msgstr "愛德華˙奧韋奇金（Эдуарда Овечкина）的小說集是他在海軍學校學習和在 TK-20 號潛艦（「阿庫拉」型）服役期間的作品。故事描述了潛艦兵在深海和陸地上的生活。"
+msgstr "愛德華·奧韋奇金（Эдуарда Овечкина）的小說集是他在海軍學校學習和在 TK-20 號潛艦（「阿庫拉」型）服役期間的作品。故事描述了潛艦兵在深海和陸地上的生活。"
 
 msgid "IDS_PCEE647_I54_FLAG"
 msgstr "I-54"
@@ -70446,7 +70446,7 @@ msgid "IDS_PCEE669_CALLENBURGH_FLAG"
 msgstr "HNLMS 卡倫堡"
 
 msgid "IDS_PCEE669_CALLENBURGH_FLAG_DESCRIPTION"
-msgstr "傑拉德˙卡倫堡（Gerard Kallenbyurg） — 十七世紀荷蘭艦隊的海軍上將。 卡倫堡曾在維哥灣海戰和馬拉加海戰中取得過最輝煌、最著名的勝利，並被任命為西弗里斯蘭海軍中將。"
+msgstr "傑拉德·卡倫堡（Gerard Kallenbyurg） — 十七世紀荷蘭艦隊的海軍上將。 卡倫堡曾在維哥灣海戰和馬拉加海戰中取得過最輝煌、最著名的勝利，並被任命為西弗里斯蘭海軍中將。"
 
 msgid "IDS_PCEE670_CHANGZHENG_FLAG"
 msgstr "長征"
@@ -70518,7 +70518,7 @@ msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG"
 msgstr "施里芬CLR"
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_DESCRIPTION"
-msgstr "施里芬家族是德國波美拉尼亞的一個貴族家族，最早出現在十四世紀。 這個家族最著名的代表人物之一是將軍和軍事戰略家阿爾弗雷德˙馮˙施里芬（1833-1913）。"
+msgstr "施里芬家族是德國波美拉尼亞的一個貴族家族，最早出現在十四世紀。 這個家族最著名的代表人物之一是將軍和軍事戰略家阿爾弗雷德·馮·施里芬（1833-1913）。"
 
 msgid "IDS_PCEE680_SCHLIEFFEN_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "流光繪紫晶，冰瀑掛霄川。"
@@ -70551,7 +70551,7 @@ msgid "IDS_PCEE684_TOGLIATTI_FLAG"
 msgstr "陶里亞蒂"
 
 msgid "IDS_PCEE684_TOGLIATTI_FLAG_DESCRIPTION"
-msgstr "帕爾米羅˙陶里亞蒂（1893-1964）是義大利共產黨領導人，是國際共產主義運動的重要代表之一。在 1935-1943 年期間，陶里亞蒂是共產國際的領導者之一，這是一個國際組織，聯合了世界各地的共產黨。"
+msgstr "帕爾米羅·陶里亞蒂（1893-1964）是義大利共產黨領導人，是國際共產主義運動的重要代表之一。在 1935-1943 年期間，陶里亞蒂是共產國際的領導者之一，這是一個國際組織，聯合了世界各地的共產黨。"
 
 msgid "IDS_PCEE685_CONQUISTADOR_FLAG"
 msgstr "西班牙征服者"
@@ -70563,13 +70563,13 @@ msgid "IDS_PCEE686_CHATEAURENAULT_FLAG"
 msgstr "雷諾堡"
 
 msgid "IDS_PCEE686_CHATEAURENAULT_FLAG_DESCRIPTION"
-msgstr "法國雷諾堡號艦的艦徽。雷諾堡是法國海軍艦艇的傳統名稱，以紀念在17世紀末和18世紀初的海戰中表現出色的海軍中將弗朗索瓦˙路易˙盧塞萊˙德˙沙託-雷諾（François Louis Rousselet de Chateau-Renault）。"
+msgstr "法國雷諾堡號艦的艦徽。雷諾堡是法國海軍艦艇的傳統名稱，以紀念在17世紀末和18世紀初的海戰中表現出色的海軍中將弗朗索瓦·路易·盧塞萊·德·沙託-雷諾（François Louis Rousselet de Chateau-Renault）。"
 
 msgid "IDS_PCEE687_SCHERBAKOV_FLAG"
 msgstr "謝爾巴科夫"
 
 msgid "IDS_PCEE687_SCHERBAKOV_FLAG_DESCRIPTION"
-msgstr "亞歷山大˙謝爾蓋耶維奇˙謝爾巴科夫（1901-1945）是蘇聯政治家和黨的領導人，上校上將。衛國戰爭期間，他曾擔任蘇聯紅軍蘇維埃主席團和總政治部的負責人，還擔任過蘇聯副國防人民委員。1937-1945 年，他擔任最高蘇維埃代表。"
+msgstr "亞歷山大·謝爾蓋耶維奇·謝爾巴科夫（1901-1945）是蘇聯政治家和黨的領導人，上校上將。衛國戰爭期間，他曾擔任蘇聯紅軍蘇維埃主席團和總政治部的負責人，還擔任過蘇聯副國防人民委員。1937-1945 年，他擔任最高蘇維埃代表。"
 
 msgid "IDS_PCEE688_AKIZUKI_COLORFUL_FLAG"
 msgstr "秋月CLR"
@@ -70611,7 +70611,7 @@ msgid "IDS_PCEE693_PIORUN_FLAG"
 msgstr "ORP 霹靂"
 
 msgid "IDS_PCEE693_PIORUN_FLAG_DESCRIPTION"
-msgstr "軍事功勳（Virtuti Militari）是波蘭最高軍事勳章，授予卓越的戰功。這是世界上最古老的軍事勳章之一，由波蘭國王斯坦尼斯瓦夫˙奧古斯特˙波尼亞托夫斯基於 1792 年設立。勳章的格言是「榮譽與祖國」。"
+msgstr "軍事功勳（Virtuti Militari）是波蘭最高軍事勳章，授予卓越的戰功。這是世界上最古老的軍事勳章之一，由波蘭國王斯坦尼斯瓦夫·奧古斯特·波尼亞托夫斯基於 1792 年設立。勳章的格言是「榮譽與祖國」。"
 
 msgid "IDS_PCEE695_EVERLASTING_SUMMER_FLAG"
 msgstr "永恆之夏"
@@ -70642,7 +70642,7 @@ msgid "IDS_PCEE698_KORTENAER_FLAG"
 msgstr "HNLMS寇騰納爾"
 
 msgid "IDS_PCEE698_KORTENAER_FLAG_DESCRIPTION"
-msgstr "一艘英國 S 級驅逐艦被命名為蠍子，以紀念一艘沉沒的炮艇。1945 年，這艘驅逐艦被賣給了荷蘭，並被命名為寇騰納爾，以紀念出生在格羅寧根市的 17 世紀傑出的海軍上將埃格伯特˙巴塞洛繆斯˙寇騰納爾。"
+msgstr "一艘英國 S 級驅逐艦被命名為蠍子，以紀念一艘沉沒的炮艇。1945 年，這艘驅逐艦被賣給了荷蘭，並被命名為寇騰納爾，以紀念出生在格羅寧根市的 17 世紀傑出的海軍上將埃格伯特·巴塞洛繆斯·寇騰納爾。"
 
 msgid "IDS_PCEE699_ZEUS_FLAG"
 msgstr "宙斯"
@@ -70678,7 +70678,7 @@ msgid "IDS_PCEE704_MOLOTOV_FLAG"
 msgstr "莫洛托夫"
 
 msgid "IDS_PCEE704_MOLOTOV_FLAG_DESCRIPTION"
-msgstr "維亞切斯拉夫˙米哈伊洛維奇˙莫洛托夫（1890–1986），蘇聯無產階級革命家、政治家和外交家，曾於 1939–1949 年和 1953–1956 年擔任人民委員及外交部長等重要職務。在 1943–1954 年期間，外交部工作人員的帽子上有獨特的標誌：帽簷上固定有象徵蘇聯的五角星，而帽頂則由象徵和平的棕櫚枝裝飾。"
+msgstr "維亞切斯拉夫·米哈伊洛維奇·莫洛托夫（1890–1986），蘇聯無產階級革命家、政治家和外交家，曾於 1939–1949 年和 1953–1956 年擔任人民委員及外交部長等重要職務。在 1943–1954 年期間，外交部工作人員的帽子上有獨特的標誌：帽簷上固定有象徵蘇聯的五角星，而帽頂則由象徵和平的棕櫚枝裝飾。"
 
 msgid "IDS_PCEE705_BLACK_ODIN_FLAG"
 msgstr "奧丁B"
@@ -70711,7 +70711,7 @@ msgid "IDS_PCEE709_SURCOUF_FLAG"
 msgstr "速科夫"
 
 msgid "IDS_PCEE709_SURCOUF_FLAG_DESCRIPTION"
-msgstr "潛艦速科夫以著名的法國私掠者羅貝爾˙速科夫（1773-1827）的名字命名，他曾俘獲了超過40艘船隻。"
+msgstr "潛艦速科夫以著名的法國私掠者羅貝爾·速科夫（1773-1827）的名字命名，他曾俘獲了超過40艘船隻。"
 
 msgid "IDS_PCEE710_SAPHIR_FLAG"
 msgstr "藍寶石"
@@ -70789,13 +70789,13 @@ msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG"
 msgstr "錢瑟勒斯維爾"
 
 msgid "IDS_PCEE722_CHANCELLORSVILLE_FLAG_DESCRIPTION"
-msgstr "錢瑟勒斯維爾戰役是美國內戰中的一場重要戰役，在這場戰役中，羅伯特˙E.李將軍率領的美國聯邦軍隊取得了最輝煌的勝利之一 — 擊敗了兩倍於己的優勢敵軍。美利堅聯盟國的第一面旗幟以奧地利國旗為基礎設計，星星圍成一個圓圈，象徵加入聯盟的各州。"
+msgstr "錢瑟勒斯維爾戰役是美國內戰中的一場重要戰役，在這場戰役中，羅伯特·E.李將軍率領的美國聯邦軍隊取得了最輝煌的勝利之一 — 擊敗了兩倍於己的優勢敵軍。美利堅聯盟國的第一面旗幟以奧地利國旗為基礎設計，星星圍成一個圓圈，象徵加入聯盟的各州。"
 
 msgid "IDS_PCEE723_FRUNZE_FLAG"
 msgstr "伏龍芝"
 
 msgid "IDS_PCEE723_FRUNZE_FLAG_DESCRIPTION"
-msgstr "米哈伊爾˙瓦西里耶維奇˙伏龍芝（1885–1925），蘇聯工農紅軍統帥、軍事理論家、國家領導人。從 1925 年 1 月 26 日起直到同年 10 月 31 日去世，他擔任蘇聯革命軍事委員會主席，這是俄羅斯蘇維埃聯邦社會主義共和國（RSFSR）以及後來蘇聯武裝力量的最高集體管理機構。"
+msgstr "米哈伊爾·瓦西里耶維奇·伏龍芝（1885–1925），蘇聯工農紅軍統帥、軍事理論家、國家領導人。從 1925 年 1 月 26 日起直到同年 10 月 31 日去世，他擔任蘇聯革命軍事委員會主席，這是俄羅斯蘇維埃聯邦社會主義共和國（RSFSR）以及後來蘇聯武裝力量的最高集體管理機構。"
 
 msgid "IDS_PCEE724_HENGSHUI_FLAG"
 msgstr "衡水"
@@ -70819,16 +70819,16 @@ msgid "IDS_PCEE726_USSR_FLAG_DESCRIPTION"
 msgstr "根據 1955 年 8 月 19 日蘇聯最高蘇維埃主席團法令批准的《蘇維埃社會主義共和國聯盟國旗法》，蘇維埃社會主義共和國聯盟的國旗是蘇聯國家主權和工農在建設共產主義社會的鬥爭中牢不可破的聯盟的象徵。"
 
 msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG"
-msgstr "尤里˙多爾戈魯基"
+msgstr "尤里·多爾戈魯基"
 
 msgid "IDS_PCEE728_YURI_DOLGORUKIY_FLAG_DESCRIPTION"
-msgstr "尤里˙多爾戈魯基 — 古羅斯王子，編年史中關於莫斯科最早的記載就提到了他。1954 年，尤里˙多爾戈魯基的雕像被豎立起來：他站在馬鐙上，手指指向新城建立的位置。"
+msgstr "尤里·多爾戈魯基 — 古羅斯王子，編年史中關於莫斯科最早的記載就提到了他。1954 年，尤里·多爾戈魯基的雕像被豎立起來：他站在馬鐙上，手指指向新城建立的位置。"
 
 msgid "IDS_PCEE729_NANI_FLAG"
-msgstr "R.Smg. 賈科莫˙納尼"
+msgstr "R.Smg. 賈科莫·納尼"
 
 msgid "IDS_PCEE729_NANI_FLAG_DESCRIPTION"
-msgstr "賈科莫˙納尼（1725-1797） — 威尼斯共和國晚期的海軍上將和國家官員。納尼家族徽章上描繪了一個分成金色和紅色兩部分的圓形鏡子。"
+msgstr "賈科莫·納尼（1725-1797） — 威尼斯共和國晚期的海軍上將和國家官員。納尼家族徽章上描繪了一個分成金色和紅色兩部分的圓形鏡子。"
 
 msgid "IDS_PCEE730_MADRID_FLAG"
 msgstr "馬德里"
@@ -70840,7 +70840,7 @@ msgid "IDS_PCEE731_ANSON_FLAG"
 msgstr "HMS 安森"
 
 msgid "IDS_PCEE731_ANSON_FLAG_DESCRIPTION"
-msgstr "喬治˙安森（1697–1762）是英國海軍將領，曾進行環球航行。他作為海軍上將指揮紅色中隊，這是英國海軍編隊中最重要的部分，通常位於陣型中央。"
+msgstr "喬治·安森（1697–1762）是英國海軍將領，曾進行環球航行。他作為海軍上將指揮紅色中隊，這是英國海軍編隊中最重要的部分，通常位於陣型中央。"
 
 msgid "IDS_PCEE732_SOVREMENNY_FLAG"
 msgstr "現代"
@@ -70855,7 +70855,7 @@ msgid "IDS_PCEE733_PARIZHSKAYA_KOMMUNA_FLAG_DESCRIPTION"
 msgstr ""
 "蘇聯工農紅海軍艦艇「巴黎公社」號的旗幟。這艘艦艇是為了紀念 1871 年春天在巴黎存在了 72 天的革命公社而命名的。\n"
 "\n"
-"全世界無產階級和勞動人民的偉大導師弗里德里希˙恩格斯在為《法蘭西內戰》作的序言中寫道：「先生們，你們想知道無產階級專政是什麼樣子嗎？請看看巴黎公社吧。這就是無產階級專政。」"
+"全世界無產階級和勞動人民的偉大導師弗里德里希·恩格斯在為《法蘭西內戰》作的序言中寫道：「先生們，你們想知道無產階級專政是什麼樣子嗎？請看看巴黎公社吧。這就是無產階級專政。」"
 
 msgid "IDS_PCEE734_SOVIET_DD_EA_FLAG"
 msgstr "蘇聯驅逐艦"
@@ -70870,7 +70870,7 @@ msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG"
 msgstr "日德蘭CLR"
 
 msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_DESCRIPTION"
-msgstr "HMS 日德蘭的徽章上繪有海獅鷲。這種生物正是 1916 年日德蘭海戰中英國艦隊指揮官約翰˙傑利科伯爵紋章上的護盾獸。"
+msgstr "HMS 日德蘭的徽章上繪有海獅鷲。這種生物正是 1916 年日德蘭海戰中英國艦隊指揮官約翰·傑利科伯爵紋章上的護盾獸。"
 
 msgid "IDS_PCEE735_JUTLAND_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "為紀念新的缤纷艦艇登場。"
@@ -70888,7 +70888,7 @@ msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG"
 msgstr "孔戴CLR"
 
 msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_DESCRIPTION"
-msgstr "孔戴親王家族（法國波旁王室的幼支）的紋章。這個家族為法國培養了許多著名軍事統帥和政治家，包括 17 世紀的名將路易二世˙德˙波旁(1621–1686)。"
+msgstr "孔戴親王家族（法國波旁王室的幼支）的紋章。這個家族為法國培養了許多著名軍事統帥和政治家，包括 17 世紀的名將路易二世·德·波旁(1621–1686)。"
 
 msgid "IDS_PCEE737_CONDE_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "為紀念新的缤纷艦艇登場。"
@@ -70897,7 +70897,7 @@ msgid "IDS_PCEE738_DUPERRE_FLAG"
 msgstr "杜皮爾"
 
 msgid "IDS_PCEE738_DUPERRE_FLAG_DESCRIPTION"
-msgstr "居伊-維克托˙杜皮爾（1775–1846）是法國海軍將領，曾經歷拿破崙戰爭、波旁王朝復辟與七月王朝時期。他在指揮貝洛納號護衛艦時，於模里西斯戰役中取得了大港之戰的勝利。1830 年，他獲任命為法國海軍上將，隨後三度擔任海軍部長。"
+msgstr "居伊-維克托·杜皮爾（1775–1846）是法國海軍將領，曾經歷拿破崙戰爭、波旁王朝復辟與七月王朝時期。他在指揮貝洛納號護衛艦時，於模里西斯戰役中取得了大港之戰的勝利。1830 年，他獲任命為法國海軍上將，隨後三度擔任海軍部長。"
 
 msgid "IDS_PCEE739_SOVETSKAYA_GRUZIA_FLAG"
 msgstr "格魯吉亞蘇維埃社會主義共和國"
@@ -70909,13 +70909,13 @@ msgid "IDS_PCEE740_FALKENHAYN_FLAG"
 msgstr "法金漢"
 
 msgid "IDS_PCEE740_FALKENHAYN_FLAG_DESCRIPTION"
-msgstr "此旗幟於 19–20 世紀間懸掛在普魯士軍事部門的艦艇上。1913–14 年間，埃裡希˙馮˙法金漢（1861–1922）出任普魯士戰爭大臣，他是一戰時期德國陸軍的傑出將領。"
+msgstr "此旗幟於 19–20 世紀間懸掛在普魯士軍事部門的艦艇上。1913–14 年間，埃裡希·馮·法金漢（1861–1922）出任普魯士戰爭大臣，他是一戰時期德國陸軍的傑出將領。"
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG"
-msgstr "ARV法蘭西斯科˙德˙米蘭達"
+msgstr "ARV法蘭西斯科·德·米蘭達"
 
 msgid "IDS_PCEE741_FRANCISCO_MIRANDA_FLAG_DESCRIPTION"
-msgstr "塞巴斯蒂安˙法蘭西斯科˙德˙米蘭達˙羅德里格斯（1750–1816）是反抗西班牙殖民統治的南美革命領袖之一。1806 年，他乘坐護衛艦利安得號前往解放委內瑞拉，並在桅杆上升起了自己設計的海軍旗。"
+msgstr "塞巴斯蒂安·法蘭西斯科·德·米蘭達·羅德里格斯（1750–1816）是反抗西班牙殖民統治的南美革命領袖之一。1806 年，他乘坐護衛艦利安得號前往解放委內瑞拉，並在桅杆上升起了自己設計的海軍旗。"
 
 msgid "IDS_PCEE742_KRASNOYE_ZNAMYA_FLAG"
 msgstr "紅旗"
@@ -70939,7 +70939,7 @@ msgid "IDS_PCEE745_BERNADOTTE_FLAG"
 msgstr "貝爾納多特"
 
 msgid "IDS_PCEE745_BERNADOTTE_FLAG_DESCRIPTION"
-msgstr "讓-巴蒂斯特˙儒勒˙貝爾納多特（1763–1844），法國革命和拿破崙戰爭時期的將領。1818 年起，他以卡爾十四世˙約翰之名出任瑞典與挪威國王，也是瑞典貝爾納多特王室的開創者。"
+msgstr "讓-巴蒂斯特·儒勒·貝爾納多特（1763–1844），法國革命和拿破崙戰爭時期的將領。1818 年起，他以卡爾十四世·約翰之名出任瑞典與挪威國王，也是瑞典貝爾納多特王室的開創者。"
 
 msgid "IDS_PCEE746_VICTORYDAY_FLAG"
 msgstr "偉大勝利 80 週年"
@@ -70981,7 +70981,7 @@ msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG"
 msgstr "法國潛艦"
 
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG_DESCRIPTION"
-msgstr "曾在自由法國海軍服役的若干艘法國潛艦被授予「抵抗運動勳章」。該勳章正面刻有1940年6月18日這個日期——當日夏爾˙戴高樂透過廣播號召建立法國抵抗運動——背面則鐫刻著拉丁文「Patria non immemor」（意為「祖國不會遺忘」）。"
+msgstr "曾在自由法國海軍服役的若干艘法國潛艦被授予「抵抗運動勳章」。該勳章正面刻有1940年6月18日這個日期——當日夏爾·戴高樂透過廣播號召建立法國抵抗運動——背面則鐫刻著拉丁文「Patria non immemor」（意為「祖國不會遺忘」）。"
 
 msgid "IDS_PCEE751_FRENCH_SS_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr "為慶祝法國潛艦在 25.7 版本中開放搶先體驗。"
@@ -70990,7 +70990,7 @@ msgid "IDS_PCEE752_FORBIN_FLAG"
 msgstr "福爾班"
 
 msgid "IDS_PCEE752_FORBIN_FLAG_DESCRIPTION"
-msgstr "克洛德˙福爾班是法國海軍指揮官和外交官，聖路易騎士勳章獲得者。福爾賓是法國駐暹羅外交使團的一員，曾任暹羅海軍上將、暹羅全軍總司令和曼谷總督。由於在西班牙王位繼承戰爭中的功績，克洛德˙福爾班獲得了路易十四授予的伯爵頭銜。"
+msgstr "克洛德·福爾班是法國海軍指揮官和外交官，聖路易騎士勳章獲得者。福爾賓是法國駐暹羅外交使團的一員，曾任暹羅海軍上將、暹羅全軍總司令和曼谷總督。由於在西班牙王位繼承戰爭中的功績，克洛德·福爾班獲得了路易十四授予的伯爵頭銜。"
 
 msgid "IDS_PCEE753_IMPERO_FLAG"
 msgstr "RN帝國"
@@ -71026,7 +71026,7 @@ msgid "IDS_PCEE758_OT_VINTA_FLAG"
 msgstr "Ot vinta!"
 
 msgid "IDS_PCEE758_OT_VINTA_FLAG_DESCRIPTION"
-msgstr "俄羅斯傳奇電子遊戲節目《Ot vinta!》首播於1995年。該節目的固定主持人組合為鮑里斯˙列佩圖爾（藝名：「Бонус」，即「波努斯」）與安東˙扎伊採夫（藝名：「Гамовер」，即「加莫菲爾」）。"
+msgstr "俄羅斯傳奇電子遊戲節目《Ot vinta!》首播於1995年。該節目的固定主持人組合為鮑里斯·列佩圖爾（藝名：「Бонус」，即「波努斯」）與安東·扎伊採夫（藝名：「Гамовер」，即「加莫菲爾」）。"
 
 msgid "IDS_PCEE759_DANZIG_FLAG"
 msgstr "但澤"
@@ -71053,7 +71053,7 @@ msgid "IDS_PCEE762_WAFFENTRAGER_FLAG"
 msgstr "最終兵器"
 
 msgid "IDS_PCEE762_WAFFENTRAGER_FLAG_DESCRIPTION"
-msgstr "埃爾梅琳達˙榮格是開發了革命性軍事技術的傳奇工程師馬克斯˙馮˙克里格之女。克里格神秘失蹤後，埃爾梅琳達繼承了他的事業，但同盟擋在了她的路上。"
+msgstr "埃爾梅琳達·榮格是開發了革命性軍事技術的傳奇工程師馬克斯·馮·克里格之女。克里格神秘失蹤後，埃爾梅琳達繼承了他的事業，但同盟擋在了她的路上。"
 
 msgid "IDS_PCEE763_SHUMSHU_FLAG"
 msgstr "舒姆舒島戰役 80 週年"
@@ -71116,10 +71116,10 @@ msgid "IDS_PCEE772_SABIE_FLAG_DESCRIPTION"
 msgstr "這艘戰艦體現了諾克瑪爾的理想：不屈意志、嚴明紀律和對人類精神力量的信念。由北海海軍學院最優秀學員凱拉指揮。與她的指揮官一樣，她攻勢凌厲精準，恰如其名——似出鞘的軍刀一般掃清一切阻礙。"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG"
-msgstr "USS 威廉˙里斯˙拉什"
+msgstr "USS 威廉·里斯·拉什"
 
 msgid "IDS_PCEE773_WILLIAM_R_RUSH_FLAG_DESCRIPTION"
-msgstr "威廉˙里斯˙拉什是美國海軍軍官，參加了美西戰爭、美墨武裝干涉戰爭及第一次世界大戰。1914 年在韋拉克魯斯佔領行動中指揮登陸部隊，獲頒象徵美國最高軍事榮譽的榮譽勳章。勳章綬帶上的 13 顆星代表美國最初的 13 個州。"
+msgstr "威廉·里斯·拉什是美國海軍軍官，參加了美西戰爭、美墨武裝干涉戰爭及第一次世界大戰。1914 年在韋拉克魯斯佔領行動中指揮登陸部隊，獲頒象徵美國最高軍事榮譽的榮譽勳章。勳章綬帶上的 13 顆星代表美國最初的 13 個州。"
 
 msgid "IDS_PCEE774_PRESIDENT_FLAG"
 msgstr "USS 總統"
@@ -71224,16 +71224,16 @@ msgid "IDS_PCEE789_HUANGDI_FLAG_DESCRIPTION"
 msgstr "黃帝 — 中國古代傳說中的統治者，被認為是漢民族的始祖，並在去世後被神化。在中國五行宇宙學說中，黃帝對應著土星。"
 
 msgid "IDS_PCEE791_SIMON_BOLIVAR_FLAG"
-msgstr "ARC 西蒙˙玻利瓦"
+msgstr "ARC 西蒙·玻利瓦"
 
 msgid "IDS_PCEE791_SIMON_BOLIVAR_FLAG_DESCRIPTION"
-msgstr "第二委內瑞拉共和國旗幟，於 1813-14 年獨立戰爭期間使用，當時西班牙殖民地的軍隊由革命者西蒙˙玻利瓦領導。1821 年，玻利瓦成為大哥倫比亞——一個由新格拉納達、委內瑞拉、厄瓜多和巴拿馬組成的聯合國家——的第一任總統。"
+msgstr "第二委內瑞拉共和國旗幟，於 1813-14 年獨立戰爭期間使用，當時西班牙殖民地的軍隊由革命者西蒙·玻利瓦領導。1821 年，玻利瓦成為大哥倫比亞——一個由新格拉納達、委內瑞拉、厄瓜多和巴拿馬組成的聯合國家——的第一任總統。"
 
 msgid "IDS_PCEE792_JELLICOE_FLAG"
 msgstr "HMS 傑利科"
 
 msgid "IDS_PCEE792_JELLICOE_FLAG_DESCRIPTION"
-msgstr "約翰˙傑利科是英國海軍上將，在日德蘭海戰——第一次世界大戰中規模最大且具有決定性的海戰——中指揮了大艦隊。因 1916 年 5 月 31 日的這場戰役，傑利科被授予功績勳章。"
+msgstr "約翰·傑利科是英國海軍上將，在日德蘭海戰——第一次世界大戰中規模最大且具有決定性的海戰——中指揮了大艦隊。因 1916 年 5 月 31 日的這場戰役，傑利科被授予功績勳章。"
 
 msgid "IDS_PCEE793_SALDIRAY_FLAG"
 msgstr "TCG 進攻之月"
@@ -71248,10 +71248,10 @@ msgid "IDS_PCEE794_GREM_FLAG_DESCRIPTION"
 msgstr "1943 年式蘇聯海軍航空工程勤務指揮人員胸章。"
 
 msgid "IDS_PCEE795_JEAN_BART_43_FLAG"
-msgstr "讓˙巴爾'43"
+msgstr "讓·巴爾'43"
 
 msgid "IDS_PCEE795_JEAN_BART_43_FLAG_DESCRIPTION"
-msgstr "法國北部城市敦克爾克的旗幟，該城在16至18世紀曾是私掠船基地。其中最著名的是生於此城亦逝於此城的讓˙巴爾。"
+msgstr "法國北部城市敦克爾克的旗幟，該城在16至18世紀曾是私掠船基地。其中最著名的是生於此城亦逝於此城的讓·巴爾。"
 
 msgid "IDS_PCEE796_URAL_FLAG"
 msgstr "烏拉爾"
@@ -71305,7 +71305,7 @@ msgid "IDS_PCEE802_PANAM_DD_EA_FLAG"
 msgstr "西班牙語世界"
 
 msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_DESCRIPTION"
-msgstr "「西班牙語世界」——形成於 20 世紀 20 至 30 年代之交的學說，主張歐洲與拉丁美洲西班牙語國家形成一個共同體。 1932 年秋，在克里斯多福˙哥倫布發現美洲紀念日前夕，「西班牙語世界」旗幟首次在烏拉圭首都蒙得維的亞的自由廣場升起。"
+msgstr "「西班牙語世界」——形成於 20 世紀 20 至 30 年代之交的學說，主張歐洲與拉丁美洲西班牙語國家形成一個共同體。 1932 年秋，在克里斯多福·哥倫布發現美洲紀念日前夕，「西班牙語世界」旗幟首次在烏拉圭首都蒙得維的亞的自由廣場升起。"
 
 msgid "IDS_PCEE802_PANAM_DD_EA_FLAG_EXTRA_DESCRIPTION"
 msgstr "旗幟上的白色區域象徵和平與純潔，金色的五月太陽（Sol de Mayo）代表印加神祇印蒂，而三個紫色馬耳他十字則象徵哥倫布的三艘帆船（聖瑪麗亞號、平塔號和尼尼亞號）以及西班牙語。"
@@ -71317,10 +71317,10 @@ msgid "IDS_PCEE803_ARTOIS_FLAG_DESCRIPTION"
 msgstr "阿托瓦旗帜 — 法國北部歷史悠久的阿托瓦地區的象徵。中世紀時期，這裡曾存在同名的阿托瓦伯爵領地。"
 
 msgid "IDS_PCEE804_DE_GRASSE_1956_FLAG"
-msgstr "德˙格拉斯'56"
+msgstr "德·格拉斯'56"
 
 msgid "IDS_PCEE804_DE_GRASSE_1956_FLAG_DESCRIPTION"
-msgstr "弗朗索瓦˙德˙格拉斯 — 法國海軍上將，以在美國獨立戰爭中擊敗英國艦隊而聞名。此後，法國與美國海軍有多艘艦艇皆以「德˙格拉斯」之名命名。"
+msgstr "弗朗索瓦·德·格拉斯 — 法國海軍上將，以在美國獨立戰爭中擊敗英國艦隊而聞名。此後，法國與美國海軍有多艘艦艇皆以「德·格拉斯」之名命名。"
 
 msgid "IDS_PCEE806_CHIDI_FLAG"
 msgstr "赤帝"
@@ -71362,7 +71362,7 @@ msgid "IDS_PCEE811_LYNCH_COLORFUL_FLAG"
 msgstr "林區CLR"
 
 msgid "IDS_PCEE811_LYNCH_COLORFUL_FLAG_DESCRIPTION"
-msgstr "1965 年至 1994 年間，美國海軍服役了一艘名為「林區」的軍用海洋測量艦，該艦以 19 世紀美國海軍軍官威廉˙法蘭西斯˙林區之名命名。其旗幟設計靈感源自美國海軍海洋學局的徽章標誌。"
+msgstr "1965 年至 1994 年間，美國海軍服役了一艘名為「林區」的軍用海洋測量艦，該艦以 19 世紀美國海軍軍官威廉·法蘭西斯·林區之名命名。其旗幟設計靈感源自美國海軍海洋學局的徽章標誌。"
 
 msgid "IDS_PCEE811_LYNCH_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "碧影連蒼海，青芒入彤霞。"
@@ -71377,10 +71377,10 @@ msgid "IDS_PCEE812_RIGA_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "冥壑銜新柳，蒼淵映翠微。"
 
 msgid "IDS_PCEE813_IGNACIO_ALLENDE_COLORFUL_FLAG"
-msgstr "依格納西奧˙阿連德CLR"
+msgstr "依格納西奧·阿連德CLR"
 
 msgid "IDS_PCEE813_IGNACIO_ALLENDE_COLORFUL_FLAG_DESCRIPTION"
-msgstr "棲息在盛開的仙人掌上、撕咬蛇類的雄鷹形象，曾被繪製在墨西哥獨立戰爭領袖伊格納西奧˙阿連德的旗幟上。這源自阿茲特克傳說的圖案，後來成為墨西哥的國家象徵，並應用於國旗與國徽之中。"
+msgstr "棲息在盛開的仙人掌上、撕咬蛇類的雄鷹形象，曾被繪製在墨西哥獨立戰爭領袖伊格納西奧·阿連德的旗幟上。這源自阿茲特克傳說的圖案，後來成為墨西哥的國家象徵，並應用於國旗與國徽之中。"
 
 msgid "IDS_PCEE813_IGNACIO_ALLENDE_COLORFUL_FLAG_EXTRA_DESCRIPTION"
 msgstr "青嶂銜殘照，春山入晚霞。"
@@ -71396,7 +71396,7 @@ msgstr "USS 石牆"
 
 msgid "IDS_PCEE815_STONEWALL_FLAG_DESCRIPTION"
 msgstr ""
-"以綽號「石牆」（Stonewall）聞名的湯瑪士˙喬納桑˙傑克森是美國南北戰爭期間南方聯盟的將軍，傑出的軍事戰術家。為紀念曾在石牆旅服役的士兵，特別鑄造了一枚帶有將軍側像的紀念勳章。\n"
+"以綽號「石牆」（Stonewall）聞名的湯瑪士·喬納桑·傑克森是美國南北戰爭期間南方聯盟的將軍，傑出的軍事戰術家。為紀念曾在石牆旅服役的士兵，特別鑄造了一枚帶有將軍側像的紀念勳章。\n"
 "\n"
 "\"Look, men! There is Jackson standing like a stone wall! Let us determine to die here, and we will conquer! Rally behind the Virginians!\""
 
@@ -71425,7 +71425,7 @@ msgid "IDS_PCEE819_WOTAN_FLAG"
 msgstr "沃坦"
 
 msgid "IDS_PCEE819_WOTAN_FLAG_DESCRIPTION"
-msgstr "奧丁是日耳曼神話中的主神，通常被描繪為長須獨眼的老者。傳說他為獲得無上智慧，犧牲了自己的右眼。 「沃坦」（德語：Wotan）是理查德˙瓦格納在歌劇《尼伯龍根指環》中使用的奧丁名稱的變體。"
+msgstr "奧丁是日耳曼神話中的主神，通常被描繪為長須獨眼的老者。傳說他為獲得無上智慧，犧牲了自己的右眼。 「沃坦」（德語：Wotan）是理查德·瓦格納在歌劇《尼伯龍根指環》中使用的奧丁名稱的變體。"
 
 msgid "IDS_PCEE820_UTRECHT_FLAG"
 msgstr "HNLMS 烏特勒支"
@@ -71479,7 +71479,7 @@ msgid "IDS_PCEE830_JENKINS_FLAG"
 msgstr "USS 詹金斯"
 
 msgid "IDS_PCEE830_JENKINS_FLAG_DESCRIPTION"
-msgstr "桑頓˙詹金斯——美國海軍軍官，在內戰中戰功卓著，後晉升為海軍少將。當時美國海軍少將的肩章上飾有錨和兩顆星。"
+msgstr "桑頓·詹金斯——美國海軍軍官，在內戰中戰功卓著，後晉升為海軍少將。當時美國海軍少將的肩章上飾有錨和兩顆星。"
 
 msgid "IDS_PCEE834_HAKUSAN_FLAG"
 msgstr "白山"
@@ -72019,7 +72019,7 @@ msgid "IDS_PCQM055_DESC"
 msgstr "攻擊珍珠港之後，海軍大將 Yamamoto 指揮了一連串輝煌的海軍行動，控制了太平洋地區的廣大領土。他曾駐於日本最大型的主力艦指揮戰事：Nagato、Yamato 和 Musashi，並仔細地規劃了多項登陸行動（包括獲勝的海戰），徹底擊潰了美國、英國、澳大利亞和荷蘭的部隊。Yamamoto 艦隊的優勢在於採用先進戰術並能高效運用魚雷。巡洋艦分艦隊和驅逐艦隊打頭陣，航空母艦為主攻部隊，而主力艦則待命進行一般交戰。然而，Yamamoto 對於在與美國交戰後無法補充人員、戰艦和飛機損耗的擔憂卻成為了事實。勝利後隨之而來的是失敗：中途島海戰、瓜達康納爾海戰，以及許多其他戰役。1943 年 4 月，在海軍大將 Yamamoto 視察漫長前線的關鍵地點時，美國監測小組譯解了這名總指揮官的航班資訊。他們組織了大規模行動以攔截載著 Yamamoto 的飛機並成功在太平洋中的一個島嶼叢林上空將其擊落。這位著名的海軍大將在逝世時仍緊拄著他的武士刀。"
 
 msgid "IDS_PCQM070_DESC"
-msgstr "<p>William Frederick Halsey Jr. 是個天生的大海人，他出生在紐澤西小海港 Elizabeth 的海軍家庭中，他的祖先也包含了海盜以及捕鯨人的家世註定了他的海上人生。1899年，未能如願入學期望已久的安納波利斯海軍學院的 Halsey Jr. 進入了維吉尼亞大學專攻醫學，甚至願意成為一名軍醫，但僅為了一個目的：加入海軍。但在大學時期他唯一值得被提起的僅有他對美式足球的熱情。</p><p class=\"p_spacing\"> </p><p>1900年，Halsey 終於進入了海軍學院，然而他們並不知道他將會是學校中最有名的畢業生之一。然而任性又固執的「肥短」Halsey 並不是同期中最優秀的。在1904年學年度，Halsey 在62名學生中僅排名第42。在他的海軍生涯中第一艘服役的船艦是主力艦 Missouri，這艘成為簽署條約的重要象徵船艦也是四十年後的事情了。</p>"
+msgstr "<p>William Frederick Halsey Jr. 是個天生的大海人，他出生在紐澤西小海港 Elizabeth 的海軍家庭中，他的祖先也包含了海盜以及捕鯨人的家世註定了他的海上人生。1899 年，未能如願入學期望已久的安納波利斯海軍學院的 Halsey Jr. 進入了維吉尼亞大學專攻醫學，甚至願意成為一名軍醫，但僅為了一個目的：加入海軍。但在大學時期他唯一值得被提起的僅有他對美式足球的熱情。</p><p class=\"p_spacing\"> </p><p>1900 年，Halsey 終於進入了海軍學院，然而他們並不知道他將會是學校中最有名的畢業生之一。然而任性又固執的「肥短」Halsey 並不是同期中最優秀的。在 1904 年學年度，Halsey 在 62 名學生中僅排名第 42。在他的海軍生涯中第一艘服役的船艦是主力艦 Missouri，這艘成為簽署條約的重要象徵船艦也是四十年後的事情了。</p>"
 
 msgid "IDS_PCQM071_DESC"
 msgstr "<p>1906年時首次晉任軍官，Halsey 登上了主力艦 Kansas 參加了由 16 艘各式美軍先進船艦從 1907 年起耗時兩年的世界巡迴，目的在於向世界展示美國的海軍實力的大白艦隊航行。艦隊造訪日本時，Halsey 登艦參觀了日本聯合艦隊旗艦 Mikasa，但這艘榮光的戰艦並未獲得 Halsey 的青睞，在航行結束後，這位年輕的軍官離開了大炮船艦，轉而服務於比較小、比較快速的驅逐艦。</p><p class=\"p_spacing\"> </p><p>第一次世界大戰期間，Halsey 被指派為 Sampson 級驅逐艦 Shaw 的指揮官。曾有一次他指揮了一個由兩艘美軍驅逐艦以及兩艘單桅帆船組成的支隊，這次的經驗讓他非常的高興及驕傲。大戰結束後，Halsey 被授予了 Navy Cross 勳章。</p>"
@@ -72092,7 +72092,7 @@ msgid "IDS_PCQM098_SHUMSHU_DESC"
 msgstr "<p>8 月 17 日 5 時，登陸指揮官波諾馬廖夫海軍上校發出訊號，艦隊從彼得羅巴甫洛夫斯克所在的阿瓦恰灣出發。向南至第一千島海峽的航程中濃霧瀰漫，縱隊低速航行近一晝夜才抵達舒姆舒島。大霧導致第 128 航空師無法直接支援登陸。8 月 18 日 4 時 22 分，1363 人的先遣隊開始從 4 艘 LCI 登陸艇上登陸。日軍雖開炮阻擊，但 35 分鐘內先頭部隊幾乎無損完成登陸。三艘登陸艇無法靠岸，部分官兵不得不涉水 150~200 米，但陸戰隊員和邊防軍仍佔領沿岸區域，按計劃向日軍的防禦核心 171 和 165 高地推進。</p><p class=\"p_spacing\"> </p><p>遺憾的是，指揮官缺乏舒姆舒島日軍岸炮和工事情報，艦炮未能壓制國端岬和琴平岬的火力。巡邏艦和佈雷艦的炮火對混凝土永備工事效果有限。近 6 時，138 步兵團主力開始登陸；約 7 時 30 分，第二梯隊 373 團登陸。整個過程遭到日軍僅 3 公里距離的交叉炮火覆蓋。參戰的 16 艘 LCI 中有 5 艘在完成步兵解除安裝後沉沒。8 時 30 分前步兵全部登陸，但運送火炮的駁船未能按時抵達。8 月 18 日全天內，登陸部隊都缺乏重武器支援。</p>"
 
 msgid "IDS_PCQM099_SHUMSHU_DESC"
-msgstr "<p>8 月 18 日 5 時許接到蘇軍登陸報告後，日軍第 91 師團司令部命令第 11 戰車聯隊向國端岬移動，第 73 旅團長集結所有兵力殲滅敵軍。同時從幌筵島調遣第 74 旅團兩個大隊和兩棲戰車中隊增援。</p><p class=\"p_spacing\"> </p><p>舒托夫少校的先遣隊在5時40分抵達171和165高地攻擊發起線。半小時後開始進攻。僅有輕武器的陸戰隊員在日軍炮火和機槍壓制下緩慢推進，逐個清除火力點。近 10 時奪取 165 高地。水兵長尼古拉˙亞歷山德羅維奇˙維爾科夫在此壯烈犧牲——在手榴彈未能摧毀敵永備火力點時，用身體堵住槍眼。但 9 時 30 分日軍在輕戰車中隊支援下猛烈反撲，擊退陸戰隊員約 300 米，損失 11 輛戰車中的 7 輛。</p><p class=\"p_spacing\"> </p><p>11 時許，138 步兵團抵達先遣隊戰線，兩小時後 373 團跟進。但部隊登陸後需要時間重整。101 師副師長阿爾秋申上校接管所有登陸部隊指揮權。14 時，日軍第 11 戰車聯隊主力在無步兵支援情況下攻擊蘇軍陣地，被反坦克槍手和手榴彈擊退，17輛戰車被毀，聯隊長陣亡。15 時後，三次負傷的舒托夫少將將 171 高地指揮權移交陸戰營長波奇塔廖夫少校。17 時，蘇軍陸戰隊員和步兵再次進攻高地，21 時完全佔領並鞏固陣地。</p>"
+msgstr "<p>8 月 18 日 5 時許接到蘇軍登陸報告後，日軍第 91 師團司令部命令第 11 戰車聯隊向國端岬移動，第 73 旅團長集結所有兵力殲滅敵軍。同時從幌筵島調遣第 74 旅團兩個大隊和兩棲戰車中隊增援。</p><p class=\"p_spacing\"> </p><p>舒托夫少校的先遣隊在 5 時 40 分抵達 171 和 165 高地攻擊發起線。半小時後開始進攻。僅有輕武器的陸戰隊員在日軍炮火和機槍壓制下緩慢推進，逐個清除火力點。近 10 時奪取 165 高地。水兵長尼古拉·亞歷山德羅維奇·維爾科夫在此壯烈犧牲——在手榴彈未能摧毀敵永備火力點時，用身體堵住槍眼。但 9 時 30 分日軍在輕戰車中隊支援下猛烈反撲，擊退陸戰隊員約 300 米，損失 11 輛戰車中的 7 輛。</p><p class=\"p_spacing\"> </p><p>11 時許，138 步兵團抵達先遣隊戰線，兩小時後 373 團跟進。但部隊登陸後需要時間重整。101 師副師長阿爾秋申上校接管所有登陸部隊指揮權。14 時，日軍第 11 戰車聯隊主力在無步兵支援情況下攻擊蘇軍陣地，被反坦克槍手和手榴彈擊退，17輛戰車被毀，聯隊長陣亡。15 時後，三次負傷的舒托夫少將將 171 高地指揮權移交陸戰營長波奇塔廖夫少校。17 時，蘇軍陸戰隊員和步兵再次進攻高地，21 時完全佔領並鞏固陣地。</p>"
 
 msgid "IDS_PCQM100_SHUMSHU_DESC"
 msgstr "<p>先遣隊登陸後，立即派出陸戰連消滅琴平岬岸炮陣地，但對堅固支撐點束手無策。由於無線電裝置在登陸中損壞，直到 18 日下午才與島上部隊建立穩定聯絡。結果步兵團在推進時未分兵清除登陸場側翼妨礙火炮解除安裝的永備工事。8 月 18 日夜，第 119 工兵營突擊組和陸戰隊員開始用炸藥爆破國端岬和琴平岬的永備工事。次日 11 時完成任務，首批火炮由人力運抵前線。</p><p class=\"p_spacing\"> </p><p>同時 18 日晚日軍向阿爾秋申派出軍使遞交停戰檔案，次日上午談判投降事宜。19 日 17 時，堪察加防區司令與第 73 旅團長、第 91 師參謀長會晤。但 8 月 20 日 10 時蘇軍戰艦接近舒姆舒島南端柏原基地時，仍遭到 150 毫米岸炮射擊。第 128 航空師實施轟炸還擊。</p><p class=\"p_spacing\"> </p><p>最終在 8 月 21 日 7 時，日軍師團長收到投降最後通牒，101 師準備強攻。21 時 40 分得到答覆：「北大千島群島日軍停止一切戰鬥行動，放下武器投降。」舒姆舒島投降將校包括 3 名將軍、525 名軍官和 11700 名士兵。堪察加防區登陸部隊陣亡 516 人，失蹤 329 人，負傷 716 人。遠東二戰終章就此落幕。</p>"
@@ -72107,7 +72107,7 @@ msgid "IDS_PCQM103_MAKAROV_DESC"
 msgstr "<p>日俄戰爭前夕，俄羅斯統帥部意識到必須加強太平洋艦隊實力。1903 年，由維倫紐斯少將率領的分艦隊從波羅的海出發奔赴遠東。但戰爭爆發後，該分艦隊在紅海就接到返回波羅的海的命令。這些艦艇後來被編入太平洋第二分艦隊，其任務是與太平洋第一分艦隊會師並奪取制海權。</p><p class=\"p_spacing\"> </p><p>遠征遠東是項艱鉅的任務——沿途沒有俄羅斯海軍基地，而外國港口受中立條款限制，無法提供支援。為此太平洋第二分艦隊配備了拖船、醫院船、浮動車間和運輸船，負責供應燃煤、食品和淡水。</p><p class=\"p_spacing\"> </p><p>1904 年 10 月，羅熱斯特文斯基中將率領太平洋第二分艦隊離開波羅的海，經北海穿越英吉利海峽進入大西洋。在直布羅陀，吃水較淺的艦艇分隊在費爾克薩姆少將指揮下經地中海和蘇伊士運河，與繞行非洲西海岸的主力在馬達加斯加會合。</p><p class=\"p_spacing\"> </p><p>旅順陷落和太平洋第一分艦隊覆滅的訊息，使俄羅斯水兵在馬達加斯加等待波羅的海增援部隊達兩個月之久。1905 年 3 月，羅熱斯特文斯基未等第三太平洋分艦隊抵達，就率部橫渡印度洋。兩支艦隊後來在南中國海會師。</p><p class=\"p_spacing\"> </p><p>為突破至海參崴，俄軍選擇了最短且無雷區與航行風險的路線——通過對馬海峽。1905 年 5 月，決定日俄戰爭命運的海戰在對馬島附近海域展開。</p>"
 
 msgid "IDS_PCQM104_MAKAROV_DESC"
-msgstr "<p>作為島國，舊日本帝國高度依賴海上物資運輸。1904 年 7 月，海參崴巡洋艦分隊駛入太平洋，前往日本最繁忙的航線上活動。雖然穿越津輕海峽時被日軍發現併發出警報，但隱蔽性的喪失並未影響行動成功。</p><p class=\"p_spacing\"> </p><p>該分隊在東京灣和津輕海峽附近攔截檢查了 12 艘貨船，並擊沉其中 7 艘。考慮到燃煤儲備，分艦隊司令葉森少將決定再次突破津輕海峽。最終全員無損地返回海參崴。</p><p class=\"p_spacing\"> </p><p>黃海海戰後，二等防護巡洋艦諾維克號在青島港補煤。艦長馮˙舒爾茨中校率艦沿日本東海岸航行前往海參崴，但在庫頁島科爾薩科夫港補煤時被日艦對馬號發現並追擊，最終由船員自行鑿沉。</p><p class=\"p_spacing\"> </p><p>1904 年 8 月，輔助巡洋艦勒拿號被派往太平洋，該艦 6 月曾在對朝鮮元山港的襲擊中擊沉兩艘日本貨船。但勒拿號因機械故障中斷了在舊金山-橫濱航線的巡航行動，直到戰爭結束前都被扣留在舊金山。俄羅斯巡洋艦最後一次在太平洋出現是 1905 年 5 月——捷列克號和庫班號擊沉了兩艘向日本運輸軍火的蒸汽船。</p>"
+msgstr "<p>作為島國，舊日本帝國高度依賴海上物資運輸。1904 年 7 月，海參崴巡洋艦分隊駛入太平洋，前往日本最繁忙的航線上活動。雖然穿越津輕海峽時被日軍發現併發出警報，但隱蔽性的喪失並未影響行動成功。</p><p class=\"p_spacing\"> </p><p>該分隊在東京灣和津輕海峽附近攔截檢查了 12 艘貨船，並擊沉其中 7 艘。考慮到燃煤儲備，分艦隊司令葉森少將決定再次突破津輕海峽。最終全員無損地返回海參崴。</p><p class=\"p_spacing\"> </p><p>黃海海戰後，二等防護巡洋艦諾維克號在青島港補煤。艦長馮·舒爾茨中校率艦沿日本東海岸航行前往海參崴，但在庫頁島科爾薩科夫港補煤時被日艦對馬號發現並追擊，最終由船員自行鑿沉。</p><p class=\"p_spacing\"> </p><p>1904 年 8 月，輔助巡洋艦勒拿號被派往太平洋，該艦 6 月曾在對朝鮮元山港的襲擊中擊沉兩艘日本貨船。但勒拿號因機械故障中斷了在舊金山-橫濱航線的巡航行動，直到戰爭結束前都被扣留在舊金山。俄羅斯巡洋艦最後一次在太平洋出現是 1905 年 5 月——捷列克號和庫班號擊沉了兩艘向日本運輸軍火的蒸汽船。</p>"
 
 msgid "IDS_PCQM105_MAKAROV_DESC"
 msgstr "<p>日本海是海參崴巡洋艦分隊的活動區域。從戰爭伊始，該分隊就威脅著日本的海上交通線及日朝沿岸港口，成功擊沉多艘運輸船和部隊運輸艦。其大膽的作戰行動牽制了部分日本艦隊兵力，但活動範圍限於日本海，僅有一次經津輕海峽進入太平洋。</p><p class=\"p_spacing\"> </p><p>日軍則採取了報復行動：炮擊海參崴，在接近航道佈設水雷，並試圖截擊俄巡洋艦分隊。1904 年夏，當俄羅斯巡洋艦馳援太平洋第一分艦隊時，日軍在朝鮮海峽成功攔截。留裡克號被擊沉，俄羅斯號和格羅姆鮑伊號遭重創撤回海參崴。</p><p class=\"p_spacing\"> </p><p>1905 年春對馬海戰前夕，俄羅斯號和格羅姆鮑伊號最後一次作戰巡航至津輕海峽，驅逐艦則前往北海道。雖然擊沉數艘縱帆船，但日軍未予反擊，而是全力備戰太平洋第二分艦隊。1905 年 5 月的對馬海戰成為戰爭轉折點，俄羅斯艦隊慘敗，僅有巡洋艦金剛石號和驅逐艦勇敢號、格羅茲尼號抵達海參崴。</p><p class=\"p_spacing\"> </p><p>1905 年夏，日軍實施兩棲作戰佔領庫頁島。但直至戰爭結束，日軍始終未對海參崴和尼古拉耶夫斯克發動積極攻勢，主要忌憚俄羅斯的潛艦、水雷、水面艦艇和岸防炮臺。</p>"
@@ -72319,7 +72319,7 @@ msgid "IDS_PCVE030"
 msgstr "最終兵器：隔離"
 
 msgid "IDS_PCVE030_DESCRIPTION"
-msgstr "埃爾梅琳達˙榮格與獵犬分艦隊之間的非對稱作戰。選擇其中一方並找到您的戰術！"
+msgstr "埃爾梅琳達·榮格與獵犬分艦隊之間的非對稱作戰。選擇其中一方並找到您的戰術！"
 
 msgid "IDS_PCVE030_HOUND_BATTLE_RULES_PARAGRAPH_1_HEADER"
 msgstr "重返戰場"
@@ -73482,7 +73482,7 @@ msgid "IDS_PCZC041_DUNKIRK_ARONIA"
 msgstr "Aronia 遊艇 (英國)"
 
 msgid "IDS_PCZC041_DUNKIRK_ARONIA_DESCRIPTION"
-msgstr "1929年，在英國億萬富翁的要求下於哥本哈根建造了 65公尺長的 Aronia 鋼製遊艇。奢華的內裝就像諾曼第橫渡大西洋的客輪一樣精緻。兩台柴油引擎提供了 30 節的航速。在戰爭的一開始，Aronia 被動員起來並參加敦克爾克撤離行動。戰爭期間，這艘高速艦艇秘密前往了瑞典以提供戰略物資──飛機引擎和戰車生產時不可或缺的滾珠軸承。1945 年，該遊艇被歸還給了她的業主並按預期中的使用了一段時間。五零年代後期，溫斯頓˙丘吉爾搭乘她遊覽了地中海。"
+msgstr "1929年，在英國億萬富翁的要求下於哥本哈根建造了 65公尺長的 Aronia 鋼製遊艇。奢華的內裝就像諾曼第橫渡大西洋的客輪一樣精緻。兩台柴油引擎提供了 30 節的航速。在戰爭的一開始，Aronia 被動員起來並參加敦克爾克撤離行動。戰爭期間，這艘高速艦艇秘密前往了瑞典以提供戰略物資──飛機引擎和戰車生產時不可或缺的滾珠軸承。1945 年，該遊艇被歸還給了她的業主並按預期中的使用了一段時間。五零年代後期，溫斯頓·丘吉爾搭乘她遊覽了地中海。"
 
 msgid "IDS_PCZC042_DUNKIRK_JOHNCATTLING"
 msgstr "John Cattling 拖網漁船 (英國)"
@@ -76330,7 +76330,7 @@ msgid "IDS_PCZC316_AZURLANE_ADMIRALHIPPER"
 msgstr "Admiral Hipper"
 
 msgid "IDS_PCZC316_AZURLANE_ADMIRALHIPPER_DESCRIPTION"
-msgstr "<p>我是鐵血第三帝國帝國希佩爾海軍上將號重巡洋艦，名字源於「不敗的名將」弗蘭茨˙馮˙希佩爾。</p><p class=\"p_spacing\"> </p><p>參與過各種各樣的戰鬥並在每場戰鬥中都盡了最大的努力！</p><p class=\"p_spacing\"> </p><p>哈？巴倫支海？那是因為庫默茲比你還愚蠢！</p>"
+msgstr "<p>我是鐵血第三帝國帝國希佩爾海軍上將號重巡洋艦，名字源於「不敗的名將」弗蘭茨·馮·希佩爾。</p><p class=\"p_spacing\"> </p><p>參與過各種各樣的戰鬥並在每場戰鬥中都盡了最大的努力！</p><p class=\"p_spacing\"> </p><p>哈？巴倫支海？那是因為庫默茲比你還愚蠢！</p>"
 
 msgid "IDS_PCZC317_AZURLANE_DEUTSCHLAND"
 msgstr "Deutschland"
@@ -76432,7 +76432,7 @@ msgid "IDS_PCZC333_AZURLANE_JEANBART"
 msgstr "Jean Bart"
 
 msgid "IDS_PCZC333_AZURLANE_JEANBART_DESCRIPTION"
-msgstr "<p>我是主力艦讓˙巴爾，這名字源於「受人敬仰」的某位私掠船船長……</p><p class=\"p_spacing\"> </p><p>嗯？你問私掠船是什麼？哼，就是打著國家大義名號，公然搶劫的海盜船啊。</p>"
+msgstr "<p>我是主力艦讓·巴爾，這名字源於「受人敬仰」的某位私掠船船長……</p><p class=\"p_spacing\"> </p><p>嗯？你問私掠船是什麼？哼，就是打著國家大義名號，公然搶劫的海盜船啊。</p>"
 
 msgid "IDS_PCZC334_AZURLANE_LEMARS"
 msgstr "Le Mars"
@@ -76612,7 +76612,7 @@ msgid "IDS_PCZC355_SOVIETBBARC_ADMIRAL"
 msgstr "海軍元帥Sovietskogo Soyuza（1955年）"
 
 msgid "IDS_PCZC355_SOVIETBBARC_ADMIRAL_DESCRIPTION"
-msgstr "<p>尼古拉˙庫茲涅佐夫由於與黨內高層發生衝突，整個生涯中經歷了多次起落。軍銜升了又降。在他的回憶錄中，他曾自嘲自己是海軍中的另類：他曾兩次當過海軍少將，三次當過海軍副上將，兩次當過海軍元帥。</p><p class=\"p_spacing\"> </p><p>1955 年 5 月，海軍元帥軍銜改名為蘇聯海軍元帥。晉升蘇聯海軍元帥的將官被授予元帥星。元帥星佩戴於制服的領口。從 1952 年開始，海軍元帥開始著裝元帥禮服，這是一套帶有金色肩章、金絲刺繡翻領的黑色軍禮服。軍帽上的帽徽也帶有特殊的刺繡圖案。</p>"
+msgstr "<p>尼古拉·庫茲涅佐夫由於與黨內高層發生衝突，整個生涯中經歷了多次起落。軍銜升了又降。在他的回憶錄中，他曾自嘲自己是海軍中的另類：他曾兩次當過海軍少將，三次當過海軍副上將，兩次當過海軍元帥。</p><p class=\"p_spacing\"> </p><p>1955 年 5 月，海軍元帥軍銜改名為蘇聯海軍元帥。晉升蘇聯海軍元帥的將官被授予元帥星。元帥星佩戴於制服的領口。從 1952 年開始，海軍元帥開始著裝元帥禮服，這是一套帶有金色肩章、金絲刺繡翻領的黑色軍禮服。軍帽上的帽徽也帶有特殊的刺繡圖案。</p>"
 
 msgid "IDS_PCZC356_SOVIETBBARC_305MM_SHELL"
 msgstr "Model 1911 305毫米砲彈"
@@ -76983,7 +76983,7 @@ msgid "IDS_PCZC396_ITCA_DUCA_DAOSTA_DESCRIPTION"
 msgstr ""
 "並非所有的義大利皇家海軍輕型巡洋艦都以中世紀指揮僱傭兵團的隊長—condottieri 的名字命名。例如，於 1934 年下水的第四艘 Condottieri 級艦艇的領艦，是以國王的堂親和義大利元帥奧斯塔公爵 Emanuele Filiberto（1869–1931 年）命名的。\n"
 "\n"
-"第一次世界大戰期間，Emanuele Filiberto 指揮了在威尼斯北部的第三部隊。他是維托里歐˙威尼托戰役取得勝利的英雄之一，沒有遭受一次嚴重失敗，因此被暱稱為「無敵公爵」（義大利語：「 Duca Invitto」）。以他命名的巡洋艦的座右銘是拉丁文的格言：「勝利賦予我們生命」。艦艇船員的紀念勳章描繪了十字架，而十字架又被授予在公爵軍隊中服役的人員。"
+"第一次世界大戰期間，Emanuele Filiberto 指揮了在威尼斯北部的第三部隊。他是維托里歐·威尼托戰役取得勝利的英雄之一，沒有遭受一次嚴重失敗，因此被暱稱為「無敵公爵」（義大利語：「 Duca Invitto」）。以他命名的巡洋艦的座右銘是拉丁文的格言：「勝利賦予我們生命」。艦艇船員的紀念勳章描繪了十字架，而十字架又被授予在公爵軍隊中服役的人員。"
 
 msgid "IDS_PCZC397_ITCA_TRENTO"
 msgstr "Trento"
@@ -79859,16 +79859,16 @@ msgid "IDS_PCZC804_SCARLET_BIRTHDAY_1_6_DESCRIPTION"
 msgstr "這是一頂傳說中的頭盔，屬於一位首次踏上火星紅色平原的英雄。原件目前收藏在進步部博物館，是未來宇航員和天體物理學家科學朝聖的物件。其複製品則是送給青年才俊的最佳畢業禮物。"
 
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1"
-msgstr "米哈伊爾˙奧爾洛夫"
+msgstr "米哈伊爾·奧爾洛夫"
 
 msgid "IDS_PCZC805_SCARLET_BIRTHDAY_2_1_DESCRIPTION"
-msgstr "<p>他是進步部一位勇敢、富有魅力且洞察力敏銳的督察。米哈伊爾˙奧爾洛夫在國際太空棧橋事件後，成為了眾人皆知的英雄。</p><p class=\"p_spacing\"> </p><p>他自幼便飽讀正典書籍。正是渴望成為書中那些心儀角色的願望，造就了這位熱衷於冒險的督察。他總是滿懷激情地投身於事件的最核心處，常常將自己的安危置之度外。</p><p class=\"p_spacing\"> </p><p>對米哈伊爾而言，不存在「不可能」這個詞。他的座右銘是：「看見目標，無視障礙。」不過，說實話，有一件事是這位督察永遠無法允許自己做的——那就是將他人置於危險之中。「寧可犧牲自己，也要拯救同志」——這是他另一條人生信條。</p>"
+msgstr "<p>他是進步部一位勇敢、富有魅力且洞察力敏銳的督察。米哈伊爾·奧爾洛夫在國際太空棧橋事件後，成為了眾人皆知的英雄。</p><p class=\"p_spacing\"> </p><p>他自幼便飽讀正典書籍。正是渴望成為書中那些心儀角色的願望，造就了這位熱衷於冒險的督察。他總是滿懷激情地投身於事件的最核心處，常常將自己的安危置之度外。</p><p class=\"p_spacing\"> </p><p>對米哈伊爾而言，不存在「不可能」這個詞。他的座右銘是：「看見目標，無視障礙。」不過，說實話，有一件事是這位督察永遠無法允許自己做的——那就是將他人置於危險之中。「寧可犧牲自己，也要拯救同志」——這是他另一條人生信條。</p>"
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2"
-msgstr "安東˙格蘭特"
+msgstr "安東·格蘭特"
 
 msgid "IDS_PCZC806_SCARLET_BIRTHDAY_2_2_DESCRIPTION"
-msgstr "<p>從外表看，這位古板而一絲不苟的紳士或許顯得不那麼平易近人。那審視的目光、冷硬的語調——足以讓任何不熟悉格蘭特上將的人感到侷促不安。</p><p class=\"p_spacing\"> </p><p>歷經多次衝突的格蘭特上將，曾不止一次激勵人們建立功勳。所有曾與他並肩作戰的同袍都能篤定地說：他不僅是一位卓越的指揮官，更是一位真正的摯友。</p><p class=\"p_spacing\"> </p><p>「風度是男人的門面。」這位著名的上將即使在戰場上，或是在被錘子砸到手指後，依然謹記此言。</p><p class=\"p_spacing\"> </p><p>然而，在這嚴肅的外表之下，卻隱藏著一個頗為有趣的靈魂。原來，安東˙格蘭特的小提琴拉得相當不錯，而他那些地道的英式幽默，更是俘獲了不止一位少女的芳心。</p>"
+msgstr "<p>從外表看，這位古板而一絲不苟的紳士或許顯得不那麼平易近人。那審視的目光、冷硬的語調——足以讓任何不熟悉格蘭特上將的人感到侷促不安。</p><p class=\"p_spacing\"> </p><p>歷經多次衝突的格蘭特上將，曾不止一次激勵人們建立功勳。所有曾與他並肩作戰的同袍都能篤定地說：他不僅是一位卓越的指揮官，更是一位真正的摯友。</p><p class=\"p_spacing\"> </p><p>「風度是男人的門面。」這位著名的上將即使在戰場上，或是在被錘子砸到手指後，依然謹記此言。</p><p class=\"p_spacing\"> </p><p>然而，在這嚴肅的外表之下，卻隱藏著一個頗為有趣的靈魂。原來，安東·格蘭特的小提琴拉得相當不錯，而他那些地道的英式幽默，更是俘獲了不止一位少女的芳心。</p>"
 
 msgid "IDS_PCZC807_SCARLET_BIRTHDAY_2_3"
 msgstr "機器人 GM-22D"
@@ -79889,10 +79889,10 @@ msgid "IDS_PCZC809_SCARLET_BIRTHDAY_2_5_DESCRIPTION"
 msgstr "<p>這是一隻宇航員之犬，陪伴著第一批太空探索者踏上星際之旅。在軌道上度過的時間裡，她成為了飛船乘員忠實的朋友和舒適家園的象徵。阿斯特拉的嗅覺靈敏，鼻子冰涼，最重要的是她非常聰明。從一開始，她就明白什麼是切向旋轉器，以及什麼時候該把它帶給誰。</p><p class=\"p_spacing\"> </p><p>好女孩</p>"
 
 msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6"
-msgstr "阿爾卡季˙庫利賓"
+msgstr "阿爾卡季·庫利賓"
 
 msgid "IDS_PCZC810_SCARLET_BIRTHDAY_2_6_DESCRIPTION"
-msgstr "<p>天才、工作狂、女性之友、慈善家……阿爾卡季˙庫利賓是時尚眼鏡與潮流服飾的狂熱愛好者。但別被表象迷惑，這位看似玩世不恭的迪斯可愛好者，實則是當代人類最偉大的智者之一。</p><p class=\"p_spacing\"> </p><p>他勤勉專注、獻身科研，曾與摯友兼同事鮑里斯˙文納爾共同參與創造了後來被稱為「智慧」的人工智慧系統。</p><p class=\"p_spacing\"> </p><p>如今阿爾卡季˙庫利賓執掌 MK 聯合研究所，麾下匯聚數千名科研人員，涵蓋機器人專家、工程師、分子生物學家及航天領域專才。</p><p class=\"p_spacing\"> </p><p>正是庫利賓慧眼識珠，為天才少女魏松叩開了科學世界的大門。</p>"
+msgstr "<p>天才、工作狂、女性之友、慈善家……阿爾卡季·庫利賓是時尚眼鏡與潮流服飾的狂熱愛好者。但別被表象迷惑，這位看似玩世不恭的迪斯可愛好者，實則是當代人類最偉大的智者之一。</p><p class=\"p_spacing\"> </p><p>他勤勉專注、獻身科研，曾與摯友兼同事鮑里斯·文納爾共同參與創造了後來被稱為「智慧」的人工智慧系統。</p><p class=\"p_spacing\"> </p><p>如今阿爾卡季·庫利賓執掌 MK 聯合研究所，麾下匯聚數千名科研人員，涵蓋機器人專家、工程師、分子生物學家及航天領域專才。</p><p class=\"p_spacing\"> </p><p>正是庫利賓慧眼識珠，為天才少女魏松叩開了科學世界的大門。</p>"
 
 msgid "IDS_PCZC811_SCARLET_BIRTHDAY_3_1"
 msgstr "國際太空棧橋"
@@ -80210,25 +80210,25 @@ msgid "IDS_PCZC893_ARIA_3_1"
 msgstr "吉他"
 
 msgid "IDS_PCZC893_ARIA_3_1_DESCRIPTION"
-msgstr "佛拉迪米爾˙霍爾斯金（Владимир Холстинин）的吉他。這把俄羅斯製造的樂器是專門為這位樂手製作的，製造耗時兩年。"
+msgstr "佛拉迪米爾·霍爾斯金（Владимир Холстинин）的吉他。這把俄羅斯製造的樂器是專門為這位樂手製作的，製造耗時兩年。"
 
 msgid "IDS_PCZC894_ARIA_3_2"
 msgstr "吉他"
 
 msgid "IDS_PCZC894_ARIA_3_2_DESCRIPTION"
-msgstr "謝爾蓋˙波波夫（Сергея Попов）的吉他。對這位樂手來說，這把稀有的樂器是他尋覓已久的珍品。"
+msgstr "謝爾蓋·波波夫（Сергея Попов）的吉他。對這位樂手來說，這把稀有的樂器是他尋覓已久的珍品。"
 
 msgid "IDS_PCZC895_ARIA_3_3"
 msgstr "貝斯"
 
 msgid "IDS_PCZC895_ARIA_3_3_DESCRIPTION"
-msgstr "維塔利˙杜比寧（Виталий Дубинин）的低音吉他。這位樂手用網上訂購的各種零件組裝了這把樂器。"
+msgstr "維塔利·杜比寧（Виталий Дубинин）的低音吉他。這位樂手用網上訂購的各種零件組裝了這把樂器。"
 
 msgid "IDS_PCZC896_ARIA_3_4"
 msgstr "架子鼓"
 
 msgid "IDS_PCZC896_ARIA_3_4_DESCRIPTION"
-msgstr "馬克西姆˙烏達洛夫（Максим Удалов）的架子鼓。其特點之一是架子可自由調節傾斜度。"
+msgstr "馬克西姆·烏達洛夫（Максим Удалов）的架子鼓。其特點之一是架子可自由調節傾斜度。"
 
 msgid "IDS_PCZC897_ARIA_3_5"
 msgstr "獎品吉他"
@@ -80300,7 +80300,7 @@ msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1"
 msgstr "瓦西里莎"
 
 msgid "IDS_PCZC908_SCARLET_BIRTHDAY_2_2_1_DESCRIPTION"
-msgstr "瓦西里莎——進步部的傑出研究員，曾陪同米哈伊爾˙奧爾洛夫前往 MK-8 戰場遺址進行考察。年僅 25 歲的她，已是公認最具潛力的青年科學家之一。作為阿爾卡季˙庫利賓最得意的門生，瓦西里莎在奧爾洛夫的科研探索中提供了無可替代的幫助。她敏銳的思維與創新的科學方法，使其在調查 MK-8 事件及後續奧爾洛夫的任務中成為不可或缺的關鍵人物。"
+msgstr "瓦西里莎——進步部的傑出研究員，曾陪同米哈伊爾·奧爾洛夫前往 MK-8 戰場遺址進行考察。年僅 25 歲的她，已是公認最具潛力的青年科學家之一。作為阿爾卡季·庫利賓最得意的門生，瓦西里莎在奧爾洛夫的科研探索中提供了無可替代的幫助。她敏銳的思維與創新的科學方法，使其在調查 MK-8 事件及後續奧爾洛夫的任務中成為不可或缺的關鍵人物。"
 
 msgid "IDS_PCZC909_SCARLET_BIRTHDAY_2_2_2"
 msgstr "智慧懸浮不倒翁"
@@ -80321,7 +80321,7 @@ msgid "IDS_PCZC911_SCARLET_BIRTHDAY_2_2_4_DESCRIPTION"
 msgstr "<p>「深淵」裝置能夠精確測定深度並分析海底結構。該設備既用於新建水下設施，也用於探測海洋異常現象。其卓越的可靠性與高精度確保了即使在最嚴苛環境下也能成功完成任務。</p><p class=\"p_spacing\"> </p><p>秉承「能用即不改」的原則，MK-9 的工程師們從未對「深淵」進行升級改造。二十年來這台儀器始終保持原貌，其簡約設計令人著迷。在技術飛速發展的時代，設計者們以此向人類過往的輝煌成就致敬。</p>"
 
 msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5"
-msgstr "米哈伊爾˙奧爾洛夫的筆記本"
+msgstr "米哈伊爾·奧爾洛夫的筆記本"
 
 msgid "IDS_PCZC912_SCARLET_BIRTHDAY_2_2_5_DESCRIPTION"
 msgstr "進步部視察員的筆記本從不離身。這本 150 頁的筆記本是他在 1970 年首個海洋綜合體建成時收到的禮物。大家都知道奧爾洛夫把筆記本放在夾克的內袋裡，但沒有人知道里面到底寫了什麼。有人猜測筆記本上記錄了關於 MK-8 事件的加密資料。也許，他只是喜歡在上面畫畫？"
@@ -80486,13 +80486,13 @@ msgid "IDS_PCZC939_UTOPIA_1_1"
 msgstr "聖誕老人的葬送者"
 
 msgid "IDS_PCZC939_UTOPIA_1_1_DESCRIPTION"
-msgstr "<p>1932 年，經濟大蕭條期間，亞利桑那州梅薩市的商店老闆們正經歷艱難時期。臨近一年一度的聖誕遊行，商家們急需吸引人群前來購物。</p><p class=\"p_spacing\"> </p><p>當地報紙編輯約翰˙麥克菲提出了一個創意：僱傭一名跳傘員，穿著聖誕老人的服裝從飛機上跳傘降落到城外的田野上，然後由警察護送到遊行現場分發禮物。</p><p class=\"p_spacing\"> </p><p>在遊行當天，跳傘員臨時退出。情急之下，麥克菲用商店裡的一個人偶替代。他給人偶穿上聖誕老人服裝，並從飛機上推下去。不幸的是，降落傘未能開啟，人偶在孩子們的注視下摔落地面。</p><p class=\"p_spacing\"> </p><p>麥克菲試圖挽救局面，自己穿上聖誕老人服裝與孩子們互動。但孩子們相信聖誕老人已經死了。後來，麥克菲就被稱為「聖誕老人的葬送者」。</p>"
+msgstr "<p>1932 年，經濟大蕭條期間，亞利桑那州梅薩市的商店老闆們正經歷艱難時期。臨近一年一度的聖誕遊行，商家們急需吸引人群前來購物。</p><p class=\"p_spacing\"> </p><p>當地報紙編輯約翰·麥克菲提出了一個創意：僱傭一名跳傘員，穿著聖誕老人的服裝從飛機上跳傘降落到城外的田野上，然後由警察護送到遊行現場分發禮物。</p><p class=\"p_spacing\"> </p><p>在遊行當天，跳傘員臨時退出。情急之下，麥克菲用商店裡的一個人偶替代。他給人偶穿上聖誕老人服裝，並從飛機上推下去。不幸的是，降落傘未能開啟，人偶在孩子們的注視下摔落地面。</p><p class=\"p_spacing\"> </p><p>麥克菲試圖挽救局面，自己穿上聖誕老人服裝與孩子們互動。但孩子們相信聖誕老人已經死了。後來，麥克菲就被稱為「聖誕老人的葬送者」。</p>"
 
 msgid "IDS_PCZC940_UTOPIA_1_2"
 msgstr "汽車馬球"
 
 msgid "IDS_PCZC940_UTOPIA_1_2_DESCRIPTION"
-msgstr "<p>汽車馬球是一項規則和裝備與馬球相同的運動，但使用的不是馬，而是汽車。汽車馬球起源於美國，流行於 20 世紀 10 年代和 20 年代。</p><p class=\"p_spacing\"> </p><p>汽車馬球的發明者被認為是福特汽車銷售代理拉爾夫˙漢金森（Ralph Hankinson）。漢金森於 1911 年發明了這項運動，作為一種宣傳噱頭，以促進福特T型汽車的銷售。1912 年 7 月 20 日，第一場正式的汽車馬球賽在堪薩斯州威奇托的一片苜蓿地裡舉行，八名選手駕駛四輛汽車參賽。5000 名觀眾觀看了比賽。此後，在汽車馬球協會的支援下，全國各地紛紛成立了地方聯盟，到 20 世紀 20 年代，紐約和芝加哥已成為美國汽車馬球運動的主要中心。</p><p class=\"p_spacing\"> </p><p>到20世紀20年代末，汽車馬球運動的受歡迎程度逐漸減弱，因為這項運動對參與者和觀眾來說都非常危險，而且還會對汽車造成嚴重損壞。汽車經常相撞、相互緊貼，運動員被甩出車外，摔倒在地，被其他汽車的車輪撞到。通常情況下，比賽結束時，大多數汽車都已嚴重損壞或完全毀壞。</p>"
+msgstr "<p>汽車馬球是一項規則和裝備與馬球相同的運動，但使用的不是馬，而是汽車。汽車馬球起源於美國，流行於 20 世紀 10 年代和 20 年代。</p><p class=\"p_spacing\"> </p><p>汽車馬球的發明者被認為是福特汽車銷售代理拉爾夫·漢金森（Ralph Hankinson）。漢金森於 1911 年發明了這項運動，作為一種宣傳噱頭，以促進福特T型汽車的銷售。1912 年 7 月 20 日，第一場正式的汽車馬球賽在堪薩斯州威奇托的一片苜蓿地裡舉行，八名選手駕駛四輛汽車參賽。5000 名觀眾觀看了比賽。此後，在汽車馬球協會的支援下，全國各地紛紛成立了地方聯盟，到 20 世紀 20 年代，紐約和芝加哥已成為美國汽車馬球運動的主要中心。</p><p class=\"p_spacing\"> </p><p>到20世紀20年代末，汽車馬球運動的受歡迎程度逐漸減弱，因為這項運動對參與者和觀眾來說都非常危險，而且還會對汽車造成嚴重損壞。汽車經常相撞、相互緊貼，運動員被甩出車外，摔倒在地，被其他汽車的車輪撞到。通常情況下，比賽結束時，大多數汽車都已嚴重損壞或完全毀壞。</p>"
 
 msgid "IDS_PCZC941_UTOPIA_1_3"
 msgstr "耶夫勒山羊"
@@ -80510,7 +80510,7 @@ msgid "IDS_PCZC943_UTOPIA_2_1"
 msgstr "穿運動鞋的鵝"
 
 msgid "IDS_PCZC943_UTOPIA_2_1_DESCRIPTION"
-msgstr "<p>安迪（1987-1991）是一隻天生腿部沒有蹼的鵝，為了能夠站立和行走，它穿上了運動鞋。</p><p class=\"p_spacing\"> </p><p>安迪出生在內布拉斯加州的一個農場裡。發明家兼慈善家吉恩˙弗萊明發現了它，並決定幫助這隻鵝。起初，弗萊明試圖為它安裝類似滑板的假肢，但並不成功。後來，發明家嘗試給這隻鵝穿上經過特殊改裝的兒童運動鞋，安迪終於學會了走路。</p><p class=\"p_spacing\"> </p><p>安迪的故事引起了公眾的關注，一家大型製鞋商承諾向這隻鵝提供終身供應的運動鞋 — 這隻鵝一個月就穿壞一雙。安迪被認為是殘疾人的希望之源。</p><p class=\"p_spacing\"> </p><p>安迪於 1991 年 10 月 19 日失蹤，第二天被發現死在當地的一個公園裡。這一事件引起了公眾的強烈抗議，但一時卻找不到兇手。後來據報道，警方找到了肇事者，但不願透露他的身份，因為他被認為不適合對犯罪行為負責。</p>"
+msgstr "<p>安迪（1987-1991）是一隻天生腿部沒有蹼的鵝，為了能夠站立和行走，它穿上了運動鞋。</p><p class=\"p_spacing\"> </p><p>安迪出生在內布拉斯加州的一個農場裡。發明家兼慈善家吉恩·弗萊明發現了它，並決定幫助這隻鵝。起初，弗萊明試圖為它安裝類似滑板的假肢，但並不成功。後來，發明家嘗試給這隻鵝穿上經過特殊改裝的兒童運動鞋，安迪終於學會了走路。</p><p class=\"p_spacing\"> </p><p>安迪的故事引起了公眾的關注，一家大型製鞋商承諾向這隻鵝提供終身供應的運動鞋 — 這隻鵝一個月就穿壞一雙。安迪被認為是殘疾人的希望之源。</p><p class=\"p_spacing\"> </p><p>安迪於 1991 年 10 月 19 日失蹤，第二天被發現死在當地的一個公園裡。這一事件引起了公眾的強烈抗議，但一時卻找不到兇手。後來據報道，警方找到了肇事者，但不願透露他的身份，因為他被認為不適合對犯罪行為負責。</p>"
 
 msgid "IDS_PCZC944_UTOPIA_2_2"
 msgstr "椰子蟹"
@@ -80528,13 +80528,13 @@ msgid "IDS_PCZC946_UTOPIA_2_4"
 msgstr "貓市長"
 
 msgid "IDS_PCZC946_UTOPIA_2_4_DESCRIPTION"
-msgstr "<p>斯塔布斯是一隻貓，1997-2017 年間曾擔任美國阿拉斯加塔爾基特納定居點的榮譽市長。</p><p class=\"p_spacing\"> </p><p>1997 年，Nagle's 的店長勞裡˙斯特克在停車場發現了一箱小貓。斯特克選擇收養了斯塔布斯，因為它沒有尾巴。小貓在店裡住了下來，很快這個小鎮上的許多人都知道了它。</p><p class=\"p_spacing\"> </p><p>傳說中斯塔布斯在市長選舉中獲得了很多選票。懷疑論者則質疑這一說法 — 塔爾基特納是一個小社群，沒有正式設立市長職位。在納格爾擔任市長期間，他的商店一直是貓的辦公室。每天，斯塔布斯都會去附近的一家餐館用酒杯喝貓薄荷水。</p>"
+msgstr "<p>斯塔布斯是一隻貓，1997-2017 年間曾擔任美國阿拉斯加塔爾基特納定居點的榮譽市長。</p><p class=\"p_spacing\"> </p><p>1997 年，Nagle's 的店長勞裡·斯特克在停車場發現了一箱小貓。斯特克選擇收養了斯塔布斯，因為它沒有尾巴。小貓在店裡住了下來，很快這個小鎮上的許多人都知道了它。</p><p class=\"p_spacing\"> </p><p>傳說中斯塔布斯在市長選舉中獲得了很多選票。懷疑論者則質疑這一說法 — 塔爾基特納是一個小社群，沒有正式設立市長職位。在納格爾擔任市長期間，他的商店一直是貓的辦公室。每天，斯塔布斯都會去附近的一家餐館用酒杯喝貓薄荷水。</p>"
 
 msgid "IDS_PCZC947_UTOPIA_3_1"
 msgstr "寵物石"
 
 msgid "IDS_PCZC947_UTOPIA_3_1_DESCRIPTION"
-msgstr "<p>寵物石是美國文案撰稿人和企業家加里˙達爾在 1975 年創造的一種玩具。這種石頭以類似寵物箱的特殊包裝出售 — 有氣孔和稻草床。</p><p class=\"p_spacing\"> </p><p>加里˙達爾與朋友們坐在酒吧裡，朋友們抱怨照顧寵物很困難，加里˙達爾便萌生了製作寵物石的想法。達爾建議將寵物石作為理想寵物出售：它們不需要餵食、遛彎或洗澡，寵物石不會生病，也不會調皮搗蛋。</p><p class=\"p_spacing\"> </p><p>寵物石的熱銷持續了 6 個月，包括 1975 年的聖誕節，到第二年的 2 月，這種玩具就停產了。最終，達爾以每塊 4 美元的價格售出了超過一百萬塊寵物石，使他成為了百萬富翁。</p>"
+msgstr "<p>寵物石是美國文案撰稿人和企業家加里·達爾在 1975 年創造的一種玩具。這種石頭以類似寵物箱的特殊包裝出售 — 有氣孔和稻草床。</p><p class=\"p_spacing\"> </p><p>加里·達爾與朋友們坐在酒吧裡，朋友們抱怨照顧寵物很困難，加里·達爾便萌生了製作寵物石的想法。達爾建議將寵物石作為理想寵物出售：它們不需要餵食、遛彎或洗澡，寵物石不會生病，也不會調皮搗蛋。</p><p class=\"p_spacing\"> </p><p>寵物石的熱銷持續了 6 個月，包括 1975 年的聖誕節，到第二年的 2 月，這種玩具就停產了。最終，達爾以每塊 4 美元的價格售出了超過一百萬塊寵物石，使他成為了百萬富翁。</p>"
 
 msgid "IDS_PCZC948_UTOPIA_3_2"
 msgstr "巧克力配魚"
@@ -80558,37 +80558,37 @@ msgid "IDS_PCZC951_SPACE_MUSEUM_1_1"
 msgstr "第一顆人造地球衛星"
 
 msgid "IDS_PCZC951_SPACE_MUSEUM_1_1_DESCRIPTION"
-msgstr "<p>它的發射開啟了人類太空時代。</p><p class=\"p_spacing\"> </p><p>莫斯科時間 1957 年 10 月 4 日 22 點 28 分，從拜科努爾發射場起飛的衛星號運載火箭將其送入近地軌道，軌道參數：</p><p class=\"p_spacing\"> </p><p>˙ 近地點高度 — 228 公里；</p><p class=\"p_spacing\"> </p><p>˙ 遠地點高度 — 947 公里。</p><p class=\"p_spacing\"> </p><p>這是在 R-7 洲際彈道導彈基礎上改進的「Sputnik」兩級火箭，首次達成第一宇宙速度，將人造物體送入地球軌道。衛星在環繞地球期間不斷髮射無線電訊號，全世界的業餘無線電愛好者都能接收到。</p><p class=\"p_spacing\"> </p><p>技術資料：</p><p class=\"p_spacing\"> </p><p>˙ 衛星質量 — 83.6 公斤；</p><p class=\"p_spacing\"> </p><p>˙ 衛星主體為直徑 58 公分的球體，上面裝有四根長度分別為 2.4 公分、2.9 公分的天線。</p><p class=\"p_spacing\"> </p><p>球體內部安裝了：</p><p class=\"p_spacing\"> </p><p>˙ 化學電源；</p><p class=\"p_spacing\"> </p><p>˙ 無線電發射裝置；</p><p class=\"p_spacing\"> </p><p>˙ 風扇；</p><p class=\"p_spacing\"> </p><p>˙ 溫控恆溫器與管路系統；</p><p class=\"p_spacing\"> </p><p>˙ 自動控制連線系統；</p><p class=\"p_spacing\"> </p><p>˙ 溫度與壓力感測器；</p><p class=\"p_spacing\"> </p><p>˙ 電纜網路。</p><p class=\"p_spacing\"> </p><p>這顆衛星共飛行了 92 天，完成了 1440 圈繞地飛行後，於 1958 年 1 月 4 日墜入大氣層燒燬。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>科羅廖夫與米哈伊爾˙克拉夫基耶維奇˙吉洪拉沃夫是發射首顆人造地球衛星的倡議人。</p>"
+msgstr "<p>它的發射開啟了人類太空時代。</p><p class=\"p_spacing\"> </p><p>莫斯科時間 1957 年 10 月 4 日 22 點 28 分，從拜科努爾發射場起飛的衛星號運載火箭將其送入近地軌道，軌道參數：</p><p class=\"p_spacing\"> </p><p>• 近地點高度 — 228 公里；</p><p class=\"p_spacing\"> </p><p>• 遠地點高度 — 947 公里。</p><p class=\"p_spacing\"> </p><p>這是在 R-7 洲際彈道導彈基礎上改進的「Sputnik」兩級火箭，首次達成第一宇宙速度，將人造物體送入地球軌道。衛星在環繞地球期間不斷髮射無線電訊號，全世界的業餘無線電愛好者都能接收到。</p><p class=\"p_spacing\"> </p><p>技術資料：</p><p class=\"p_spacing\"> </p><p>• 衛星質量 — 83.6 公斤；</p><p class=\"p_spacing\"> </p><p>• 衛星主體為直徑 58 公分的球體，上面裝有四根長度分別為 2.4 公分、2.9 公分的天線。</p><p class=\"p_spacing\"> </p><p>球體內部安裝了：</p><p class=\"p_spacing\"> </p><p>• 化學電源；</p><p class=\"p_spacing\"> </p><p>• 無線電發射裝置；</p><p class=\"p_spacing\"> </p><p>• 風扇；</p><p class=\"p_spacing\"> </p><p>• 溫控恆溫器與管路系統；</p><p class=\"p_spacing\"> </p><p>• 自動控制連線系統；</p><p class=\"p_spacing\"> </p><p>• 溫度與壓力感測器；</p><p class=\"p_spacing\"> </p><p>• 電纜網路。</p><p class=\"p_spacing\"> </p><p>這顆衛星共飛行了 92 天，完成了 1440 圈繞地飛行後，於 1958 年 1 月 4 日墜入大氣層燒燬。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>科羅廖夫與米哈伊爾·克拉夫基耶維奇·吉洪拉沃夫是發射首顆人造地球衛星的倡議人。</p>"
 
 msgid "IDS_PCZC952_SPACE_MUSEUM_1_2"
 msgstr "第二顆人造地球衛星"
 
 msgid "IDS_PCZC952_SPACE_MUSEUM_1_2_DESCRIPTION"
-msgstr "<p>這是人類第一顆生物實驗衛星，裝載了第一隻在軌道上飛行的生物 — 名為「萊卡」（Лайка）的狗。</p><p class=\"p_spacing\"> </p><p>1957 年 11 月 3 日，由衛星號運載火箭在拜科努爾發射場發射升空。</p><p class=\"p_spacing\"> </p><p>衛星上安裝了各種科學儀器，用於在軌直接測量和研究，其中還包括對地球外層輻射帶的初步探測。</p><p class=\"p_spacing\"> </p><p>除科學裝置外，衛星另有一個密封艙用來容納萊卡犬（並不打算讓其返回地球）。</p><p class=\"p_spacing\"> </p><p>這是對失重與宇宙輻射於生物機體的影響的首次研究。安裝在衛星上的蓋革計數器首次測得太空中的平均輻射水平。資料表明，人在太空中短期停留是可行的。</p><p class=\"p_spacing\"> </p><p>衛星質量 — 508.3 公斤。</p><p class=\"p_spacing\"> </p><p>它在軌道上共停留了 160 天，繞地球約 2370 圈，於 1958 年 4 月 14 日墜入大氣層燒燬。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
+msgstr "<p>這是人類第一顆生物實驗衛星，裝載了第一隻在軌道上飛行的生物 — 名為「萊卡」（Лайка）的狗。</p><p class=\"p_spacing\"> </p><p>1957 年 11 月 3 日，由衛星號運載火箭在拜科努爾發射場發射升空。</p><p class=\"p_spacing\"> </p><p>衛星上安裝了各種科學儀器，用於在軌直接測量和研究，其中還包括對地球外層輻射帶的初步探測。</p><p class=\"p_spacing\"> </p><p>除科學裝置外，衛星另有一個密封艙用來容納萊卡犬（並不打算讓其返回地球）。</p><p class=\"p_spacing\"> </p><p>這是對失重與宇宙輻射於生物機體的影響的首次研究。安裝在衛星上的蓋革計數器首次測得太空中的平均輻射水平。資料表明，人在太空中短期停留是可行的。</p><p class=\"p_spacing\"> </p><p>衛星質量 — 508.3 公斤。</p><p class=\"p_spacing\"> </p><p>它在軌道上共停留了 160 天，繞地球約 2370 圈，於 1958 年 4 月 14 日墜入大氣層燒燬。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
 
 msgid "IDS_PCZC953_SPACE_MUSEUM_1_3"
 msgstr "第三顆人造地球衛星"
 
 msgid "IDS_PCZC953_SPACE_MUSEUM_1_3_DESCRIPTION"
-msgstr "<p>這是人類歷史上第一座執行在地球軌道上的科學實驗室。</p><p class=\"p_spacing\"> </p><p>1958 年 5 月 15 日，由衛星號運載火箭在拜科努爾發射場送入太空，用於研究近地宇宙空間、地球大氣及太陽輻射。</p><p class=\"p_spacing\"> </p><p>衛星上配備了 12 臺科學儀器，用於測量壓力與溫度、電荷、電磁場強度、太陽高速粒子流（太陽風）以及大氣電離成分濃度、流星撞擊記錄等。此任務發現了地球外層輻射帶。衛星還首次採用了主動溫控系統和太陽能電池。</p><p class=\"p_spacing\"> </p><p>衛星總重 1327 公斤，其中科學儀器重 968 公斤，累計繞地飛行 10037 圈。</p><p class=\"p_spacing\"> </p><p>它在軌道上工作至 1960 年 4 月 6 日。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
+msgstr "<p>這是人類歷史上第一座執行在地球軌道上的科學實驗室。</p><p class=\"p_spacing\"> </p><p>1958 年 5 月 15 日，由衛星號運載火箭在拜科努爾發射場送入太空，用於研究近地宇宙空間、地球大氣及太陽輻射。</p><p class=\"p_spacing\"> </p><p>衛星上配備了 12 臺科學儀器，用於測量壓力與溫度、電荷、電磁場強度、太陽高速粒子流（太陽風）以及大氣電離成分濃度、流星撞擊記錄等。此任務發現了地球外層輻射帶。衛星還首次採用了主動溫控系統和太陽能電池。</p><p class=\"p_spacing\"> </p><p>衛星總重 1327 公斤，其中科學儀器重 968 公斤，累計繞地飛行 10037 圈。</p><p class=\"p_spacing\"> </p><p>它在軌道上工作至 1960 年 4 月 6 日。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
 
 msgid "IDS_PCZC954_SPACE_MUSEUM_1_4"
 msgstr "月球1號探測器"
 
 msgid "IDS_PCZC954_SPACE_MUSEUM_1_4_DESCRIPTION"
-msgstr "<p>人類歷史上首個達到第二宇宙速度的航天器。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 2 日，由東方-L（Восток-Л）運載火箭在拜科努爾發射場發射。</p><p class=\"p_spacing\"> </p><p>其科學儀器包括：</p><p class=\"p_spacing\"> </p><p>˙ 測量地月磁場的磁力計；</p><p class=\"p_spacing\"> </p><p>˙ 四根用於太陽風探測的天線；</p><p class=\"p_spacing\"> </p><p>˙ 若干裝置測量太陽粒子流；</p><p class=\"p_spacing\"> </p><p>˙ 測量微流星碰撞的探測器；</p><p class=\"p_spacing\"> </p><p>˙ 無線電發射天線，用於向地球傳送資料。</p><p class=\"p_spacing\"> </p><p>探測器內部還裝載了一個寫有「蘇聯」及發射日期等標識的金屬徽標球體與鋁製金屬條，原計劃讓其撞擊月球后留在月面。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 4 日，月球 1 號距月面約 5000–6000 公里處掠過，但因飛行程式出錯未能命中月球表面。</p><p class=\"p_spacing\"> </p><p>最終在擺脫地球引力後，它成為第一顆人造「太陽衛星」，公轉週期約 450 天。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
+msgstr "<p>人類歷史上首個達到第二宇宙速度的航天器。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 2 日，由東方-L（Восток-Л）運載火箭在拜科努爾發射場發射。</p><p class=\"p_spacing\"> </p><p>其科學儀器包括：</p><p class=\"p_spacing\"> </p><p>• 測量地月磁場的磁力計；</p><p class=\"p_spacing\"> </p><p>• 四根用於太陽風探測的天線；</p><p class=\"p_spacing\"> </p><p>• 若干裝置測量太陽粒子流；</p><p class=\"p_spacing\"> </p><p>• 測量微流星碰撞的探測器；</p><p class=\"p_spacing\"> </p><p>• 無線電發射天線，用於向地球傳送資料。</p><p class=\"p_spacing\"> </p><p>探測器內部還裝載了一個寫有「蘇聯」及發射日期等標識的金屬徽標球體與鋁製金屬條，原計劃讓其撞擊月球后留在月面。</p><p class=\"p_spacing\"> </p><p>1959 年 1 月 4 日，月球 1 號距月面約 5000–6000 公里處掠過，但因飛行程式出錯未能命中月球表面。</p><p class=\"p_spacing\"> </p><p>最終在擺脫地球引力後，它成為第一顆人造「太陽衛星」，公轉週期約 450 天。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
 
 msgid "IDS_PCZC955_SPACE_MUSEUM_1_5"
 msgstr "月球3號探測器"
 
 msgid "IDS_PCZC955_SPACE_MUSEUM_1_5_DESCRIPTION"
-msgstr "<p>人類歷史上首次繞月並拍攝到月球背面影像（1959 年 10 月 7 日），也是第一艘真正實現引力助推飛行的航天器。</p><p class=\"p_spacing\"> </p><p>1959 年 10 月 4 日，由東方-L（Восток-Л）運載火箭從拜科努爾發射場升空。月球3號上配備了射頻系統、遙測系統、「海鷗」定向系統（以太陽和月球為基準）、太陽能電池的供電系統、溫控系統及包括照相機在內的一系列科學儀器。</p><p class=\"p_spacing\"> </p><p>「海鷗」定向系統由學者拉辛巴赫˙鮑里斯˙維克多羅維奇領導研製，首次解決了在航天器上進行空間姿態控制的難題。</p><p class=\"p_spacing\"> </p><p>10月7日，探測器在距月球約 65000 公里處（至地球距離約 470000 公里）拍攝到從未被人類目視的月球背面影像，並在此後 10 天內逐步將照片回傳地球。其中約有 70% 為月球背面影像，30% 為部分正面圖像，被譽為「世紀照片」。基於這些影像，於 1960 和 1967 年先後出版了《月球背面圖集》並製作了月球儀。探測器在圍繞地球 11 圈後，於 1960 年 4 月 20 日墜入大氣層燒燬。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
+msgstr "<p>人類歷史上首次繞月並拍攝到月球背面影像（1959 年 10 月 7 日），也是第一艘真正實現引力助推飛行的航天器。</p><p class=\"p_spacing\"> </p><p>1959 年 10 月 4 日，由東方-L（Восток-Л）運載火箭從拜科努爾發射場升空。月球3號上配備了射頻系統、遙測系統、「海鷗」定向系統（以太陽和月球為基準）、太陽能電池的供電系統、溫控系統及包括照相機在內的一系列科學儀器。</p><p class=\"p_spacing\"> </p><p>「海鷗」定向系統由學者拉辛巴赫·鮑里斯·維克多羅維奇領導研製，首次解決了在航天器上進行空間姿態控制的難題。</p><p class=\"p_spacing\"> </p><p>10月7日，探測器在距月球約 65000 公里處（至地球距離約 470000 公里）拍攝到從未被人類目視的月球背面影像，並在此後 10 天內逐步將照片回傳地球。其中約有 70% 為月球背面影像，30% 為部分正面圖像，被譽為「世紀照片」。基於這些影像，於 1960 和 1967 年先後出版了《月球背面圖集》並製作了月球儀。探測器在圍繞地球 11 圈後，於 1960 年 4 月 20 日墜入大氣層燒燬。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
 
 msgid "IDS_PCZC956_SPACE_MUSEUM_2_1"
 msgstr "金星1號探測器"
 
 msgid "IDS_PCZC956_SPACE_MUSEUM_2_1_DESCRIPTION"
-msgstr "<p>人類歷史上首個飛往金星方向的探測器。</p><p class=\"p_spacing\"> </p><p>1961 年 2 月 12 日，由閃電號運載火箭在拜科努爾發射場發射。</p><p class=\"p_spacing\"> </p><p>探測器上裝載了：</p><p class=\"p_spacing\"> </p><p>˙ 磁力計；</p><p class=\"p_spacing\"> </p><p>˙ 兩個離子捕集器，用於測量太陽風；</p><p class=\"p_spacing\"> </p><p>˙ 微流星探測器；</p><p class=\"p_spacing\"> </p><p>˙ 蓋革計數器與閃爍探測器，用於測量宇宙輻射。</p><p class=\"p_spacing\"> </p><p>推進系統是 KDU-414，用於飛行軌道修正。總質量為 643.5 公斤。7 天后，在距地球約 200 萬公里處失去聯絡；據計算，它於同年 5 月 19~20 日從距金星約 10 萬公里處飛過，並進入環繞太陽的軌道。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
+msgstr "<p>人類歷史上首個飛往金星方向的探測器。</p><p class=\"p_spacing\"> </p><p>1961 年 2 月 12 日，由閃電號運載火箭在拜科努爾發射場發射。</p><p class=\"p_spacing\"> </p><p>探測器上裝載了：</p><p class=\"p_spacing\"> </p><p>• 磁力計；</p><p class=\"p_spacing\"> </p><p>• 兩個離子捕集器，用於測量太陽風；</p><p class=\"p_spacing\"> </p><p>• 微流星探測器；</p><p class=\"p_spacing\"> </p><p>• 蓋革計數器與閃爍探測器，用於測量宇宙輻射。</p><p class=\"p_spacing\"> </p><p>推進系統是 KDU-414，用於飛行軌道修正。總質量為 643.5 公斤。7 天后，在距地球約 200 萬公里處失去聯絡；據計算，它於同年 5 月 19~20 日從距金星約 10 萬公里處飛過，並進入環繞太陽的軌道。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
 
 msgid "IDS_PCZC957_SPACE_MUSEUM_2_2"
 msgstr "火星1號探測器"
@@ -80600,73 +80600,73 @@ msgid "IDS_PCZC958_SPACE_MUSEUM_2_3"
 msgstr "月球9號探測器"
 
 msgid "IDS_PCZC958_SPACE_MUSEUM_2_3_DESCRIPTION"
-msgstr "<p>人類歷史上首次在月球實現軟著陸並傳回月面圖片與全景電視影像的探測器。</p><p class=\"p_spacing\"> </p><p>1966 年 1 月 31 日，由閃電號運載火箭在拜科努爾發射場發射。</p><p class=\"p_spacing\"> </p><p>探測器由帶有制動推進系統的儀表/裝置艙與著陸艙組成。</p><p class=\"p_spacing\"> </p><p>1966 年 2 月 3 日，探測器在減速後，將著陸艙分離，於月球表面成功軟著陸。</p><p class=\"p_spacing\"> </p><p>主要技術資訊：</p><p class=\"p_spacing\"> </p><p>˙ 著陸艙質量 — 100 公斤；</p><p class=\"p_spacing\"> </p><p>˙ 整體探測器長度 — 2.7 公分；</p><p class=\"p_spacing\"> </p><p>˙ 探測器質量 — 1583 公斤。</p><p class=\"p_spacing\"> </p><p>由拉沃奇金機械製造廠在總設計師格奧爾基˙巴巴金的領導下研製。</p>"
+msgstr "<p>人類歷史上首次在月球實現軟著陸並傳回月面圖片與全景電視影像的探測器。</p><p class=\"p_spacing\"> </p><p>1966 年 1 月 31 日，由閃電號運載火箭在拜科努爾發射場發射。</p><p class=\"p_spacing\"> </p><p>探測器由帶有制動推進系統的儀表/裝置艙與著陸艙組成。</p><p class=\"p_spacing\"> </p><p>1966 年 2 月 3 日，探測器在減速後，將著陸艙分離，於月球表面成功軟著陸。</p><p class=\"p_spacing\"> </p><p>主要技術資訊：</p><p class=\"p_spacing\"> </p><p>• 著陸艙質量 — 100 公斤；</p><p class=\"p_spacing\"> </p><p>• 整體探測器長度 — 2.7 公分；</p><p class=\"p_spacing\"> </p><p>• 探測器質量 — 1583 公斤。</p><p class=\"p_spacing\"> </p><p>由拉沃奇金機械製造廠在總設計師格奧爾基·巴巴金的領導下研製。</p>"
 
 msgid "IDS_PCZC959_SPACE_MUSEUM_2_4"
 msgstr "和平號空間站"
 
 msgid "IDS_PCZC959_SPACE_MUSEUM_2_4_DESCRIPTION"
-msgstr "<p>第三代空間站，是20世紀末具有里程碑意義的航天科技成就。它首次採用了「模組化」方法在軌組裝大型航天器。</p><p class=\"p_spacing\"> </p><p>空間站的第一個元件 — 核心艙於 1986 年 2 月 20 日進入軌道，之後先後對接了「量子」（1987）、「量子-2」（1989）、「水晶」（1990）與「光譜」（1995）、對接艙（1995）等模組。</p><p class=\"p_spacing\"> </p><p>到 1996 年，隨著「自然」號模組對接完成，空間站達成預定構型。模組化設計大大拓展了科研能力並擴增了艙內可居住空間。</p><p class=\"p_spacing\"> </p><p>在「和平」號 15 年的在軌執行中：</p><p class=\"p_spacing\"> </p><p>˙ 共進行 78 次太空行走，累計時間為 359 小時；</p><p class=\"p_spacing\"> </p><p>˙ 有來自 12 個國家的 104 名航天員與宇航員先後到訪；</p><p class=\"p_spacing\"> </p><p>˙ 對接 31 艘「聯盟」載人飛船、64 艘「進步」貨運飛船與9艘美國太空梭；</p><p class=\"p_spacing\"> </p><p>˙ 實施各類科學實驗與研究超過 23000 項；</p><p class=\"p_spacing\"> </p><p>˙ 重新整理了數項人在太空停留的持續時間紀錄；</p><p class=\"p_spacing\"> </p><p>˙ 成為 20 世紀在軌飛行時間最長的航天器。</p><p class=\"p_spacing\"> </p><p>首批進入空間站的航天員是 1986 年「聯盟 T-15」飛船上的列昂尼德˙基濟姆和佛拉迪米爾˙索洛維約夫，最後一次是 2000 年「聯盟 TM-30」飛船上的謝爾蓋˙扎廖京和亞歷山大˙卡列裡。</p><p class=\"p_spacing\"> </p><p>2001 年 2 月 23 日，「和平」號空間站脫軌墜入大氣層，部分碎片墜落在太平洋南部。</p><p class=\"p_spacing\"> </p><p>總設計單位：能源科研生產聯合體。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>˙ 滿配質量超過 137 噸；</p><p class=\"p_spacing\"> </p><p>˙ 科學儀器合計約 11.5 噸。</p>"
+msgstr "<p>第三代空間站，是20世紀末具有里程碑意義的航天科技成就。它首次採用了「模組化」方法在軌組裝大型航天器。</p><p class=\"p_spacing\"> </p><p>空間站的第一個元件 — 核心艙於 1986 年 2 月 20 日進入軌道，之後先後對接了「量子」（1987）、「量子-2」（1989）、「水晶」（1990）與「光譜」（1995）、對接艙（1995）等模組。</p><p class=\"p_spacing\"> </p><p>到 1996 年，隨著「自然」號模組對接完成，空間站達成預定構型。模組化設計大大拓展了科研能力並擴增了艙內可居住空間。</p><p class=\"p_spacing\"> </p><p>在「和平」號 15 年的在軌執行中：</p><p class=\"p_spacing\"> </p><p>• 共進行 78 次太空行走，累計時間為 359 小時；</p><p class=\"p_spacing\"> </p><p>• 有來自 12 個國家的 104 名航天員與宇航員先後到訪；</p><p class=\"p_spacing\"> </p><p>• 對接 31 艘「聯盟」載人飛船、64 艘「進步」貨運飛船與9艘美國太空梭；</p><p class=\"p_spacing\"> </p><p>• 實施各類科學實驗與研究超過 23000 項；</p><p class=\"p_spacing\"> </p><p>• 重新整理了數項人在太空停留的持續時間紀錄；</p><p class=\"p_spacing\"> </p><p>• 成為 20 世紀在軌飛行時間最長的航天器。</p><p class=\"p_spacing\"> </p><p>首批進入空間站的航天員是 1986 年「聯盟 T-15」飛船上的列昂尼德·基濟姆和佛拉迪米爾·索洛維約夫，最後一次是 2000 年「聯盟 TM-30」飛船上的謝爾蓋·扎廖京和亞歷山大·卡列裡。</p><p class=\"p_spacing\"> </p><p>2001 年 2 月 23 日，「和平」號空間站脫軌墜入大氣層，部分碎片墜落在太平洋南部。</p><p class=\"p_spacing\"> </p><p>總設計單位：能源科研生產聯合體。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>• 滿配質量超過 137 噸；</p><p class=\"p_spacing\"> </p><p>• 科學儀器合計約 11.5 噸。</p>"
 
 msgid "IDS_PCZC960_SPACE_MUSEUM_2_5"
 msgstr "禮炮 6 號空間站"
 
 msgid "IDS_PCZC960_SPACE_MUSEUM_2_5_DESCRIPTION"
-msgstr "<p>禮炮 6 號是第二代軌道空間站，1977 年 9 月 29 日由質子號運載火箭從拜科努爾發射場送入太空。與前代相比，其最顯著的特點是多了一個停靠埠與可在軌補給燃料的動力系統，大幅延長了在軌壽命。</p><p class=\"p_spacing\"> </p><p>1978 年 1 月，「進步-1」貨運飛船首次對接禮炮 6 號，為其提供所需物資併為動力系統補充燃料，標誌著世界上第一艘自動貨運飛船成功執行在軌補給。</p><p class=\"p_spacing\"> </p><p>禮炮 6 號在服役期間共對接了 17 艘載人飛船（「聯盟」與「聯盟 T」系列）與 2 艘無人版「聯盟」飛船，12 艘「進步」貨運飛船，及自動貨運飛船「宇宙-1267」（其「鑽石」號模組後來也作為艙段對接在一起）。</p><p class=\"p_spacing\"> </p><p>期間，5 個常駐乘組和 10 次短期訪客乘組（包括 8 個國際合作乘組）先後駐留過禮炮 6 號。1978~1980 年間，來自捷克斯洛伐克、波蘭、民主德國、匈牙利、越南、古巴、蒙古、羅馬尼亞等國的航天員也先後來此執行任務。長期乘組在軌時間分別達到 96、139、175 和 184 天，太空行走次數為 3 次，總時長 4 小時 56 分。</p><p class=\"p_spacing\"> </p><p>禮炮 6 號累計在軌 1765 天（其中 683 天有人駐留），於 1982 年 7 月 29 日墜入大氣層結束使命。</p><p class=\"p_spacing\"> </p><p>該系列由中央實驗機械製造設計局負責研製，用於蘇聯民用載人空間站工程。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>˙ 質量：19.8 噸；</p><p class=\"p_spacing\"> </p><p>˙ 長度：13.5 公分；</p><p class=\"p_spacing\"> </p><p>˙ 最大直徑：4.15 公分；</p><p class=\"p_spacing\"> </p><p>˙ 兩塊太陽能電池板展開總寬 17 公分；</p><p class=\"p_spacing\"> </p><p>˙ 艙內可用體積：90.0 立方公尺。</p>"
+msgstr "<p>禮炮 6 號是第二代軌道空間站，1977 年 9 月 29 日由質子號運載火箭從拜科努爾發射場送入太空。與前代相比，其最顯著的特點是多了一個停靠埠與可在軌補給燃料的動力系統，大幅延長了在軌壽命。</p><p class=\"p_spacing\"> </p><p>1978 年 1 月，「進步-1」貨運飛船首次對接禮炮 6 號，為其提供所需物資併為動力系統補充燃料，標誌著世界上第一艘自動貨運飛船成功執行在軌補給。</p><p class=\"p_spacing\"> </p><p>禮炮 6 號在服役期間共對接了 17 艘載人飛船（「聯盟」與「聯盟 T」系列）與 2 艘無人版「聯盟」飛船，12 艘「進步」貨運飛船，及自動貨運飛船「宇宙-1267」（其「鑽石」號模組後來也作為艙段對接在一起）。</p><p class=\"p_spacing\"> </p><p>期間，5 個常駐乘組和 10 次短期訪客乘組（包括 8 個國際合作乘組）先後駐留過禮炮 6 號。1978~1980 年間，來自捷克斯洛伐克、波蘭、民主德國、匈牙利、越南、古巴、蒙古、羅馬尼亞等國的航天員也先後來此執行任務。長期乘組在軌時間分別達到 96、139、175 和 184 天，太空行走次數為 3 次，總時長 4 小時 56 分。</p><p class=\"p_spacing\"> </p><p>禮炮 6 號累計在軌 1765 天（其中 683 天有人駐留），於 1982 年 7 月 29 日墜入大氣層結束使命。</p><p class=\"p_spacing\"> </p><p>該系列由中央實驗機械製造設計局負責研製，用於蘇聯民用載人空間站工程。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>• 質量：19.8 噸；</p><p class=\"p_spacing\"> </p><p>• 長度：13.5 公分；</p><p class=\"p_spacing\"> </p><p>• 最大直徑：4.15 公分；</p><p class=\"p_spacing\"> </p><p>• 兩塊太陽能電池板展開總寬 17 公分；</p><p class=\"p_spacing\"> </p><p>• 艙內可用體積：90.0 立方公尺。</p>"
 
 msgid "IDS_PCZC961_SPACE_MUSEUM_3_1"
 msgstr "東方號三級運載火箭"
 
 msgid "IDS_PCZC961_SPACE_MUSEUM_3_1_DESCRIPTION"
-msgstr "<p>基於 R-7 洲際彈道導彈改進，由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>˙ 火箭全長 38.36 公分；</p><p class=\"p_spacing\"> </p><p>˙ 最大直徑（含氣動舵）約 10.3 公分；</p><p class=\"p_spacing\"> </p><p>˙ 起飛質量 287 噸；</p><p class=\"p_spacing\"> </p><p>˙ 最大近地軌道運力約 5 噸。</p><p class=\"p_spacing\"> </p><p>它將世界上第一艘載人飛船東方號與首位太空人尤里˙加加林送入了地球軌道。</p><p class=\"p_spacing\"> </p><p>東方號運載火箭還被用於發射衛星式飛船、東方號載人飛船以及部分「月球」系列探測器、「宇宙」「氣象」等人造衛星。</p><p class=\"p_spacing\"> </p><p>它實為R-7兩級火箭的變型，透過增加第三級來增強近地軌道有效載荷能力。前兩級採用「捆綁式」結構：四個側面助推器與中央芯級並行工作，第三級與第二級採用串聯結構，火箭頂端加裝整流罩以保護酬載。第一與第二級分別採用 RD-107 與 RD-108 發動機。</p><p class=\"p_spacing\"> </p><p>自 1959 年 1 月起在拜科努爾發射場投入使用，1966 年起也在普列謝茨克使用。</p>"
+msgstr "<p>基於 R-7 洲際彈道導彈改進，由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>• 火箭全長 38.36 公分；</p><p class=\"p_spacing\"> </p><p>• 最大直徑（含氣動舵）約 10.3 公分；</p><p class=\"p_spacing\"> </p><p>• 起飛質量 287 噸；</p><p class=\"p_spacing\"> </p><p>• 最大近地軌道運力約 5 噸。</p><p class=\"p_spacing\"> </p><p>它將世界上第一艘載人飛船東方號與首位太空人尤里·加加林送入了地球軌道。</p><p class=\"p_spacing\"> </p><p>東方號運載火箭還被用於發射衛星式飛船、東方號載人飛船以及部分「月球」系列探測器、「宇宙」「氣象」等人造衛星。</p><p class=\"p_spacing\"> </p><p>它實為R-7兩級火箭的變型，透過增加第三級來增強近地軌道有效載荷能力。前兩級採用「捆綁式」結構：四個側面助推器與中央芯級並行工作，第三級與第二級採用串聯結構，火箭頂端加裝整流罩以保護酬載。第一與第二級分別採用 RD-107 與 RD-108 發動機。</p><p class=\"p_spacing\"> </p><p>自 1959 年 1 月起在拜科努爾發射場投入使用，1966 年起也在普列謝茨克使用。</p>"
 
 msgid "IDS_PCZC962_SPACE_MUSEUM_3_2"
 msgstr "質子號運載火箭"
 
 msgid "IDS_PCZC962_SPACE_MUSEUM_3_2_DESCRIPTION"
-msgstr "<p>由中央機械製造設計局在總設計師佛拉迪米爾˙尼古拉耶維奇˙切洛梅領導下設計、克魯尼切夫中心製造，屬於重型運載火箭系列。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>˙ 全長約 44 公分；</p><p class=\"p_spacing\"> </p><p>˙ 最大直徑 7.4 公分；</p><p class=\"p_spacing\"> </p><p>˙ 空重 54 噸；</p><p class=\"p_spacing\"> </p><p>˙ 起飛質量 702 噸；</p><p class=\"p_spacing\"> </p><p>˙ 近地軌道運力約 20 噸。</p><p class=\"p_spacing\"> </p><p>自 1965 年起投入使用，可將各類航天器送入近地軌道，包括「質子」「彩虹」「熒光屏」等衛星，以及「禮炮」「和平」等軌道站、國際空間站元件及其他國家的航天器。</p><p class=\"p_spacing\"> </p><p>起初基於 UR-500 洲際彈道導彈。</p><p class=\"p_spacing\"> </p><p>最早的「質子」是兩級構型，後發展出三、四級版本（附加上面級）即「質子-K」「質子-M」等型號。</p>"
+msgstr "<p>由中央機械製造設計局在總設計師佛拉迪米爾·尼古拉耶維奇·切洛梅領導下設計、克魯尼切夫中心製造，屬於重型運載火箭系列。</p><p class=\"p_spacing\"> </p><p>主要技術參數：</p><p class=\"p_spacing\"> </p><p>• 全長約 44 公分；</p><p class=\"p_spacing\"> </p><p>• 最大直徑 7.4 公分；</p><p class=\"p_spacing\"> </p><p>• 空重 54 噸；</p><p class=\"p_spacing\"> </p><p>• 起飛質量 702 噸；</p><p class=\"p_spacing\"> </p><p>• 近地軌道運力約 20 噸。</p><p class=\"p_spacing\"> </p><p>自 1965 年起投入使用，可將各類航天器送入近地軌道，包括「質子」「彩虹」「熒光屏」等衛星，以及「禮炮」「和平」等軌道站、國際空間站元件及其他國家的航天器。</p><p class=\"p_spacing\"> </p><p>起初基於 UR-500 洲際彈道導彈。</p><p class=\"p_spacing\"> </p><p>最早的「質子」是兩級構型，後發展出三、四級版本（附加上面級）即「質子-K」「質子-M」等型號。</p>"
 
 msgid "IDS_PCZC963_SPACE_MUSEUM_3_3"
 msgstr "聯盟號三級運載火箭"
 
 msgid "IDS_PCZC963_SPACE_MUSEUM_3_3_DESCRIPTION"
-msgstr "<p>聯盟號運載火箭屬於R-7火箭家族，由 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>˙ 火箭全長 39.3 公分；<br>˙ 最大直徑 10.3 公分；<br>˙ 起飛質量 310 噸；<br>˙ 近地軌道運力約 7.5 噸。</p><p class=\"p_spacing\"> </p><p>它可發射載人或無人飛船與各類衛星。</p><p class=\"p_spacing\"> </p><p>在庫伊比謝夫（OKB-1 第 3 分部）由總設計師德米特里˙阿納託利耶維奇˙科茲洛夫主導製造，最初用於發射「聯盟」系列載人飛船（1966~1976 年共發射 32 艘）。此後也用來發射「進步」貨運飛船以及「宇宙」「預言」「資源-F」「光子」「生物」等系列衛星，還有部分國外航天器。</p><p class=\"p_spacing\"> </p><p>前兩級沿用 R-7 家族的並聯捆綁布局，經改進的第三級質量為 25.5 噸，使其具備更強的運力。</p><p class=\"p_spacing\"> </p><p>火箭頂部的整流罩與格柵減速板，以及頂端的緊急救生塔是該系列的主要外觀特徵。</p><p class=\"p_spacing\"> </p><p>「聯盟」火箭的應急救生系統可在起飛前15分鐘進入待命，在出現緊急情況時，無論還在發射臺上還是飛行過程中，都可將乘組救出。</p><p class=\"p_spacing\"> </p><p>「聯盟」運載火箭自 1966 年起投入使用，後續不斷改進出多種現代型，發射成功率超過 97%。從拜科努爾與普列謝茨克兩大航天發射場已進行超過 800 次各型「聯盟」系列火箭發射，以及 60 餘次「聯盟-2」系列發射。</p>"
+msgstr "<p>聯盟號運載火箭屬於R-7火箭家族，由 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>• 火箭全長 39.3 公分；<br>• 最大直徑 10.3 公分；<br>• 起飛質量 310 噸；<br>• 近地軌道運力約 7.5 噸。</p><p class=\"p_spacing\"> </p><p>它可發射載人或無人飛船與各類衛星。</p><p class=\"p_spacing\"> </p><p>在庫伊比謝夫（OKB-1 第 3 分部）由總設計師德米特里·阿納託利耶維奇·科茲洛夫主導製造，最初用於發射「聯盟」系列載人飛船（1966~1976 年共發射 32 艘）。此後也用來發射「進步」貨運飛船以及「宇宙」「預言」「資源-F」「光子」「生物」等系列衛星，還有部分國外航天器。</p><p class=\"p_spacing\"> </p><p>前兩級沿用 R-7 家族的並聯捆綁布局，經改進的第三級質量為 25.5 噸，使其具備更強的運力。</p><p class=\"p_spacing\"> </p><p>火箭頂部的整流罩與格柵減速板，以及頂端的緊急救生塔是該系列的主要外觀特徵。</p><p class=\"p_spacing\"> </p><p>「聯盟」火箭的應急救生系統可在起飛前15分鐘進入待命，在出現緊急情況時，無論還在發射臺上還是飛行過程中，都可將乘組救出。</p><p class=\"p_spacing\"> </p><p>「聯盟」運載火箭自 1966 年起投入使用，後續不斷改進出多種現代型，發射成功率超過 97%。從拜科努爾與普列謝茨克兩大航天發射場已進行超過 800 次各型「聯盟」系列火箭發射，以及 60 餘次「聯盟-2」系列發射。</p>"
 
 msgid "IDS_PCZC964_SPACE_MUSEUM_3_4"
 msgstr "質子-M運載火箭"
 
 msgid "IDS_PCZC964_SPACE_MUSEUM_3_4_DESCRIPTION"
-msgstr "<p>世界上最可靠的重型運載火箭之一，用於發射各種軍民航天器。</p><p class=\"p_spacing\"> </p><p>1965 年 7 月 16 日，重型質子號運載火箭將名為「質子」的科學衛星送入近地軌道，自此「質子」之名也用於稱呼該火箭。其第一級安裝 6 臺 RD-253（在「質子-M」上為 RD-276）發動機，總推力約 1 MN；第二級配備 4 臺 RD-0210 發動機，第三級配備推力 583 kN 的 RD-0213 發動機，均使用偏二甲肼與四氧化二氮。</p><p class=\"p_spacing\"> </p><p>火箭以 UR-500 洲際彈道導彈為基礎研製。</p><p class=\"p_spacing\"> </p><p>從 1967 年起，「質子-K」系列三、四級火箭投入使用；2012 年起，推力更強的「質子-M」服役，其有效載荷由 12 噸提升至 22 噸。</p><p class=\"p_spacing\"> </p><p>「質子」火箭為蘇聯探月、火星與金星探測任務以及彗星探測、發射「禮炮」「鑽石」空間站、「和平」號與國際空間站組建模組做出了重大貢獻。</p><p class=\"p_spacing\"> </p><p>由佛拉迪米爾˙尼古拉耶維奇˙切洛梅領導的中央機械製造設計局與克魯尼切夫國家航天科研生產中心研製與改進。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>˙ 起飛質量最高可達 705 噸；<br>˙ 總長 45~60 公分；<br>˙ 三節並列構型約 44 公分；<br>˙ 最大直徑 7.4 公分；<br>˙ 近地軌道運力 22 噸。</p>"
+msgstr "<p>世界上最可靠的重型運載火箭之一，用於發射各種軍民航天器。</p><p class=\"p_spacing\"> </p><p>1965 年 7 月 16 日，重型質子號運載火箭將名為「質子」的科學衛星送入近地軌道，自此「質子」之名也用於稱呼該火箭。其第一級安裝 6 臺 RD-253（在「質子-M」上為 RD-276）發動機，總推力約 1 MN；第二級配備 4 臺 RD-0210 發動機，第三級配備推力 583 kN 的 RD-0213 發動機，均使用偏二甲肼與四氧化二氮。</p><p class=\"p_spacing\"> </p><p>火箭以 UR-500 洲際彈道導彈為基礎研製。</p><p class=\"p_spacing\"> </p><p>從 1967 年起，「質子-K」系列三、四級火箭投入使用；2012 年起，推力更強的「質子-M」服役，其有效載荷由 12 噸提升至 22 噸。</p><p class=\"p_spacing\"> </p><p>「質子」火箭為蘇聯探月、火星與金星探測任務以及彗星探測、發射「禮炮」「鑽石」空間站、「和平」號與國際空間站組建模組做出了重大貢獻。</p><p class=\"p_spacing\"> </p><p>由佛拉迪米爾·尼古拉耶維奇·切洛梅領導的中央機械製造設計局與克魯尼切夫國家航天科研生產中心研製與改進。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>• 起飛質量最高可達 705 噸；<br>• 總長 45~60 公分；<br>• 三節並列構型約 44 公分；<br>• 最大直徑 7.4 公分；<br>• 近地軌道運力 22 噸。</p>"
 
 msgid "IDS_PCZC965_SPACE_MUSEUM_3_5"
 msgstr "N-1–L-3"
 
 msgid "IDS_PCZC965_SPACE_MUSEUM_3_5_DESCRIPTION"
-msgstr "<p>超重型火箭 N-1，用於將載人飛船送往月球並實現宇航員登月。</p><p class=\"p_spacing\"> </p><p>最初規劃將 75 噸級航天器送入近地軌道，後轉向載人登月。1969~1972 年共進行了 4 次試驗發射，均因第一級故障而失敗。所有發射都在拜科努爾 113 號發射場進行，包含兩個發射臺。蘇聯於 1974 年終止了載人登月計劃（N-1–L-3）。該火箭獨特的多發動機並聯布局在航天領域至今仍屬罕見。</p><p class=\"p_spacing\"> </p><p>自1964年起由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>˙ 第一級最大直徑 17 公分；<br>˙ 火箭全長 105.3 公分；<br>˙ 起飛質量 2820 噸；<br>˙ 近地軌道運力 90 噸；<br>˙ 燃料質量 1410 噸；<br>˙ 第一級共安裝 30 臺發動機；<br>˙ 地面總推力約 4615 噸力；<br>˙ 燃料為煤油，氧化劑為液氧。</p>"
+msgstr "<p>超重型火箭 N-1，用於將載人飛船送往月球並實現宇航員登月。</p><p class=\"p_spacing\"> </p><p>最初規劃將 75 噸級航天器送入近地軌道，後轉向載人登月。1969~1972 年共進行了 4 次試驗發射，均因第一級故障而失敗。所有發射都在拜科努爾 113 號發射場進行，包含兩個發射臺。蘇聯於 1974 年終止了載人登月計劃（N-1–L-3）。該火箭獨特的多發動機並聯布局在航天領域至今仍屬罕見。</p><p class=\"p_spacing\"> </p><p>自1964年起由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>• 第一級最大直徑 17 公分；<br>• 火箭全長 105.3 公分；<br>• 起飛質量 2820 噸；<br>• 近地軌道運力 90 噸；<br>• 燃料質量 1410 噸；<br>• 第一級共安裝 30 臺發動機；<br>• 地面總推力約 4615 噸力；<br>• 燃料為煤油，氧化劑為液氧。</p>"
 
 msgid "IDS_PCZC966_SPACE_MUSEUM_3_6"
 msgstr "能源號運載火箭"
 
 msgid "IDS_PCZC966_SPACE_MUSEUM_3_6_DESCRIPTION"
-msgstr "<p>蘇聯最強的運載火箭之一，也是世界上最強的火箭之一；首次在蘇聯火箭中使用了液氫燃料。由能源科研生產聯合體研製，由總設計師瓦連京˙格魯什科領導的「能源-暴風雪」計劃。</p><p class=\"p_spacing\"> </p><p>「能源」火箭具備通用性，原設計可用於發射「暴風雪」號可重複使用太空梭、載人或無人探月及火星飛行、新一代大型軌道站，以及超重型 GEO 衛星等，近地軌道運力可達 100 噸。專案自 1976 年起啟動。採用兩級「捆綁」並聯布局：第一級由四個助推器組成，每個配備 RD-170 四室發動機（使用煤油與液氧），助推器可透過降落傘回收複用；第二級中心芯級配備四臺 RD-0120（液氫液氧發動機），中部留有有效載荷安裝畫面。</p><p class=\"p_spacing\"> </p><p>共進行過兩次發射：<br>˙ 1987 年 5 月 15 日搭載「極地」號實驗載荷，但因載荷自身姿態控制失效未能入軌；<br>˙ 1988 年 11 月 15 日搭載「暴風雪」號太空梭。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>˙ 系統總質量 2375–2419 噸；<br>˙ 火箭質量 2270 噸；<br>˙ 長度 58.76 公分；<br>˙ 寬度 17.65 公分。</p>"
+msgstr "<p>蘇聯最強的運載火箭之一，也是世界上最強的火箭之一；首次在蘇聯火箭中使用了液氫燃料。由能源科研生產聯合體研製，由總設計師瓦連京·格魯什科領導的「能源-暴風雪」計劃。</p><p class=\"p_spacing\"> </p><p>「能源」火箭具備通用性，原設計可用於發射「暴風雪」號可重複使用太空梭、載人或無人探月及火星飛行、新一代大型軌道站，以及超重型 GEO 衛星等，近地軌道運力可達 100 噸。專案自 1976 年起啟動。採用兩級「捆綁」並聯布局：第一級由四個助推器組成，每個配備 RD-170 四室發動機（使用煤油與液氧），助推器可透過降落傘回收複用；第二級中心芯級配備四臺 RD-0120（液氫液氧發動機），中部留有有效載荷安裝畫面。</p><p class=\"p_spacing\"> </p><p>共進行過兩次發射：<br>• 1987 年 5 月 15 日搭載「極地」號實驗載荷，但因載荷自身姿態控制失效未能入軌；<br>• 1988 年 11 月 15 日搭載「暴風雪」號太空梭。</p><p class=\"p_spacing\"> </p><p>主要技術參數：<br>• 系統總質量 2375–2419 噸；<br>• 火箭質量 2270 噸；<br>• 長度 58.76 公分；<br>• 寬度 17.65 公分。</p>"
 
 msgid "IDS_PCZC967_SPACE_MUSEUM_4_1"
 msgstr "SK-1 高空救生太空衣"
 
 msgid "IDS_PCZC967_SPACE_MUSEUM_4_1_DESCRIPTION"
-msgstr "<p>1961 年 4 月 12 日，世界首位宇航員加加林在東方號飛船執行首次載人航天飛行時使用的太空衣。</p><p class=\"p_spacing\"> </p><p>SK-1 系列供東方號飛船宇航員穿著，使用至 1963 年。加加林、季托夫、尼古拉耶夫、波波維奇、比科夫斯基等人曾穿著它執行任務。捷列什科娃則使用了其改型 SK-2。</p><p class=\"p_spacing\"> </p><p>太空衣為柔性結構，採用開放式通風系統。內外雙層：外層為聚酯纖維層，內層為橡膠氣密層。太空衣外還加有防護層，內則穿著帶水冷/風冷系統的貼身服。頭盔為不可拆卸的硬殼結構，雙層視窗並帶應急關閉機構。</p><p class=\"p_spacing\"> </p><p>與飛船通風、氧氣系統協同，可滿足：<br>˙ 在密封座艙內工作長達 12 天；<br>˙ 在座艙失壓時可生存 4~5 小時；<br>˙ 在 8 公里高空彈射出艙時提供保護；<br>˙ 跳傘時的氧氣供應；<br>˙ 飛行著陸後在水面漂浮 12 小時；</p><p class=\"p_spacing\"> </p><p>主要技術指標：<br>˙ 艙內維持服內壓力約 270–300 百帕；<br>˙ 通風流量 150 升/分；<br>˙ 飛船氧氣系統供給速率 50 標準升/分；<br>˙ 太空衣質量約 20 公斤。</p><p class=\"p_spacing\"> </p><p>由星辰科學研究所（Завод «Звезда»）在 1960~1961 年研製，首席設計師為謝苗˙米哈伊洛維奇˙阿列克謝耶夫。外殼由阿納託利˙尤德列維奇˙斯托克利茨基領導的團隊設計；生命維持系統由 I.P.阿布拉莫夫團隊負責；綜合測試由 V.I.斯維爾什切克團隊完成；太空衣電氣裝置由 I.I.斯科莫羅夫斯基團隊負責；地面準備由 F.A.沃斯托科夫團隊執行。</p>"
+msgstr "<p>1961 年 4 月 12 日，世界首位宇航員加加林在東方號飛船執行首次載人航天飛行時使用的太空衣。</p><p class=\"p_spacing\"> </p><p>SK-1 系列供東方號飛船宇航員穿著，使用至 1963 年。加加林、季托夫、尼古拉耶夫、波波維奇、比科夫斯基等人曾穿著它執行任務。捷列什科娃則使用了其改型 SK-2。</p><p class=\"p_spacing\"> </p><p>太空衣為柔性結構，採用開放式通風系統。內外雙層：外層為聚酯纖維層，內層為橡膠氣密層。太空衣外還加有防護層，內則穿著帶水冷/風冷系統的貼身服。頭盔為不可拆卸的硬殼結構，雙層視窗並帶應急關閉機構。</p><p class=\"p_spacing\"> </p><p>與飛船通風、氧氣系統協同，可滿足：<br>• 在密封座艙內工作長達 12 天；<br>• 在座艙失壓時可生存 4~5 小時；<br>• 在 8 公里高空彈射出艙時提供保護；<br>• 跳傘時的氧氣供應；<br>• 飛行著陸後在水面漂浮 12 小時；</p><p class=\"p_spacing\"> </p><p>主要技術指標：<br>• 艙內維持服內壓力約 270–300 百帕；<br>• 通風流量 150 升/分；<br>• 飛船氧氣系統供給速率 50 標準升/分；<br>• 太空衣質量約 20 公斤。</p><p class=\"p_spacing\"> </p><p>由星辰科學研究所（Завод «Звезда»）在 1960~1961 年研製，首席設計師為謝苗·米哈伊洛維奇·阿列克謝耶夫。外殼由阿納託利·尤德列維奇·斯托克利茨基領導的團隊設計；生命維持系統由 I.P.阿布拉莫夫團隊負責；綜合測試由 V.I.斯維爾什切克團隊完成；太空衣電氣裝置由 I.I.斯科莫羅夫斯基團隊負責；地面準備由 F.A.沃斯托科夫團隊執行。</p>"
 
 msgid "IDS_PCZC968_SPACE_MUSEUM_4_2"
 msgstr "金雕型短時出艙太空衣"
 
 msgid "IDS_PCZC968_SPACE_MUSEUM_4_2_DESCRIPTION"
-msgstr "<p>蘇聯上升-2飛船成員貝利亞耶夫與列昂諾夫在 1965 年 3 月太空任務中使用。</p><p class=\"p_spacing\"> </p><p>除了作為飛船座艙發生失壓時的應急服，「金雕」也是第一款支援艙外活動的太空衣。</p><p class=\"p_spacing\"> </p><p>1965 年 3 月 18 日，列昂諾夫身穿「金雕」透過氣閘艙首次出艙進行太空行走，艙外停留 12 分 9 秒。</p><p class=\"p_spacing\"> </p><p>「金雕」為柔性結構，可拆卸硬頭盔並採用開放式通風系統。外殼有三層：外為錦綸加固層，兩層內殼分別為橡膠密封層與泡沫橡膠層；表面還有隔熱防護層。與飛船共用送風與氧氣系統時可在失壓座艙內生存約 4 小時；艙外則背掛 KP-55 自主式氧氣揹包維持 45 分鐘。</p><p class=\"p_spacing\"> </p><p>具體資料：<br>˙ 在配備揹包時可艙外自主工作約 45 分鐘；<br>˙ 艙內正常壓力約 400 百帕，附加應急模式下降至 270 百帕；<br>˙ 從飛船接入通風流量約 150 升/分；<br>˙ 太空衣質量約 20 公斤；<br>˙ 氧氣揹包質量約 21.5 公斤。</p><p class=\"p_spacing\"> </p><p>由星辰科學研究所（Звезда）在 1964~1965 年研製，首席設計師蓋伊˙塞維林領導。</p>"
+msgstr "<p>蘇聯上升-2飛船成員貝利亞耶夫與列昂諾夫在 1965 年 3 月太空任務中使用。</p><p class=\"p_spacing\"> </p><p>除了作為飛船座艙發生失壓時的應急服，「金雕」也是第一款支援艙外活動的太空衣。</p><p class=\"p_spacing\"> </p><p>1965 年 3 月 18 日，列昂諾夫身穿「金雕」透過氣閘艙首次出艙進行太空行走，艙外停留 12 分 9 秒。</p><p class=\"p_spacing\"> </p><p>「金雕」為柔性結構，可拆卸硬頭盔並採用開放式通風系統。外殼有三層：外為錦綸加固層，兩層內殼分別為橡膠密封層與泡沫橡膠層；表面還有隔熱防護層。與飛船共用送風與氧氣系統時可在失壓座艙內生存約 4 小時；艙外則背掛 KP-55 自主式氧氣揹包維持 45 分鐘。</p><p class=\"p_spacing\"> </p><p>具體資料：<br>• 在配備揹包時可艙外自主工作約 45 分鐘；<br>• 艙內正常壓力約 400 百帕，附加應急模式下降至 270 百帕；<br>• 從飛船接入通風流量約 150 升/分；<br>• 太空衣質量約 20 公斤；<br>• 氧氣揹包質量約 21.5 公斤。</p><p class=\"p_spacing\"> </p><p>由星辰科學研究所（Звезда）在 1964~1965 年研製，首席設計師蓋伊·塞維林領導。</p>"
 
 msgid "IDS_PCZC969_SPACE_MUSEUM_4_3"
 msgstr "海鷹-D型太空衣"
 
 msgid "IDS_PCZC969_SPACE_MUSEUM_4_3_DESCRIPTION"
-msgstr "<p>半硬式結構，用於艙外工作，1977~1984 年應用於禮炮 6 號、禮炮 7 號空間站。</p><p class=\"p_spacing\"> </p><p>1977 年 12 月 20 日，禮炮 6 號上的羅曼年科與格列奇科首次穿著「海鷹-D」型出艙作業。</p><p class=\"p_spacing\"> </p><p>與此前的「金雕」和「隼」型相比，「海鷹-D」可根據不同航天員體型進行適配，適合需要長時間值守的空間站。</p><p class=\"p_spacing\"> </p><p>使用封閉迴圈（再生式）生命保障系統，配合水冷服帶走多餘熱量。</p><p class=\"p_spacing\"> </p><p>透過一根 20 公分長電纜連線飛船獲取供電、通訊與遙測；該纜同時也是安全繩。另配一根安全索作為備用。</p><p class=\"p_spacing\"> </p><p>後續出現了多種改進型號：「海鷹-DM」、「海鷹-DMA」、「海鷹-M」、「海鷹-MK」、「海鷹-MKS」等。</p><p class=\"p_spacing\"> </p><p>在星辰科學研究所製造。</p><p class=\"p_spacing\"> </p><p>關鍵參數：</p><p class=\"p_spacing\"> </p><p>˙ 航天服質量 73.5~114 公斤（視型號而定）；<br>˙ 適用胸圍 96~108 公分；<br>˙ 適用身高 164~180 公分；<br>˙ 在軌艙外作業時間 5~8 小時（視型號而定）。</p>"
+msgstr "<p>半硬式結構，用於艙外工作，1977~1984 年應用於禮炮 6 號、禮炮 7 號空間站。</p><p class=\"p_spacing\"> </p><p>1977 年 12 月 20 日，禮炮 6 號上的羅曼年科與格列奇科首次穿著「海鷹-D」型出艙作業。</p><p class=\"p_spacing\"> </p><p>與此前的「金雕」和「隼」型相比，「海鷹-D」可根據不同航天員體型進行適配，適合需要長時間值守的空間站。</p><p class=\"p_spacing\"> </p><p>使用封閉迴圈（再生式）生命保障系統，配合水冷服帶走多餘熱量。</p><p class=\"p_spacing\"> </p><p>透過一根 20 公分長電纜連線飛船獲取供電、通訊與遙測；該纜同時也是安全繩。另配一根安全索作為備用。</p><p class=\"p_spacing\"> </p><p>後續出現了多種改進型號：「海鷹-DM」、「海鷹-DMA」、「海鷹-M」、「海鷹-MK」、「海鷹-MKS」等。</p><p class=\"p_spacing\"> </p><p>在星辰科學研究所製造。</p><p class=\"p_spacing\"> </p><p>關鍵參數：</p><p class=\"p_spacing\"> </p><p>• 航天服質量 73.5~114 公斤（視型號而定）；<br>• 適用胸圍 96~108 公分；<br>• 適用身高 164~180 公分；<br>• 在軌艙外作業時間 5~8 小時（視型號而定）。</p>"
 
 msgid "IDS_PCZC970_SPACE_MUSEUM_4_4"
 msgstr "隼 94 型航天服"
@@ -80678,13 +80678,13 @@ msgid "IDS_PCZC971_SPACE_MUSEUM_5_1"
 msgstr "貝爾卡、斯特列卡與彈射艙"
 
 msgid "IDS_PCZC971_SPACE_MUSEUM_5_1_DESCRIPTION"
-msgstr "<p>這是兩條 1960 年 8 月 19 日成功返回地球的英雄犬；圖中展示了它們所乘坐的彈射艙外殼，表面還可見再入著陸時留下的痕跡。</p><p class=\"p_spacing\"> </p><p>在 1960~1961 年間，為了籌備人類首次載人航天飛行，蘇聯進行了 7 次「東方」號無人飛船實驗飛行，重點檢驗座艙設計以及生命保障與返回系統。</p><p class=\"p_spacing\"> </p><p>此彈射艙是座艙彈射座椅的原型，由星辰科學研究所在謝苗˙米哈伊洛維奇˙阿列克謝耶夫的領導下設計。降落時，它會在距地面約 7 公里高空與返回艙分離並傘降，著陸速度約為 6–8 公分/秒。</p><p class=\"p_spacing\"> </p><p>1960 年 8 月 20 日，艙內所有生物樣本均安全返航，為研究失重與宇宙輻射對生命體的影響提供了寶貴資料。</p>"
+msgstr "<p>這是兩條 1960 年 8 月 19 日成功返回地球的英雄犬；圖中展示了它們所乘坐的彈射艙外殼，表面還可見再入著陸時留下的痕跡。</p><p class=\"p_spacing\"> </p><p>在 1960~1961 年間，為了籌備人類首次載人航天飛行，蘇聯進行了 7 次「東方」號無人飛船實驗飛行，重點檢驗座艙設計以及生命保障與返回系統。</p><p class=\"p_spacing\"> </p><p>此彈射艙是座艙彈射座椅的原型，由星辰科學研究所在謝苗·米哈伊洛維奇·阿列克謝耶夫的領導下設計。降落時，它會在距地面約 7 公里高空與返回艙分離並傘降，著陸速度約為 6–8 公分/秒。</p><p class=\"p_spacing\"> </p><p>1960 年 8 月 20 日，艙內所有生物樣本均安全返航，為研究失重與宇宙輻射對生命體的影響提供了寶貴資料。</p>"
 
 msgid "IDS_PCZC972_SPACE_MUSEUM_5_2"
 msgstr "「東方」系列單座飛船返回艙"
 
 msgid "IDS_PCZC972_SPACE_MUSEUM_5_2_DESCRIPTION"
-msgstr "<p>1961~1963 年間，「東方」載人計劃使用的飛船返回艙；加加林、季托夫、尼古拉耶夫、波波維奇、比科夫斯基、捷列什科娃均乘此艙。</p><p class=\"p_spacing\"> </p><p>「東方」飛船由球形返回艙與裝置/儀表艙組成，二者透過金屬帶與火工鎖連結。</p><p class=\"p_spacing\"> </p><p>返回艙用於宇航員在發射、軌道飛行與下降至 7 公里高度的期間乘坐。之後宇航員隨座椅彈射並傘降在地面；宇航員與座椅在約 4 公里時分離，座椅留在空中，宇航員本人單獨傘降。</p><p class=\"p_spacing\"> </p><p>球形艙體由鋁合金製成，外覆熱防護層，厚度 30~180 mm。外部有 3 個直徑 1 公分的艙門（宇航員入口/出口、技術檢修、降落傘倉）以及 3 個觀察窗與一套彈射座椅。</p><p class=\"p_spacing\"> </p><p>為防止意外失壓，宇航員還穿著專用航天服，可在座艙內生存 4 小時，也具備在 10 公里以下彈射的保護。</p><p class=\"p_spacing\"> </p><p>內部另裝有水、食物和排洩容器。通訊系統由一套超短波和兩套短波無線電組成。</p><p class=\"p_spacing\"> </p><p>主要技術資訊：<br>˙ 質量約 2.4 噸；<br>˙ 直徑約 2.3 公分；<br>˙ 內部體積 5.2 立方公尺；<br>˙ 宇航員可活動體積約 1.6 立方公尺。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋˙科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
+msgstr "<p>1961~1963 年間，「東方」載人計劃使用的飛船返回艙；加加林、季托夫、尼古拉耶夫、波波維奇、比科夫斯基、捷列什科娃均乘此艙。</p><p class=\"p_spacing\"> </p><p>「東方」飛船由球形返回艙與裝置/儀表艙組成，二者透過金屬帶與火工鎖連結。</p><p class=\"p_spacing\"> </p><p>返回艙用於宇航員在發射、軌道飛行與下降至 7 公里高度的期間乘坐。之後宇航員隨座椅彈射並傘降在地面；宇航員與座椅在約 4 公里時分離，座椅留在空中，宇航員本人單獨傘降。</p><p class=\"p_spacing\"> </p><p>球形艙體由鋁合金製成，外覆熱防護層，厚度 30~180 mm。外部有 3 個直徑 1 公分的艙門（宇航員入口/出口、技術檢修、降落傘倉）以及 3 個觀察窗與一套彈射座椅。</p><p class=\"p_spacing\"> </p><p>為防止意外失壓，宇航員還穿著專用航天服，可在座艙內生存 4 小時，也具備在 10 公里以下彈射的保護。</p><p class=\"p_spacing\"> </p><p>內部另裝有水、食物和排洩容器。通訊系統由一套超短波和兩套短波無線電組成。</p><p class=\"p_spacing\"> </p><p>主要技術資訊：<br>• 質量約 2.4 噸；<br>• 直徑約 2.3 公分；<br>• 內部體積 5.2 立方公尺；<br>• 宇航員可活動體積約 1.6 立方公尺。</p><p class=\"p_spacing\"> </p><p>它由首席設計師謝爾蓋·科羅廖夫領導的 OKB-1 特別設計局研製。</p>"
 
 msgid "IDS_PCZC973_SPACE_MUSEUM_5_3"
 msgstr "東方號載人飛船"
@@ -80696,19 +80696,19 @@ msgid "IDS_PCZC974_SPACE_MUSEUM_5_4"
 msgstr "「上升-2」飛船氣閘艙"
 
 msgid "IDS_PCZC974_SPACE_MUSEUM_5_4_DESCRIPTION"
-msgstr "<p>用於確保飛船在艙外活動時仍保持密封。1965 年 3 月 18 日，列昂諾夫經此氣閘艙世界首次實施太空行走。</p><p class=\"p_spacing\"> </p><p>氣閘艙為可摺疊的圓柱體設計，包含兩個艙門：一個與返回艙相通，另一個通向外太空，並帶有加壓與排氣功能。其使用時從飛船外部展開，透過固定支架與艙壁連線；飛行員在座椅面板上進行充放氣操作，並控制艙外活動流程。</p><p class=\"p_spacing\"> </p><p>主要參數：<br>˙ 氣閘質量約 250 公斤；<br>˙ 摺疊時直徑 70 公分，高 77 公分；<br>˙ 展開後高度 2.5 公分，內徑約 1 公分，外徑約 1.2 公分；<br>˙ 兩個艙門直徑均為 70 公分。</p><p class=\"p_spacing\"> </p><p>1964~1965 年由星辰科學研究所（Звезда）研製，首席設計師為蓋伊˙塞維林。</p>"
+msgstr "<p>用於確保飛船在艙外活動時仍保持密封。1965 年 3 月 18 日，列昂諾夫經此氣閘艙世界首次實施太空行走。</p><p class=\"p_spacing\"> </p><p>氣閘艙為可摺疊的圓柱體設計，包含兩個艙門：一個與返回艙相通，另一個通向外太空，並帶有加壓與排氣功能。其使用時從飛船外部展開，透過固定支架與艙壁連線；飛行員在座椅面板上進行充放氣操作，並控制艙外活動流程。</p><p class=\"p_spacing\"> </p><p>主要參數：<br>• 氣閘質量約 250 公斤；<br>• 摺疊時直徑 70 公分，高 77 公分；<br>• 展開後高度 2.5 公分，內徑約 1 公分，外徑約 1.2 公分；<br>• 兩個艙門直徑均為 70 公分。</p><p class=\"p_spacing\"> </p><p>1964~1965 年由星辰科學研究所（Звезда）研製，首席設計師為蓋伊·塞維林。</p>"
 
 msgid "IDS_PCZC975_SPACE_MUSEUM_5_5"
 msgstr "「月球車-1」"
 
 msgid "IDS_PCZC975_SPACE_MUSEUM_5_5_DESCRIPTION"
-msgstr "<p>人類歷史上第一臺在地外天體表面自主移動的探測車。</p><p class=\"p_spacing\"> </p><p>主要參數：<br>˙ 質量為 756 公斤；<br>˙ 展開後長 4.42 公分；<br>˙ 寬 2.15 公分；<br>˙ 高 1.92 公分；<br>˙ 車輪直徑 0.51 公分，輪距 1.6 公分。</p><p class=\"p_spacing\"> </p><p>月球 17 號攜「月球車-1」於 1970 年 11 月 10 日由質子號運載火箭發射，11 月 17 日在月球雨海成功軟著陸。</p><p class=\"p_spacing\"> </p><p>「月球車-1」在月球工作 318 天，行駛 10540 公分，踏勘了約 8 萬平方公里的月表區域；速度可達每小時 2 公里。</p><p class=\"p_spacing\"> </p><p>它向地球傳送了 210 幅全景圖與約 2 萬幀電檢視像，並完成 171 次通訊會話，共執行 24829 條遙控指令。</p><p class=\"p_spacing\"> </p><p>法國製造的雷射角反射器也隨車帶至月球，使地面對其進行雷射測距，誤差僅數公尺。</p><p class=\"p_spacing\"> </p><p>1971 年 9 月 14 日進行最後一次通訊後不再響應。</p><p class=\"p_spacing\"> </p><p>由格奧爾基˙巴巴金領導的拉沃奇金科研生產聯合體負責整器研製；</p><p class=\"p_spacing\"> </p><p>底盤由 A.L.克穆德日安在全蘇運輸機械研究院主導設計。</p>"
+msgstr "<p>人類歷史上第一臺在地外天體表面自主移動的探測車。</p><p class=\"p_spacing\"> </p><p>主要參數：<br>• 質量為 756 公斤；<br>• 展開後長 4.42 公分；<br>• 寬 2.15 公分；<br>• 高 1.92 公分；<br>• 車輪直徑 0.51 公分，輪距 1.6 公分。</p><p class=\"p_spacing\"> </p><p>月球 17 號攜「月球車-1」於 1970 年 11 月 10 日由質子號運載火箭發射，11 月 17 日在月球雨海成功軟著陸。</p><p class=\"p_spacing\"> </p><p>「月球車-1」在月球工作 318 天，行駛 10540 公分，踏勘了約 8 萬平方公里的月表區域；速度可達每小時 2 公里。</p><p class=\"p_spacing\"> </p><p>它向地球傳送了 210 幅全景圖與約 2 萬幀電檢視像，並完成 171 次通訊會話，共執行 24829 條遙控指令。</p><p class=\"p_spacing\"> </p><p>法國製造的雷射角反射器也隨車帶至月球，使地面對其進行雷射測距，誤差僅數公尺。</p><p class=\"p_spacing\"> </p><p>1971 年 9 月 14 日進行最後一次通訊後不再響應。</p><p class=\"p_spacing\"> </p><p>由格奧爾基·巴巴金領導的拉沃奇金科研生產聯合體負責整器研製；</p><p class=\"p_spacing\"> </p><p>底盤由 A.L.克穆德日安在全蘇運輸機械研究院主導設計。</p>"
 
 msgid "IDS_PCZC976_SPACE_MUSEUM_5_6"
 msgstr "月球 16 號探測器"
 
 msgid "IDS_PCZC976_SPACE_MUSEUM_5_6_DESCRIPTION"
-msgstr "<p>1970 年 9 月首次採集約 105 克月壤樣品並送回地球。</p><p class=\"p_spacing\"> </p><p>探測器總重 5727 公斤，著陸月面質量 1880 公斤，返回艙質量 34 公斤。</p><p class=\"p_spacing\"> </p><p>1970 年 9 月 12 日，質子-K運載火箭在拜科努爾將其發射升空，其於8天后的9月20日成功在月球豐富海軟著陸。</p><p class=\"p_spacing\"> </p><p>此探測系統包括通用著陸級與攜帶返回艙的儀表模組。著陸級上安裝了可進行取樣的鑽取裝置，透過可垂直與水平移動的機械臂收集並送入返回艙。著陸點位置由兩臺電視攝像儀確定。</p><p class=\"p_spacing\"> </p><p>分析顯示，鑽芯中為鬆散的月球表層塵土與碎屑（風化層），化學成分類似地球玄武岩。</p><p class=\"p_spacing\"> </p><p>9 月 21 日，返回艙在地面遙控下從月面起飛，24 日與儀表艙分離後在傑茲卡茲甘市東南方向 80 公里處軟著陸。</p><p class=\"p_spacing\"> </p><p>由格奧爾基˙巴巴金領導的拉沃奇金科研生產聯合體研製。</p>"
+msgstr "<p>1970 年 9 月首次採集約 105 克月壤樣品並送回地球。</p><p class=\"p_spacing\"> </p><p>探測器總重 5727 公斤，著陸月面質量 1880 公斤，返回艙質量 34 公斤。</p><p class=\"p_spacing\"> </p><p>1970 年 9 月 12 日，質子-K運載火箭在拜科努爾將其發射升空，其於8天后的9月20日成功在月球豐富海軟著陸。</p><p class=\"p_spacing\"> </p><p>此探測系統包括通用著陸級與攜帶返回艙的儀表模組。著陸級上安裝了可進行取樣的鑽取裝置，透過可垂直與水平移動的機械臂收集並送入返回艙。著陸點位置由兩臺電視攝像儀確定。</p><p class=\"p_spacing\"> </p><p>分析顯示，鑽芯中為鬆散的月球表層塵土與碎屑（風化層），化學成分類似地球玄武岩。</p><p class=\"p_spacing\"> </p><p>9 月 21 日，返回艙在地面遙控下從月面起飛，24 日與儀表艙分離後在傑茲卡茲甘市東南方向 80 公里處軟著陸。</p><p class=\"p_spacing\"> </p><p>由格奧爾基·巴巴金領導的拉沃奇金科研生產聯合體研製。</p>"
 
 msgid "IDS_PCZC977_BD25_PUZZLE_1"
 msgstr "拼圖碎片"
@@ -82267,13 +82267,13 @@ msgid "IDS_PFSB511_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB518"
-msgstr "讓˙巴爾"
+msgstr "讓·巴爾"
 
 msgid "IDS_PFSB518_DESCR"
 msgstr "Jean Bart，第二艘 Richelieu 級主力艦，於第二次世界大戰爆發後下水。為了防止她被敵人擄獲，這艘尚未完工的艦艇被帶到卡薩布蘭加繼續建造。Jean Bart 在卡薩布蘭加的盟軍登陸行動期間進行了抵抗，後來被主力艦 Massachusetts 嚴重損壞。此艦艇的建造一直到戰爭結束後才完成。"
 
 msgid "IDS_PFSB518_FULL"
-msgstr "讓˙巴爾"
+msgstr "讓·巴爾"
 
 msgid "IDS_PFSB518_NUMBER"
 msgstr "2"
@@ -82282,13 +82282,13 @@ msgid "IDS_PFSB518_YEAR"
 msgstr "1949"
 
 msgid "IDS_PFSB519"
-msgstr "讓˙巴爾'43"
+msgstr "讓·巴爾'43"
 
 msgid "IDS_PFSB519_DESCR"
-msgstr "<p>1943 年，自由法國與美國就完成主力艦讓˙巴爾的建造工作進行了談判，該艦於 1942 年底在卡薩布蘭卡被盟軍俘獲。雙方討論了兩種方案，都涉及將洛林號主力艦上的 340 毫米火炮安裝到該艦上。</p><p class=\"p_spacing\"> </p><p>其中一個方案意味著將讓˙巴爾改造為一艘防空主力艦。為此，計劃提議利用美國製造的雙聯裝 127 毫米高平兩用炮、二十座四聯裝博福斯炮塔以及其他火炮來替代二號主炮。</p>"
+msgstr "<p>1943 年，自由法國與美國就完成主力艦讓·巴爾的建造工作進行了談判，該艦於 1942 年底在卡薩布蘭卡被盟軍俘獲。雙方討論了兩種方案，都涉及將洛林號主力艦上的 340 毫米火炮安裝到該艦上。</p><p class=\"p_spacing\"> </p><p>其中一個方案意味著將讓·巴爾改造為一艘防空主力艦。為此，計劃提議利用美國製造的雙聯裝 127 毫米高平兩用炮、二十座四聯裝博福斯炮塔以及其他火炮來替代二號主炮。</p>"
 
 msgid "IDS_PFSB519_FULL"
-msgstr "讓˙巴爾'43"
+msgstr "讓·巴爾'43"
 
 msgid "IDS_PFSB519_NUMBER"
 msgstr "2"
@@ -82315,7 +82315,7 @@ msgid "IDS_PFSB529"
 msgstr "阿托瓦"
 
 msgid "IDS_PFSB529_DESCR"
-msgstr "<p>1942 年底，北非的「火炬行動」使得盟軍俘獲了讓˙巴爾號主力艦。該艦當時處於未完工狀態 — 僅安裝了一座主砲塔 — 法國抵抗運動的代表試圖爭取讓該艦在美國完工。</p><p class=\"p_spacing\"> </p><p>為此，法國工程師提出了一個可以在短時間內實施的計畫。由於讓˙巴爾號的主砲當時已被用於更換其姊妹艦黎希留號上的受損火砲，因此建議在唯一的砲塔中安裝洛林號主力艦曾使用的 340 mm 火砲。該方案還提議在第二座主砲塔的位置放置美國製造的雙聯裝 127 mm 高平兩用砲、20 座四聯裝博福斯機砲以及其他火砲。</p>"
+msgstr "<p>1942 年底，北非的「火炬行動」使得盟軍俘獲了讓·巴爾號主力艦。該艦當時處於未完工狀態 — 僅安裝了一座主砲塔 — 法國抵抗運動的代表試圖爭取讓該艦在美國完工。</p><p class=\"p_spacing\"> </p><p>為此，法國工程師提出了一個可以在短時間內實施的計畫。由於讓·巴爾號的主砲當時已被用於更換其姊妹艦黎希留號上的受損火砲，因此建議在唯一的砲塔中安裝洛林號主力艦曾使用的 340 mm 火砲。該方案還提議在第二座主砲塔的位置放置美國製造的雙聯裝 127 mm 高平兩用砲、20 座四聯裝博福斯機砲以及其他火砲。</p>"
 
 msgid "IDS_PFSB529_FULL"
 msgstr "阿托瓦"
@@ -82387,13 +82387,13 @@ msgid "IDS_PFSB598_YEAR"
 msgstr "1939"
 
 msgid "IDS_PFSB599"
-msgstr "讓˙巴爾B"
+msgstr "讓·巴爾B"
 
 msgid "IDS_PFSB599_DESCR"
 msgstr "Jean Bart，第二艘 Richelieu 級主力艦，於第二次世界大戰爆發後下水。為了防止她被敵人擄獲，這艘尚未完工的艦艇被帶到卡薩布蘭加繼續建造。Jean Bart 在卡薩布蘭加的盟軍登陸行動期間進行了抵抗，後來被主力艦 Massachusetts 嚴重損壞。此艦艇的建造一直到戰爭結束後才完成。"
 
 msgid "IDS_PFSB599_FULL"
-msgstr "讓˙巴爾B"
+msgstr "讓·巴爾B"
 
 msgid "IDS_PFSB599_NUMBER"
 msgstr "2"
@@ -82432,13 +82432,13 @@ msgid "IDS_PFSC101_YEAR"
 msgstr "1933"
 
 msgid "IDS_PFSC102"
-msgstr "朱里恩德格拉維"
+msgstr "朱里恩·格拉維"
 
 msgid "IDS_PFSC102_DESCR"
 msgstr "此艦艇成為了法國最後一艘裝甲巡洋艦。Jurien de la Graviere 在入伍後加入了大西洋中隊。後來，此艦艇轉移至地中海。第一次世界大戰期間，Jurien de la Graviere 加入了一支主力艦分艦隊，其任務是威懾亞得里亞海的奧匈帝國艦隊。當時，此巡洋艦負責執行巡邏任務並參加了對土耳其海岸的突襲。"
 
 msgid "IDS_PFSC102_FULL"
-msgstr "朱里恩德格拉維"
+msgstr "朱里恩·格拉維"
 
 msgid "IDS_PFSC102_NUMBER"
 msgstr "1"
@@ -82477,13 +82477,13 @@ msgid "IDS_PFSC104_YEAR"
 msgstr "1926"
 
 msgid "IDS_PFSC105"
-msgstr "埃米爾˙貝爾坦"
+msgstr "埃米爾·貝爾坦"
 
 msgid "IDS_PFSC105_DESCR"
 msgstr "1928年，法國海軍總部開始研發巡洋艦以保護海上航線。對於此類巡洋艦需求很高，主要訴求為 152 毫米的主炮，以及 6,000 噸的排水量。此艦艇計畫幾乎沒有裝甲，但航速很快。第二次世界大戰期間，Emile Bertin 參加了挪威戰役，將黃金運送到美國，以及參與了在法國南部的盟軍登陸行動。"
 
 msgid "IDS_PFSC105_FULL"
-msgstr "埃米爾˙貝爾坦"
+msgstr "埃米爾·貝爾坦"
 
 msgid "IDS_PFSC105_NUMBER"
 msgstr "1"
@@ -82492,13 +82492,13 @@ msgid "IDS_PFSC105_YEAR"
 msgstr "1935"
 
 msgid "IDS_PFSC106"
-msgstr "La Galissonnière"
+msgstr "拉·加利索尼埃"
 
 msgid "IDS_PFSC106_DESCR"
 msgstr "《倫敦海軍條約》簽署後，法國開始研發新型巡洋艦。技術規格包括能抵禦距離 9,000 公尺外的 138.6 毫米砲彈，以及抵禦距離 14,000 公尺外的 152 毫米砲彈。武器由九門 152 毫米火炮所組成。第二次世界大戰期間，La Galissonniere 負責在突尼西亞海岸巡邏，並在彈弓行動中為主力艦 Provence 提供掩護。"
 
 msgid "IDS_PFSC106_FULL"
-msgstr "La Galissonnière"
+msgstr "拉·加利索尼埃"
 
 msgid "IDS_PFSC106_NUMBER"
 msgstr "6"
@@ -82522,13 +82522,13 @@ msgid "IDS_PFSC107_YEAR"
 msgstr "1934"
 
 msgid "IDS_PFSC108"
-msgstr "查理˙馬特"
+msgstr "查理·馬特"
 
 msgid "IDS_PFSC108_DESCR"
 msgstr "新型巡洋艦的設計是以其前輩 Algerie 為基礎，並使用了 De Grasse 輕型巡洋艦的元素。新艦艇的主要特點是主炮採用了有助於增強火力的三聯裝炮塔。此計畫其中一個版本是在艦艇上安裝飛機設備。相較於前輩，推進裝置功率的增加目的在於提高航速。"
 
 msgid "IDS_PFSC108_FULL"
-msgstr "查理˙馬特"
+msgstr "查理·馬特"
 
 msgid "IDS_PFSC108_NUMBER"
 msgstr "0"
@@ -82627,13 +82627,13 @@ msgid "IDS_PFSC210_YEAR"
 msgstr "1944"
 
 msgid "IDS_PFSC506"
-msgstr "德˙格拉斯"
+msgstr "德·格拉斯"
 
 msgid "IDS_PFSC506_DESCR"
 msgstr "以 La Galissonniere 級改良後的設計為基礎的巡洋艦。此艦艇具有不同的推進裝置配置，並且擁有更先進的上層建築和改良的防空炮的位置。巡洋艦 De Grasse 於第二次世界大戰爆發前幾日安放龍骨。"
 
 msgid "IDS_PFSC506_FULL"
-msgstr "德˙格拉斯"
+msgstr "德·格拉斯"
 
 msgid "IDS_PFSC506_NUMBER"
 msgstr "1"
@@ -82717,13 +82717,13 @@ msgid "IDS_PFSC516_YEAR"
 msgstr "1932"
 
 msgid "IDS_PFSC519"
-msgstr "德˙格拉斯'56"
+msgstr "德·格拉斯'56"
 
 msgid "IDS_PFSC519_DESCR"
-msgstr "<p>德˙格拉斯號最初作為拉˙加利索尼埃級巡洋艦的七號艦開工建造，但相關建造計畫最終於 1933 年 9 月被取消，其建造資金直到 1930 年代末才獲批撥付。因此，法國海軍決定依據改進後的設計方案建造該艦：新設計採用了不同的動力系統佈局與更先進的上層建築，同時強化了防空火力配置。</p><p class=\"p_spacing\"> </p><p>該艦於第二次世界大戰爆發前數日鋪設龍骨，至 1940 年 6 月，尚未完工的艦體被德軍擄獲。1943 年 10 月，德國決定將其改裝為航空母艦。艦體雖於 1946 年下水，但後續工程再度遭到擱置。</p><p class=\"p_spacing\"> </p><p>建造工程直至 1951 年 1 月才重新啟動，並採用全新設計方案：新艦將定位為防空巡洋艦。德˙格拉斯號最終於 1956 年 9 月正式服役，並於 1966 年改裝為太平洋核試驗任務的指揮艦。</p>"
+msgstr "<p>德·格拉斯號最初作為拉·加利索尼埃級巡洋艦的七號艦開工建造，但相關建造計畫最終於 1933 年 9 月被取消，其建造資金直到 1930 年代末才獲批撥付。因此，法國海軍決定依據改進後的設計方案建造該艦：新設計採用了不同的動力系統佈局與更先進的上層建築，同時強化了防空火力配置。</p><p class=\"p_spacing\"> </p><p>該艦於第二次世界大戰爆發前數日鋪設龍骨，至 1940 年 6 月，尚未完工的艦體被德軍擄獲。1943 年 10 月，德國決定將其改裝為航空母艦。艦體雖於 1946 年下水，但後續工程再度遭到擱置。</p><p class=\"p_spacing\"> </p><p>建造工程直至 1951 年 1 月才重新啟動，並採用全新設計方案：新艦將定位為防空巡洋艦。德·格拉斯號最終於 1956 年 9 月正式服役，並於 1966 年改裝為太平洋核試驗任務的指揮艦。</p>"
 
 msgid "IDS_PFSC519_FULL"
-msgstr "德˙格拉斯'56"
+msgstr "德·格拉斯'56"
 
 msgid "IDS_PFSC519_NUMBER"
 msgstr "1"
@@ -82762,13 +82762,13 @@ msgid "IDS_PFSC811_YEAR"
 msgstr "1957"
 
 msgid "IDS_PFSC896"
-msgstr "[拉˙加利索尼埃]"
+msgstr "[拉·加利索尼埃]"
 
 msgid "IDS_PFSC896_DESCR"
 msgstr "這艘艦艇為 La Galissonnière 的複製品，專為聯合作戰設計"
 
 msgid "IDS_PFSC896_FULL"
-msgstr "[拉˙加利索尼埃]"
+msgstr "[拉·加利索尼埃]"
 
 msgid "IDS_PFSC896_NUMBER"
 msgstr "6"
@@ -83065,7 +83065,7 @@ msgid "IDS_PFSD610"
 msgstr "雷諾堡"
 
 msgid "IDS_PFSD610_DESCR"
-msgstr "二戰結束後，義大利輕巡洋艦阿蒂略˙萊戈洛號作為戰爭賠款被移交給法國，並改名為雷諾堡。1951-54 年，該艦進行了大修和現代化改造，同時被重新歸類為驅逐艦。20 世紀 50 年代末，雷諾堡號被改裝為指揮艦，搭載船隊司令部。1961 年，她被列為後備艦，直到 1969 年，其都一直是海軍燧發槍手學校的所在地。"
+msgstr "二戰結束後，義大利輕巡洋艦阿蒂略·萊戈洛號作為戰爭賠款被移交給法國，並改名為雷諾堡。1951-54 年，該艦進行了大修和現代化改造，同時被重新歸類為驅逐艦。20 世紀 50 年代末，雷諾堡號被改裝為指揮艦，搭載船隊司令部。1961 年，她被列為後備艦，直到 1969 年，其都一直是海軍燧發槍手學校的所在地。"
 
 msgid "IDS_PFSD610_FULL"
 msgstr "雷諾堡"
@@ -83140,7 +83140,7 @@ msgid "IDS_PFSS108"
 msgstr "非洲女郎"
 
 msgid "IDS_PFSS108_DESCR"
-msgstr "<p>Y3 型（亦稱極光級）潛艦專案於 1930 年代初研發。與前代艦相比，該級潛艦的艦體尺寸擴大了約 1.5 倍，火力更強，並且擁有更好的適航性。然而，該級艦在法國投降前僅有首艦入役。</p><p class=\"p_spacing\"> </p><p>非洲女郎號以賈科莫˙梅耶貝爾的同名歌劇命名，於 1938 年 9 月在勒特雷船廠開工建造。然而，該艦尚未完工便於戰爭期間被德軍繳獲，並被更名為 UF-1。由於工程進度緩慢，德軍在撤離諾曼底前曾試圖炸燬未完工的艦體。</p><p class=\"p_spacing\"> </p><p>戰後，法國對非洲女郎號完成了改進設計，其隨後被編入第 1 潛艦艦隊服役。</p>"
+msgstr "<p>Y3 型（亦稱極光級）潛艦專案於 1930 年代初研發。與前代艦相比，該級潛艦的艦體尺寸擴大了約 1.5 倍，火力更強，並且擁有更好的適航性。然而，該級艦在法國投降前僅有首艦入役。</p><p class=\"p_spacing\"> </p><p>非洲女郎號以賈科莫·梅耶貝爾的同名歌劇命名，於 1938 年 9 月在勒特雷船廠開工建造。然而，該艦尚未完工便於戰爭期間被德軍繳獲，並被更名為 UF-1。由於工程進度緩慢，德軍在撤離諾曼底前曾試圖炸燬未完工的艦體。</p><p class=\"p_spacing\"> </p><p>戰後，法國對非洲女郎號完成了改進設計，其隨後被編入第 1 潛艦艦隊服役。</p>"
 
 msgid "IDS_PFSS108_FULL"
 msgstr "非洲女郎"
@@ -83155,7 +83155,7 @@ msgid "IDS_PFSS110"
 msgstr "卡薩比安卡"
 
 msgid "IDS_PFSS110_DESCR"
-msgstr "<p>該艦是最後批次的可畏級潛艦之一，在聖納澤爾開工建造。她最初曾被命名為卡薩布蘭卡，然而，由於海軍部長弗朗索瓦˙皮埃特里的要求，該艦被重新命名為卡薩比安卡，以紀念在阿布基爾海戰中英勇戰鬥的盧克-朱利安-約瑟夫˙卡薩比安卡。</p><p class=\"p_spacing\"> </p><p>二戰初期，卡薩比安卡主要在執行艦隊護航任務、並在挪威沿岸巡邏，隨後她被轉移至地中海。1942 年 11 月 27 日，法國海軍為防止本國艦隊落入德軍之手，大規模地將軍艦鑿沉於土倫港，而卡薩比安卡成功突破了封鎖，駛往阿爾及利亞，並在其後投奔了自由法國。此後，該艦積極參與盟軍在地中海的戰鬥，最為著名的戰績則是在 1943 年 9 月協助解放了科西嘉島。</p><p class=\"p_spacing\"> </p><p>因其在二戰期間的卓越貢獻，卡薩比安卡被授予法國抵抗勳章和戰爭十字勳章。如今，其指揮塔仍被保留，並被安置在科西嘉島的巴斯蒂亞市，以紀念這艘傳奇潛艦。</p>"
+msgstr "<p>該艦是最後批次的可畏級潛艦之一，在聖納澤爾開工建造。她最初曾被命名為卡薩布蘭卡，然而，由於海軍部長弗朗索瓦·皮埃特里的要求，該艦被重新命名為卡薩比安卡，以紀念在阿布基爾海戰中英勇戰鬥的盧克-朱利安-約瑟夫·卡薩比安卡。</p><p class=\"p_spacing\"> </p><p>二戰初期，卡薩比安卡主要在執行艦隊護航任務、並在挪威沿岸巡邏，隨後她被轉移至地中海。1942 年 11 月 27 日，法國海軍為防止本國艦隊落入德軍之手，大規模地將軍艦鑿沉於土倫港，而卡薩比安卡成功突破了封鎖，駛往阿爾及利亞，並在其後投奔了自由法國。此後，該艦積極參與盟軍在地中海的戰鬥，最為著名的戰績則是在 1943 年 9 月協助解放了科西嘉島。</p><p class=\"p_spacing\"> </p><p>因其在二戰期間的卓越貢獻，卡薩比安卡被授予法國抵抗勳章和戰爭十字勳章。如今，其指揮塔仍被保留，並被安置在科西嘉島的巴斯蒂亞市，以紀念這艘傳奇潛艦。</p>"
 
 msgid "IDS_PFSS110_FULL"
 msgstr "卡薩比安卡"
@@ -83767,7 +83767,7 @@ msgid "IDS_PFUH501_DUNK"
 msgstr "Dunkerque"
 
 msgid "IDS_PFUH502_DE_GRASSE"
-msgstr "德˙格拉斯"
+msgstr "德·格拉斯"
 
 msgid "IDS_PFUH503_AIGLE"
 msgstr "Aigle"
@@ -83929,10 +83929,10 @@ msgid "IDS_PFUH813_HULL_FORBIN"
 msgstr "福爾班"
 
 msgid "IDS_PFUH814_JBART_43"
-msgstr "讓˙巴爾'43"
+msgstr "讓·巴爾'43"
 
 msgid "IDS_PFUH815_DE_GRASSE_56"
-msgstr "德˙格拉斯'56"
+msgstr "德·格拉斯'56"
 
 msgid "IDS_PFUH816_ARTOIS"
 msgstr "阿托瓦"
@@ -86584,13 +86584,13 @@ msgid "IDS_PGSA106_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA108"
-msgstr "奧古斯特˙馮˙帕塞瓦爾"
+msgstr "奧古斯特·馮·帕塞瓦爾"
 
 msgid "IDS_PGSA108_DESCR"
 msgstr "Graf Zeppelin 級艦艇裝備了經典的蒸汽渦輪推進系統。特別是此航空母艦領鑑，配備了瑞士製造的齒輪減速渦輪裝置和鍋爐。然而，德國人認為要使破襲艦具有較大的巡航範圍和足夠的航速，必須使用柴油主推進裝置。他們的下一批破襲航空母艦非常有可能配備了柴油推進裝置。"
 
 msgid "IDS_PGSA108_FULL"
-msgstr "奧古斯特˙馮˙帕塞瓦爾"
+msgstr "奧古斯特·馮·帕塞瓦爾"
 
 msgid "IDS_PGSA108_NUMBER"
 msgstr "1"
@@ -86599,13 +86599,13 @@ msgid "IDS_PGSA108_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA110"
-msgstr "曼弗雷德˙馮˙里希特霍芬"
+msgstr "曼弗雷德·馮·里希特霍芬"
 
 msgid "IDS_PGSA110_DESCR"
 msgstr "以未完工的 H-39 級主力艦艦身為基礎的德國重型航空母艦的假設版本。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。有了這樣的配置，她本應成為世界上最大型的艦艇之一，僅次於日本的 Shinano。"
 
 msgid "IDS_PGSA110_FULL"
-msgstr "曼弗雷德˙馮˙里希特霍芬"
+msgstr "曼弗雷德·馮·里希特霍芬"
 
 msgid "IDS_PGSA110_NUMBER"
 msgstr "1"
@@ -86614,13 +86614,13 @@ msgid "IDS_PGSA110_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSA506"
-msgstr "埃里希˙羅溫哈特"
+msgstr "埃里希·羅溫哈特"
 
 msgid "IDS_PGSA506_DESCR"
 msgstr "航空母艦 B 是 Graf Zeppelin 級的第二艘艦艇，她在第一艘艦艇下水後於 1938 年在基爾安放龍骨。她的建造進度緩慢，由於工程師試圖解決在建造該系列第一艘艦艇時遇到的所有初期問題。直到第二次世界大戰爆發時，此航空母艦包括裝甲甲板在內的所有艦身部件均已完成。然而，德國領導層決定只完成那些處於建造後期階段的艦艇。因此，第二艘航空母艦的訂單於 1939 年 9 月取消，並在 1940 年初在船台上報廢。"
 
 msgid "IDS_PGSA506_FULL"
-msgstr "埃里希˙羅溫哈特"
+msgstr "埃里希·羅溫哈特"
 
 msgid "IDS_PGSA506_NUMBER"
 msgstr "1"
@@ -86644,13 +86644,13 @@ msgid "IDS_PGSA508_YEAR"
 msgstr "1936"
 
 msgid "IDS_PGSA510"
-msgstr "沃納˙沃斯"
+msgstr "沃納·沃斯"
 
 msgid "IDS_PGSA510_DESCR"
 msgstr "德國重型航空母艦的假設版本，以未完工的 H-39 級主力艦艦身為基礎。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。有了這樣的配置，她本應成為世界上最大型的艦艇之一，僅次於日本的 Shinano。"
 
 msgid "IDS_PGSA510_FULL"
-msgstr "沃納˙沃斯"
+msgstr "沃納·沃斯"
 
 msgid "IDS_PGSA510_NUMBER"
 msgstr "1"
@@ -86689,13 +86689,13 @@ msgid "IDS_PGSA598_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSA610"
-msgstr "馬克斯˙英麥曼"
+msgstr "馬克斯·英麥曼"
 
 msgid "IDS_PGSA610_DESCR"
 msgstr "此設計是作為航空母艦完工的 H-39 級主力艦的可能版本之一。據推測，在此主力艦的建造工程停止時，其艦身應已完全成形，且應該也已安裝主推進裝置和電氣機械設備。此類航空母艦本應成為全歐洲最大型的艦艇。"
 
 msgid "IDS_PGSA610_FULL"
-msgstr "馬克斯˙英麥曼"
+msgstr "馬克斯·英麥曼"
 
 msgid "IDS_PGSA610_NUMBER"
 msgstr "1"
@@ -86710,7 +86710,7 @@ msgid "IDS_PGSA990_DESCR"
 msgstr "用於測試精英升級品的艦艇複製品。"
 
 msgid "IDS_PGSA990_FULL"
-msgstr "曼弗雷德˙馮˙里希特霍芬Test"
+msgstr "曼弗雷德·馮·里希特霍芬Test"
 
 msgid "IDS_PGSA990_NUMBER"
 msgstr "1"
@@ -86884,13 +86884,13 @@ msgid "IDS_PGSB111_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB203"
-msgstr "馮˙德˙坦恩"
+msgstr "馮·德·坦恩"
 
 msgid "IDS_PGSB203_DESCR"
 msgstr "德國艦隊當時需要品質上的提升以有效對抗英國戰鬥巡洋艦。此艘新艦艇裝備四座裝有 280 毫米火炮的炮塔，並以渦輪機取代了蒸汽機，且其裝甲防護顯著優於英國戰艦。隨著第一次世界大戰爆發，SMS Von der Tann 參與了襲擊行動，目的是將大艦隊的艦艇引誘出基地。此艦艇在日德蘭海戰期間擊沉了 HMS Indefatigable，但她也遭英國艦艇擊中數次，使其所有火炮癱瘓。"
 
 msgid "IDS_PGSB203_FULL"
-msgstr "馮˙德˙坦恩"
+msgstr "馮·德·坦恩"
 
 msgid "IDS_PGSB203_NUMBER"
 msgstr "1"
@@ -87049,13 +87049,13 @@ msgid "IDS_PGSB503_YEAR"
 msgstr "1913"
 
 msgid "IDS_PGSB506"
-msgstr "埃特爾˙弗雷德里希王子"
+msgstr "埃特爾·弗雷德里希王子"
 
 msgid "IDS_PGSB506_DESCR"
 msgstr "Mackensen 級主力艦 SMS Prinz Eitel Friedrich 是以 Kaiser Wilhelm II 的其中一位兒子命名。由於重點轉向了潛艦，當第一次世界大戰結束時，此主力艦仍未完工。她於 1920 年 3 月以未完工的狀態下水。曾有人建議將此艦艇改裝成運糧船，那樣一來，她本可以在 1930 年代作為主力艦完工。然而，此提案未獲採納，而此艦艇的艦身於 1921 年遭拆解。"
 
 msgid "IDS_PGSB506_FULL"
-msgstr "埃特爾˙弗雷德里希王子"
+msgstr "埃特爾·弗雷德里希王子"
 
 msgid "IDS_PGSB506_NUMBER"
 msgstr "4"
@@ -87964,13 +87964,13 @@ msgid "IDS_PGSD105_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSD106"
-msgstr "恩斯特˙蓋德"
+msgstr "恩斯特·蓋德"
 
 msgid "IDS_PGSD106_DESCR"
 msgstr "艦隊驅逐艦於 1933 年開始建造，並計劃讓她們在航速及火力上超越他國的同類型艦艇。1933 年 3 月，斯德丁伏爾鏗公司發布了排水量 1,500 噸的「常規倫敦海軍條約」驅逐艦。此計畫隨後進行了修改，排水量因此增至 2,000 噸。儘管如此，德國戰爭海軍領導層更青睞另一項替代計畫，該計畫是 1934 年型艦艇後續開發的基礎。"
 
 msgid "IDS_PGSD106_FULL"
-msgstr "恩斯特˙蓋德"
+msgstr "恩斯特·蓋德"
 
 msgid "IDS_PGSD106_NUMBER"
 msgstr "0"
@@ -87979,13 +87979,13 @@ msgid "IDS_PGSD106_YEAR"
 msgstr "1933"
 
 msgid "IDS_PGSD107"
-msgstr "萊伯勒希特˙馬斯"
+msgstr "萊伯勒希特·馬斯"
 
 msgid "IDS_PGSD107_DESCR"
 msgstr "在 1934 年的驅逐艦競爭中，德意志造船廠提交的設計雀屏中選。該系列的驅逐領導艦 Z-1 Leberecht Maass 於 1934 年 10 月安放龍骨，並於 1937 年 2 月投入服役。第二次世界大戰期間，此驅逐艦參與了封鎖波蘭海岸線的行動，並於北海部署水雷。不幸的是，此驅逐艦於 1940 年 2 月 23 日在維京行動期間，遭德國空軍的轟炸機誤認為目標而擊沉。"
 
 msgid "IDS_PGSD107_FULL"
-msgstr "萊伯勒希特˙馬斯"
+msgstr "萊伯勒希特·馬斯"
 
 msgid "IDS_PGSD107_NUMBER"
 msgstr "4"
@@ -88039,13 +88039,13 @@ msgid "IDS_PGSD110_YEAR"
 msgstr "1943"
 
 msgid "IDS_PGSD111"
-msgstr "奧托˙韋迪根"
+msgstr "奧托·韋迪根"
 
 msgid "IDS_PGSD111_DESCR"
 msgstr "1945 級驅逐艦是裝備強大火炮的大型驅逐艦，也是德國戰爭海軍造船部開發但最後未實現的設計之一。與之前的計畫不同，此艦艇採用了渦輪發動機，而非柴油機。此驅逐艦配備當時最先進的火炮系統，旨在有效對抗輕型水面艦艇、潛艦及飛機。"
 
 msgid "IDS_PGSD111_FULL"
-msgstr "奧托˙韋迪根"
+msgstr "奧托·韋迪根"
 
 msgid "IDS_PGSD111_NUMBER"
 msgstr "1"
@@ -88069,13 +88069,13 @@ msgid "IDS_PGSD207_YEAR"
 msgstr "1942"
 
 msgid "IDS_PGSD208"
-msgstr "古斯塔夫˙尤利烏斯˙梅爾克"
+msgstr "古斯塔夫·尤利烏斯·梅爾克"
 
 msgid "IDS_PGSD208_DESCR"
 msgstr "1937 年型驅逐艦在設計上旨在成為作戰範圍更廣的艦艇。這些艦艇計劃用於大西洋以防衛或攻擊船團，以及在熱帶地區行動。此計畫以 1937J 版本作為基礎。然而到了 1938 年 4 月，設計工作遭到暫停，因為他們發現在單一艦身內整合所需的戰鬥能力、作戰範圍、航速與可靠性是一項不可能的任務。"
 
 msgid "IDS_PGSD208_FULL"
-msgstr "古斯塔夫˙尤利烏斯˙梅爾克"
+msgstr "古斯塔夫·尤利烏斯·梅爾克"
 
 msgid "IDS_PGSD208_NUMBER"
 msgstr "1"
@@ -88084,13 +88084,13 @@ msgid "IDS_PGSD208_YEAR"
 msgstr "1937"
 
 msgid "IDS_PGSD209"
-msgstr "費利克斯˙舒茲"
+msgstr "費利克斯·舒茲"
 
 msgid "IDS_PGSD209_DESCR"
 msgstr "遠洋驅逐艦概念的開發促成了 1938 計畫。1938Ac 在眾多方案中脫穎而出，持續進一步的發展。簡單來說，她是一艘排水量近 5,000 噸的輕型巡洋艦，擁有置於三座炮塔的六門 150 毫米火炮。計畫中，此艦級應建造 24 艘艦艇，但從未有一艘安放龍骨。"
 
 msgid "IDS_PGSD209_FULL"
-msgstr "費利克斯˙舒茲"
+msgstr "費利克斯·舒茲"
 
 msgid "IDS_PGSD209_NUMBER"
 msgstr "1"
@@ -88144,13 +88144,13 @@ msgid "IDS_PGSD508_YEAR"
 msgstr "1943"
 
 msgid "IDS_PGSD516"
-msgstr "卡爾˙馮˙勳伯格"
+msgstr "卡爾·馮·勳伯格"
 
 msgid "IDS_PGSD516_DESCR"
 msgstr "Vulcan 造船公司於 1933 年開發的大型驅逐艦設計，作為未來 1934 型驅逐艦的基礎。此艦艇的武器選項之一是安裝 5.9 英寸（149 毫米）火炮。然而，該設計從未進一步發展，因為德國戰爭海軍最高指揮部選擇了德意志造船廠的版本並進行批量建造，該版本尺寸更小，武器更輕。"
 
 msgid "IDS_PGSD516_FULL"
-msgstr "卡爾˙馮˙勳伯格"
+msgstr "卡爾·馮·勳伯格"
 
 msgid "IDS_PGSD516_NUMBER"
 msgstr "1"
@@ -89762,7 +89762,7 @@ msgid "IDS_PGUH911_GROSSDEUTSCHLAND_A"
 msgstr "Großer Kurfürst"
 
 msgid "IDS_PGUH912_CV10_HULL_STOCK"
-msgstr "曼弗雷德˙馮˙里希特霍芬Test"
+msgstr "曼弗雷德·馮·里希特霍芬Test"
 
 msgid "IDS_PGUH913_HULL_Z42"
 msgstr "Z-42"
@@ -89774,7 +89774,7 @@ msgid "IDS_PGUH915_HULL_COLORFUL_SCHLIEFFEN"
 msgstr "施里芬CLR"
 
 msgid "IDS_PGUH916_D11_HULL_STOCK"
-msgstr "奧托˙韋迪根"
+msgstr "奧托·韋迪根"
 
 msgid "IDS_PGUH917_C10_HULL_STOCK"
 msgstr "漢薩"
@@ -90982,13 +90982,13 @@ msgid "IDS_PHPT003_533MM_UTRECHT"
 msgstr "533 mm torpedo"
 
 msgid "IDS_PHSC101"
-msgstr "範˙金斯伯格根"
+msgstr "範·金斯伯格根"
 
 msgid "IDS_PHSC101_DESCR"
 msgstr "Gunboat Van Kinsbergen 用於訓練操作最先進的射控系統。此艦艇在第二次世界大戰開始前不久投入服役。戰爭期間，她在加勒比海服役，參與船團的護衛，攔截敵方運輸艦和狩獵德國潛艦。戰爭結束後，Van Kinsbergen 參與了對東印度群島和澳洲的兩次襲擊，之後被用作兵營船。"
 
 msgid "IDS_PHSC101_FULL"
-msgstr "範˙金斯伯格根"
+msgstr "範·金斯伯格根"
 
 msgid "IDS_PHSC101_NUMBER"
 msgstr "1"
@@ -91027,13 +91027,13 @@ msgid "IDS_PHSC103_YEAR"
 msgstr "1925"
 
 msgid "IDS_PHSC104"
-msgstr "德˙魯伊特"
+msgstr "德·魯伊特"
 
 msgid "IDS_PHSC104_DESCR"
 msgstr "根據特別委員會的工作成果，荷蘭於 1930 年開始開發一艘新的巡洋艦，並計劃將 De Ruyter 和兩艘現有艦艇編入在東印度群島的艦隊。此計畫由一間德荷公司開發，並具有當時德國艦艇的設計特點。此巡洋艦以 M. A. de Ruyter 命名，他是最受尊敬的荷蘭上將之一。此艦艇於 1936 年 10 月下水，次年前往東印度群島，並在那裡一直待到第二次世界大戰爆發。De Ruyter 在 1942 年成為盟軍中隊旗艦，後者由 Karel Doorman 上將所指揮。"
 
 msgid "IDS_PHSC104_FULL"
-msgstr "德˙魯伊特"
+msgstr "德·魯伊特"
 
 msgid "IDS_PHSC104_NUMBER"
 msgstr "1"
@@ -91102,13 +91102,13 @@ msgid "IDS_PHSC108_YEAR"
 msgstr "1944"
 
 msgid "IDS_PHSC109"
-msgstr "約翰˙德˙維特"
+msgstr "約翰·德·維特"
 
 msgid "IDS_PHSC109_DESCR"
 msgstr "1939 年的其中一艘巡洋艦的替代計畫，她保留了包括九門 240 毫米火炮在內的武器，提供了適當的裝甲及航速，但預設了更大的排水量。多虧其高航速，此類型的巡洋艦在需要時能避免與敵方交戰，同時由於其強化的武器和裝甲，她還能對抗數艘日本戰鬥巡洋艦。然而，該計畫也未曾實施。進一步的工作重點放在設計一艘搭載 283 毫米主炮的重型巡洋艦。"
 
 msgid "IDS_PHSC109_FULL"
-msgstr "約翰˙德˙維特"
+msgstr "約翰·德·維特"
 
 msgid "IDS_PHSC109_NUMBER"
 msgstr "1"
@@ -91147,13 +91147,13 @@ msgid "IDS_PHSC508_YEAR"
 msgstr "1953"
 
 msgid "IDS_PHSC509"
-msgstr "範˙斯佩克"
+msgstr "範·斯佩克"
 
 msgid "IDS_PHSC509_DESCR"
 msgstr "1938 年，在國際局勢日趨緊繃之下，荷蘭國防部決定增強該國海軍實力。1939 年誕生的計畫在大多方面皆與德國戰艦 Scharnhorst 相似。鑒於經濟因素，他們決定縮小新艦艇的尺寸。政府傾向採用的計畫是 16,000 噸巡洋艦，航速有 33 節且裝備 240 或 280 毫米主炮。然而，為了確保足夠的裝甲防護，最終必須採用較小口徑的 203 毫米火炮。如果計畫得以進一步發展，此艦艇可能會在第二次世界大戰結束之前獲得強化後的對空防禦。"
 
 msgid "IDS_PHSC509_FULL"
-msgstr "範˙斯佩克"
+msgstr "範·斯佩克"
 
 msgid "IDS_PHSC509_NUMBER"
 msgstr "1"
@@ -92545,13 +92545,13 @@ msgid "IDS_PISA510_YEAR"
 msgstr "1942"
 
 msgid "IDS_PISB104"
-msgstr "但丁˙阿利吉耶里"
+msgstr "但丁·阿利吉耶里"
 
 msgid "IDS_PISB104_DESCR"
 msgstr "由於新型艦艇成本高昂和前無畏級主力艦的服役，義大利忽視了無畏艦競賽的開始，並直到 1908 年才展開第一個無畏艦計畫。此計畫首度使用三聯裝炮塔主炮，並在這些炮塔上安裝了反水雷炮。根據此計畫建造的 Dante Alighieri，在第一次世界大戰中作為義大利艦隊的旗艦執行了多達四次海軍任務。"
 
 msgid "IDS_PISB104_FULL"
-msgstr "但丁˙阿利吉耶里"
+msgstr "但丁·阿利吉耶里"
 
 msgid "IDS_PISB104_NUMBER"
 msgstr "1"
@@ -92575,13 +92575,13 @@ msgid "IDS_PISB105_YEAR"
 msgstr "1915"
 
 msgid "IDS_PISB106"
-msgstr "安德烈亞˙多利亞"
+msgstr "安德烈亞·多利亞"
 
 msgid "IDS_PISB106_DESCR"
 msgstr "以改良後的 Conte di Cavour 設計為基礎的第二個義大利主力艦系列。Andrea Doria 於 1913 年安放龍骨，參與了阜姆問題，亦參與了 1920 年代的科孚島事件。此艦艇在 1930 和 1940 年代升級了推進裝置和武器。第二次世界大戰期間，她負責護衛前往利比亞的船團並參與了蘇爾特之戰。"
 
 msgid "IDS_PISB106_FULL"
-msgstr "安德烈亞˙多利亞"
+msgstr "安德烈亞·多利亞"
 
 msgid "IDS_PISB106_NUMBER"
 msgstr "2"
@@ -92590,13 +92590,13 @@ msgid "IDS_PISB106_YEAR"
 msgstr "1916"
 
 msgid "IDS_PISB107"
-msgstr "法蘭西斯科˙卡拉喬洛"
+msgstr "法蘭西斯科·卡拉喬洛"
 
 msgid "IDS_PISB107_DESCR"
 msgstr "1913 年的艦隊補充計畫規定要建造四艘高速主力艦，這些主力艦也應符合英國 Queen Elizabeth 級艦艇的特性。領艦 Francesco Caracciolo 於 1914 年安放龍骨，但由於缺乏材料和優先順序的改變而暫停建造。"
 
 msgid "IDS_PISB107_FULL"
-msgstr "法蘭西斯科˙卡拉喬洛"
+msgstr "法蘭西斯科·卡拉喬洛"
 
 msgid "IDS_PISB107_NUMBER"
 msgstr "4"
@@ -92605,13 +92605,13 @@ msgid "IDS_PISB107_YEAR"
 msgstr "1913"
 
 msgid "IDS_PISB108"
-msgstr "維托里奧˙維內托"
+msgstr "維托里奧·維內托"
 
 msgid "IDS_PISB108_DESCR"
 msgstr "義大利在 1920 年代晚期到 1930 年代早期才開始出現符合《華盛頓海軍條約》要求的主力艦設計。由此產生的計畫是一艘排水量為 35,000 噸、配備九門 381 毫米火炮的艦艇。Vittorio Veneto 於 1934 年安放龍骨，並於六年後投入服役。第二次世界大戰期間，此主力艦參與了許多地中海的行動，包括特烏拉達角海戰和馬塔潘角海戰，以及攔截了英國艦隊的馬耳他船團。"
 
 msgid "IDS_PISB108_FULL"
-msgstr "維托里奧˙維內托"
+msgstr "維托里奧·維內托"
 
 msgid "IDS_PISB108_NUMBER"
 msgstr "4"
@@ -92635,13 +92635,13 @@ msgid "IDS_PISB109_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISB110"
-msgstr "克里斯多福˙哥倫布"
+msgstr "克里斯多福·哥倫布"
 
 msgid "IDS_PISB110_DESCR"
 msgstr "一個假想計畫，以 Vittorio Veneto 級為基礎開發的義大利艦艇版本，亦為蘇聯排水量 42,000 噸主力艦計畫。火力的提升可以透過增加火炮和炮塔數量來實現：1910 年代晚期到 1920 年代早期正在開發裝備 381 毫米火炮的四聯裝炮塔。"
 
 msgid "IDS_PISB110_FULL"
-msgstr "克里斯多福˙哥倫布"
+msgstr "克里斯多福·哥倫布"
 
 msgid "IDS_PISB110_NUMBER"
 msgstr "1"
@@ -92653,10 +92653,10 @@ msgid "IDS_PISB111"
 msgstr "伽利略"
 
 msgid "IDS_PISB111_DESCR"
-msgstr "<p>一種義大利主力艦進一步發展而來的假想設計方案，設計的主要部分均參考自維托里奧˙維內託級主力艦。與之前的設計相比，該艦裝備了更多主炮，其口徑也提升至 406 毫米。</p><p class=\"p_spacing\"> </p><p>該艦可能會在戰後完成建造，並在服役後進行了一系列諸如雷達裝置與副炮組更新的現代化改造。</p>"
+msgstr "<p>一種義大利主力艦進一步發展而來的假想設計方案，設計的主要部分均參考自維托里奧·維內託級主力艦。與之前的設計相比，該艦裝備了更多主炮，其口徑也提升至 406 毫米。</p><p class=\"p_spacing\"> </p><p>該艦可能會在戰後完成建造，並在服役後進行了一系列諸如雷達裝置與副炮組更新的現代化改造。</p>"
 
 msgid "IDS_PISB111_FULL"
-msgstr "伽利略˙伽利雷"
+msgstr "伽利略·伽利雷"
 
 msgid "IDS_PISB111_NUMBER"
 msgstr "1"
@@ -92665,13 +92665,13 @@ msgid "IDS_PISB111_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISB505"
-msgstr "尤利烏斯˙凱撒"
+msgstr "尤利烏斯·凱撒"
 
 msgid "IDS_PISB505_DESCR"
 msgstr "三艘 Conte di Cavour 級主力艦中的一艘於 1910 年安放龍骨。第一次世界大戰後，Giulio Cesare 進行全面現代化改造。她在經過翻新後，於第二次世界大戰期間投入了斯蒂洛角海戰和狩獵馬爾他船團，並負責巡邏和護航行動。戰爭結束後，她作為賠償移交給蘇聯並更名為「Novorossiysk」。"
 
 msgid "IDS_PISB505_FULL"
-msgstr "尤利烏斯˙凱撒"
+msgstr "尤利烏斯·凱撒"
 
 msgid "IDS_PISB505_NUMBER"
 msgstr "3"
@@ -92695,13 +92695,13 @@ msgid "IDS_PISB508_YEAR"
 msgstr "1942"
 
 msgid "IDS_PISB509"
-msgstr "馬可˙波羅"
+msgstr "馬可·波羅"
 
 msgid "IDS_PISB509_DESCR"
 msgstr "一項以三座炮塔配置九門 406 毫米主炮的艦艇計畫，作為義大利與蘇聯合作的一部分而建立。此計畫從未實際執行。如果當時義大利建造了此類艦艇，她將會擁有以 381 毫米火炮為基礎開發的 406 毫米主炮，而且應該到 1940 年或 1941 年才會完工。"
 
 msgid "IDS_PISB509_FULL"
-msgstr "馬可˙波羅"
+msgstr "馬可·波羅"
 
 msgid "IDS_PISB509_NUMBER"
 msgstr "1"
@@ -92710,13 +92710,13 @@ msgid "IDS_PISB509_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISB510"
-msgstr "魯傑羅˙迪˙勞利亞"
+msgstr "魯傑羅·迪·勞利亞"
 
 msgid "IDS_PISB510_DESCR"
 msgstr "裝備有八門 457 毫米火炮的高速戰鬥巡洋艦。此計畫是基於義大利海軍工程師 Ferdinando Cassone 在 1921 年提出的構想。除了在當時相當先進的出色武器和排水量之外，此計畫的特色還包括其創新的反魚雷防護系統和兩層的發動機。"
 
 msgid "IDS_PISB510_FULL"
-msgstr "勞利亞的魯傑羅"
+msgstr "魯傑羅·迪·勞利亞"
 
 msgid "IDS_PISB510_NUMBER"
 msgstr "1"
@@ -92725,13 +92725,13 @@ msgid "IDS_PISB510_YEAR"
 msgstr "1921"
 
 msgid "IDS_PISB519"
-msgstr "朱塞佩˙威爾第"
+msgstr "朱塞佩·威爾第"
 
 msgid "IDS_PISB519_DESCR"
 msgstr "義大利與蘇聯共同開發了數項主力艦計畫，其中包括一項是在三座炮塔中裝備九門 406 毫米火炮。如果當時訂造了此類艦艇，那麼應該到 1940 年或 1941 年才會完成建造。此主力艦將獲得由現存 381 毫米火炮為基礎所開發的義大利武器。"
 
 msgid "IDS_PISB519_FULL"
-msgstr "朱塞佩˙威爾第"
+msgstr "朱塞佩·威爾第"
 
 msgid "IDS_PISB519_NUMBER"
 msgstr "1"
@@ -92760,7 +92760,7 @@ msgid "IDS_PISB539"
 msgstr "帝國"
 
 msgid "IDS_PISB539_DESCR"
-msgstr "<p>維托里奧˙維內託級主力艦的第二批次之一帝國號主力艦，是為了響應1938年的海軍擴充計劃而建造。該批次艦艇相較於首批姊妹艦而言，在艦首部分略微抬高了甲板，以提升海況適應能力。該艦於1938年5月在熱那亞安薩爾多造船廠安放龍骨。</p><p class=\"p_spacing\"> </p><p><b>帝國</b>於1939年11月下水，但因第二次世界大戰爆發而未能完工。1940年6月，該艦被拖往布林迪西，安裝了動力系統及幾座小口徑防空炮。直到1942年停工時，該艦的建造完成度僅為28%。</p><p class=\"p_spacing\"> </p><p>1942年，<b>帝國</b>先被轉移到威尼斯、隨後又被轉移到的裡雅斯特。1943年義大利投降後，這艘未完工的艦艇被德軍繳獲，隨後在盟軍的空襲中受損並沉沒。1947年，她的艦體重新打撈、並拖回威尼斯進行了拆解。</p>"
+msgstr "<p>維托里奧·維內託級主力艦的第二批次之一帝國號主力艦，是為了響應1938年的海軍擴充計劃而建造。該批次艦艇相較於首批姊妹艦而言，在艦首部分略微抬高了甲板，以提升海況適應能力。該艦於1938年5月在熱那亞安薩爾多造船廠安放龍骨。</p><p class=\"p_spacing\"> </p><p><b>帝國</b>於1939年11月下水，但因第二次世界大戰爆發而未能完工。1940年6月，該艦被拖往布林迪西，安裝了動力系統及幾座小口徑防空炮。直到1942年停工時，該艦的建造完成度僅為28%。</p><p class=\"p_spacing\"> </p><p>1942年，<b>帝國</b>先被轉移到威尼斯、隨後又被轉移到的裡雅斯特。1943年義大利投降後，這艘未完工的艦艇被德軍繳獲，隨後在盟軍的空襲中受損並沉沒。1947年，她的艦體重新打撈、並拖回威尼斯進行了拆解。</p>"
 
 msgid "IDS_PISB539_FULL"
 msgstr "帝國"
@@ -92789,13 +92789,13 @@ msgid "IDS_PISB708_YEAR"
 msgstr "1942"
 
 msgid "IDS_PISB805"
-msgstr "IF蓋烏斯˙凱撒"
+msgstr "IF蓋烏斯·凱撒"
 
 msgid "IDS_PISB805_DESCR"
 msgstr "測試用艦艇。"
 
 msgid "IDS_PISB805_FULL"
-msgstr "IF蓋烏斯˙凱撒"
+msgstr "IF蓋烏斯·凱撒"
 
 msgid "IDS_PISB805_NUMBER"
 msgstr "1"
@@ -92810,7 +92810,7 @@ msgid "IDS_PISB990_DESCR"
 msgstr "用於測試精英升級品的艦艇複製品。"
 
 msgid "IDS_PISB990_FULL"
-msgstr "克里斯多福˙哥倫布Test"
+msgstr "克里斯多福·哥倫布Test"
 
 msgid "IDS_PISB990_NUMBER"
 msgstr "1"
@@ -92834,13 +92834,13 @@ msgid "IDS_PISC101_YEAR"
 msgstr "1937"
 
 msgid "IDS_PISC102"
-msgstr "尼諾˙比克西奧"
+msgstr "尼諾·比克西奧"
 
 msgid "IDS_PISC102_DESCR"
 msgstr "20 世紀初期，許多國家都流行快速偵察巡洋艦的概念。義大利海軍中第一艘此類艦艇為裝甲巡洋艦 Quarto。隨後而來的是 Nino Bixio 級艦艇，她們比前輩更大，且擁有更便利的火炮配置。第一次世界大戰期間，此系列領艦參與了攔截奧匈帝國破襲艦和防守協約國的運輸艦。Nino Bixio 在海軍一直服役到 1920 年代末。"
 
 msgid "IDS_PISC102_FULL"
-msgstr "尼諾˙比克西奧"
+msgstr "尼諾·比克西奧"
 
 msgid "IDS_PISC102_NUMBER"
 msgstr "2"
@@ -92864,13 +92864,13 @@ msgid "IDS_PISC103_YEAR"
 msgstr "1912"
 
 msgid "IDS_PISC104"
-msgstr "阿爾貝托˙朱薩諾"
+msgstr "阿爾貝托·朱薩諾"
 
 msgid "IDS_PISC104_DESCR"
 msgstr "為了回應法國建造的現代輕型巡洋艦和大型驅逐艦，義大利設計了一些巡洋艦，並以文藝復興時期的僱傭兵隊長來命名。Alberto di Giussano 最先是在 1928 年安放龍骨。此艦艇服役於地中海，參與了西班牙內戰，而且在第二次世界大戰初期部署於斯蒂洛角海戰。她負責布置雷區和護衛船團。1941 年，她在運送汽油到北非的途中被英國驅逐艦攔截並遭魚雷擊沉。"
 
 msgid "IDS_PISC104_FULL"
-msgstr "阿爾貝托˙朱薩諾"
+msgstr "阿爾貝托·朱薩諾"
 
 msgid "IDS_PISC104_NUMBER"
 msgstr "4"
@@ -92879,13 +92879,13 @@ msgid "IDS_PISC104_YEAR"
 msgstr "1931"
 
 msgid "IDS_PISC105"
-msgstr "拉依蒙多˙蒙特庫科利"
+msgstr "拉依蒙多·蒙特庫科利"
 
 msgid "IDS_PISC105_DESCR"
 msgstr "義大利海軍在建造四艘 Giussano 級巡洋艦後，又訂購了兩艘改良過設計的巡洋艦。兩艘大幅改良過裝甲、同時維持航速的 Condottieri C 級巡洋艦於 1930–1931 年計畫下建造。Raimondo Montecuccoli 於 1935 年投入服役，參與了西班牙內戰，以及對遠東和太平洋地區的突襲。第二次世界大戰期間，她投入了斯蒂洛角海戰，負責執行布雷和護衛行動，並參與了潘泰萊里亞島戰役。"
 
 msgid "IDS_PISC105_FULL"
-msgstr "拉依蒙多˙蒙特庫科利"
+msgstr "拉依蒙多·蒙特庫科利"
 
 msgid "IDS_PISC105_NUMBER"
 msgstr "2"
@@ -92984,13 +92984,13 @@ msgid "IDS_PISC111_YEAR"
 msgstr "1935"
 
 msgid "IDS_PISC206"
-msgstr "奧理略˙戴克里先"
+msgstr "奧理略·戴克里先"
 
 msgid "IDS_PISC206_DESCR"
-msgstr "<p>羅馬統帥級輕巡洋艦進一步發展的假想設計。與前代艦相比，該艦擁有更為完善的裝甲防護，船型設計上還採用了長艏樓以取代原先的平甲板。</p><p class=\"p_spacing\"> </p><p>該艦以羅馬帝國多米那特時期首位君主——<b>蓋烏斯˙奧理略˙戴克里先</b>命名。</p>"
+msgstr "<p>羅馬統帥級輕巡洋艦進一步發展的假想設計。與前代艦相比，該艦擁有更為完善的裝甲防護，船型設計上還採用了長艏樓以取代原先的平甲板。</p><p class=\"p_spacing\"> </p><p>該艦以羅馬帝國多米那特時期首位君主——<b>蓋烏斯·奧理略·戴克里先</b>命名。</p>"
 
 msgid "IDS_PISC206_FULL"
-msgstr "奧理略˙戴克里先"
+msgstr "奧理略·戴克里先"
 
 msgid "IDS_PISC206_NUMBER"
 msgstr "1"
@@ -92999,13 +92999,13 @@ msgid "IDS_PISC206_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISC207"
-msgstr "瓦萊里烏斯˙君士坦丁"
+msgstr "瓦萊里烏斯·君士坦丁"
 
 msgid "IDS_PISC207_DESCR"
-msgstr "<p>羅馬統帥級輕巡洋艦進一步發展的假想設計。與前代艦相比，該艦擁有更為完善的裝甲防護，並採用了長艏樓船型結構，配備了五座雙聯裝 135 mm 火炮。</p><p class=\"p_spacing\"> </p><p>該艦以<b>瓦萊里烏斯˙君士坦丁</b>命名，這位被東正教尊為聖徒的「使徒平等者」皇帝，曾將基督教確立為羅馬帝國的官方宗教。</p>"
+msgstr "<p>羅馬統帥級輕巡洋艦進一步發展的假想設計。與前代艦相比，該艦擁有更為完善的裝甲防護，並採用了長艏樓船型結構，配備了五座雙聯裝 135 mm 火炮。</p><p class=\"p_spacing\"> </p><p>該艦以<b>瓦萊里烏斯·君士坦丁</b>命名，這位被東正教尊為聖徒的「使徒平等者」皇帝，曾將基督教確立為羅馬帝國的官方宗教。</p>"
 
 msgid "IDS_PISC207_FULL"
-msgstr "瓦萊里烏斯˙君士坦丁"
+msgstr "瓦萊里烏斯·君士坦丁"
 
 msgid "IDS_PISC207_NUMBER"
 msgstr "1"
@@ -93014,13 +93014,13 @@ msgid "IDS_PISC207_YEAR"
 msgstr "1943"
 
 msgid "IDS_PISC208"
-msgstr "馬可˙奧勒留"
+msgstr "馬可·奧勒留"
 
 msgid "IDS_PISC208_DESCR"
-msgstr "<p>基於傭兵隊長級巡洋艦改造而來的防空巡洋艦假想方案。裝甲設計上沿用了義大利 1930 年代末至 1940 年代初經典的間隙裝甲防護，並配備了五座雙聯裝 120 mm 高平兩用炮。</p><p class=\"p_spacing\"> </p><p>該艦以羅馬帝國「五賢帝」時代的最後一位君主<b>馬可˙奧勒留</b>命名。</p>"
+msgstr "<p>基於傭兵隊長級巡洋艦改造而來的防空巡洋艦假想方案。裝甲設計上沿用了義大利 1930 年代末至 1940 年代初經典的間隙裝甲防護，並配備了五座雙聯裝 120 mm 高平兩用炮。</p><p class=\"p_spacing\"> </p><p>該艦以羅馬帝國「五賢帝」時代的最後一位君主<b>馬可·奧勒留</b>命名。</p>"
 
 msgid "IDS_PISC208_FULL"
-msgstr "馬可˙奧勒留"
+msgstr "馬可·奧勒留"
 
 msgid "IDS_PISC208_NUMBER"
 msgstr "1"
@@ -93029,13 +93029,13 @@ msgid "IDS_PISC208_YEAR"
 msgstr "1950"
 
 msgid "IDS_PISC209"
-msgstr "埃利烏斯˙哈德良"
+msgstr "埃利烏斯·哈德良"
 
 msgid "IDS_PISC209_DESCR"
-msgstr "<p>基於傭兵隊長級和羅馬統帥級輕巡洋艦進一步發展而來的假想設計。假設該型設計的艦艇在戰後完工後配備了新式的電子裝置，並搭載了五座雙聯裝 120 mm 高平兩用炮。</p><p class=\"p_spacing\"> </p><p>該艦以位列「五賢帝」第三位的羅馬君主<b>埃利烏斯˙哈德良</b>命名。</p>"
+msgstr "<p>基於傭兵隊長級和羅馬統帥級輕巡洋艦進一步發展而來的假想設計。假設該型設計的艦艇在戰後完工後配備了新式的電子裝置，並搭載了五座雙聯裝 120 mm 高平兩用炮。</p><p class=\"p_spacing\"> </p><p>該艦以位列「五賢帝」第三位的羅馬君主<b>埃利烏斯·哈德良</b>命名。</p>"
 
 msgid "IDS_PISC209_FULL"
-msgstr "埃利烏斯˙哈德良"
+msgstr "埃利烏斯·哈德良"
 
 msgid "IDS_PISC209_NUMBER"
 msgstr "1"
@@ -93044,13 +93044,13 @@ msgid "IDS_PISC209_YEAR"
 msgstr "1950"
 
 msgid "IDS_PISC210"
-msgstr "烏爾皮烏斯˙圖拉真"
+msgstr "烏爾皮烏斯·圖拉真"
 
 msgid "IDS_PISC210_DESCR"
-msgstr "<p>基於後期型傭兵隊長級輕巡洋艦的假想設計。預想該型艦艇在戰後作為防空巡洋艦而完工，並配備了六座雙聯裝120mm高平兩用炮。</p><p class=\"p_spacing\"> </p><p>該艦以羅馬「五賢帝」之一的<b>烏爾皮烏斯˙圖拉真</b>命名，他被公認為是羅馬史上最傑出的統治者。</p>"
+msgstr "<p>基於後期型傭兵隊長級輕巡洋艦的假想設計。預想該型艦艇在戰後作為防空巡洋艦而完工，並配備了六座雙聯裝120mm高平兩用炮。</p><p class=\"p_spacing\"> </p><p>該艦以羅馬「五賢帝」之一的<b>烏爾皮烏斯·圖拉真</b>命名，他被公認為是羅馬史上最傑出的統治者。</p>"
 
 msgid "IDS_PISC210_FULL"
-msgstr "烏爾皮烏斯˙圖拉真"
+msgstr "烏爾皮烏斯·圖拉真"
 
 msgid "IDS_PISC210_NUMBER"
 msgstr "1"
@@ -93134,13 +93134,13 @@ msgid "IDS_PISC510_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISC517"
-msgstr "法蘭西斯科˙費魯西奧"
+msgstr "法蘭西斯科·費魯西奧"
 
 msgid "IDS_PISC517_DESCR"
 msgstr "義大利海軍為在印度洋進行各種行動而建造數十艘各種類型艦艇，「遠程輕型巡洋艦」計畫便是在此背景下開發的。其中一份早期草圖是一艘 8,000 噸巡洋艦，其外觀不尋常，在四聯裝炮塔中裝備有 152 毫米火炮。她的其他特點還包括作戰範圍較大（超過 27,000 公里），以及設計於 1939 年的 90 毫米高平兩用炮。"
 
 msgid "IDS_PISC517_FULL"
-msgstr "法蘭西斯科˙費魯西奧"
+msgstr "法蘭西斯科·費魯西奧"
 
 msgid "IDS_PISC517_NUMBER"
 msgstr "1"
@@ -93224,13 +93224,13 @@ msgid "IDS_PISD102_YEAR"
 msgstr "1923"
 
 msgid "IDS_PISD103"
-msgstr "納扎里奧˙掃羅"
+msgstr "納扎里奧·掃羅"
 
 msgid "IDS_PISD103_DESCR"
 msgstr "Sauro 級驅逐艦與先前的 Sella 級在設計上有所不同， 她們改良了鍋爐室的配置，擴大了橋塔和指揮塔，還配備兩座 120 毫米雙聯裝炮座。1936 年到 1937 年，Nazario Sauro 投入了西班牙內戰。在義大利加入第二次世界大戰後，她參與了攔截穿越蘇伊士運河的英國船團。1941 年 4 月 3 日，一枚英國航空炸彈擊中了位於沙烏地阿拉伯海岸附近的 Sauro，此驅逐艦因此沉沒。"
 
 msgid "IDS_PISD103_FULL"
-msgstr "納扎里奧˙掃羅"
+msgstr "納扎里奧·掃羅"
 
 msgid "IDS_PISD103_NUMBER"
 msgstr "4"
@@ -93284,13 +93284,13 @@ msgid "IDS_PISD106_YEAR"
 msgstr "1937"
 
 msgid "IDS_PISD107"
-msgstr "盧卡˙塔里戈"
+msgstr "盧卡·塔里戈"
 
 msgid "IDS_PISD107_DESCR"
 msgstr "作為法國 Jaguar 級和 Guepard 級的回應，義大利在 1926 年訂購了 Navigatori 級驅逐領導艦。此艦級的特色之一為梯形布局的推進裝置，預計能提高其生存能力。第二次世界大戰期間，此艦艇參與了布雷，以及執行前往非洲的巡邏和護航任務。1941 年 4 月 16 日，Luca Tarigo 在一場激戰中擊沉了 HMS Mohawk，但隨後便遭英國艦艇的火炮擊沉。"
 
 msgid "IDS_PISD107_FULL"
-msgstr "盧卡˙塔里戈"
+msgstr "盧卡·塔里戈"
 
 msgid "IDS_PISD107_NUMBER"
 msgstr "12"
@@ -93299,13 +93299,13 @@ msgid "IDS_PISD107_YEAR"
 msgstr "1929"
 
 msgid "IDS_PISD108"
-msgstr "維托里奧˙庫尼貝蒂"
+msgstr "維托里奧·庫尼貝蒂"
 
 msgid "IDS_PISD108_DESCR"
 msgstr "在 Maestrale 級驅逐艦投入服役後，便開始研發其改良過的設計。其中一種版本特色為將第三座 120 毫米雙聯裝炮座置於艦艏的超射位置。此艦艇的排水量增至大約 2,000 噸。相較於正在建造中的 Oriani 級和 Soldati 級驅逐艦，此計畫過於昂貴而因此從未實際執行。"
 
 msgid "IDS_PISD108_FULL"
-msgstr "維托里奧˙庫尼貝蒂"
+msgstr "維托里奧·庫尼貝蒂"
 
 msgid "IDS_PISD108_NUMBER"
 msgstr "1"
@@ -93329,13 +93329,13 @@ msgid "IDS_PISD109_YEAR"
 msgstr "1945"
 
 msgid "IDS_PISD110"
-msgstr "阿蒂利奧˙雷戈洛"
+msgstr "阿蒂利奧·雷戈洛"
 
 msgid "IDS_PISD110_DESCR"
 msgstr "Capitani Romani 級是為了回應法國 Mogador 級驅逐艦而設計。義大利造船工程師回歸到防護最小化和航速最大化的理念。艦艇航速預估為 40 節，這比法國領導艦的航速還要快。Attilio Regolo 於 1942 年 11 月遭英國潛艦 HMS Unruffled 的魚雷攻擊，隨後花了數個月的時間進行修理。1943 年 9 月，此艦艇向盟軍投降。戰爭結束後，Attilio Regolo 作為賠償移交法國，並更名為「Chateaurenault」。"
 
 msgid "IDS_PISD110_FULL"
-msgstr "阿蒂利奧˙雷戈洛"
+msgstr "阿蒂利奧·雷戈洛"
 
 msgid "IDS_PISD110_NUMBER"
 msgstr "12"
@@ -93374,13 +93374,13 @@ msgid "IDS_PISD507_YEAR"
 msgstr "1929"
 
 msgid "IDS_PISD509"
-msgstr "保羅˙艾米利奧"
+msgstr "保羅·艾米利奧"
 
 msgid "IDS_PISD509_DESCR"
 msgstr "在義大利與蘇聯開始海軍合作後，安薩爾多公司就根據蘇聯的訂單準備了許多艦艇設計。其中包括一艘標準排水量為 3,700 噸的裝甲偵察艦。此艦艇擁有高航速，在四座炮座中裝備八門 130 毫米火炮，以及透過全裝甲帶和裝甲甲板的形式來提供防護。"
 
 msgid "IDS_PISD509_FULL"
-msgstr "保羅˙艾米利奧"
+msgstr "保羅·艾米利奧"
 
 msgid "IDS_PISD509_NUMBER"
 msgstr "1"
@@ -93389,13 +93389,13 @@ msgid "IDS_PISD509_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISD511"
-msgstr "亞美利哥˙維斯普奇"
+msgstr "亞美利哥·維斯普奇"
 
 msgid "IDS_PISD511_DESCR"
 msgstr "用於測試的艦艇。"
 
 msgid "IDS_PISD511_FULL"
-msgstr "亞美利哥˙維斯普奇"
+msgstr "亞美利哥·維斯普奇"
 
 msgid "IDS_PISD511_NUMBER"
 msgstr "1"
@@ -93404,13 +93404,13 @@ msgid "IDS_PISD511_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISD990"
-msgstr "阿蒂利奧˙雷戈洛EM"
+msgstr "阿蒂利奧·雷戈洛EM"
 
 msgid "IDS_PISD990_DESCR"
 msgstr "用於測試精英升級品的艦艇複製品。"
 
 msgid "IDS_PISD990_FULL"
-msgstr "阿蒂利奧˙雷戈洛EM"
+msgstr "阿蒂利奧·雷戈洛EM"
 
 msgid "IDS_PISD990_NUMBER"
 msgstr "1"
@@ -93419,13 +93419,13 @@ msgid "IDS_PISD990_YEAR"
 msgstr "1936"
 
 msgid "IDS_PISS508"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_PISS508_DESCR"
-msgstr "<p>馬爾切洛級潛艦是綠灰色級潛艦的改進型，這些潛艦原本是由葡萄牙訂購的，但因合同終止而歸入義大利海軍。該級潛艦非常成功，她們在機動性、航速和武器數量上表現出色，因此一共訂購了 11 艘。她們為單殼體潛艦，具有側面浮筒。按照義大利的分類，她們屬於「大型巡洋」（亦稱「遠洋」）潛艦。</p><p class=\"p_spacing\"> </p><p>賈科莫˙納尼在蒙法爾克的亞得里亞海聯合造船廠建造，1938 年 9 月加入義大利海軍，隸屬於第二潛艦編隊。第二次世界大戰開始後，納尼進行了三次地中海巡邏，但都沒能獲得戰果，隨後於 1940 年秋季被調往大西洋。在第四次巡邏中，她擊沉了一艘瑞典煤炭運輸船。賈科莫˙納尼在 1941 年 1 月初的第五次巡邏中失蹤。</p>"
+msgstr "<p>馬爾切洛級潛艦是綠灰色級潛艦的改進型，這些潛艦原本是由葡萄牙訂購的，但因合同終止而歸入義大利海軍。該級潛艦非常成功，她們在機動性、航速和武器數量上表現出色，因此一共訂購了 11 艘。她們為單殼體潛艦，具有側面浮筒。按照義大利的分類，她們屬於「大型巡洋」（亦稱「遠洋」）潛艦。</p><p class=\"p_spacing\"> </p><p>賈科莫·納尼在蒙法爾克的亞得里亞海聯合造船廠建造，1938 年 9 月加入義大利海軍，隸屬於第二潛艦編隊。第二次世界大戰開始後，納尼進行了三次地中海巡邏，但都沒能獲得戰果，隨後於 1940 年秋季被調往大西洋。在第四次巡邏中，她擊沉了一艘瑞典煤炭運輸船。賈科莫·納尼在 1941 年 1 月初的第五次巡邏中失蹤。</p>"
 
 msgid "IDS_PISS508_FULL"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_PISS508_NUMBER"
 msgstr "11"
@@ -93881,7 +93881,7 @@ msgid "IDS_PIUH501_DUCA"
 msgstr "Duca d'Aosta"
 
 msgid "IDS_PIUH502_GCESARE"
-msgstr "尤利烏斯˙凱撒"
+msgstr "尤利烏斯·凱撒"
 
 msgid "IDS_PIUH503_GCESARE"
 msgstr "Giunio Bruto"
@@ -93905,7 +93905,7 @@ msgid "IDS_PIUH509_DD6_HULL_TOP"
 msgstr "Aviere (B)"
 
 msgid "IDS_PIUH510_C6_HULL_STOCK"
-msgstr "奧理略˙戴克里先"
+msgstr "奧理略·戴克里先"
 
 msgid "IDS_PIUH601_ABRUZZI"
 msgstr "Duca degli Abruzzi"
@@ -93938,7 +93938,7 @@ msgid "IDS_PIUH610_FR_FERRUCCIO"
 msgstr "費魯西奧"
 
 msgid "IDS_PIUH611_C7_HULL_A"
-msgstr "瓦萊里烏斯˙君士坦丁"
+msgstr "瓦萊里烏斯·君士坦丁"
 
 msgid "IDS_PIUH700_HULL_AQUILA"
 msgstr "Aquila"
@@ -93971,10 +93971,10 @@ msgid "IDS_PIUH709_DD8_HULL_TOP"
 msgstr "Vittorio Cuniberti (B)"
 
 msgid "IDS_PIUH710_HULL_NANI"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_PIUH711_C8_HULL_STOCK"
-msgstr "馬可˙奧勒留"
+msgstr "馬可·奧勒留"
 
 msgid "IDS_PIUH801_C9_HULL_A"
 msgstr "Brindisi (A)"
@@ -94013,7 +94013,7 @@ msgid "IDS_PIUH812_HULL_IMPERO"
 msgstr "帝國"
 
 msgid "IDS_PIUH813_C9_HULL_TOP"
-msgstr "埃利烏斯˙哈德良"
+msgstr "埃利烏斯·哈德良"
 
 msgid "IDS_PIUH900_HULL_BLACK_NAPOLI"
 msgstr "Napoli B."
@@ -94034,7 +94034,7 @@ msgid "IDS_PIUH905_DD10_HULL_STOCK"
 msgstr "Attilio Regolo"
 
 msgid "IDS_PIUH906_BB10_HULL_STOCK"
-msgstr "克里斯多福˙哥倫布Test"
+msgstr "克里斯多福·哥倫布Test"
 
 msgid "IDS_PIUH907_HULL_LAURIA"
 msgstr "Ruggiero di Lauria"
@@ -94049,16 +94049,16 @@ msgid "IDS_PIUH910_BB11_HULL_STOCK"
 msgstr "伽利略"
 
 msgid "IDS_PIUH911_C10_HULL_STOCK"
-msgstr "烏爾皮烏斯˙圖拉真"
+msgstr "烏爾皮烏斯·圖拉真"
 
 msgid "IDS_PIUH912_C11_HULL_STOCK"
 msgstr "利古里亞"
 
 msgid "IDS_PIUH913_HULL_DESTR_TEST"
-msgstr "阿蒂利奧˙雷戈洛EM"
+msgstr "阿蒂利奧·雷戈洛EM"
 
 msgid "IDS_PIUH914_HULL_A_VESPUCCI"
-msgstr "亞美利哥˙維斯普奇"
+msgstr "亞美利哥·維斯普奇"
 
 msgid "IDS_PIUI700_F_AQUILA"
 msgstr "雷賈那 Re.2001"
@@ -97232,7 +97232,7 @@ msgid "IDS_PJSA206"
 msgstr "瑞鳳"
 
 msgid "IDS_PJSA206_DESCR"
-msgstr "日本海軍考慮透過重建現有艦艇來迅速增加航空母艦數量的計劃。作為潛艦母艦，瑞鳳號以 「高崎（Takasaki）」之名建造，建成後成為一艘航空母艦。1941 年 9 月，瑞鳳號成為第三航空母艦師團的旗艦，率領該師團掩護珍珠港的襲擊。隨後，該艦參加了第二次世界大戰太平洋戰場上最大規模的戰鬥。1944 年 10 月 25 日，瑞鳳號在恩加諾角附近海域因哈爾西海軍上將部隊的空襲而沉沒。"
+msgstr "日本海軍考慮透過重建現有艦艇來迅速增加航空母艦數量的計劃。作為潛艦母艦，瑞鳳號以 「高崎（Takasaki）」之名建造，建成後成為一艘航空母艦。1941 年 9 月，瑞鳳號成為第三航空母艦師團的旗艦，率領該師團掩護珍珠港的襲擊。隨後，該艦參加了第二次世界大戰太平洋戰場上最大規模的戰鬥。1944 年 10 月 25 日，瑞鳳號在恩加諾角附近海域因海爾賽海軍上將部隊的空襲而沉沒。"
 
 msgid "IDS_PJSA206_FULL"
 msgstr "瑞鳳"
@@ -97977,13 +97977,13 @@ msgid "IDS_PJSB810_YEAR"
 msgstr "1941"
 
 msgid "IDS_PJSB878"
-msgstr "伊格尼斯˙煉獄"
+msgstr "伊格尼斯·煉獄"
 
 msgid "IDS_PJSB878_DESCR"
 msgstr "原為某個海軍任務所設計（任務目的已不可考），Ignis Purgatio 在荷魯斯叛亂中遺失，失踪了幾千年後在傑里科邊區的邊疆世界再次被發現。雖然很明顯是一艘戰艦，但卻被其粗俗的新主人們埋沒了她的真正潛力。在進行了密集的維修和清理之後，Ignis Purgatio 最後回歸帝國海軍服役，並成為了太陽星域艦隊的重要一員。就這樣，她再次成為了守護人類與帝皇的中堅力量。"
 
 msgid "IDS_PJSB878_FULL"
-msgstr "伊格尼斯˙煉獄"
+msgstr "伊格尼斯·煉獄"
 
 msgid "IDS_PJSB878_NUMBER"
 msgstr "4"
@@ -103301,10 +103301,10 @@ msgid "IDS_POLAND_NATION_GEN"
 msgstr "波蘭"
 
 msgid "IDS_POLYAKOV"
-msgstr "帕維爾˙波利亞科夫"
+msgstr "帕維爾·波利亞科夫"
 
 msgid "IDS_POPOV_ARIA"
-msgstr "謝爾蓋˙波波夫"
+msgstr "謝爾蓋·波波夫"
 
 msgid "IDS_POPULAR_THREATS_DESCRIPTION_INFO_TOOLTIP"
 msgstr "您在戰鬥中大概率遇到的艦艇砲彈類型。砲彈的組合取決於所選艦艇的階級。"
@@ -103354,7 +103354,7 @@ msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_FINAL"
 msgstr "門戶戰役已結束。"
 
 msgid "IDS_PORTAL_DESCRIPTION_WTEVENT_2510_INTRO"
-msgstr "詹姆斯˙康拉德接到同盟的任務：他將領導獵犬分艦隊。"
+msgstr "詹姆斯·康拉德接到同盟的任務：他將領導獵犬分艦隊。"
 
 msgid "IDS_PORTAL_HARD"
 msgstr "暮光狩獵"
@@ -103426,7 +103426,7 @@ msgid "IDS_PORT_ARPEGGIO_TOOLTIP"
 msgstr "橫須賀港"
 
 msgid "IDS_PORT_ASSISTANT_NAME_DEFAULT"
-msgstr "奧爾加˙格羅莫娃"
+msgstr "奧爾加·格羅莫娃"
 
 msgid "IDS_PORT_AZURLANE"
 msgstr "碧藍航線 — 宿舍"
@@ -103699,7 +103699,7 @@ msgid "IDS_POWERUP_CHARGING_POINTS_LOST"
 msgstr "增益敵方艦艇"
 
 msgid "IDS_POZHARSKY"
-msgstr "德米特里˙波扎爾斯基"
+msgstr "德米特里·波扎爾斯基"
 
 msgid "IDS_PPEE001_POLAND_DESC"
 msgstr "以國旗色彩搭配兩條穗邊與波蘭紋章。於 1927 年採用作為海軍旗並一直沿用至今。"
@@ -107323,7 +107323,7 @@ msgid "IDS_PRSB502"
 msgstr "博羅金諾'04"
 
 msgid "IDS_PRSB502_DESCR"
-msgstr "<p>1900-1902 年，在聖彼得堡建造了一系列根據皇太子號主力艦的改進而來的主力艦。與前級不同的是，這些艦艇擁有更大的動力裝置和更重的炮塔。設計師不得不增加該艦的排水量，同時削弱裝甲厚度。這些主力艦參加了太平洋第二艦隊的東征以及對馬海峽海戰。</p><p class=\"p_spacing\"> </p><p>博羅金諾在 1900 年 5 月於聖彼得堡海軍部造船廠開工，1901 年 9 月下水，1904 年 9 月開始服役。在一級上尉彼得˙約瑟夫維奇˙謝列布倫尼科夫的指揮下，該艦從喀琅施塔得駛向日本海。在對馬海峽海戰中，她被重創並沉沒。</p>"
+msgstr "<p>1900-1902 年，在聖彼得堡建造了一系列根據皇太子號主力艦的改進而來的主力艦。與前級不同的是，這些艦艇擁有更大的動力裝置和更重的炮塔。設計師不得不增加該艦的排水量，同時削弱裝甲厚度。這些主力艦參加了太平洋第二艦隊的東征以及對馬海峽海戰。</p><p class=\"p_spacing\"> </p><p>博羅金諾在 1900 年 5 月於聖彼得堡海軍部造船廠開工，1901 年 9 月下水，1904 年 9 月開始服役。在一級上尉彼得·約瑟夫維奇·謝列布倫尼科夫的指揮下，該艦從喀琅施塔得駛向日本海。在對馬海峽海戰中，她被重創並沉沒。</p>"
 
 msgid "IDS_PRSB502_FULL"
 msgstr "博羅金諾'04"
@@ -107530,13 +107530,13 @@ msgid "IDS_PRSB530_YEAR"
 msgstr "1953"
 
 msgid "IDS_PRSB538"
-msgstr "佛拉迪米爾˙伊里奇˙列寧"
+msgstr "佛拉迪米爾·伊里奇·列寧"
 
 msgid "IDS_PRSB538_DESCR"
 msgstr "1935 年，蘇聯當局決定建造「大型艦隊」，於是各設計局著手開發主力艦的草圖設計。其中一項設計是用於波羅的海作戰的主力艦，擁有 35,000 噸排水量、九門 406 毫米火炮；以及 350 毫米厚的裝甲帶。初始設計在 6 月就緒：艦艇的布局與 Nelson 相似，但由於「戰術原因」而被否決。此級艦艇的設計成為了 A 型主力艦的基礎，後來演變成為 Sovetsky Soyuz 級主力艦。"
 
 msgid "IDS_PRSB538_FULL"
-msgstr "佛拉迪米爾˙伊里奇˙列寧"
+msgstr "佛拉迪米爾·伊里奇·列寧"
 
 msgid "IDS_PRSB538_NUMBER"
 msgstr "1"
@@ -107862,13 +107862,13 @@ msgid "IDS_PRSC108_YEAR"
 msgstr "1950"
 
 msgid "IDS_PRSC109"
-msgstr "德米特里˙頓斯科伊"
+msgstr "德米特里·頓斯科伊"
 
 msgid "IDS_PRSC109_DESCR"
 msgstr "1943 年，海軍總參謀部下令設計輕型巡洋艦（65 計畫），旨在為主力艦和重型巡洋艦護航，並以 68-bis 計畫巡洋艦的艦身為基礎。1946 年，開發了 40 個 65 計畫版本，其中有些裝備有 180 毫米主炮。艦艇的排水量增至 19,000 噸。當局最後決定不再進一步發展該計畫，而是專注於完成 68-bis 艦艇。"
 
 msgid "IDS_PRSC109_FULL"
-msgstr "德米特里˙頓斯科伊"
+msgstr "德米特里·頓斯科伊"
 
 msgid "IDS_PRSC109_NUMBER"
 msgstr "0"
@@ -107937,13 +107937,13 @@ msgid "IDS_PRSC209_YEAR"
 msgstr "1943"
 
 msgid "IDS_PRSC210"
-msgstr "亞歷山大˙涅夫斯基"
+msgstr "亞歷山大·涅夫斯基"
 
 msgid "IDS_PRSC210_DESCR"
 msgstr "1955 年，84 計畫輕型巡洋艦的建造參考規約獲准，此計畫旨在當艦艇特遣部隊穿越海洋時為其提供防空掩護。當局計劃在 1964 年之前建造 5 艘巡洋艦並為其裝備最先進的 ZIF-75 防空炮。其領艦原應在 1960 年投入服役，但在 Nikolay Kuznetsov 被解除海軍人民委員部的職務後，該計畫便停止了。"
 
 msgid "IDS_PRSC210_FULL"
-msgstr "亞歷山大˙涅夫斯基"
+msgstr "亞歷山大·涅夫斯基"
 
 msgid "IDS_PRSC210_NUMBER"
 msgstr "1"
@@ -108027,13 +108027,13 @@ msgid "IDS_PRSC506_YEAR"
 msgstr "1941"
 
 msgid "IDS_PRSC508"
-msgstr "米哈伊爾˙庫圖佐夫"
+msgstr "米哈伊爾·庫圖佐夫"
 
 msgid "IDS_PRSC508_DESCR"
 msgstr "這艘 68bis 計畫巡洋艦在 1951 年於米科萊夫安放龍骨。自 1955 年起，她就在黑海艦隊第 50 巡洋艦分艦隊服役。蘇聯第一架 Ka-15 艦載直升機於同年在此艦艇上進行測試。1967 至 1968 年間，此艦艇在阿拉伯–以色列衝突期間於地中海執行戰鬥任務。1969 年，Mikhail Kutuzov 成為了黑海艦隊第 30 分艦隊的旗艦。1987 年，此巡洋艦被調往預備隊，並在 1999 年至 2002 年間被改造為博物館艦。"
 
 msgid "IDS_PRSC508_FULL"
-msgstr "米哈伊爾˙庫圖佐夫"
+msgstr "米哈伊爾·庫圖佐夫"
 
 msgid "IDS_PRSC508_NUMBER"
 msgstr "21"
@@ -108120,7 +108120,7 @@ msgid "IDS_PRSC516"
 msgstr "刻赤"
 
 msgid "IDS_PRSC516_DESCR"
-msgstr "1949 年，作為賠款的一部分，義大利巡洋艦「埃馬努埃萊˙菲利貝託˙奧斯塔公爵」號（Emanuele Filiberto Duca d'Aosta）以 Z-11 的傳統名稱移交給蘇聯。在蘇聯海軍中，該艦先被改名為「斯大林格勒」號，後又改名為「刻赤」號。該巡洋艦在塞瓦斯托波爾的 S. Ordzhonikidze 海軍工廠進行了現代化改造，並接收了蘇聯裝置。該艦主要用於訓練目的。"
+msgstr "1949 年，作為賠款的一部分，義大利巡洋艦「埃馬努埃萊·菲利貝託·奧斯塔公爵」號（Emanuele Filiberto Duca d'Aosta）以 Z-11 的傳統名稱移交給蘇聯。在蘇聯海軍中，該艦先被改名為「斯大林格勒」號，後又改名為「刻赤」號。該巡洋艦在塞瓦斯托波爾的 S. Ordzhonikidze 海軍工廠進行了現代化改造，並接收了蘇聯裝置。該艦主要用於訓練目的。"
 
 msgid "IDS_PRSC516_FULL"
 msgstr "刻赤"
@@ -108197,7 +108197,7 @@ msgid "IDS_PRSC525"
 msgstr "基洛夫"
 
 msgid "IDS_PRSC525_DESCR"
-msgstr "在第一次世界大戰與俄羅斯內戰雙重影響下，蘇聯海軍亟需巡洋艦。1931 至 1932 年間，俄方與義大利的 Ansaldo 公司進行協商，後者當時擁有最現代化的巡洋艦為 Raimondo Montecuccoli。採用義大利製機械的巡洋艦計畫隨後獲得批准。此艦艇本應擁有總計九門主炮。在 1935 年 10 月安放龍骨的 Kirov 曾參與蘇聯與芬蘭間的戰爭。第二次世界大戰期間她亦投入塔林與列寧格勒的防禦，也曾在塔林的撤離行動中作為主力部隊的旗艦。"
+msgstr "蘇聯所設計並建造的第一批大型戰艦之一（26 計畫）。儘管她的排水量較小，Kirov 裝備了非常強大的長程主炮且擁有不錯的航速。與她當代的大多數同類艦艇相反，Kirov 擁有的裝甲較為薄弱。"
 
 msgid "IDS_PRSC525_FULL"
 msgstr "基洛夫"
@@ -108269,13 +108269,13 @@ msgid "IDS_PRSC530_YEAR"
 msgstr "1950"
 
 msgid "IDS_PRSC538"
-msgstr "彼得˙巴格拉季昂"
+msgstr "彼得·巴格拉季昂"
 
 msgid "IDS_PRSC538_DESCR"
 msgstr "65 計畫在 1943 至 1946 年間進行開發。在該計畫的架構下，共有 40 個設計草案列入考量。這些草案中最龐大的艦艇，為一艘排水量 15,000 噸的巡洋艦且裝備了三座 180 毫米主炮的三聯裝炮塔，以及八座 100 毫米 SM-5-1 雙聯裝炮塔。最後此計畫未獲青睞，而是 68K 計畫與 68bis 計畫艦艇獲採納。"
 
 msgid "IDS_PRSC538_FULL"
-msgstr "彼得˙巴格拉季昂"
+msgstr "彼得·巴格拉季昂"
 
 msgid "IDS_PRSC538_NUMBER"
 msgstr "1"
@@ -108284,13 +108284,13 @@ msgid "IDS_PRSC538_YEAR"
 msgstr "1945"
 
 msgid "IDS_PRSC539"
-msgstr "尤里˙多爾戈魯基"
+msgstr "尤里·多爾戈魯基"
 
 msgid "IDS_PRSC539_DESCR"
 msgstr "<p>1945 年，蘇聯已完工的 68k 和 68-bis 專案的巡洋艦在性能上明顯落後於美國同時代的以及後來的伍斯特和得梅因級巡洋艦。1945 年 9 月，海軍部長庫茲涅佐夫批准了一項總體技術指標。依據該指標，第 17 中央設計局和中央海軍科學研究院開始研發裝備 152 毫米口徑或 180 毫米口徑火炮（包括高平兩用炮）的巡洋艦。這些設計的進一步發展促成了 KRL-22 和配備了 220 毫米口徑火炮的 66 專案中型巡洋艦設計草圖。</p><p class=\"p_spacing\"> </p><p>根據 1954 年春季舉行的戰術演習結果，這些設計需要增強高平兩用火炮的火力，同時儘量減輕艦體的重量。這可以透過將 220 毫米口徑非兩用火炮更換為 180 毫米口徑高平兩用火炮來實現。在這種情況下，130 毫米口徑火炮將被更小口徑的高平兩用炮替代。</p>"
 
 msgid "IDS_PRSC539_FULL"
-msgstr "尤里˙多爾戈魯基"
+msgstr "尤里·多爾戈魯基"
 
 msgid "IDS_PRSC539_NUMBER"
 msgstr "1"
@@ -108329,13 +108329,13 @@ msgid "IDS_PRSC549_YEAR"
 msgstr "1944"
 
 msgid "IDS_PRSC558"
-msgstr "德米特里˙波扎爾斯基"
+msgstr "德米特里·波扎爾斯基"
 
 msgid "IDS_PRSC558_DESCR"
 msgstr "68-bis 計畫巡洋艦 Dmitry Pozharsky 於 1952 年 2 月在位於列寧格勒的 189 號奧中尼基哲造船廠安放龍骨。此艦艇於 1953 年 6 月下水，並於 1954 年 12 月投入服役。她於 1955 年 2 月被指派至北方艦隊，但同年夏天，此艘巡洋艦前往堪察加彼得羅巴夫洛夫斯克，加入太平洋艦隊的第 14 巡洋艦分艦隊。Dmitry Pozharsky 在 1961 年加入反潛艦艇的第九分艦隊，並自 1967 年起在印度洋服役於第十戰術中隊。"
 
 msgid "IDS_PRSC558_FULL"
-msgstr "德米特里˙波扎爾斯基"
+msgstr "德米特里·波扎爾斯基"
 
 msgid "IDS_PRSC558_NUMBER"
 msgstr "21"
@@ -108482,7 +108482,7 @@ msgid "IDS_PRSC708"
 msgstr "格列姆"
 
 msgid "IDS_PRSC708_DESCR"
-msgstr "<p>2025 年 8 月，Lesta 藝術部門負責人弗拉基米爾˙格列米茨基逝世。他領導該部門 15 年，為《Mir Korabley》的發展做出了不可估量的貢獻。弗拉基米爾為工作室奉獻了 24 年的青春光華。</p><p class=\"p_spacing\"> </p><p>謹以此艦紀念弗拉基米爾˙格列米茨基。「格列姆」——這是許多同事對弗拉基米爾的稱呼。這艘攜帶戰術魚雷轟炸機中隊的混合巡洋艦，旨在體現弗拉基米爾對水面艦艇和航空的熱愛。</p>"
+msgstr "<p>2025 年 8 月，Lesta 藝術部門負責人弗拉基米爾·格列米茨基逝世。他領導該部門 15 年，為《Mir Korabley》的發展做出了不可估量的貢獻。弗拉基米爾為工作室奉獻了 24 年的青春光華。</p><p class=\"p_spacing\"> </p><p>謹以此艦紀念弗拉基米爾·格列米茨基。「格列姆」——這是許多同事對弗拉基米爾的稱呼。這艘攜帶戰術魚雷轟炸機中隊的混合巡洋艦，旨在體現弗拉基米爾對水面艦艇和航空的熱愛。</p>"
 
 msgid "IDS_PRSC708_FULL"
 msgstr "格列姆"
@@ -108590,7 +108590,7 @@ msgid "IDS_PRSC916_DESCR"
 msgstr ""
 "馬卡洛夫海軍上將號的複製船，用於參加試煉和行動。\n"
 "\n"
-" — 萊A˙MKROV學"
+" — 萊A·MKROV學"
 
 msgid "IDS_PRSC916_FULL"
 msgstr "馬卡洛夫（學）"
@@ -108617,13 +108617,13 @@ msgid "IDS_PRSC922_YEAR"
 msgstr "1935"
 
 msgid "IDS_PRSC970"
-msgstr "伊凡˙卡利塔"
+msgstr "伊凡·卡利塔"
 
 msgid "IDS_PRSC970_DESCR"
-msgstr "「亞歷山大˙涅夫斯基」號的複製品，用於測試主炮和魚雷發射管的重新裝填機制。"
+msgstr "「亞歷山大·涅夫斯基」號的複製品，用於測試主炮和魚雷發射管的重新裝填機制。"
 
 msgid "IDS_PRSC970_FULL"
-msgstr "伊凡˙卡利塔"
+msgstr "伊凡·卡利塔"
 
 msgid "IDS_PRSC970_NUMBER"
 msgstr "1"
@@ -108935,7 +108935,7 @@ msgid "IDS_PRSD218"
 msgstr "熟練"
 
 msgid "IDS_PRSD218_DESCR"
-msgstr "<p>在借鑑德國的造船經驗後，蘇聯海軍第 1 中央設計局設計局局長 V.布熱津斯基提出建造一艘使用高壓蒸汽鍋爐的艦艇。這種鍋爐能夠顯著降低渦輪裝置的重量。L.拉姆津教授設計了直流鍋爐，其蒸汽壓力預計是 7 型驅逐艦鍋爐的三倍。由於減輕了鍋爐渦輪裝置的重量，該艦得以加強其武器裝備。為此，專門設計了雙聯裝 B-31 型炮塔。該方案的初步設計被命名為 45 型。</p><p class=\"p_spacing\"> </p><p>該艦在列寧格勒日丹諾夫造船廠建造，最初命名為謝爾戈˙奧爾忠尼啟澤。而在 1940 年尚未完工時，該艦就被改名為熟練。由於 B-31 型炮塔未能透過初步設計階段，該艦最終裝備了三座 B-13 型單裝炮。在戰爭爆發後，該艦被緊急投入服役，並於 1941 年 9 月編入艦隊。同年 10 月，艦艇因敵軍打擊受損進入維修。1942 年至 1944 年間，熟練利用其火炮支援了列寧格勒方面軍的地面部隊。</p>"
+msgstr "<p>在借鑑德國的造船經驗後，蘇聯海軍第 1 中央設計局設計局局長 V.布熱津斯基提出建造一艘使用高壓蒸汽鍋爐的艦艇。這種鍋爐能夠顯著降低渦輪裝置的重量。L.拉姆津教授設計了直流鍋爐，其蒸汽壓力預計是 7 型驅逐艦鍋爐的三倍。由於減輕了鍋爐渦輪裝置的重量，該艦得以加強其武器裝備。為此，專門設計了雙聯裝 B-31 型炮塔。該方案的初步設計被命名為 45 型。</p><p class=\"p_spacing\"> </p><p>該艦在列寧格勒日丹諾夫造船廠建造，最初命名為謝爾戈·奧爾忠尼啟澤。而在 1940 年尚未完工時，該艦就被改名為熟練。由於 B-31 型炮塔未能透過初步設計階段，該艦最終裝備了三座 B-13 型單裝炮。在戰爭爆發後，該艦被緊急投入服役，並於 1941 年 9 月編入艦隊。同年 10 月，艦艇因敵軍打擊受損進入維修。1942 年至 1944 年間，熟練利用其火炮支援了列寧格勒方面軍的地面部隊。</p>"
 
 msgid "IDS_PRSD218_FULL"
 msgstr "熟練"
@@ -109085,7 +109085,7 @@ msgid "IDS_PRSD502"
 msgstr "敏捷"
 
 msgid "IDS_PRSD502_DESCR"
-msgstr "<p>1897 年，英國亞羅公司接受訂單建造了一系列 350 噸的布伊內級驅逐艦。該級艦艇是以曾為日本建造的雷級驅逐艦為基礎改進設計得來的。這些艦艇於 1901-1902 年在聖彼得堡開工。</p><p class=\"p_spacing\"> </p><p>敏捷是該系列十艘驅逐艦的首艦，於 1901 年 6 月開工、同年 8 月下水。日俄戰爭期間，該艦參加了黃海海戰。1904 年 12 月，在於旅順港投降之前，該艦停泊在煙臺，並在那裡被扣押。敏捷是西伯利亞艦隊的一員，在兩次戰爭中進行了維修和現代化改造工作。</p><p class=\"p_spacing\"> </p><p>1914-1922年她一直駐紮在海參崴港。在盟軍佔領海參崴期間，該艦被法軍俘虜，並被改名為昆汀˙羅斯福。在侵略者離開後，該艦便不再服役。</p>"
+msgstr "<p>1897 年，英國亞羅公司接受訂單建造了一系列 350 噸的布伊內級驅逐艦。該級艦艇是以曾為日本建造的雷級驅逐艦為基礎改進設計得來的。這些艦艇於 1901-1902 年在聖彼得堡開工。</p><p class=\"p_spacing\"> </p><p>敏捷是該系列十艘驅逐艦的首艦，於 1901 年 6 月開工、同年 8 月下水。日俄戰爭期間，該艦參加了黃海海戰。1904 年 12 月，在於旅順港投降之前，該艦停泊在煙臺，並在那裡被扣押。敏捷是西伯利亞艦隊的一員，在兩次戰爭中進行了維修和現代化改造工作。</p><p class=\"p_spacing\"> </p><p>1914-1922年她一直駐紮在海參崴港。在盟軍佔領海參崴期間，該艦被法軍俘虜，並被改名為昆汀·羅斯福。在侵略者離開後，該艦便不再服役。</p>"
 
 msgid "IDS_PRSD502_FULL"
 msgstr "敏捷"
@@ -110720,7 +110720,7 @@ msgid "IDS_PRUH719_HULL_V_I_LENIN"
 msgstr "V. I. Lenin"
 
 msgid "IDS_PRUH720_P_BAGRATION"
-msgstr "Bagration"
+msgstr "巴格拉季昂"
 
 msgid "IDS_PRUH721_CHAPAEV_A"
 msgstr "Chapayev (A)"
@@ -110849,7 +110849,7 @@ msgid "IDS_PRUH826_HULL_SVERDLOVSK"
 msgstr "斯維爾德洛夫斯克"
 
 msgid "IDS_PRUH827_HULL_YURI_DOLGORUKIY"
-msgstr "尤里˙多爾戈魯基"
+msgstr "尤里·多爾戈魯基"
 
 msgid "IDS_PRUH828_D9_HULL_STOCK"
 msgstr "平靜"
@@ -110945,7 +110945,7 @@ msgid "IDS_PRUH922_B10_HULL_STOCK"
 msgstr "拉札列夫海軍上將"
 
 msgid "IDS_PRUH923_HULL_CRUISER_TEST"
-msgstr "伊凡˙卡利塔"
+msgstr "伊凡·卡利塔"
 
 msgid "IDS_PRUH924_D10_HULL_STOCK"
 msgstr "自豪"
@@ -112343,13 +112343,13 @@ msgid "IDS_PSSC101_YEAR"
 msgstr "1937"
 
 msgid "IDS_PSSC102"
-msgstr "門德斯˙努涅斯"
+msgstr "門德斯·努涅斯"
 
 msgid "IDS_PSSC102_DESCR"
 msgstr "艦艇 Blas de Lezo 和 Méndez Núñez 於 1917 年安放龍骨，可見大量的英國設計帶來的影響，近似於該年代的英國 C 級巡洋艦。但以 Méndez Núñez 上將命名的艦艇無法如期在上將誕辰一百週年的 1924 年完建，這兩艘艦艇的名稱因而互換。西班牙內戰爆發後，巡洋艦 Méndez Núñez 的船員堅持效忠共和軍。戰爭期間，此艘巡洋艦護衛商船並參與了帕洛斯角戰役。1938 年，Méndez Núñez 在一場空襲中遭到叛軍轟炸機破壞。"
 
 msgid "IDS_PSSC102_FULL"
-msgstr "門德斯˙努涅斯"
+msgstr "門德斯·努涅斯"
 
 msgid "IDS_PSSC102_NUMBER"
 msgstr "2"
@@ -112541,13 +112541,13 @@ msgid "IDS_PSSC809_YEAR"
 msgstr "1938"
 
 msgid "IDS_PSSD510"
-msgstr "阿爾瓦羅˙迪˙巴贊"
+msgstr "阿爾瓦羅·迪·巴贊"
 
 msgid "IDS_PSSD510_DESCR"
 msgstr "內戰期間，西班牙海軍損失多艘艦艇；導因於此，戰爭一結束，西班牙便開始重新打造海軍軍力。1940 年，一艘驅逐領導艦的設計工作展開。他們提出三種設計，其中之一為 Álvaro de Bazán。她是以義大利 Capitani Romani 級輕型巡洋艦為基礎打造。因義大利參與第二次世界大戰，導致此設計從未落實。"
 
 msgid "IDS_PSSD510_FULL"
-msgstr "阿爾瓦羅˙迪˙巴贊"
+msgstr "阿爾瓦羅·迪·巴贊"
 
 msgid "IDS_PSSD510_NUMBER"
 msgstr "1"
@@ -113207,7 +113207,7 @@ msgid "IDS_PUSD520_YEAR"
 msgstr "1951"
 
 msgid "IDS_PUSHKIN"
-msgstr "亞歷山大˙普希金"
+msgstr "亞歷山大·普希金"
 
 msgid "IDS_PUUA501_C6_ART_PERTH"
 msgstr "152 mm/50 BL Mk.XXIII（Mk.XXI 炮座）"
@@ -114169,13 +114169,13 @@ msgid "IDS_PVSC102_YEAR"
 msgstr "1896"
 
 msgid "IDS_PVSC103"
-msgstr "比森特˙格雷羅"
+msgstr "比森特·格雷羅"
 
 msgid "IDS_PVSC103_DESCR"
 msgstr "1938 年，在主力艦 Anáhuac（前身為 Deodoro，原屬巴西）退役後，墨西哥計劃用一艘大型艦艇來加強艦隊，並從西班牙買下巡洋艦 Navarra，此艘巡洋艦在墨西哥海軍中本該被命名為「Vicente Guerrero」。然而，1936 至 1939 年間墨西哥表示支持西班牙共和黨後，雙方未能達成共識。"
 
 msgid "IDS_PVSC103_FULL"
-msgstr "比森特˙格雷羅"
+msgstr "比森特·格雷羅"
 
 msgid "IDS_PVSC103_NUMBER"
 msgstr "1"
@@ -114244,13 +114244,13 @@ msgid "IDS_PVSC107_YEAR"
 msgstr "1943"
 
 msgid "IDS_PVSC108"
-msgstr "依格納西奧˙阿連德"
+msgstr "依格納西奧·阿連德"
 
 msgid "IDS_PVSC108_DESCR"
 msgstr "1947 年，美洲國家間互助條約在里約熱內盧簽署，阿根廷、巴西和智利將通過購買美國舊的 Brooklyn 級巡洋艦來加強其艦隊。若當時這些國家下令在美國建造新的巡洋艦，那麼最現代化的 Worcester 級艦艇就會成為這些計畫的基礎。"
 
 msgid "IDS_PVSC108_FULL"
-msgstr "依格納西奧˙阿連德"
+msgstr "依格納西奧·阿連德"
 
 msgid "IDS_PVSC108_NUMBER"
 msgstr "1"
@@ -114334,13 +114334,13 @@ msgid "IDS_PVSC508_YEAR"
 msgstr "1953"
 
 msgid "IDS_PVSC509"
-msgstr "法蘭西斯科˙米蘭達"
+msgstr "法蘭西斯科·米蘭達"
 
 msgid "IDS_PVSC509_DESCR"
 msgstr "<p>20 世紀 50 年代，委內瑞拉通過了一項海軍擴張計劃，其中包括採購現有的巡洋艦或建造新的巡洋艦。1950 年代中期，委內瑞拉政府曾與維克斯-阿姆斯特朗公司，以及法國和義大利的造船企業接洽，計劃購買兩艘巡洋艦。委方要求新艦的火力必須強於美國出售給阿根廷、巴西和哥倫比亞的舊式巡洋艦。</p><p class=\"p_spacing\"> </p><p>1957年，維克斯-阿姆斯特朗公司遞交了一項巡洋艦方案，其主炮採用與虎級巡洋艦相同的雙聯高平兩用炮塔。然而，由於該 Mk.26 炮塔在當時屬於機密，不允許出口，最終英國國防部否決了這一交易。</p>"
 
 msgid "IDS_PVSC509_FULL"
-msgstr "法蘭西斯科˙德˙米蘭達"
+msgstr "法蘭西斯科·德·米蘭達"
 
 msgid "IDS_PVSC509_NUMBER"
 msgstr "1"
@@ -114349,13 +114349,13 @@ msgid "IDS_PVSC509_YEAR"
 msgstr "1955"
 
 msgid "IDS_PVSC510"
-msgstr "西蒙˙玻利瓦"
+msgstr "西蒙·玻利瓦"
 
 msgid "IDS_PVSC510_DESCR"
 msgstr "<p>隸屬於得梅因級巡洋艦的達拉斯號於 1945 年 10 月在馬薩諸塞州昆西市的伯利恆鋼鐵造船廠開工。1946 年 6 月，該艦的建造工作被叫停，彼時建造進度僅有 28%。</p><p class=\"p_spacing\"> </p><p>如果該艦得以完工或封存，那麼美國可能會在日後將其轉交給尋求海軍現代化的南美國家。1951 年，布魯克林級巡洋艦就曾被移交至南美國家服役。</p>"
 
 msgid "IDS_PVSC510_FULL"
-msgstr "西蒙˙玻利瓦"
+msgstr "西蒙·玻利瓦"
 
 msgid "IDS_PVSC510_NUMBER"
 msgstr "4"
@@ -114364,13 +114364,13 @@ msgid "IDS_PVSC510_YEAR"
 msgstr "1943"
 
 msgid "IDS_PVSC808"
-msgstr "依格納西奧˙阿連德CLR"
+msgstr "依格納西奧·阿連德CLR"
 
 msgid "IDS_PVSC808_DESCR"
 msgstr "1947 年，美洲國家間互助條約在里約熱內盧簽署，阿根廷、巴西和智利將通過購買美國舊的 Brooklyn 級巡洋艦來加強其艦隊。若當時這些國家下令在美國建造新的巡洋艦，那麼最現代化的 Worcester 級艦艇就會成為這些計畫的基礎。"
 
 msgid "IDS_PVSC808_FULL"
-msgstr "依格納西奧˙阿連德CLR"
+msgstr "依格納西奧·阿連德CLR"
 
 msgid "IDS_PVSC808_NUMBER"
 msgstr "1"
@@ -114412,7 +114412,7 @@ msgid "IDS_PVSD106"
 msgstr "布宜諾斯艾利斯"
 
 msgid "IDS_PVSD106_DESCR"
-msgstr "<p>在兩次世界大戰期間，拉丁美洲國家間的海軍軍備競賽仍在繼續。在 1920 年代到 1930 年代，阿根廷海軍實力得到了顯著增強：先是訂購了三艘巡洋艦，隨後又訂購了七艘驅逐艦。阿根廷所服役的這些驅逐艦與英國的勇敢級驅逐艦類似，並以阿根廷的省份命名。</p><p class=\"p_spacing\"> </p><p>該級首艦<b>布宜諾斯艾利斯</b>號建造於維克斯-阿姆斯特朗公司位於巴羅因弗內斯的造船廠。服役後，該艦加入了第一驅逐艦艦隊。1955 年，<b>布宜諾斯艾利斯</b>號參加了反對胡安˙多明戈˙庇隆總統獨裁統治的起義。</p>"
+msgstr "<p>在兩次世界大戰期間，拉丁美洲國家間的海軍軍備競賽仍在繼續。在 1920 年代到 1930 年代，阿根廷海軍實力得到了顯著增強：先是訂購了三艘巡洋艦，隨後又訂購了七艘驅逐艦。阿根廷所服役的這些驅逐艦與英國的勇敢級驅逐艦類似，並以阿根廷的省份命名。</p><p class=\"p_spacing\"> </p><p>該級首艦<b>布宜諾斯艾利斯</b>號建造於維克斯-阿姆斯特朗公司位於巴羅因弗內斯的造船廠。服役後，該艦加入了第一驅逐艦艦隊。1955 年，<b>布宜諾斯艾利斯</b>號參加了反對胡安·多明戈·庇隆總統獨裁統治的起義。</p>"
 
 msgid "IDS_PVSD106_FULL"
 msgstr "布宜諾斯艾利斯"
@@ -114442,7 +114442,7 @@ msgid "IDS_PVSD108"
 msgstr "卡瓦哈爾"
 
 msgid "IDS_PVSD108_DESCR"
-msgstr "<p>1961 年，秘魯海軍根據美國海軍的對外援助計畫獲得了兩艘驅逐艦。該計畫原本可以續約，並預計在 1970 年代再取得幾艘軍艦，其中包括幾艘弗萊徹級或基林級驅逐艦。然而，秘魯政府最終決定將原定撥給海軍發展的資金，轉向用於在義大利建造巡防艦。</p><p class=\"p_spacing\"> </p><p>若秘魯當時選擇繼續與美國緊密合作並因而獲得弗萊徹級驅逐艦，這些艦艇將會按照秘魯海軍的傳統獲得命名 — 以傑出的海軍軍官命名，例如海軍中將梅利頓˙卡瓦哈爾。</p>"
+msgstr "<p>1961 年，秘魯海軍根據美國海軍的對外援助計畫獲得了兩艘驅逐艦。該計畫原本可以續約，並預計在 1970 年代再取得幾艘軍艦，其中包括幾艘弗萊徹級或基林級驅逐艦。然而，秘魯政府最終決定將原定撥給海軍發展的資金，轉向用於在義大利建造巡防艦。</p><p class=\"p_spacing\"> </p><p>若秘魯當時選擇繼續與美國緊密合作並因而獲得弗萊徹級驅逐艦，這些艦艇將會按照秘魯海軍的傳統獲得命名 — 以傑出的海軍軍官命名，例如海軍中將梅利頓·卡瓦哈爾。</p>"
 
 msgid "IDS_PVSD108_FULL"
 msgstr "卡瓦哈爾"
@@ -114754,7 +114754,7 @@ msgid "IDS_PVUH705_D8_HULL_STOCK"
 msgstr "卡瓦哈爾"
 
 msgid "IDS_PVUH706_HULL_COLORFUL_I_ALLENDE"
-msgstr "依格納西奧˙阿連德CLR"
+msgstr "依格納西奧·阿連德CLR"
 
 msgid "IDS_PVUH801_C9_HULL_STOCK"
 msgstr "Santander (A)"
@@ -114766,7 +114766,7 @@ msgid "IDS_PVUH803_HULL_PATAGONIA"
 msgstr "巴塔哥尼亞"
 
 msgid "IDS_PVUH804_HULL_F_MIRANDA"
-msgstr "法蘭西斯科˙德˙米蘭達"
+msgstr "法蘭西斯科·德·米蘭達"
 
 msgid "IDS_PVUH805_D9_HULL_STOCK"
 msgstr "帕拉"
@@ -114778,7 +114778,7 @@ msgid "IDS_PVUH901_C10_HULL_STOCK"
 msgstr "San Martín"
 
 msgid "IDS_PVUH902_HULL_BOLIVAR"
-msgstr "西蒙˙玻利瓦"
+msgstr "西蒙·玻利瓦"
 
 msgid "IDS_PVUH903_D10_HULL_STOCK"
 msgstr "新埃斯帕塔"
@@ -115624,13 +115624,13 @@ msgid "IDS_PWSB504_YEAR"
 msgstr "1912"
 
 msgid "IDS_PWSB509"
-msgstr "卡爾十四世˙約翰"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_PWSB509_DESCR"
 msgstr "根據《凡爾賽條約》，德國海軍的艦艇排水量不得超過 10,000 噸，然而此限制並不適用於為其他國家建造的艦艇。第一次世界大戰後，德國仍有數百艘未完工的艦艇。其中部分已完工的艦艇銷往了國外。瑞典為增強其海軍實力，可能曾考慮收購並完成一艘德國主力艦。"
 
 msgid "IDS_PWSB509_FULL"
-msgstr "卡爾十四世˙約翰"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_PWSB509_NUMBER"
 msgstr "1"
@@ -115642,7 +115642,7 @@ msgid "IDS_PWSB519"
 msgstr "布達佩斯"
 
 msgid "IDS_PWSB519_DESCR"
-msgstr "<p>第一次世界大戰爆發前，奧匈帝國海軍正迅速擴張。在海軍總司令魯道夫˙蒙特庫科利海軍上將任內，四艘特格特霍夫級無畏艦相繼開工；而繼任者安東˙豪斯海軍上將則進一步提出繼續擴建主力艦艦隊。</p><p class=\"p_spacing\"></p><p>1913 年 1 月，未來主力艦的首批初步設計方案提出；同年 3 月，甘茨&達努比烏斯公司也提交了自己的設計方案。根據所提交的草案，新艦在四座炮塔中共裝備了十門 350 毫米主炮。</p><p class=\"p_spacing\"></p><p>1914 年，新一輪的海軍擴張計劃獲得撥款批准，四艘該級艦艇的建造合同簽訂。首艦原定於 7 月開工，但由於第一次世界大戰爆發，建造工程被迫叫停，並在之後徹底取消。如果該級艦艇最終完工，那麼她很可能會在兩次世界大戰之間接受現代化改造，換裝新的動力系統以及現代化防空武器。</p>"
+msgstr "<p>第一次世界大戰爆發前，奧匈帝國海軍正迅速擴張。在海軍總司令魯道夫·蒙特庫科利海軍上將任內，四艘特格特霍夫級無畏艦相繼開工；而繼任者安東·豪斯海軍上將則進一步提出繼續擴建主力艦艦隊。</p><p class=\"p_spacing\"></p><p>1913 年 1 月，未來主力艦的首批初步設計方案提出；同年 3 月，甘茨&達努比烏斯公司也提交了自己的設計方案。根據所提交的草案，新艦在四座炮塔中共裝備了十門 350 毫米主炮。</p><p class=\"p_spacing\"></p><p>1914 年，新一輪的海軍擴張計劃獲得撥款批准，四艘該級艦艇的建造合同簽訂。首艦原定於 7 月開工，但由於第一次世界大戰爆發，建造工程被迫叫停，並在之後徹底取消。如果該級艦艇最終完工，那麼她很可能會在兩次世界大戰之間接受現代化改造，換裝新的動力系統以及現代化防空武器。</p>"
 
 msgid "IDS_PWSB519_FULL"
 msgstr "布達佩斯"
@@ -115687,7 +115687,7 @@ msgid "IDS_PWSC510"
 msgstr "託登肖爾"
 
 msgid "IDS_PWSC510_DESCR"
-msgstr "<p>實驗型重巡洋艦<b>託登肖爾</b>的艦名來源於著名的丹麥-挪威海軍中將彼得˙韋塞爾˙<b>託登肖爾</b>，是同盟加強在極地/亞極地地區海上存在計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦結合了重巡洋艦的火力、用於快速撤退的閃電般航速以及增強的冰區防護船體，使其能夠在最惡劣的氣候條件下行動——從巴倫支海到地球南端。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
+msgstr "<p>實驗型重巡洋艦<b>託登肖爾</b>的艦名來源於著名的丹麥-挪威海軍中將彼得·韋塞爾·<b>託登肖爾</b>，是同盟加強在極地/亞極地地區海上存在計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦結合了重巡洋艦的火力、用於快速撤退的閃電般航速以及增強的冰區防護船體，使其能夠在最惡劣的氣候條件下行動——從巴倫支海到地球南端。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
 
 msgid "IDS_PWSC510_FULL"
 msgstr "託登肖爾"
@@ -115702,7 +115702,7 @@ msgid "IDS_PWSC910"
 msgstr "HND託登肖爾"
 
 msgid "IDS_PWSC910_DESCR"
-msgstr "<p>實驗型重巡洋艦<b>託登肖爾</b>的艦名來源於著名的丹麥-挪威海軍中將彼得˙韋塞爾˙<b>託登肖爾</b>，是同盟加強在極地/亞極地地區海上存在計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦結合了重巡洋艦的火力、用於快速撤退的閃電般航速以及增強的冰區防護船體，使其能夠在最惡劣的氣候條件下行動——從巴倫支海到地球南端。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
+msgstr "<p>實驗型重巡洋艦<b>託登肖爾</b>的艦名來源於著名的丹麥-挪威海軍中將彼得·韋塞爾·<b>託登肖爾</b>，是同盟加強在極地/亞極地地區海上存在計劃的一部分。</p><p class=\"p_spacing\"> </p><p>該艦結合了重巡洋艦的火力、用於快速撤退的閃電般航速以及增強的冰區防護船體，使其能夠在最惡劣的氣候條件下行動——從巴倫支海到地球南端。</p><p class=\"p_spacing\"> </p><p>絕密。未正式列裝任何艦隊。</p>"
 
 msgid "IDS_PWSC910_FULL"
 msgstr "HND託登肖爾"
@@ -115744,13 +115744,13 @@ msgid "IDS_PWSD103_YEAR"
 msgstr "1935"
 
 msgid "IDS_PWSD104"
-msgstr "克拉斯˙霍恩"
+msgstr "克拉斯·霍恩"
 
 msgid "IDS_PWSD104_DESCR"
 msgstr "為了強化艦隊，瑞典政府與美國開始就購買數艘「平甲板」驅逐艦進行談判。雖然最終交易並未達成，但這些驅逐艦的設計為 1924 年安放龍骨的 Ehrensköld 級驅逐艦奠定了基礎。於 1929 年進一步開發後，兩艘改良版艦艇開始建造 — Klas Horn 和 Klas Uggla。Klas Horn 系列的領艦在馬爾默的 Kockums 造船廠建造。1941 年 9 月，由於軍事基地發生爆炸，兩艘驅逐艦都受到嚴重損壞並沉沒。Klas Uggla 沒有修復便退役，Klas Horn 被打撈起來並使用她姊妹艦的零件進行修復。"
 
 msgid "IDS_PWSD104_FULL"
-msgstr "克拉斯˙霍恩"
+msgstr "克拉斯·霍恩"
 
 msgid "IDS_PWSD104_NUMBER"
 msgstr "2"
@@ -115924,13 +115924,13 @@ msgid "IDS_PWSD208_YEAR"
 msgstr "1958"
 
 msgid "IDS_PWSD209"
-msgstr "蘭普羅斯˙卡特森尼斯"
+msgstr "蘭普羅斯·卡特森尼斯"
 
 msgid "IDS_PWSD209_DESCR"
 msgstr "在 1920 年代後期，對於應該投資建造更多傳統艦艇或建造更少但更強大的艦艇，希臘海軍領導人之間存在爭議。1929 年，當土耳其向義大利購買了 4 艘驅逐艦時，他們便選擇了第一種方法，最終希臘訂購了 4 艘採用簡化技術建造的驅逐艦，也將於義大利進行建造。替代的解決方案則採取另一種作法，即訂購兩艘裝備有 140 毫米火炮的大型艦艇。最合適的初步設計之一是當時英國海軍部正在考慮的艦隊巡洋艦，也就是裝備有六門 140 毫米火炮的 E 級巡洋艦。Lambros Katsonis 的名稱便來自於希臘民族解放鬥爭的領導人。"
 
 msgid "IDS_PWSD209_FULL"
-msgstr "蘭普羅斯˙卡特森尼斯"
+msgstr "蘭普羅斯·卡特森尼斯"
 
 msgid "IDS_PWSD209_NUMBER"
 msgstr "1"
@@ -116500,7 +116500,7 @@ msgid "IDS_PWUH806_HULL_JAGER"
 msgstr "Jäger"
 
 msgid "IDS_PWUH807_HULL_KARL_XIV"
-msgstr "Karl XIV Johan"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_PWUH808_HULL_BLACK_JAGER"
 msgstr "獵兵B"
@@ -116887,13 +116887,13 @@ msgid "IDS_PXES330_YAMATO_HW19"
 msgstr "Scorpioid"
 
 msgid "IDS_PXES400_WAFFLE_SIGNALTRAGER"
-msgstr "馮˙克里格遺產"
+msgstr "馮·克里格遺產"
 
 msgid "IDS_PXES401_WAFFLE_FLAMMENREITER"
-msgstr "馮˙克里格遺產"
+msgstr "馮·克里格遺產"
 
 msgid "IDS_PXES402_WAFFLE_GEISTERJAGER"
-msgstr "馮˙克里格遺產"
+msgstr "馮·克里格遺產"
 
 msgid "IDS_PXES408_CHARLES_MARTEL_H2017"
 msgstr "Scarab"
@@ -118408,7 +118408,7 @@ msgid "IDS_PXSB502"
 msgstr "博羅季諾'04"
 
 msgid "IDS_PXSB502_DESCR"
-msgstr "<p>1900-1902 年，在聖彼得堡建造了一系列根據皇太子號主力艦的改進而來的主力艦。與前級不同的是，這些艦艇擁有更大的動力裝置和更重的炮塔。設計師不得不增加該艦的排水量，同時削弱裝甲厚度。這些主力艦參加了太平洋第二艦隊的東征以及對馬海峽海戰。</p><p class=\"p_spacing\"> </p><p>博羅季諾在 1900 年 5 月於聖彼得堡海軍部造船廠開工，1901 年 9 月下水，1904 年 9 月開始服役。在一級上尉彼得˙約瑟夫維奇˙謝列布倫尼科夫的指揮下，該艦從喀琅施塔得駛向日本海。在對馬海峽海戰中，她被重創並沉沒。</p>"
+msgstr "<p>1900-1902 年，在聖彼得堡建造了一系列根據皇太子號主力艦的改進而來的主力艦。與前級不同的是，這些艦艇擁有更大的動力裝置和更重的炮塔。設計師不得不增加該艦的排水量，同時削弱裝甲厚度。這些主力艦參加了太平洋第二艦隊的東征以及對馬海峽海戰。</p><p class=\"p_spacing\"> </p><p>博羅季諾在 1900 年 5 月於聖彼得堡海軍部造船廠開工，1901 年 9 月下水，1904 年 9 月開始服役。在一級上尉彼得·約瑟夫維奇·謝列布倫尼科夫的指揮下，該艦從喀琅施塔得駛向日本海。在對馬海峽海戰中，她被重創並沉沒。</p>"
 
 msgid "IDS_PXSB502_FULL"
 msgstr "博羅季諾'04"
@@ -118666,7 +118666,7 @@ msgid "IDS_PXSC017"
 msgstr "烈焰騎士"
 
 msgid "IDS_PXSC017_DESCR"
-msgstr "<p>由埃爾梅琳達˙榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計，基於同盟艦隊重巡洋艦的船體和技術成果。</p><p class=\"p_spacing\"> </p><p>此專案反映了她將武器威力、技術精巧與激進的近戰戰術相結合的追求。此艦艇的主要戰鬥特性是能夠在區域內的敵方艦艇上造成火災和進水。</p><p class=\"p_spacing\"> </p><p>此外，此艦艇憑藉內建的量子模組能夠進行瞬間移動，實現短距離躍遷並進行迅猛打擊。</p>"
+msgstr "<p>由埃爾梅琳達·榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計，基於同盟艦隊重巡洋艦的船體和技術成果。</p><p class=\"p_spacing\"> </p><p>此專案反映了她將武器威力、技術精巧與激進的近戰戰術相結合的追求。此艦艇的主要戰鬥特性是能夠在區域內的敵方艦艇上造成火災和進水。</p><p class=\"p_spacing\"> </p><p>此外，此艦艇憑藉內建的量子模組能夠進行瞬間移動，實現短距離躍遷並進行迅猛打擊。</p>"
 
 msgid "IDS_PXSC017_FULL"
 msgstr "烈焰騎士"
@@ -118681,7 +118681,7 @@ msgid "IDS_PXSC018"
 msgstr "幽靈獵兵"
 
 msgid "IDS_PXSC018_DESCR"
-msgstr "<p>由埃爾梅琳達˙榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計，基於同盟艦隊重巡洋艦的船體和技術成果。</p><p class=\"p_spacing\"> </p><p>該艦的主要特點是擁有良好的隱蔽性，能夠從敵人視野中消失。此巡洋艦還配備能量護盾，其能夠在一段時間內抵消大多數攻擊並將傷害最小化。</p><p class=\"p_spacing\"> </p><p>結合瞬間傳送至目標位置的能力，這些特點讓此艦艇能夠以極高的精度進行強力打擊，成為了一位難以捉摸的危險殺手。</p>"
+msgstr "<p>由埃爾梅琳達·榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計，基於同盟艦隊重巡洋艦的船體和技術成果。</p><p class=\"p_spacing\"> </p><p>該艦的主要特點是擁有良好的隱蔽性，能夠從敵人視野中消失。此巡洋艦還配備能量護盾，其能夠在一段時間內抵消大多數攻擊並將傷害最小化。</p><p class=\"p_spacing\"> </p><p>結合瞬間傳送至目標位置的能力，這些特點讓此艦艇能夠以極高的精度進行強力打擊，成為了一位難以捉摸的危險殺手。</p>"
 
 msgid "IDS_PXSC018_FULL"
 msgstr "幽靈獵兵"
@@ -118696,7 +118696,7 @@ msgid "IDS_PXSC019"
 msgstr "訊號母艦"
 
 msgid "IDS_PXSC019_DESCR"
-msgstr "<p>由埃爾梅琳達˙榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計。</p><p class=\"p_spacing\"> </p><p>埃爾梅琳達在重巡洋艦的艦體上集成了一套獨特的系統，可在戰場上召喚無人艦來保護主艦。該系統還能將召喚的無人艦傳送至敵人身邊，透過這樣的奇襲將火力分佈到整個戰區。</p><p class=\"p_spacing\"> </p><p>這一切使得<b>訊號母艦</b>在正確的戰術運用下幾乎無懈可擊。</p>"
+msgstr "<p>由埃爾梅琳達·榮格在廢棄的厄瑞玻斯要塞中完全隔離的條件下設計。</p><p class=\"p_spacing\"> </p><p>埃爾梅琳達在重巡洋艦的艦體上集成了一套獨特的系統，可在戰場上召喚無人艦來保護主艦。該系統還能將召喚的無人艦傳送至敵人身邊，透過這樣的奇襲將火力分佈到整個戰區。</p><p class=\"p_spacing\"> </p><p>這一切使得<b>訊號母艦</b>在正確的戰術運用下幾乎無懈可擊。</p>"
 
 msgid "IDS_PXSC019_FULL"
 msgstr "訊號母艦"
@@ -119347,7 +119347,7 @@ msgid "IDS_PXSD512"
 msgstr "敏捷"
 
 msgid "IDS_PXSD512_DESCR"
-msgstr "<p>1897 年，英國亞羅公司接受訂單建造了一系列 350 噸的布伊內級驅逐艦。該級艦艇是以曾為日本建造的雷級驅逐艦為基礎改進設計得來的。這些艦艇於 1901-1902 年在聖彼得堡開工。</p><p class=\"p_spacing\"> </p><p>敏捷是該系列十艘驅逐艦的首艦，於 1901 年 6 月開工、同年 8 月下水。日俄戰爭期間，該艦參加了黃海海戰。1904 年 12 月，在於旅順港投降之前，該艦停泊在煙臺，並在那裡被扣押。敏捷是西伯利亞艦隊的一員，在兩次戰爭中進行了維修和現代化改造工作。</p><p class=\"p_spacing\"> </p><p>1914-1922 年她一直駐紮在海參崴港。在盟軍佔領海參崴期間，該艦被法軍俘虜，並被改名為昆汀˙羅斯福。在侵略者離開後，該艦便不再服役。</p>"
+msgstr "<p>1897 年，英國亞羅公司接受訂單建造了一系列 350 噸的布伊內級驅逐艦。該級艦艇是以曾為日本建造的雷級驅逐艦為基礎改進設計得來的。這些艦艇於 1901-1902 年在聖彼得堡開工。</p><p class=\"p_spacing\"> </p><p>敏捷是該系列十艘驅逐艦的首艦，於 1901 年 6 月開工、同年 8 月下水。日俄戰爭期間，該艦參加了黃海海戰。1904 年 12 月，在於旅順港投降之前，該艦停泊在煙臺，並在那裡被扣押。敏捷是西伯利亞艦隊的一員，在兩次戰爭中進行了維修和現代化改造工作。</p><p class=\"p_spacing\"> </p><p>1914-1922 年她一直駐紮在海參崴港。在盟軍佔領海參崴期間，該艦被法軍俘虜，並被改名為昆汀·羅斯福。在侵略者離開後，該艦便不再服役。</p>"
 
 msgid "IDS_PXSD512_FULL"
 msgstr "敏捷"
@@ -119488,7 +119488,7 @@ msgid "IDS_PXSX033"
 msgstr "布雷艦"
 
 msgid "IDS_PXSX034"
-msgstr "John Cattling"
+msgstr "約翰·卡特林"
 
 msgid "IDS_PXSX035"
 msgstr "登陸艦 1"
@@ -119993,8 +119993,8 @@ msgstr "「衝撞式」艦身"
 msgid "IDS_PXUH111_HINDENBURG_H2020_A_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 提高正面衝撞敵人時造成的傷害\n"
-" ˙ 降低自身艦艇被衝撞時所受的傷害"
+" · 提高正面衝撞敵人時造成的傷害\n"
+" · 降低自身艦艇被衝撞時所受的傷害"
 
 msgid "IDS_PXUH112_HINDENBURG_H2020_B"
 msgstr "「血量提高」艦身"
@@ -120002,7 +120002,7 @@ msgstr "「血量提高」艦身"
 msgid "IDS_PXUH112_HINDENBURG_H2020_B_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇血量較高"
+" · 艦艇血量較高"
 
 msgid "IDS_PXUH113_HINDENBURG_H2020_C"
 msgstr "「迅捷式」艦身"
@@ -120010,7 +120010,7 @@ msgstr "「迅捷式」艦身"
 msgid "IDS_PXUH113_HINDENBURG_H2020_C_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇航速較高"
+" · 艦艇航速較高"
 
 msgid "IDS_PXUH121_SMOLENSK_H2020_A"
 msgstr "多用途艦身"
@@ -120018,7 +120018,7 @@ msgstr "多用途艦身"
 msgid "IDS_PXUH121_SMOLENSK_H2020_A_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 速度、機動性和血量之間平衡良好"
+" · 速度、機動性和血量之間平衡良好"
 
 msgid "IDS_PXUH122_SMOLENSK_H2020_B"
 msgstr "「血量提高」艦身"
@@ -120026,8 +120026,8 @@ msgstr "「血量提高」艦身"
 msgid "IDS_PXUH122_SMOLENSK_H2020_B_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇血量較高\n"
-" ˙ 方向舵換檔較慢"
+" · 艦艇血量較高\n"
+" · 方向舵換檔較慢"
 
 msgid "IDS_PXUH123_SMOLENSK_H2020_C"
 msgstr "「機動性提高」艦身"
@@ -120035,9 +120035,9 @@ msgstr "「機動性提高」艦身"
 msgid "IDS_PXUH123_SMOLENSK_H2020_C_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇航速較高\n"
-" ˙ 方向舵換檔較快\n"
-" ˙ 血量較低"
+" · 艦艇航速較高\n"
+" · 方向舵換檔較快\n"
+" · 血量較低"
 
 msgid "IDS_PXUH161_FRANCE_H2020_A"
 msgstr "「迅捷式」艦身"
@@ -120045,8 +120045,8 @@ msgstr "「迅捷式」艦身"
 msgid "IDS_PXUH161_FRANCE_H2020_A_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇航速較高\n"
-" ˙ 血量較低"
+" · 艦艇航速較高\n"
+" · 血量較低"
 
 msgid "IDS_PXUH162_FRANCE_H2020_B"
 msgstr "「血量提高」艦身"
@@ -120054,7 +120054,7 @@ msgstr "「血量提高」艦身"
 msgid "IDS_PXUH162_FRANCE_H2020_B_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇血量較高"
+" · 艦艇血量較高"
 
 msgid "IDS_PXUH163_FRANCE_H2020_C"
 msgstr "「機動性提高」艦身"
@@ -120062,7 +120062,7 @@ msgstr "「機動性提高」艦身"
 msgid "IDS_PXUH163_FRANCE_H2020_C_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 方向舵換檔較快"
+" · 方向舵換檔較快"
 
 msgid "IDS_PXUH171_OLAND_H2020_A"
 msgstr "「血量提高」艦身"
@@ -120070,7 +120070,7 @@ msgstr "「血量提高」艦身"
 msgid "IDS_PXUH171_OLAND_H2020_A_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇血量較高"
+" · 艦艇血量較高"
 
 msgid "IDS_PXUH172_OLAND_H2020_B"
 msgstr "「迅捷式」艦身"
@@ -120078,8 +120078,8 @@ msgstr "「迅捷式」艦身"
 msgid "IDS_PXUH172_OLAND_H2020_B_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇航速較高\n"
-" ˙ 方向舵換檔較快"
+" · 艦艇航速較高\n"
+" · 方向舵換檔較快"
 
 msgid "IDS_PXUH173_OLAND_H2020_C"
 msgstr "「裝甲式」艦身"
@@ -120087,7 +120087,7 @@ msgstr "「裝甲式」艦身"
 msgid "IDS_PXUH173_OLAND_H2020_C_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 強化對於 HE 彈、水雷、發射器和 AP 彈的防護"
+" · 強化對於 HE 彈、水雷、發射器和 AP 彈的防護"
 
 msgid "IDS_PXUH181_AMAGI_H2020_A"
 msgstr "「血量提高」艦身"
@@ -120095,7 +120095,7 @@ msgstr "「血量提高」艦身"
 msgid "IDS_PXUH181_AMAGI_H2020_A_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇血量較高"
+" · 艦艇血量較高"
 
 msgid "IDS_PXUH182_AMAGI_H2020_B"
 msgstr "「迅捷式」艦身"
@@ -120103,8 +120103,8 @@ msgstr "「迅捷式」艦身"
 msgid "IDS_PXUH182_AMAGI_H2020_B_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 艦艇航速較高\n"
-" ˙ 方向舵換檔較快"
+" · 艦艇航速較高\n"
+" · 方向舵換檔較快"
 
 msgid "IDS_PXUH183_AMAGI_H2020_C"
 msgstr "「反魚雷」艦身"
@@ -120112,7 +120112,7 @@ msgstr "「反魚雷」艦身"
 msgid "IDS_PXUH183_AMAGI_H2020_C_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 強化對所有魚雷類型的防護"
+" · 強化對所有魚雷類型的防護"
 
 msgid "IDS_PXUH191_AKIZUKI_H2020_A"
 msgstr "「累積式」艦身"
@@ -120120,8 +120120,8 @@ msgstr "「累積式」艦身"
 msgid "IDS_PXUH191_AKIZUKI_H2020_A_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 基本能量單位數 — 25\n"
-" ˙ 基本能量單位的重新分配限制 — 15"
+" · 基本能量單位數 — 25\n"
+" · 基本能量單位的重新分配限制 — 15"
 
 msgid "IDS_PXUH192_AKIZUKI_H2020_B"
 msgstr "「能量單位上限提高」艦身"
@@ -120129,8 +120129,8 @@ msgstr "「能量單位上限提高」艦身"
 msgid "IDS_PXUH192_AKIZUKI_H2020_B_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 基本能量單位數 — 20\n"
-" ˙ 基本能量單位的重新分配限制 — 20"
+" · 基本能量單位數 — 20\n"
+" · 基本能量單位的重新分配限制 — 20"
 
 msgid "IDS_PXUH193_AKIZUKI_H2020_C"
 msgstr "「能量重新分配加快」艦身"
@@ -120138,9 +120138,9 @@ msgstr "「能量重新分配加快」艦身"
 msgid "IDS_PXUH193_AKIZUKI_H2020_C_DESC"
 msgstr ""
 "特色：\n"
-" ˙ 基本能量單位數 — 20\n"
-" ˙ 基本能量單位的重新分配限制 — 15\n"
-" ˙ 能量的重新分配速度較快"
+" · 基本能量單位數 — 20\n"
+" · 基本能量單位的重新分配限制 — 15\n"
+" · 能量的重新分配速度較快"
 
 msgid "IDS_PXUH400_HULL_BERSERK"
 msgstr "光滑表皮"
@@ -120346,8 +120346,8 @@ msgstr "「迅捷」特殊配件"
 msgid "IDS_PXUK111_HINDENBURG_H2020_A_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 維修小組\n"
-" ˙ 引擎增壓"
+" · 維修小組\n"
+" · 引擎增壓"
 
 msgid "IDS_PXUK112_HINDENBURG_H2020_B"
 msgstr "「區域」特殊配件"
@@ -120355,8 +120355,8 @@ msgstr "「區域」特殊配件"
 msgid "IDS_PXUK112_HINDENBURG_H2020_B_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 維修區\n"
-" ˙ 免傷區域"
+" · 維修區\n"
+" · 免傷區域"
 
 msgid "IDS_PXUK113_HINDENBURG_H2020_C"
 msgstr "「小隊」特殊配件"
@@ -120364,8 +120364,8 @@ msgstr "「小隊」特殊配件"
 msgid "IDS_PXUK113_HINDENBURG_H2020_C_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 維修小隊\n"
-" ˙ 防禦小隊"
+" · 維修小隊\n"
+" · 防禦小隊"
 
 msgid "IDS_PXUK121_SMOLENSK_H2020_A"
 msgstr "「強化魚雷」特殊配件"
@@ -120373,9 +120373,9 @@ msgstr "「強化魚雷」特殊配件"
 msgid "IDS_PXUK121_SMOLENSK_H2020_A_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復\n"
-" ˙ 最高航速\n"
-" ˙ 主要武器射速"
+" · 血量恢復\n"
+" · 最高航速\n"
+" · 主要武器射速"
 
 msgid "IDS_PXUK122_SMOLENSK_H2020_B"
 msgstr "「強化輔助武器」特殊配件"
@@ -120383,9 +120383,9 @@ msgstr "「強化輔助武器」特殊配件"
 msgid "IDS_PXUK122_SMOLENSK_H2020_B_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復\n"
-" ˙ 傷害吸收\n"
-" ˙ 副炮射速"
+" · 血量恢復\n"
+" · 傷害吸收\n"
+" · 副炮射速"
 
 msgid "IDS_PXUK123_SMOLENSK_H2020_C"
 msgstr "「存活性」特殊配件"
@@ -120393,9 +120393,9 @@ msgstr "「存活性」特殊配件"
 msgid "IDS_PXUK123_SMOLENSK_H2020_C_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復\n"
-" ˙ 最高航速\n"
-" ˙ 傷害吸收"
+" · 血量恢復\n"
+" · 最高航速\n"
+" · 傷害吸收"
 
 msgid "IDS_PXUK161_FRANCE_H2020_A"
 msgstr "「小隊」特殊配件"
@@ -120403,8 +120403,8 @@ msgstr "「小隊」特殊配件"
 msgid "IDS_PXUK161_FRANCE_H2020_A_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復小隊\n"
-" ˙ 引擎增壓小隊"
+" · 血量恢復小隊\n"
+" · 引擎增壓小隊"
 
 msgid "IDS_PXUK162_FRANCE_H2020_B"
 msgstr "「突襲」特殊配件"
@@ -120412,8 +120412,8 @@ msgstr "「突襲」特殊配件"
 msgid "IDS_PXUK162_FRANCE_H2020_B_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 補血區域\n"
-" ˙ 環形震波"
+" · 補血區域\n"
+" · 環形震波"
 
 msgid "IDS_PXUK163_FRANCE_H2020_C"
 msgstr "「迷彩」特殊配件"
@@ -120421,8 +120421,8 @@ msgstr "「迷彩」特殊配件"
 msgid "IDS_PXUK163_FRANCE_H2020_C_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 隱蔽修復\n"
-" ˙ U 字迴轉"
+" · 隱蔽修復\n"
+" · U 字迴轉"
 
 msgid "IDS_PXUK171_OLAND_H2020_A"
 msgstr "「水下」特殊配件"
@@ -120430,8 +120430,8 @@ msgstr "「水下」特殊配件"
 msgid "IDS_PXUK171_OLAND_H2020_A_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 下潛\n"
-" ˙ 補血區域"
+" · 下潛\n"
+" · 補血區域"
 
 msgid "IDS_PXUK172_OLAND_H2020_B"
 msgstr "「奇襲」特殊配件"
@@ -120439,8 +120439,8 @@ msgstr "「奇襲」特殊配件"
 msgid "IDS_PXUK172_OLAND_H2020_B_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 隱蔽修復\n"
-" ˙ 環形震波"
+" · 隱蔽修復\n"
+" · 環形震波"
 
 msgid "IDS_PXUK173_OLAND_H2020_C"
 msgstr "「速射」特殊配件"
@@ -120448,8 +120448,8 @@ msgstr "「速射」特殊配件"
 msgid "IDS_PXUK173_OLAND_H2020_C_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復小隊\n"
-" ˙ 主要武器射速"
+" · 血量恢復小隊\n"
+" · 主要武器射速"
 
 msgid "IDS_PXUK181_AMAGI_H2020_A"
 msgstr "「火力支援」特殊配件"
@@ -120457,8 +120457,8 @@ msgstr "「火力支援」特殊配件"
 msgid "IDS_PXUK181_AMAGI_H2020_A_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 維修小組\n"
-" ˙ 強化輔助武器"
+" · 維修小組\n"
+" · 強化輔助武器"
 
 msgid "IDS_PXUK182_AMAGI_H2020_B"
 msgstr "「區域」特殊配件"
@@ -120466,8 +120466,8 @@ msgstr "「區域」特殊配件"
 msgid "IDS_PXUK182_AMAGI_H2020_B_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 維修區\n"
-" ˙ 免傷區域"
+" · 維修區\n"
+" · 免傷區域"
 
 msgid "IDS_PXUK183_AMAGI_H2020_C"
 msgstr "「小隊」特殊配件"
@@ -120475,8 +120475,8 @@ msgstr "「小隊」特殊配件"
 msgid "IDS_PXUK183_AMAGI_H2020_C_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 維修小隊\n"
-" ˙ 防禦小隊"
+" · 維修小隊\n"
+" · 防禦小隊"
 
 msgid "IDS_PXUK191_AKIZUKI_H2020_A"
 msgstr "「強化魚雷」特殊配件"
@@ -120484,9 +120484,9 @@ msgstr "「強化魚雷」特殊配件"
 msgid "IDS_PXUK191_AKIZUKI_H2020_A_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復\n"
-" ˙ 最高航速\n"
-" ˙ 主要武器射速"
+" · 血量恢復\n"
+" · 最高航速\n"
+" · 主要武器射速"
 
 msgid "IDS_PXUK192_AKIZUKI_H2020_B"
 msgstr "「強化輔助武器」特殊配件"
@@ -120494,9 +120494,9 @@ msgstr "「強化輔助武器」特殊配件"
 msgid "IDS_PXUK192_AKIZUKI_H2020_B_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 血量恢復\n"
-" ˙ 副炮射速\n"
-" ˙ 最高航速"
+" · 血量恢復\n"
+" · 副炮射速\n"
+" · 最高航速"
 
 msgid "IDS_PXUK193_AKIZUKI_H2020_C"
 msgstr "「吸血」特殊配件"
@@ -120504,9 +120504,9 @@ msgstr "「吸血」特殊配件"
 msgid "IDS_PXUK193_AKIZUKI_H2020_C_DESC"
 msgstr ""
 "裝備：\n"
-" ˙ 吸血\n"
-" ˙ 最高航速\n"
-" ˙ 傷害吸收"
+" · 吸血\n"
+" · 最高航速\n"
+" · 傷害吸收"
 
 msgid "IDS_PXUM111_HINDENBURG_H2020_A"
 msgstr "高爆火炮"
@@ -120516,9 +120516,9 @@ msgstr ""
 "火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ HE 彈藥\n"
-" ˙ 裝甲穿透能力較高"
+" · 射程較遠\n"
+" · HE 彈藥\n"
+" · 裝甲穿透能力較高"
 
 msgid "IDS_PXUM112_HINDENBURG_H2020_B"
 msgstr "穿甲火炮"
@@ -120528,9 +120528,9 @@ msgstr ""
 "火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ AP 彈藥\n"
-" ˙ 可造成顯著傷害"
+" · 射程較遠\n"
+" · AP 彈藥\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUM113_HINDENBURG_H2020_C"
 msgstr "迫擊炮"
@@ -120540,9 +120540,9 @@ msgstr ""
 "迫擊炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 傷害範圍半徑較大\n"
-" ˙ 砲彈速度較慢"
+" · 射程較遠\n"
+" · 傷害範圍半徑較大\n"
+" · 砲彈速度較慢"
 
 msgid "IDS_PXUM121_SMOLENSK_H2020_A"
 msgstr "標準魚雷發射管"
@@ -120552,8 +120552,8 @@ msgstr ""
 "魚雷發射管\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 造成進水的機率較高"
+" · 射程中等\n"
+" · 造成進水的機率較高"
 
 msgid "IDS_PXUM122_SMOLENSK_H2020_B"
 msgstr "繳械式魚雷發射管"
@@ -120563,8 +120563,8 @@ msgstr ""
 "魚雷發射管\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ 魚雷可讓敵方武器暫時失去作用"
+" · 射程較短\n"
+" · 魚雷可讓敵方武器暫時失去作用"
 
 msgid "IDS_PXUM123_SMOLENSK_H2020_C"
 msgstr "等離子魚雷發射管"
@@ -120574,8 +120574,8 @@ msgstr ""
 "魚雷發射管\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害"
+" · 射程較遠\n"
+" · 再次擊中艦艇的同一區域將造成更高的傷害"
 
 msgid "IDS_PXUM161_FRANCE_H2020_A"
 msgstr "「窄式」鑄波器"
@@ -120586,10 +120586,10 @@ msgstr ""
 "發出短震波。\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 震波可命中多個目標\n"
-" ˙ 造成的傷害與命中面積的大小成正比\n"
-" ˙ 可以摧毀敵人的魚雷和震波"
+" · 射程較遠\n"
+" · 震波可命中多個目標\n"
+" · 造成的傷害與命中面積的大小成正比\n"
+" · 可以摧毀敵人的魚雷和震波"
 
 msgid "IDS_PXUM162_FRANCE_H2020_B"
 msgstr "「寬式」鑄波器"
@@ -120600,10 +120600,10 @@ msgstr ""
 "發出寬震波。\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 震波可命中多個目標 \n"
-" ˙ 造成的傷害與命中面積的大小成正比\n"
-" ˙ 可以摧毀敵人的魚雷和震波"
+" · 射程中等\n"
+" · 震波可命中多個目標 \n"
+" · 造成的傷害與命中面積的大小成正比\n"
+" · 可以摧毀敵人的魚雷和震波"
 
 msgid "IDS_PXUM163_FRANCE_H2020_C"
 msgstr "累積式雷射"
@@ -120613,9 +120613,9 @@ msgstr ""
 "強大的雷射武器。\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 發射前需累積能量。此時，武器將鎖定目標區域。武器將保持鎖定在目標區域\n"
-" ˙ 從遠距離對付慢速目標最為有效"
+" · 射程較遠\n"
+" · 發射前需累積能量。此時，武器將鎖定目標區域。武器將保持鎖定在目標區域\n"
+" · 從遠距離對付慢速目標最為有效"
 
 msgid "IDS_PXUM171_OLAND_H2020_A"
 msgstr "累積式雷射"
@@ -120625,9 +120625,9 @@ msgstr ""
 "強大的雷射武器。\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 發射前需累積能量。此時，武器將鎖定目標區域。武器將保持鎖定在目標區域\n"
-" ˙ 從遠距離對付慢速目標最為有效"
+" · 射程較遠\n"
+" · 發射前需累積能量。此時，武器將鎖定目標區域。武器將保持鎖定在目標區域\n"
+" · 從遠距離對付慢速目標最為有效"
 
 msgid "IDS_PXUM172_OLAND_H2020_B"
 msgstr "「寬式」鑄波器"
@@ -120638,10 +120638,10 @@ msgstr ""
 "發出寬震波。\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 震波可命中多個目標 \n"
-" ˙ 造成的傷害與命中面積的大小成正比\n"
-" ˙ 可以摧毀敵人的魚雷和震波"
+" · 射程中等\n"
+" · 震波可命中多個目標 \n"
+" · 造成的傷害與命中面積的大小成正比\n"
+" · 可以摧毀敵人的魚雷和震波"
 
 msgid "IDS_PXUM173_OLAND_H2020_C"
 msgstr "軸向雷射"
@@ -120651,11 +120651,11 @@ msgstr ""
 "安裝於艦艏的靜止雷射武器。\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 透過迴轉艦身來瞄準\n"
-" ˙ 發射前需累積能量\n"
-" ˙ 可發出多發強大的雷射脈衝\n"
-" ˙ 從近距離和中距離對付慢速目標最為有效"
+" · 射程中等\n"
+" · 透過迴轉艦身來瞄準\n"
+" · 發射前需累積能量\n"
+" · 可發出多發強大的雷射脈衝\n"
+" · 從近距離和中距離對付慢速目標最為有效"
 
 msgid "IDS_PXUM181_AMAGI_H2020_A"
 msgstr "高爆火炮"
@@ -120665,9 +120665,9 @@ msgstr ""
 "火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ HE 彈藥\n"
-" ˙ 裝甲穿透能力較高"
+" · 射程較遠\n"
+" · HE 彈藥\n"
+" · 裝甲穿透能力較高"
 
 msgid "IDS_PXUM182_AMAGI_H2020_B"
 msgstr "穿甲火炮"
@@ -120677,9 +120677,9 @@ msgstr ""
 "火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ AP 彈藥\n"
-" ˙ 可造成顯著傷害"
+" · 射程較遠\n"
+" · AP 彈藥\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUM183_AMAGI_H2020_C"
 msgstr "迫擊炮"
@@ -120689,9 +120689,9 @@ msgstr ""
 "迫擊炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 發射式水雷\n"
-" ˙ 砲彈速度較慢"
+" · 射程較遠\n"
+" · 發射式水雷\n"
+" · 砲彈速度較慢"
 
 msgid "IDS_PXUM191_AKIZUKI_H2020_A"
 msgstr "標準魚雷發射管"
@@ -120701,8 +120701,8 @@ msgstr ""
 "魚雷發射管\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 造成進水的機率較高"
+" · 射程中等\n"
+" · 造成進水的機率較高"
 
 msgid "IDS_PXUM192_AKIZUKI_H2020_B"
 msgstr "等離子魚雷發射管"
@@ -120712,8 +120712,8 @@ msgstr ""
 "魚雷發射管\n"
 "\n"
 "特色：\n"
-" ˙ 射程較遠\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害"
+" · 射程較遠\n"
+" · 再次擊中艦艇的同一區域將造成更高的傷害"
 
 msgid "IDS_PXUM193_AKIZUKI_H2020_C"
 msgstr "長程魚雷發射管"
@@ -120723,8 +120723,8 @@ msgstr ""
 "魚雷發射管。\n"
 "\n"
 "特色：\n"
-"˙ 射程較遠\n"
-"˙ 不會造成進水"
+"• 射程較遠\n"
+"• 不會造成進水"
 
 msgid "IDS_PXUM194_FRANCE_H2020_A_TEST"
 msgstr "測試艦艇"
@@ -120743,9 +120743,9 @@ msgstr ""
 "自動火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ HE 彈藥\n"
-" ˙ 可造成顯著傷害"
+" · 射程中等\n"
+" · HE 彈藥\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUN112_HINDENBURG_H2020_B"
 msgstr "小型穿甲火炮"
@@ -120755,9 +120755,9 @@ msgstr ""
 "自動火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ AP 彈藥\n"
-" ˙ 可造成顯著傷害"
+" · 射程較短\n"
+" · AP 彈藥\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUN113_HINDENBURG_H2020_C"
 msgstr "小型迫擊炮"
@@ -120767,9 +120767,9 @@ msgstr ""
 "自動火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 發射式水雷\n"
-" ˙ 傷害範圍半徑較小"
+" · 射程中等\n"
+" · 發射式水雷\n"
+" · 傷害範圍半徑較小"
 
 msgid "IDS_PXUN121_SMOLENSK_H2020_A"
 msgstr "中程發射器"
@@ -120779,7 +120779,7 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等"
+" · 射程中等"
 
 msgid "IDS_PXUN122_SMOLENSK_H2020_B"
 msgstr "短程發射器"
@@ -120789,10 +120789,10 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ 可造成顯著傷害\n"
-" ˙ 射速較高\n"
-" ˙ 裝甲穿透能力較高"
+" · 射程較短\n"
+" · 可造成顯著傷害\n"
+" · 射速較高\n"
+" · 裝甲穿透能力較高"
 
 msgid "IDS_PXUN123_SMOLENSK_H2020_C"
 msgstr "等離子炮"
@@ -120802,8 +120802,8 @@ msgstr ""
 "自動等離子炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害"
+" · 射程中等\n"
+" · 再次擊中艦艇的同一區域將造成更高的傷害"
 
 msgid "IDS_PXUN161_FRANCE_H2020_A"
 msgstr "中程發射器"
@@ -120813,9 +120813,9 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 可造成顯著傷害\n"
-" ˙ 裝甲穿透能力較低"
+" · 射程中等\n"
+" · 可造成顯著傷害\n"
+" · 裝甲穿透能力較低"
 
 msgid "IDS_PXUN162_FRANCE_H2020_B"
 msgstr "短程發射器"
@@ -120825,9 +120825,9 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ 造成的傷害較低\n"
-" ˙ 裝甲穿透能力較高"
+" · 射程較短\n"
+" · 造成的傷害較低\n"
+" · 裝甲穿透能力較高"
 
 msgid "IDS_PXUN163_FRANCE_H2020_C"
 msgstr "等離子炮"
@@ -120837,8 +120837,8 @@ msgstr ""
 "自動等離子炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害"
+" · 射程中等\n"
+" · 再次擊中艦艇的同一區域將造成更高的傷害"
 
 msgid "IDS_PXUN171_OLAND_H2020_A"
 msgstr "中程發射器"
@@ -120848,8 +120848,8 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 可造成顯著傷害"
+" · 射程中等\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUN172_OLAND_H2020_B"
 msgstr "短程發射器"
@@ -120859,8 +120859,8 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ 射速較高"
+" · 射程較短\n"
+" · 射速較高"
 
 msgid "IDS_PXUN173_OLAND_H2020_C"
 msgstr "等離子炮"
@@ -120870,8 +120870,8 @@ msgstr ""
 "自動等離子炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害"
+" · 射程中等\n"
+" · 再次擊中艦艇的同一區域將造成更高的傷害"
 
 msgid "IDS_PXUN181_AMAGI_H2020_A"
 msgstr "小型高爆火炮"
@@ -120881,9 +120881,9 @@ msgstr ""
 "自動火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ HE 彈藥\n"
-" ˙ 可造成顯著傷害"
+" · 射程中等\n"
+" · HE 彈藥\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUN182_AMAGI_H2020_B"
 msgstr "小型穿甲火炮"
@@ -120893,9 +120893,9 @@ msgstr ""
 "自動火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ AP 彈藥\n"
-" ˙ 可造成顯著傷害"
+" · 射程較短\n"
+" · AP 彈藥\n"
+" · 可造成顯著傷害"
 
 msgid "IDS_PXUN183_AMAGI_H2020_C"
 msgstr "小型迫擊炮"
@@ -120905,9 +120905,9 @@ msgstr ""
 "自動火炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程中等\n"
-" ˙ 發射式水雷\n"
-" ˙ 傷害範圍半徑較小"
+" · 射程中等\n"
+" · 發射式水雷\n"
+" · 傷害範圍半徑較小"
 
 msgid "IDS_PXUN191_AKIZUKI_H2020_A"
 msgstr "短程發射器"
@@ -120917,8 +120917,8 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ 裝甲穿透能力較低"
+" · 射程較短\n"
+" · 裝甲穿透能力較低"
 
 msgid "IDS_PXUN192_AKIZUKI_H2020_B"
 msgstr "超短程發射器"
@@ -120928,9 +120928,9 @@ msgstr ""
 "自動發射器\n"
 "\n"
 "特色：\n"
-" ˙ 射程極短\n"
-" ˙ 可造成顯著傷害\n"
-" ˙ 裝甲穿透能力較高"
+" · 射程極短\n"
+" · 可造成顯著傷害\n"
+" · 裝甲穿透能力較高"
 
 msgid "IDS_PXUN193_AKIZUKI_H2020_C"
 msgstr "等離子炮"
@@ -120940,8 +120940,8 @@ msgstr ""
 "自動等離子炮\n"
 "\n"
 "特色：\n"
-" ˙ 射程較短\n"
-" ˙ 再次擊中艦艇的同一區域將造成更高的傷害"
+" · 射程較短\n"
+" · 再次擊中艦艇的同一區域將造成更高的傷害"
 
 msgid "IDS_PXUS001_SUO_HYDE"
 msgstr "FKS Typ 3 Mod. 2"
@@ -122362,7 +122362,7 @@ msgid "IDS_PZSA518_DESCR"
 msgstr ""
 "先登是一種專為近距離戰鬥而設計的「突擊」艦艇，出現於三國時期。在中國古代，戰船之間的戰鬥多為近距離的內河戰。因此，能夠進行衝撞、近距離打擊和跳幫的艦艇發揮了特殊作用。\n"
 "\n"
-"「軍行在前曰先登，登之向敵陳也。」 — 《釋名˙釋船》"
+"「軍行在前曰先登，登之向敵陳也。」 — 《釋名·釋船》"
 
 msgid "IDS_PZSA518_FULL"
 msgstr "先登"
@@ -124168,7 +124168,7 @@ msgid "IDS_QUICK_COMMANDS_C"
 msgstr "快速訊息"
 
 msgid "IDS_RADIOTAPOK"
-msgstr "奧列格˙阿布拉莫夫"
+msgstr "奧列格·阿布拉莫夫"
 
 msgid "IDS_RAGE_MODE_AVAILABLE"
 msgstr "可使用作戰指令"
@@ -127761,10 +127761,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "V 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE"
-msgstr "V 階加值艦艇˙珍藏品"
+msgstr "V 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL069_EPICPREM5_TITLE_QUOTES"
-msgstr "「V 階加值艦艇˙珍藏品」"
+msgstr "「V 階加值艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL070_EPICSTD6_SLOT_0_TITLE_FULL"
 msgstr " "
@@ -127791,10 +127791,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "VI 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE"
-msgstr "VI 階加值艦艇˙珍藏品"
+msgstr "VI 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL071_EPICPREM6_TITLE_QUOTES"
-msgstr "「VI 階加值艦艇˙珍藏品」"
+msgstr "「VI 階加值艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL072_EPICSTD7_SLOT_0_TITLE_FULL"
 msgstr " "
@@ -127821,10 +127821,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "VII 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE"
-msgstr "VII 階加值艦艇˙珍藏品"
+msgstr "VII 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL073_EPICPREM7_TITLE_QUOTES"
-msgstr "「VII 階加值艦艇˙珍藏品」"
+msgstr "「VII 階加值艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL074_EPICSTD8_SLOT_0_TITLE_FULL"
 msgstr " "
@@ -127851,10 +127851,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "VIII 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE"
-msgstr "VIII 階加值艦艇˙珍藏品"
+msgstr "VIII 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL075_EPICPREM8_TITLE_QUOTES"
-msgstr "「VIII 階加值艦艇˙珍藏品」"
+msgstr "「VIII 階加值艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_SLOT_0_TITLE_FULL"
 msgstr " "
@@ -127866,7 +127866,7 @@ msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_TITLE"
-msgstr "IX 階加值艦艇˙珍藏品"
+msgstr "IX 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL076_EPICSTD9_TITLE_QUOTES"
 msgstr "「IX 階加值艦艇」"
@@ -127881,10 +127881,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "IX 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE"
-msgstr "IX 階加值艦艇˙珍藏品"
+msgstr "IX 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL077_EPICPREM9_TITLE_QUOTES"
-msgstr "「IX 階加值艦艇˙珍藏品」"
+msgstr "「IX 階加值艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL078_ROGUEWAVE_FREE_OLD_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -129123,10 +129123,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT
 msgstr "II–IV 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE"
-msgstr "II–IV 階加值艦艇"
+msgstr "II–IV 階加值艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL130_EPICPREM2_4_TITLE_QUOTES"
-msgstr "「II-IV 階加值艦艇˙珍藏品」"
+msgstr "「II-IV 階加值艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL131_LOGH_PREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -130161,10 +130161,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "X 階艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE"
-msgstr "X 階特殊艦艇˙珍藏品"
+msgstr "X 階特殊艦艇·珍藏品"
 
 msgid "IDS_REWARD_LOOTBOX_PCL185_EPICPREM10_TITLE_QUOTES"
-msgstr "「X 階特殊艦艇˙珍藏品」"
+msgstr "「X 階特殊艦艇·珍藏品」"
 
 msgid "IDS_REWARD_LOOTBOX_PCL186_EVENTPREM_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -130269,10 +130269,10 @@ msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "艦艇"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE"
-msgstr "卡爾十四世˙約翰"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL190_EVENTPREM2_TITLE_QUOTES"
-msgstr "卡爾十四世˙約翰"
+msgstr "卡爾十四世·約翰"
 
 msgid "IDS_REWARD_LOOTBOX_PCL191_JAP_EA_126_COLL_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -130899,16 +130899,16 @@ msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_1_TITLE_SHORT"
 msgstr "VIII 階"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_FULL"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_SLOT_0_VALUABLE_GROUP_2_TITLE_SHORT"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_REWARD_LOOTBOX_PCL218_NANI_TITLE_QUOTES"
-msgstr "賈科莫˙納尼"
+msgstr "賈科莫·納尼"
 
 msgid "IDS_REWARD_LOOTBOX_PCL219_VICTORYDAY_SLOT_0_COMMON_GROUP_TITLE_FULL"
 msgstr " "
@@ -132720,7 +132720,7 @@ msgid "IDS_RUSALKA_BDAY22"
 msgstr "Mistress of the Seven Seas"
 
 msgid "IDS_RUSCAP"
-msgstr "列夫 米哈伊洛維奇 日利佐夫"
+msgstr "瓦西里·茲納緬斯基"
 
 msgid "IDS_RUSSIA"
 msgstr "蘇聯"
@@ -132780,7 +132780,7 @@ msgid "IDS_SALVATORE_CAPITANO"
 msgstr "路易吉 里佐"
 
 msgid "IDS_SANSONETTI"
-msgstr "路易吉 桑索內蒂"
+msgstr "路易吉·桑索內蒂"
 
 msgid "IDS_SANTA_EUROPE"
 msgstr "Santa Claus"
@@ -133368,7 +133368,7 @@ msgid "IDS_SCROOGEKLAAS"
 msgstr "艾比尼澤 史古基"
 
 msgid "IDS_SEAGAL"
-msgstr "約翰 多伊"
+msgstr "約翰·多伊"
 
 msgid "IDS_SEARCH_BY_ORGANIZER_NAME"
 msgstr "按建立者名稱來搜尋訓練房"
@@ -134116,7 +134116,7 @@ msgid "IDS_SHARE_IS_EXPIRING_WARNING"
 msgstr "特惠將於幾分鐘內結束"
 
 msgid "IDS_SHERLOCK"
-msgstr "夏洛克˙福爾摩斯"
+msgstr "夏洛克·福爾摩斯"
 
 msgid "IDS_SHIP"
 msgstr "艦艇"
@@ -139614,22 +139614,22 @@ msgid "IDS_SOUND_MOD_ANIME_TM5"
 msgstr "凱拉"
 
 msgid "IDS_SOUND_MOD_APRAKSIN"
-msgstr "費奧多爾 阿普拉克辛"
+msgstr "費奧多爾·阿普拉克辛"
 
 msgid "IDS_SOUND_MOD_ARIA_2025_JITNYAKOV_ARIA"
-msgstr "米哈伊爾˙日特尼亞科夫"
+msgstr "米哈伊爾·日特尼亞科夫"
 
 msgid "IDS_SOUND_MOD_ARIA_2025_POPOV_ARIA"
-msgstr "謝爾蓋˙波波夫"
+msgstr "謝爾蓋·波波夫"
 
 msgid "IDS_SOUND_MOD_ARIA_2025_UDALOV_ARIA"
-msgstr "馬克西姆˙烏達洛夫"
+msgstr "馬克西姆·烏達洛夫"
 
 msgid "IDS_SOUND_MOD_ARIA_DUBININ_ARIA"
-msgstr "維塔利˙杜比寧"
+msgstr "維塔利·杜比寧"
 
 msgid "IDS_SOUND_MOD_ARIA_HOLSTININ_ARIA"
-msgstr "佛拉迪米爾˙霍爾斯金"
+msgstr "佛拉迪米爾·霍爾斯金"
 
 msgid "IDS_SOUND_MOD_ARIA_JORICK_ARIA"
 msgstr "喬裡克"
@@ -139692,7 +139692,7 @@ msgid "IDS_SOUND_MOD_ASTRA_DOG"
 msgstr "阿斯特拉"
 
 msgid "IDS_SOUND_MOD_ASTRONAUT_ARTEMIEV"
-msgstr "奧列格˙阿爾捷米耶夫"
+msgstr "奧列格·阿爾捷米耶夫"
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_ATAGO"
 msgstr "碧藍航線 ─ 愛宕(Atago)"
@@ -139737,7 +139737,7 @@ msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_ITSEN"
 msgstr "碧藍航線 ─ 逸仙(Yat Sen)"
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_JEANBART"
-msgstr "碧藍航線 ─ 讓˙巴爾(Jean Bart)"
+msgstr "碧藍航線 ─ 讓·巴爾(Jean Bart)"
 
 msgid "IDS_SOUND_MOD_AZUR_LANE_AZUR_KAGA"
 msgstr "碧藍航線 ─ 加賀(Kaga)"
@@ -139782,37 +139782,37 @@ msgid "IDS_SOUND_MOD_BADADVICECAPT"
 msgstr "壞忠告：小艦長"
 
 msgid "IDS_SOUND_MOD_BIRTHDAYRUBY_ADMIRALE"
-msgstr "安東 格蘭特"
+msgstr "安東·格蘭特"
 
 msgid "IDS_SOUND_MOD_BIRTHDAYRUBY_ROBOT"
 msgstr "GM-22D"
 
 msgid "IDS_SOUND_MOD_BIRTHDAYRUBY_VENTURER"
-msgstr "米哈伊爾 奧爾洛夫"
+msgstr "米哈伊爾·奧爾洛夫"
 
 msgid "IDS_SOUND_MOD_CM_DZHABRAILOV"
-msgstr "帖木兒˙扎布拉伊洛夫"
+msgstr "帖木兒·扎布拉伊洛夫"
 
 msgid "IDS_SOUND_MOD_CM_KHARITONOV"
-msgstr "亞歷山大˙哈里託諾夫"
+msgstr "亞歷山大·哈里託諾夫"
 
 msgid "IDS_SOUND_MOD_CM_POLYAKOV"
-msgstr "帕維爾˙波利亞科夫"
+msgstr "帕維爾·波利亞科夫"
 
 msgid "IDS_SOUND_MOD_COMRICHARD"
 msgstr "康里查德"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_CONSTANTINE_SHARP"
-msgstr "康斯坦丁˙夏普"
+msgstr "康斯坦丁·夏普"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_JASON_TUMANOFF"
-msgstr "亞宗˙圖馬諾夫"
+msgstr "亞宗·圖馬諾夫"
 
 msgid "IDS_SOUND_MOD_COSMOAPRIL_2026_SPACE_CURATOR"
 msgstr "策展人"
 
 msgid "IDS_SOUND_MOD_DASHA_SINGLE"
-msgstr "Dasha Perova"
+msgstr "達莎·佩洛娃"
 
 msgid "IDS_SOUND_MOD_DEFAULT"
 msgstr "一般"
@@ -139821,13 +139821,13 @@ msgid "IDS_SOUND_MOD_DEFAULT_DESCRIPTION"
 msgstr "您隊伍的指揮官會使用所選的配音語言。使用具有獨特短語的指揮官時，標準配音將會被替換。當配音語言設定為俄語時，所有未附帶獨有配音的女性指揮官將以俄語女聲配音進行播報。"
 
 msgid "IDS_SOUND_MOD_DIEHARD_CAP"
-msgstr "約翰內斯 梅克 萊恩"
+msgstr "約翰內斯·梅克·萊恩"
 
 msgid "IDS_SOUND_MOD_DOBROJIR_DROBODANOVICH"
-msgstr "多布羅日爾˙德羅波丹諾維奇"
+msgstr "多布羅日爾·德羅波丹諾維奇"
 
 msgid "IDS_SOUND_MOD_DREADNOUGHT_MAKAROV"
-msgstr "斯捷潘˙馬卡洛夫"
+msgstr "斯捷潘·馬卡洛夫"
 
 msgid "IDS_SOUND_MOD_DREADNOUGHT_TOGO"
 msgstr "東鄉平八郎"
@@ -139860,7 +139860,7 @@ msgid "IDS_SOUND_MOD_ENTERTAINMENT_STARSCREAM"
 msgstr "變形金剛 – 天王星"
 
 msgid "IDS_SOUND_MOD_EVAVALENTINE"
-msgstr "伊娃˙瓦倫緹娜"
+msgstr "伊娃·瓦倫緹娜"
 
 msgid "IDS_SOUND_MOD_EVERLASTING_SUMMER_ALISA_SUMMER"
 msgstr "阿麗夏"
@@ -139914,7 +139914,7 @@ msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MEI_IRIZAKI"
 msgstr "HSF 西崎芽依(Mei Irizaki)"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MINA_THEA"
-msgstr "HSF 緹雅˙克魯采(Thea Kreutzer)"
+msgstr "HSF 緹雅·克魯采(Thea Kreutzer)"
 
 msgid "IDS_SOUND_MOD_HIGHSCHOOLFLEET_MOEKA_CHINA"
 msgstr "HSF 知名萌香(Moeka China)"
@@ -139947,7 +139947,7 @@ msgid "IDS_SOUND_MOD_LENFILM_2026_MORIARTY"
 msgstr "莫里亞蒂教授"
 
 msgid "IDS_SOUND_MOD_LENFILM_2026_SHERLOCK"
-msgstr "夏洛克˙福爾摩斯"
+msgstr "夏洛克·福爾摩斯"
 
 msgid "IDS_SOUND_MOD_LENFILM_2026_WATSON"
 msgstr "華生醫生"
@@ -139956,7 +139956,7 @@ msgid "IDS_SOUND_MOD_LIBERTY"
 msgstr "自由女神"
 
 msgid "IDS_SOUND_MOD_LILY_THORNE"
-msgstr "莉莉˙索恩"
+msgstr "莉莉·索恩"
 
 msgid "IDS_SOUND_MOD_LOGH_DUSTY_LOGH"
 msgstr "達斯蒂 艾騰博羅"
@@ -140037,7 +140037,7 @@ msgid "IDS_SOUND_MOD_NEWYEAR2023_12_MONTHS_MARCH"
 msgstr "春之使者"
 
 msgid "IDS_SOUND_MOD_OLGA_GROMOVA"
-msgstr "奧爾加˙格羅莫娃"
+msgstr "奧爾加·格羅莫娃"
 
 msgid "IDS_SOUND_MOD_OTVINTA_BONUS_OTVINTA"
 msgstr "波努斯 "
@@ -140052,7 +140052,7 @@ msgid "IDS_SOUND_MOD_PIRATE"
 msgstr "海盜"
 
 msgid "IDS_SOUND_MOD_PUSHKIN"
-msgstr "亞歷山大˙普希金"
+msgstr "亞歷山大·普希金"
 
 msgid "IDS_SOUND_MOD_PUSHKINTALES_CAT_SCIENTIST"
 msgstr "科學家貓"
@@ -140061,13 +140061,13 @@ msgid "IDS_SOUND_MOD_PUSHKINTALES_CHERNOMOR"
 msgstr "Chernomor"
 
 msgid "IDS_SOUND_MOD_RADIOTAPOK"
-msgstr "奧列格˙阿布拉莫夫"
+msgstr "奧列格·阿布拉莫夫"
 
 msgid "IDS_SOUND_MOD_SCROOGEKLAAS"
 msgstr "艾比尼澤 史古基"
 
 msgid "IDS_SOUND_MOD_SEAGAL"
-msgstr "史蒂芬˙席格(Steven Seagal) (英語)"
+msgstr "史蒂芬·席格(Steven Seagal) (英語)"
 
 msgid "IDS_SOUND_MOD_SERGEY"
 msgstr "謝廖沙"
@@ -140091,7 +140091,7 @@ msgid "IDS_SOUND_MOD_SOVIET_8_MARCH"
 msgstr "Vera Mikhailova"
 
 msgid "IDS_SOUND_MOD_SOVIET_8_MARCH_2"
-msgstr "安娜˙謝季寧娜"
+msgstr "安娜·謝季寧娜"
 
 msgid "IDS_SOUND_MOD_STALCRAFT_CHATSKIY"
 msgstr "恰茨基"
@@ -140136,34 +140136,34 @@ msgid "IDS_SOUND_MOD_UNSINKABLE_SAM_SINGLE"
 msgstr "不沉的山姆"
 
 msgid "IDS_SOUND_MOD_USAOVECHKIN_SINGLE"
-msgstr "Alexander Ovechkin EN"
+msgstr "亞歷山大·奧維琴根 EN"
 
 msgid "IDS_SOUND_MOD_USHAKOV"
-msgstr "費奧多爾 烏沙科夫"
+msgstr "費奧多爾·烏沙科夫"
 
 msgid "IDS_SOUND_MOD_USSROVECHKIN_SINGLE"
-msgstr "Alexander Ovechkin RU"
+msgstr "亞歷山大·奧維琴根 RU"
 
 msgid "IDS_SOUND_MOD_UTOPIASHOW_CONSPIROLOGIST"
-msgstr "鄧肯˙真言"
+msgstr "鄧肯·真言"
 
 msgid "IDS_SOUND_MOD_UTOPIASHOW_GNIDOVSKY"
-msgstr "魯伯特˙格尼多夫斯基"
+msgstr "魯伯特·格尼多夫斯基"
 
 msgid "IDS_SOUND_MOD_UTOPIASHOW_HRENSBERG"
-msgstr "迪克˙哈倫斯貝格"
+msgstr "迪克·哈倫斯貝格"
 
 msgid "IDS_SOUND_MOD_UVAROV"
-msgstr "亞歷山大˙烏瓦羅夫"
+msgstr "亞歷山大·烏瓦羅夫"
 
 msgid "IDS_SOUND_MOD_VIKING_TM"
 msgstr "Björn Konungr"
 
 msgid "IDS_SOUND_MOD_WAFFENTRAGER_ERMELINDA_JUNG"
-msgstr "埃爾梅琳達˙榮格"
+msgstr "埃爾梅琳達·榮格"
 
 msgid "IDS_SOUND_MOD_WAFFENTRAGER_JAMES_CONRAD"
-msgstr "詹姆斯˙康拉德"
+msgstr "詹姆斯·康拉德"
 
 msgid "IDS_SOUND_MOD_WARHAMMER_WARHAMMERCHAOS"
 msgstr "Arthas Roqthar the Cold"
@@ -140202,7 +140202,7 @@ msgid "IDS_SOVIET_8_MARCH"
 msgstr "Vera Mikhailova"
 
 msgid "IDS_SOVIET_8_MARCH_2"
-msgstr "安娜˙謝季寧娜"
+msgstr "安娜·謝季寧娜"
 
 msgid "IDS_SPACEMAN1"
 msgstr "Queen Bee"
@@ -142284,10 +142284,10 @@ msgid "IDS_STRATEGIC_ACTIONS_TOOLTIP_TILL_NEXT_THRESHOLD"
 msgstr "距離下一階段所需積分："
 
 msgid "IDS_ST_1"
-msgstr "Albert Maurer"
+msgstr "阿爾伯特·毛雷爾"
 
 msgid "IDS_ST_2"
-msgstr "Paul Kästner"
+msgstr "保羅·凱斯特納"
 
 msgid "IDS_ST_BELT"
 msgstr "尾端裝甲帶"
@@ -142611,10 +142611,10 @@ msgid "IDS_SUBTITLE_PLAYER_WAS_HOUND_AND_WON"
 msgstr "同盟萬歲"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_LOSE"
-msgstr "馮˙克里格的遺產將被遺忘"
+msgstr "馮·克里格的遺產將被遺忘"
 
 msgid "IDS_SUBTITLE_PLAYER_WAS_WAFFENTRAGER_AND_WON"
-msgstr "馮˙克里格的遺產永垂不朽"
+msgstr "馮·克里格的遺產永垂不朽"
 
 msgid "IDS_SUB_ALBUM_COLLECTED_WINDOW_TITLE"
 msgstr "已完成頁面"
@@ -142758,7 +142758,7 @@ msgid "IDS_SWAP_SPAWN_WAITING"
 msgstr "等待各隊更改出發位置"
 
 msgid "IDS_SWIRSKI"
-msgstr "耶日 希維爾斯基"
+msgstr "耶日·希維爾斯基"
 
 msgid "IDS_SWITCH_CAMERA"
 msgstr "變更位置"
@@ -144931,7 +144931,7 @@ msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_1"
 msgstr "<p>7 月 4 日，在前往阿爾漢格爾斯克的途中，盟軍護航船隊 PQ-17 收到英國指揮部的分散命令。此命令源於不準確的情報以及對德國主力艦鐵必制號可能發動襲擊的擔憂。</p><p class=\"p_spacing\"> </p><p>在極晝條件下，分散的船隻成為德國潛艦和航空部隊的活靶子。船隊的大部分船隻被摧毀。</p><p class=\"p_spacing\"> </p><p>剩餘船隻為躲避敵方攻擊而藏身於冰層中，繼續駛向蘇聯港口。7 月 8 日，6 艘運輸艦、3 艘護衛艦、2 艘防空艦、3 艘掃雷艦，以及一艘載有 6 艘被擊沉船隻船員的救援艦駛入馬托奇金海峽。隨後，頓巴斯號油輪被引航至約坎加基地。另有兩艘運輸艦在北艦隊艦艇的接應下於斯維亞托諾斯灣會合。</p><p class=\"p_spacing\"> </p><p>船隊的最後一艘船隻直至 7 月 28 日才抵達港口。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_2"
-msgstr "<p>1942 年 8 月，德國為切斷盟軍船隊使用的北方海路，發起了「仙境」作戰行動。為此，德國重型巡洋艦舍爾海軍上將號被派往喀拉海。</p><p class=\"p_spacing\"> </p><p>8 月 25 日，破冰船亞歷山大˙西比里亞科夫號在諾登舍爾德群島附近發現了敵艦。儘管巡洋艦升起了美國國旗，但破冰船船員察覺異常，並透過無線電通報了該艦。此後便與「西比里亞科夫」號失去了聯繫。</p><p class=\"p_spacing\"> </p><p>得益於破冰船的預警，距離交戰海域最近的船隊改變了航線，而德軍巡洋艦原計劃摧毀的迪克森港也得以做好準備，進行了出其不意的抵抗。</p>"
+msgstr "<p>1942 年 8 月，德國為切斷盟軍船隊使用的北方海路，發起了「仙境」作戰行動。為此，德國重型巡洋艦舍爾海軍上將號被派往喀拉海。</p><p class=\"p_spacing\"> </p><p>8 月 25 日，破冰船亞歷山大·西比里亞科夫號在諾登舍爾德群島附近發現了敵艦。儘管巡洋艦升起了美國國旗，但破冰船船員察覺異常，並透過無線電通報了該艦。此後便與「西比里亞科夫」號失去了聯繫。</p><p class=\"p_spacing\"> </p><p>得益於破冰船的預警，距離交戰海域最近的船隊改變了航線，而德軍巡洋艦原計劃摧毀的迪克森港也得以做好準備，進行了出其不意的抵抗。</p>"
 
 msgid "IDS_TERRITORY_ARCHIVE_TEXT_MAP01_3"
 msgstr "<p>1942 年，敵軍的主要任務是限制北極船隊沿北方海路的航行。為此，德軍增強了駐紮在北挪威的航空兵和海軍力量。儘管遭受了損失，向蘇聯提供裝備和戰略資源的補給工作仍在繼續。</p><p class=\"p_spacing\"> </p><p>北方艦隊的部隊不僅參與了海上戰鬥，也參與了陸上作戰。例如，為支援第 14 集團軍在摩爾曼斯克進攻戰役中的行動，並在敵後實施破壞活動，北方艦隊在皮克舒耶夫角地區實施了數次登陸行動。</p>"
@@ -145042,7 +145042,7 @@ msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_1"
 msgstr "PQ-17 船團正駛向蘇聯港口。由於擔心德國艦隊襲擊，英國海軍司令部下令分散船隻。據悉，損失慘重。"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_2"
-msgstr "破冰船亞歷山大˙西比里亞科夫號報告在喀拉海發現德國軍艦後失聯。兩天後，德國巡洋艦出現在迪克森港入口並發動攻擊。19 號警戒艦隨即施放煙幕並開火還擊。"
+msgstr "破冰船亞歷山大·西比里亞科夫號報告在喀拉海發現德國軍艦後失聯。兩天後，德國巡洋艦出現在迪克森港入口並發動攻擊。19 號警戒艦隨即施放煙幕並開火還擊。"
 
 msgid "IDS_TERRITORY_MESSAGE_TEXT_MAP01_3"
 msgstr "1942 年期間，北方艦隊保障了盟軍北極船隊的安全航行，並透過登陸作戰支援了卡累利阿前線。"
@@ -145227,7 +145227,7 @@ msgid "IDS_THANK_YOU_FOR"
 msgstr "感謝您跟著我們一塊努力！"
 
 msgid "IDS_THEODORECHANDLER"
-msgstr "西奧多 埃德森 錢德勒"
+msgstr "西奧多·埃德森·錢德勒"
 
 msgid "IDS_THE_WAITING_TIME_IN_A_COOPERATIVE_BATTLE_IS_FIXED"
 msgstr "聯合作戰的最大匹配時間為：30 秒"
@@ -145425,7 +145425,7 @@ msgid "IDS_TIME_TO_WAIT"
 msgstr "等候來自"
 
 msgid "IDS_TINA_ANIME"
-msgstr "蒂娜˙哈特曼"
+msgstr "蒂娜·哈特曼"
 
 msgid "IDS_TIPS_ACOUSTIC_TORPEDOES_HOMING"
 msgstr "潛艦魚雷"
@@ -147599,7 +147599,7 @@ msgid "IDS_TOURNAMENT_BOTH_TEAMS_TECHNICAL_LOSE"
 msgstr "雙方隊伍均被判定技術性失敗：並非所有玩家都已確認準備就緒。"
 
 msgid "IDS_TOURNAMENT_GLADIATOR"
-msgstr "雷恩˙阿斯特"
+msgstr "雷恩·阿斯特"
 
 msgid "IDS_TOURNAMENT_HEADER_LOADING_DATA"
 msgstr "載入中"
@@ -148114,7 +148114,7 @@ msgid "IDS_TRITANOPIA"
 msgstr "藍色盲"
 
 msgid "IDS_TRUBETSKOY"
-msgstr "弗拉基米爾 特魯別茨科伊"
+msgstr "弗拉基米爾·特魯別茨科伊"
 
 msgid "IDS_TRUS"
 msgstr "懦夫"
@@ -148509,10 +148509,10 @@ msgid "IDS_TXAA_DESCRIPTION"
 msgstr "使用先前已渲染畫面資訊的圖像抗鋸齒方式。可降低整體雜訊。"
 
 msgid "IDS_UDALOV_ARIA"
-msgstr "馬克西姆˙烏達洛夫"
+msgstr "馬克西姆·烏達洛夫"
 
 msgid "IDS_UKCAP"
-msgstr "詹姆斯 阿爾弗雷德 戴維森"
+msgstr "伯特·敦刻爾克"
 
 msgid "IDS_UK_DART_NORMAN"
 msgstr "Dart Norman"
@@ -148986,13 +148986,13 @@ msgid "IDS_USA"
 msgstr "美國"
 
 msgid "IDS_USACAP"
-msgstr "喬治 多明尼克 莫里"
+msgstr "喬治·多伊"
 
 msgid "IDS_USAOVECHKIN"
-msgstr "亞歷山大 奧維琴根"
+msgstr "亞歷山大·奧維琴根"
 
 msgid "IDS_USAOVECHKINPREM"
-msgstr "亞歷山大 奧維琴根"
+msgstr "亞歷山大·奧維琴根"
 
 msgid "IDS_USAOVECHKINPREMHELL"
 msgstr "沙皇亞歷山大"
@@ -149016,7 +149016,7 @@ msgid "IDS_USA_ARC_COMPANY_AND_COLLECTION_DESCR"
 msgstr "您將能掛上第二面旗幟並自訂美國船艦迷彩的顏色組合作為完成收集的獎勵。完成戰役後您將會得到一位獨特指揮官William F. Halsey Jr。"
 
 msgid "IDS_USA_ARC_COMPANY_COMMANDER"
-msgstr "William F. Halsey Jr。"
+msgstr "小威廉·F·海爾賽"
 
 msgid "IDS_USA_ARC_COMPANY_COMMANDER_DESCRIPTION"
 msgstr "傳奇指揮官將有更好的技能、國家天賦以及自訂選項"
@@ -149079,13 +149079,13 @@ msgid "IDS_USE_STATIC_CROSSHAIRS"
 msgstr "使用帶有固定寬度水平瞄準線的靜態準星"
 
 msgid "IDS_USHAKOV"
-msgstr "費奧多爾 烏沙科夫"
+msgstr "費奧多爾·烏沙科夫"
 
 msgid "IDS_USSROVECHKIN"
-msgstr "亞歷山大 奧維琴根"
+msgstr "亞歷山大·奧維琴根"
 
 msgid "IDS_USSROVECHKINPREM"
-msgstr "Alexander Ovechkin"
+msgstr "亞歷山大·奧維琴根"
 
 msgid "IDS_USSROVECHKINPREMHELL"
 msgstr "Tsar Alexander"
@@ -149094,13 +149094,13 @@ msgid "IDS_US_WWII_SA"
 msgstr "切斯特 威廉 尼米茲"
 
 msgid "IDS_UVAROV"
-msgstr "亞歷山大˙烏瓦羅夫"
+msgstr "亞歷山大·烏瓦羅夫"
 
 msgid "IDS_U_2501_SUBTEST"
-msgstr "西蒙˙費舍爾"
+msgstr "西蒙·費舍爾"
 
 msgid "IDS_VALERKA_MESHCHERYAKOV"
-msgstr "瓦列爾卡˙梅謝利亞科夫"
+msgstr "瓦列爾卡·梅謝利亞科夫"
 
 msgid "IDS_VANITY_CAT_NAME_DEFAULT"
 msgstr "個性化"
@@ -149121,7 +149121,7 @@ msgid "IDS_VASILY_YUTOV"
 msgstr "Vasily Yutov"
 
 msgid "IDS_VENTURER"
-msgstr "米哈伊爾 奧爾洛夫"
+msgstr "米哈伊爾·奧爾洛夫"
 
 msgid "IDS_VERSION"
 msgstr "遊戲版本"
@@ -149175,7 +149175,7 @@ msgid "IDS_VIKING_TM"
 msgstr "Björn Konungr"
 
 msgid "IDS_VILKOV"
-msgstr "尼古拉˙維爾科夫"
+msgstr "尼古拉·維爾科夫"
 
 msgid "IDS_VISIBILITYFACTORBYPLANE"
 msgstr "空中的被偵測距離"
@@ -149391,7 +149391,7 @@ msgid "IDS_VULNERABILITY_TOOLTIP_STATUS_COLOR_DAMAGE_MEDIUM"
 msgstr "在戰鬥中，這種傷害會以黃色數字顯示在被擊中的艦艇旁。"
 
 msgid "IDS_V_GREMITSKIY"
-msgstr "弗拉基米爾˙格列米茨基"
+msgstr "弗拉基米爾·格列米茨基"
 
 msgid "IDS_W01_SHP01"
 msgstr "Assistance"
@@ -149427,7 +149427,7 @@ msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_NOT_ENOUGH_ACTIVATION_KEYS"
 msgstr "您沒有出戰所需的啟用金鑰，可以透過完成獵犬的戰鬥任務來獲得啟用金鑰。"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WAFFENTRAGER_IN_DIVISION"
-msgstr "分艦隊中不能有埃爾梅琳達˙榮格的艦艇"
+msgstr "分艦隊中不能有埃爾梅琳達·榮格的艦艇"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_DENY_REASON_WRONG_SHIP"
 msgstr "所選艦艇不能參加「最終兵器：隔離」戰鬥類型"
@@ -149444,7 +149444,7 @@ msgid "IDS_WAFFENTRAGER_BATTLE_RESULTS_NEXT_BUTTON"
 msgstr "下一個"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_0"
-msgstr "埃爾梅琳達˙榮格"
+msgstr "埃爾梅琳達·榮格"
 
 msgid "IDS_WAFFENTRAGER_BATTLE_STATS_GENERAL_HEADER_1"
 msgstr "撤離系統"
@@ -149474,7 +149474,7 @@ msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_HEADER"
 msgstr "簡介"
 
 msgid "IDS_WAFFENTRAGER_LOADING_DESCRIPTION_TEXT"
-msgstr "六名獵犬出發追捕強大艦艇的指揮官埃爾梅琳達˙榮格。每一方都有各自的戰術、目標和秘密。"
+msgstr "六名獵犬出發追捕強大艦艇的指揮官埃爾梅琳達·榮格。每一方都有各自的戰術、目標和秘密。"
 
 msgid "IDS_WAFFENTRAGER_NULL_FIELD_BATTLESHIP_FRAG_BOOST"
 msgstr "摧毀主力艦"
@@ -149508,7 +149508,7 @@ msgid "IDS_WAFFENTRAGER_TITLE"
 msgstr "最終兵器：隔離"
 
 msgid "IDS_WAFFENTRAGER_WON"
-msgstr "埃爾梅琳達˙榮格獲勝"
+msgstr "埃爾梅琳達·榮格獲勝"
 
 msgid "IDS_WAITING_FOR_PLAYERS"
 msgstr "等待玩家"
@@ -149705,7 +149705,7 @@ msgid "IDS_WHILE_WAITING_OUR"
 msgstr "在等待的同時，您可以訪問我們的"
 
 msgid "IDS_WILLIAM_MEYER_JR"
-msgstr "小威廉˙梅耶"
+msgstr "小威廉·梅耶"
 
 msgid "IDS_WILLIE_NEUMANN"
 msgstr "威利 諾伊曼"
@@ -150116,7 +150116,7 @@ msgid "IDS_WT_BUREAU_FREEEXPFACTOR_2"
 msgstr "電磁火控系統"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_0"
-msgstr "<p>您可以花費[PR] <span class=\"currency\">反應堆合金</span>來購買實驗技術局加成，以便在駕駛獵犬艦艇戰鬥時獲得更多收益。</p><p class=\"p_spacing\"> </p><p>實驗技術局加成對埃爾梅琳達˙榮格的艦艇無效。</p>"
+msgstr "<p>您可以花費[PR] <span class=\"currency\">反應堆合金</span>來購買實驗技術局加成，以便在駕駛獵犬艦艇戰鬥時獲得更多收益。</p><p class=\"p_spacing\"> </p><p>實驗技術局加成對埃爾梅琳達·榮格的艦艇無效。</p>"
 
 msgid "IDS_WT_BUREAU_ONBOARDING_TEXT_1"
 msgstr "<p>注意！某些加成會顯著提高一種資源的收益，但同時會降低另一種資源的收益。</p><p class=\"p_spacing\"> </p><p>每種加成都可以升級，以進一步提高收益！</p>"
@@ -150145,7 +150145,7 @@ msgid "IDS_WT_BUREAU_SUMMARY_BOOSTERS_TITLE"
 msgstr "加成"
 
 msgid "IDS_WT_BUREAU_SUMMARY_WT_TEXT"
-msgstr "<p>實驗技術局加成由同盟開發，對埃爾梅琳達˙榮格的艦艇無效。</p>"
+msgstr "<p>實驗技術局加成由同盟開發，對埃爾梅琳達·榮格的艦艇無效。</p>"
 
 msgid "IDS_WT_BUREAU_SUMMARY_WT_TITLE"
 msgstr "埃爾梅琳達的艦艇"
@@ -150163,7 +150163,7 @@ msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_INACTIVE"
 msgstr "您尚未啟用任何加成。"
 
 msgid "IDS_WT_BUREAU_TOOLTIP_TEXT_WARNING"
-msgstr "實驗技術局加成對埃爾梅琳達˙榮格的艦艇無效"
+msgstr "實驗技術局加成對埃爾梅琳達·榮格的艦艇無效"
 
 msgid "IDS_WT_BUREAU_TOOLTIP_TITLE"
 msgstr "已啟用的實驗技術局加成"
@@ -150172,7 +150172,7 @@ msgid "IDS_WT_BUREAU_WAFFENTRAGERRELAYFACTOR_0"
 msgstr "擴充套件反應堆合金儲存"
 
 msgid "IDS_WT_BUREAU_WARNING"
-msgstr "實驗技術局加成對埃爾梅琳達˙榮格的艦艇無效"
+msgstr "實驗技術局加成對埃爾梅琳達·榮格的艦艇無效"
 
 msgid "IDS_WT_CR1_NAME_01"
 msgstr "Handwerker"
@@ -150409,7 +150409,7 @@ msgid "IDS_WT_PROGRESS_DESCRIPTION"
 msgstr "瞭解關於傳奇對抗的歷史"
 
 msgid "IDS_WT_PROGRESS_EVENT_FINISHED_TEXT"
-msgstr "<p>雙方勢均力敵——同盟和埃爾梅琳達˙榮格都被迫撤退，也均未達成目標。</p><p class=\"p_spacing\"> </p><p>世界尚不知曉發生了什麼，但幕後新的博弈已經開始。同盟擁有力量和影響力，而埃爾梅琳達擁有機密檔案和技術。</p><p class=\"p_spacing\"> </p><p>同盟無法再隱匿於陰影之中。一個日後將被稱作「共振」的時期開始了。</p>"
+msgstr "<p>雙方勢均力敵——同盟和埃爾梅琳達·榮格都被迫撤退，也均未達成目標。</p><p class=\"p_spacing\"> </p><p>世界尚不知曉發生了什麼，但幕後新的博弈已經開始。同盟擁有力量和影響力，而埃爾梅琳達擁有機密檔案和技術。</p><p class=\"p_spacing\"> </p><p>同盟無法再隱匿於陰影之中。一個日後將被稱作「共振」的時期開始了。</p>"
 
 msgid "IDS_WT_PROGRESS_FINISH_STATUS_EARLY_DONE"
 msgstr "您已完成所有進度等級並獲得了紀念成就！"
@@ -150421,7 +150421,7 @@ msgid "IDS_WT_PROGRESS_LEVEL_COLON"
 msgstr "等級："
 
 msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_0"
-msgstr "<p>透過為每個陣營而戰——無論是幫助埃爾梅琳達˙榮格還是獵犬——您都能夠完成不同的戰鬥任務。</p><p class=\"p_spacing\"> </p><p>透過完成戰鬥任務，您將能夠獲得活動資源：[AK] <span class=\"currency\">啟用金鑰</span>，[PC] <span class=\"currency\">能量單元</span>和[PR] <span class=\"currency\">反應堆合金</span>。</p>"
+msgstr "<p>透過為每個陣營而戰——無論是幫助埃爾梅琳達·榮格還是獵犬——您都能夠完成不同的戰鬥任務。</p><p class=\"p_spacing\"> </p><p>透過完成戰鬥任務，您將能夠獲得活動資源：[AK] <span class=\"currency\">啟用金鑰</span>，[PC] <span class=\"currency\">能量單元</span>和[PR] <span class=\"currency\">反應堆合金</span>。</p>"
 
 msgid "IDS_WT_PROGRESS_ONBOARDING_TEXT_1"
 msgstr "<p>[AK] <span class=\"currency\">啟用金鑰</span>用於駕駛埃爾梅琳達的艦艇出戰。</p><p class=\"p_spacing\"> </p><p>[PR] <span class=\"currency\">反應堆合金</span>可用於購買實驗技術局加成。</p><p class=\"p_spacing\"> </p><p>[PC] <span class=\"currency\">能量單元</span>和[PR] <span class=\"currency\">反應堆合金</span>可用於在軍械庫兌換各種獎勵。</p>"
@@ -150511,7 +150511,7 @@ msgid "IDS_WT_TAGS_BOTOMANCER_CONSUMABLES_CHOICE_AVAILABLE"
 msgstr "可選消耗品"
 
 msgid "IDS_WT_TAGS_DICTATOR_BEST_MANEUVERABILITY"
-msgstr "在埃爾梅琳達˙榮格的艦艇中機動性最好"
+msgstr "在埃爾梅琳達·榮格的艦艇中機動性最好"
 
 msgid "IDS_WT_TAGS_DICTATOR_CLOSE_QUARTERS"
 msgstr "近戰效率最高"
@@ -150526,7 +150526,7 @@ msgid "IDS_WT_TAGS_DICTATOR_SECONDARIES"
 msgstr "副炮打擊效率較高"
 
 msgid "IDS_WT_TAGS_PREDATOR_BEST_MAIN_GUNS"
-msgstr "在埃爾梅琳達˙榮格的艦艇中主炮打擊效率最高"
+msgstr "在埃爾梅琳達·榮格的艦艇中主炮打擊效率最高"
 
 msgid "IDS_WT_TAGS_PREDATOR_CONCEALMENT"
 msgstr "隱蔽性較好"
@@ -150685,7 +150685,7 @@ msgid "IDS_YULIA_WINTER"
 msgstr "冬裝尤莉婭"
 
 msgid "IDS_YURIY_VOROBYEV"
-msgstr "尤里˙沃羅比耶夫"
+msgstr "尤里·沃羅比耶夫"
 
 msgid "IDS_YU_CHENG"
 msgstr "Yu Cheng"
